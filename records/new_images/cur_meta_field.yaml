@@ -3,7 +3,9 @@ Imaging_type:
   Description: "The label of an imaging type from FBbi."
 Template:
   Compulsory: True
-  Description: "The name (label) of a template in the KB to which the image is registered."
+  Description: >
+    The name (label) of a template in the KB to which the image is registered, or 'Self', 
+    indicating that the image being added is a template.
 DataSet:
   Description: "The name (label) of a DataSet in the KB"
   Compulsory: True
