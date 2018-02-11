@@ -11,6 +11,6 @@ Site:
   description: "The name (label) of a Site in the KB"
   compulsory: False
 Curator:
-  description: orcid of curator
+  description: A list of orcid of curators.
   compulsory: True
  
