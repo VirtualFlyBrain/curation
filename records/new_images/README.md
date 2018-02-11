@@ -4,7 +4,7 @@ This curation system currently only supports adding images with a single specifi
 
 Images are curated as pairs of files with the same name but different extensions:
 
-* <some curation filename>.yaml: General information applicable to all entries in partner tsv files.
+* \<some curation filename\>.yaml: General information applicable to all entries in partner tsv files.
   * Key names: 
     * 'Imaging_type': the label of an imaging type from FBbi.  Currently supported imaging types are: 
       "computer graphic"; "confocal micropcopy"; ""; "schematic"
@@ -12,7 +12,7 @@ Images are curated as pairs of files with the same name but different extensions
     * 'DataSet': The name (label) of a DataSet in the KB
     * 'Site': The name of a third-party site with pages for entites specified in curation
     
-* <some curation filename>.tsv: A TSV file specifying details of depicted entities.
+* \<some curation filename\>.tsv: A TSV file specifying details of depicted entities.
   * Values:  Where an ontology ID is specified, please use the OWL-style short_form identifier.  Multiple entries should be separated with a '|'.
   * Header names: 
     * label: *Compulsory*. The primary label for the 
