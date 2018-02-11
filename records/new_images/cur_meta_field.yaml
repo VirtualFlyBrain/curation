@@ -10,3 +10,7 @@ DataSet:
 Site:
   description: "The name (label) of a Site in the KB"
   compulsory: False
+Curator:
+  description: orcid of curator
+  compulsory: True
+ 
