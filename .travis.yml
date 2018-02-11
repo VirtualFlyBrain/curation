@@ -22,8 +22,13 @@ before_install:
   - curl -u neo4j:neo4j "http://localhost:7474/db/data/"
   - echo -e "travis_fold:end:neo4j"
   
-## Git clone VFB_neo4j
+  ## Git clone VFB_neo4j
+
+  - git clone https://github.com/VirtualFlyBrain/VFB_neo4j.git
+  - export PYTHONPATH=$PYTHONPATH:/VFB_neo4j/src/"
+  ## Add VFB_neo4j package to python path
 
 script:
-
-## Scripting
+  - cd src
+  - test_working.py
+  - test_submission.py
