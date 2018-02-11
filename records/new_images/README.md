@@ -16,14 +16,15 @@ Images are curated as pairs of files with the same name but different extensions
   * Values:  Where an ontology ID is specified, please use the OWL-style short_form identifier.  Multiple entries should be separated with a '|'.
   * Header names: 
     * label: *Compulsory*. The primary label for the 
-    * anatomical_types: *Compulsory*. A list of 
-    * part_of: *Compulsory*. A list of FBbt identifiers for anatomical entities the depicted entity is part of.
-    * expresses: *Optional*. A list of FlyBase identifiers for markers whose expression is depicted in the image and which mark the depicted entity. 
-    * overlaps: *Optional*. A list of FBbt identifiers for entities which which the depicted entity overlaps.
-    * has_synaptic_terminal_in: *Optional*. A list of FBbt identifiers for entities which which the depicted entity has synaptic terminals in.
-    * has_postsynaptic_terminal_in: *Optional*. A list of FBbt identifiers for entities which which the depicted entity has postsynaptic terminals in.
-    * has_presynaptic_terminal_in: *Optional*.  A list of FBbt identifiers for entities which which the depicted entity has presynaptic terminals in.
-    * develops_from: *Optional*. A list of FBbt identifiers for entities which which the depicted entity develops from.
+    * anatomical_types: *Compulsory*. A single anatomical that classifies the depicted entity.
+    * Reasons for classification: "A free text comment recording reasons for classification."
+    * part_of: *Compulsory*. One or more FBbt identifiers for anatomical entities the depicted entity is part of.
+    * expresses: *Optional*. One or more FlyBase identifiers for markers whose expression is depicted in the image and which mark the depicted entity. 
+    * overlaps: *Optional*. One or more FBbt identifiers for entities which which the depicted entity overlaps.
+    * has_synaptic_terminal_in: *Optional*. One or more FBbt identifiers for entities which which the depicted entity has synaptic terminals in.
+    * has_postsynaptic_terminal_in: *Optional*. One or more FBbt identifiers for entities which which the depicted entity has postsynaptic terminals in.
+    * has_presynaptic_terminal_in: *Optional*. One or more FBbt identifiers for entities which which the depicted entity has presynaptic terminals in.
+    * develops_from: *Optional*. One or more FBbt identifiers for entities which which the depicted entity develops from.
     * accession: Optional. An accession that can be used to roll a link to this entity on 'Site'.
     * centre_point: *Optional*. The x,y,z co-ordinated of the centre-point of the entity depicted. Co-ordinates refer to the stack to which the entity is registered.
     * voxel_volume: *Optional*.  The number of voxels (segmented) corresponding to the depicted entity in a the image.  Voxel numbers correspond to those of the stack to which the entity is registered.
