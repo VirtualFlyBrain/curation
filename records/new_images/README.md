@@ -18,7 +18,7 @@ Images are curated as pairs of files with the same name but different extensions
     * **label**: *Compulsory*. The primary label for the entity in the KB and displayed on VFB.
     * **synonyms**: *Optional*.  A list of alternative names/synonyms for this entity.
     * **anatomical_types**: *Compulsory*. A single anatomical that classifies the depicted entity.
-    * **Reasons for classification**: "A free text comment recording reasons for classification."
+    * **Reasons_for_classification**: "A free text comment recording reasons for classification."
     * **part_of**: *Compulsory*. One or more FBbt identifiers for anatomical entities the depicted entity is part of.
     * **expresses**: *Optional*. One or more FlyBase identifiers for markers whose expression is depicted in the image and which mark the depicted entity. 
     * **overlaps**: *Optional*. One or more FBbt identifiers for entities which which the depicted entity overlaps.
