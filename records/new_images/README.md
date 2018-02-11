@@ -7,7 +7,7 @@ Images are curated as pairs of files with the same name but different extensions
 * \<some curation filename\>.yaml: General information applicable to all entries in partner tsv files.
   * **Key names**: 
     * **Imaging_type**: the label of an imaging type from FBbi.  Currently supported imaging types are: 
-      "computer graphic"; "confocal micropcopy"; ""; "schematic"
+      "computer graphic"; "confocal micropcopy"; "serial block face SEM"; "diagram"
     * **Template**: The name (label) of a template in the KB to which the image is registered.
     * **DataSet**: The name (label) of a DataSet in the KB
     * **Site**: The name of a third-party site with pages for entites specified in curation
