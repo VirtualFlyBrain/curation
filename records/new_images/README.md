@@ -5,7 +5,7 @@ This curation system currently only supports adding images with a single specifi
 Images are curated as pairs of files with the same name but different extensions:
 
 * \<some curation filename\>.yaml: General information applicable to all entries in partner tsv files.
-  * Key names: 
+  * **Key names**: 
     * **Imaging_type**: the label of an imaging type from FBbi.  Currently supported imaging types are: 
       "computer graphic"; "confocal micropcopy"; ""; "schematic"
     * **Template**: The name (label) of a template in the KB to which the image is registered.
@@ -13,9 +13,10 @@ Images are curated as pairs of files with the same name but different extensions
     * **Site**: The name of a third-party site with pages for entites specified in curation
     
 * \<some curation filename\>.tsv: A TSV file specifying details of depicted entities.
-  * Values:  Where an ontology ID is specified, please use the OWL-style short_form identifier.  Multiple entries should be separated with a '|'.
-  * Header names: 
-    * **label**: *Compulsory*. The primary label for the 
+  * **Values**:  Where an ontology ID is specified, please use the OWL-style short_form identifier.  Multiple entries should be separated with a '|'.
+  * **Header names**: 
+    * **label**: *Compulsory*. The primary label for the entity in the KB and displayed on VFB.
+    * **synonyms**: *Optional*.  A list of alternative names/synonyms for this entity.
     * **anatomical_types**: *Compulsory*. A single anatomical that classifies the depicted entity.
     * **Reasons for classification**: "A free text comment recording reasons for classification."
     * **part_of**: *Compulsory*. One or more FBbt identifiers for anatomical entities the depicted entity is part of.
