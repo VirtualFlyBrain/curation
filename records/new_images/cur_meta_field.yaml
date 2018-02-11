@@ -1,0 +1,12 @@
+Imaging_type: 
+  compulsory: True
+  description: "The label of an imaging type from FBbi."
+Template
+  compulsory: True
+  description: "The name (label) of a template in the KB to which the image is registered."
+DataSet
+  description: "The name (label) of a DataSet in the KB"
+  compulsory: True
+Site
+  description: "The name (label) of a Site in the KB"
+  compulsory: False
