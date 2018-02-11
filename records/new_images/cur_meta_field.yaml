@@ -1,16 +1,16 @@
 Imaging_type: 
-  compulsory: True
-  description: "The label of an imaging type from FBbi."
+  Compulsory: True
+  Description: "The label of an imaging type from FBbi."
 Template:
-  compulsory: True
-  description: "The name (label) of a template in the KB to which the image is registered."
+  Compulsory: True
+  Description: "The name (label) of a template in the KB to which the image is registered."
 DataSet:
-  description: "The name (label) of a DataSet in the KB"
-  compulsory: True
+  Description: "The name (label) of a DataSet in the KB"
+  Compulsory: True
 Site:
-  description: "The name (label) of a Site in the KB"
-  compulsory: False
+  Description: "The name (label) of a Site in the KB"
+  Compulsory: False
 Curator:
-  description: A list of orcid of curators.
-  compulsory: True
+  Description: A list of orcid of curators.
+  Compulsory: True
  
