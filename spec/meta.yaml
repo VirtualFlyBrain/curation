@@ -1,0 +1,15 @@
+$schema: "http://json-schema.org/draft-04/schema#"
+title: VFB_cur_meta
+type: object
+additionalProperties: False
+
+properties:
+  yaml: Boolean
+  Compulsory: Boolean
+  List: Boolean
+  Description: String
+  type:
+    enum['Ontology', 'String', 'Integer', 'float']
+   
+    
+  
