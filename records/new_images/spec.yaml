@@ -47,6 +47,9 @@ anatomical_type:
 Reasons_for_classification:
   Compulsory: False
   Description: A free text comment recording reasons for classification.
+  
+Xrefs:
+  Description: Cross references to other databases taking the form.  DB:Accession.
 
 part_of:
   Compulsory: False
