@@ -7,3 +7,6 @@ def check_working(path):
     for k,v in recs.item():
         print("Checking %s" % k)
         v.check_working()
+        
+print("Checking new_image records.")
+check_working("records/new_images/")
