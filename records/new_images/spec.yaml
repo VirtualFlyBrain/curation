@@ -26,6 +26,9 @@ Curator:
   Description: A list of orcids of curators.
   Compulsory: True
   yaml: True
+  
+Filename: 
+   Description: Name of image file.
 
 label:
   Compulsory: True
