@@ -15,6 +15,7 @@ Images are curated as pairs of files with the same name but different extensions
 * \<some curation filename\>.tsv: A TSV file specifying details of depicted entities.
   * **Values**:  Where an ontology ID is specified, please use the OWL-style short_form identifier.  Multiple entries should be separated with a '|'.
   * **Header names**: 
+    * **FileName**: *Compulsory*: Name of iamge file
     * **label**: *Compulsory*. The primary label for the entity in the KB and displayed on VFB.
     * **synonyms**: *Optional*.  A list of alternative names/synonyms for this entity.
     * **anatomical_types**: *Compulsory*. A single anatomical that classifies the depicted entity.
