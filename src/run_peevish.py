@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from .peevish import get_recs
+from vfb.curation.peevish import get_recs
 import warnings
 import sys
 
@@ -12,7 +12,7 @@ def check_working(path):
         v.check_working()
 
 
-check_working(path="../../../records/new_images")
+check_working(path="../records/new_images/")
 
 #run_type = sys.argv[1]
 #path = sys.argv[2]
