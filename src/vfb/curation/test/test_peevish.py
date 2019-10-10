@@ -1,5 +1,5 @@
 import unittest
-from ..peevish import
+from ..peevish import Record
 
 
 class Test_tsv_headers(unittest.TestCase):
