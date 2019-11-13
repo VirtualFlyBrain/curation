@@ -1,0 +1,26 @@
+Imaging_type:
+  Compulsory: True
+  yaml: True
+  Description: "The label of an imaging type from FBbi."
+
+Template:
+  Compulsory: True
+  Description: >
+    The name (label) of a template in the KB to which the image is registered,
+    or 'Self', indicating that the image being added is a template.
+  yaml: True
+
+DataSet:
+  Description: "The name (label) of a DataSet in the KB"
+  Compulsory: True
+  yaml: True
+
+Site:
+  Description: "The name (label) of a Site in the KB"
+  Compulsory: False
+  yaml: True
+
+Curator:
+  Description: A list of orcids of curators.
+  Compulsory: True
+  yaml: True
