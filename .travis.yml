@@ -1,34 +1,26 @@
+sudo: required
+dist: xenial
+
 language: python
 
 python:
-  - "3.6"
-
-install:
-  - pip install -r requirements.txt
+  - "3.7"
   
-## Pull KB container here => localhost neo4j connection
-
 services:
    - docker
-   
+
 before_install:
-  - echo -e "travis_fold:start:neo4j"
-  - travis_wait 200 docker network create -d bridge --subnet 192.168.0.0/24 --gateway 192.168.0.1 dockernet
-  - travis_wait 200 docker run -d --name db -p 7687:7687 --ulimit=nofile=1000000:1000000 --net=dockernet --env=NEO4J_AUTH=neo4j/test --env=NEOREADONLY=false --env=NEO4J_dbms_memory_heap_maxSize=10G --env=NEO4J_ACCEPT_LICENSE_AGREEMENT=yes rcourt/docker-neo4j-knowledgebase
-  - sleep 90s
-  - docker logs db
-  - docker network inspect dockernet 
+  - docker run -d --name db -p 7474:7474 -p 7687:7687 --env=NEO4J_AUTH=none --env=NEOREADONLY=false --env=NEO4J_dbms_memory_heap_maxSize=1G --volume=$TRAVIS_BUILD_DIR/src/:/import/ virtualflybrain/docker-vfb-neo4j:enterprise 
   - echo -e "Checking local KB connection"
   - curl -u neo4j:neo4j "http://localhost:7474/db/data/"
-  - echo -e "travis_fold:end:neo4j"
-  
-  ## Git clone VFB_neo4j
-
   - git clone https://github.com/VirtualFlyBrain/VFB_neo4j.git
-  - export PYTHONPATH=$PYTHONPATH:/VFB_neo4j/src/"
-  ## Add VFB_neo4j package to python path
+  - export PYTHONPATH=$PYTHONPATH:$TRAVIS_BUILD_DIR/VFB_neo4j/src/"
+  
+install:
+  - pip install -r requirements.txt
+
 
 script:
   - cd src
   - test_working.py
-  - test_submission.py
+#  - test_submission.py
