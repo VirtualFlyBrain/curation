@@ -43,7 +43,7 @@ dbxrefs:
 comment:
   compulsory: False
   description: > 
-     Free text comment on image.
+     Free text comment on image/entity depicted.
   uniq: True
   type: String
   multiple: False
