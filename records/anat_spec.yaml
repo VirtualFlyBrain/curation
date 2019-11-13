@@ -1,17 +1,3 @@
-filename:
-  compulsory: True
-  description: Name of image file, minus extensions.
-  uniq: True
-  type: String
-  multiple: False
-
-label:
-  compulsory: True
-  description: The primary label for the entity in the KB and displayed on VFB.
-  uniq: True
-  type: String
-  multiple: False
-
 is_a:
   compulsory: True
   description: > 
@@ -55,20 +41,3 @@ expresses:
   uniq: True
   type: String
   multiple: True
-
-dbxrefs:	
-  compulsory: False
-  description: > 
-     Cross references for image/depicted entity in other databases taking the form db:accession where db
-     is the short_form of a Site node in VFB and accession is an identifier in a third party database.
-  uniq: True
-  type: String
-  multiple: True
-
-comment:
-  compulsory: False
-  description: > 
-     Free text comment on image.
-  uniq: True
-  type: String
-  multiple: False
