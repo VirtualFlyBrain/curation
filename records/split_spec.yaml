@@ -7,7 +7,7 @@ AD:
   type: Feature
   multiple: False
 
-AD:	
+DBD:	
   compulsory: True
   description: > 
      The name of the feature corresponding to the DNA binding domain half of the split in FlyBase.  
