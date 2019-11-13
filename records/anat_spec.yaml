@@ -41,3 +41,8 @@ expresses:
   uniq: True
   type: String
   multiple: True
+  
+index:
+  Compulsory: False
+  Description: "Index number for an annotation layer.  This is required for painted domains."
+  Type: Integer
