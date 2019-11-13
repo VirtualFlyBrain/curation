@@ -1,0 +1,17 @@
+driver: 
+  compulsory: True
+  description: > 
+     The name of the feature corresponding to the driver or gene whose expression pattern is depicted in the image.   
+     Please use transposon rather than insertion.
+  uniq: False
+  type: Feature
+  multiple: False
+  
+effector:
+  compulsory: False
+  description: > 
+     The name of the feature in FlyBase corresponding to effector used to visualize the driver expression pattern.  
+     Please use transposon rather than the insertion.
+  uniq: False
+  type: Feature
+  multiple: False
