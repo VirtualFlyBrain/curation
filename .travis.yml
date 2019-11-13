@@ -15,7 +15,7 @@ before_install:
   - echo -e "Checking local KB connection"
   - curl -sSf -u neo4j:neo4j "http://localhost:7474/db/data/"
   - git clone https://github.com/VirtualFlyBrain/VFB_neo4j.git
-  - export PYTHONPATH=$PYTHONPATH:$TRAVIS_BUILD_DIR/VFB_neo4j/src/"
+  - export PYTHONPATH=$PYTHONPATH:$TRAVIS_BUILD_DIR/VFB_neo4j/src/
   
 install:
   - pip install -r requirements.txt
