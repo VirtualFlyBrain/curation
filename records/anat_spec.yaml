@@ -33,16 +33,16 @@ classification_comment:
   type: String
   multiple: False
 
-expresses:	
+expresses:
   compulsory: False
   description: > 
-     Name(s) of FlyBase features whose espression is used to mark the depicted entity (e.g. GAL4 driver).
+     Name(s) of FlyBase features whose expression is used to mark the depicted entity (e.g. GAL4 driver).
      Multiple entries should be separated by a '|'.
   uniq: True
   type: String
   multiple: True
   
 index:
-  Compulsory: False
-  Description: "Index number for an annotation layer.  This is required for painted domains."
-  Type: Integer
+  compulsory: False
+  description: "Index number for an annotation layer.  This is required for painted domains."
+  type: Integer
