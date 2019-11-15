@@ -23,5 +23,5 @@ install:
 
 script:
   - cd src
-  - python -m vfb.curation.test.test_peevish.test_get_recs
+  - python -m vfb.curation.test.test_peevish
 

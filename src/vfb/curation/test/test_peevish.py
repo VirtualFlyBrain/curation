@@ -3,7 +3,7 @@ from ..peevish import get_recs
 import os
 
 
-class Test_tsv_headers(unittest.TestCase):
+class Test_peevish(unittest.TestCase):
 
     def test_get_recs(self):
         print(os.getcwd())
