@@ -1,7 +1,15 @@
 #!/usr/bin/env python3
 
 import pandas as pd
-import ruamel_yaml
+# Hack fo get around different package name on pip vs condaForge
+try:
+    import ruamel_yaml
+except:
+    try:
+        import ruamel.yaml as ruamel_yaml
+    except:
+        ImportError("Neither ruamel.yaml nor ruamel_yaml pacakage found")
+    pass
 import glob
 from collections import namedtuple, Counter
 import warnings
