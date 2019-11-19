@@ -1,0 +1,36 @@
+AD_id:
+  compulsory: True
+  description: > 
+     The FBid of the feature corresponding to the activiation domain half of the split in FlyBase.
+     Please use transposon rather than insertion ID.
+  uniq: False
+  type: Feature
+  multiple: False
+
+AD_name:
+  compulsory: False
+  description: >
+     The name of the feature corresponding to the activiation domain half of the split in FlyBase.
+     Please use transposon rather than insertion.
+  uniq: False
+  type: Feature
+  multiple: False
+
+
+DBD_id:
+  compulsory: True
+  description: > 
+     The FBid of the feature corresponding to the DNA binding domain half of the split in FlyBase.
+     Please use transposon rather than insertion ID.
+  uniq: False
+  type: Feature
+  multiple: False
+
+DBD_name:
+  compulsory: True
+  description: >
+     The name of the feature corresponding to the DNA binding domain half
+     of the split in FlyBase. Please use transposon rather than insertion.
+  uniq: False
+  type: Feature
+  multiple: False

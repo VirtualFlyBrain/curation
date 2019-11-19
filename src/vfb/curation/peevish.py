@@ -13,38 +13,10 @@ except:
 import glob
 from collections import namedtuple, Counter
 import warnings
+from uk.ac.ebi.vfb.neo4j.KB_tools import KB_pattern_writer
+from uk.ac.ebi.vfb.neo4j.flybase2neo.feature_tools import FeatureMover
+from uk.ac.ebi.vfb.neo4j.flybase2neo.pub_tools import pubMover
 
-
-
-# This is built with the assumption that all curation involves
-# (a) Paired YAML &
-# (b) Spec file defined by location - not name.
-## But latest draft spec has file types defined by name.
-## Managing this would require a more complicated architecture.
-## Compromise:
-# 1. Separate space for extending annotations on existing Inds.
-# 2. Names of spec files used are driven by Type prefix
-
-# from dataclasses import dataclass, field
-#
-# @dataclass
-# class CurFile:
-#     loc: str
-#     name: str
-#     ext: str
-#     type: str
-#     dataset: str
-#     date: str
-
-
-
-# def strip_file_extension(ext, filename):
-#
-#     m = re.search("(.+)/(.+)\.(.+)$" + ext + "$", "filename")
-#     if m:
-#         return m.group(1)
-#     else:
-#         return False
 
 CurFile = namedtuple('CurFile', ['path', 'loc', 'extended_name',
                                  'name', 'ext', 'type',
@@ -75,9 +47,9 @@ def process_file_path(file_path):
 
 
 def get_recs(path_to_recs, spec_path):
-    # Check _ Does glob preserve path?
-    # Assumes pairs of yaml+tsv files with same name apart from extension.
-    # Generates record by combining the two.
+    """path_to_recs = """
+
+    ## This function knows nothing about content except what is in spec files.
 
     tsv_rec_files = glob.glob(path_to_recs + "*.tsv")
     yaml_rec_files = glob.glob(path_to_recs + "*.yaml")
@@ -101,7 +73,7 @@ def get_recs(path_to_recs, spec_path):
     records = []
     for r in combined_recs:
         records.append(Record(spec_path=spec_path,
-                            cur_recs=r))
+                              cur_recs=r))
 
     return records
 
@@ -110,10 +82,14 @@ def get_recs(path_to_recs, spec_path):
 
 
 class Record(object):
+    # Architecture question: Raise exceptions, or warn and return false
+    # so that wrapper script can check all recs?  Probably latter.
 
     def __init__(self, spec_path, cur_recs):
 
-        """path to tsv"""
+        """spec path = *directory* where spec is located
+        cur_recs = tuple of CurFile objects (tsv, potentially plus paired yaml) """
+        stat = True
         with open(spec_path + cur_recs[0].type + '_spec.yaml', 'r') as type_spec_file:
             with open(spec_path + 'common_fields_spec.yaml', 'r') as general_spec_file:
                 self.spec = ruamel_yaml.safe_load(type_spec_file.read())
@@ -123,28 +99,34 @@ class Record(object):
         for cr in cur_recs:
             if cr.ext == 'tsv':
                 self.tsv = pd.read_csv(cr.path, sep="\t")
+                self.cr = cr
             elif cr.ext == 'yaml':
                 y_file = open(cr.path, 'r')
                 self.y = ruamel_yaml.safe_load(y_file.read())
             else:
                 warnings.warn("Unknown file type %s" % cr.extended_name)
+                stat = False
+        stat = self._check_headers()
+        stat = self._proc_yaml()
 
-    def check_working(self):
-        self.check_tsv_headers()
-        self.check_uniqueness()
 
-    def check_all(self):
-        self.check_working()
-        #Add more checks in here
-
+    def _proc_yaml(self):
+        #  check all are literals first?
+        for k,v in self.y.items():
+            # Need to run spec check first.
+            if self.spec[k]['yaml']:
+                self.tsv[k] = v
+            else:
+                warnings.warn("Key not allowed in yaml: %s" % k)
 
 # Should probably refactor to a single key check function.
-    def check_tsv_headers(self):
+    def _check_headers(self):
         input_columns = set(self.tsv.columns).union(set(self.y.keys()))
         # Allow for columns that are legal in YAML to be present in tsv.
         spec_columns = set(self.spec.keys())
         compulsory_columns = set([k for k, v in
                                   self.spec.items() if v['compulsory']])
+
 
         #  Check all input columns in spec
         try:
@@ -172,6 +154,62 @@ class Record(object):
             except ValueError:
                 print("Entries in Column %s should be uniq, but duplicate "
                       "entries found: %s" % (c, str(duplicates)))
+
+
+class RecordLoader:
+
+    def __init__(self, endpoint, usr, pwd, lookup_config):
+        self.pattern = KB_pattern_writer(endpoint, usr, pwd)
+        self.pattern.generate_lookups(lookup_config)
+        self.fm = FeatureMover(endpoint, usr, pwd)
+        self.pm = pubMover(endpoint, usr, pwd)
+
+    def process_record(self, r: Record, chunk=500):
+        # Should we make the assumption that all rows are processed in isolation?
+        # May not be great for efficiency e.g. should add features together as likely to be smaller number
+        record_type = record.cr.type
+
+        # Add dataset crosscheck with name -> exception
+        if record_type == 'split':
+            self.process_split(r)
+        elif record_type == 'ep':
+            self.process_ep(r)
+        elif record_type == 'anat':
+            self.process_ep(r)
+        elif record_type == 'ann':
+            self.process_annotations(r)
+        elif record_type == 'ds':
+            self.process_dataset(r)
+        else:
+                # Throw some exception
+                x = 1
+        self.pattern.commit(ni_chunk_length=chunk, ew_chunk_length=chunk)
+
+    def process_split(self, record: Record):
+
+        self.fm.gen_split_ep_feat()
+        for i, r in record.tsv.iterrows():
+            self.pattern.add_anatomy_image_set()
+        return
+
+    def process_ep(self, r):
+        # Question: add in eps in bulk or one at a time with inds?
+        # Former is probably more efficient but may require more code.
+
+        self.fm.generate_expression_patterns(list(r.tsv['ep']))  # But IDs!
+        self.pattern.add_anatomy_image_set()
+        return
+
+    def process_anat(self, r):
+        self.pattern.add_anatomy_image_set()
+        return
+
+    def process_dataset(self, r):
+        self.pattern.add_dataSet()
+
+    def process_annotations(self, r):
+        self.pattern.ew.add_anon_type_ax()
+
 
 
 

@@ -2,14 +2,15 @@ $schema: "http://json-schema.org/draft-04/schema#"
 title: VFB_cur_meta
 type: object
 additionalProperties: False
-
+required: ['description', 'compulsory', 'type']
 properties:
   yaml: Boolean
-  Compulsory: Boolean
-  List: Boolean
-  Description: String
+  compulsory: Boolean
+  multiple: Boolean
+  description: String
   type:
-    enum['Ontology', 'String', 'Integer', 'float']
+    enum['Property', 'Class', 'Ind', 'Property_id', 'Ind_id, 'Class_id', 'String', 'Integer', 'float']
+
    
     
   

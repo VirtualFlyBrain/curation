@@ -2,14 +2,14 @@ subject_name:
   compulsory: True
   description: > 
   uniq: False
-  type: string
+  type: Class
   multiple: False
   
 subject_id:  
   compulsory: True
   description: > 
   uniq: False
-  type: Individual
+  type: Ind_id
   multiple: False
   
 relation:  
@@ -23,5 +23,5 @@ object:
   compulsory: True
   description: > 
   uniq: False
-  type: Ontology
+  type: Class
   multiple: False

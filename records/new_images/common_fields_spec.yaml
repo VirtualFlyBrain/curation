@@ -74,3 +74,20 @@ comment:
   uniq: False
   type: String
   multiple: False
+
+centre_point:
+  compulsory: False
+  description: >
+      The x,y,z co-ordinates of the centre-point of the entity depicted.
+      Co-ordinates refer to the stack to which the entity is registered.
+  uniq: False
+  type: String
+
+voxel_volume:
+  compulsory: False
+  description: >
+      The number of voxels (segmented) corresponding to the depicted entity in a the image.
+      Voxel numbers correspond to those of the stack to which the entity is registered.
+  uniq: False
+  type: Integer
+
