@@ -65,13 +65,14 @@ class CurationWriter:
 
         # TBD: how to deal with FB features.  Maybe needs to be outside of this by adding to
         # KB first?
-
-        self.ew = kb_owl_edge_writer(endpoint, usr, pwd)
+        self.pattern_writer = KB_pattern_writer(endpoint, usr, pwd)
+        self.ew = self.pattern_writer.ew
         self.lookups = self.generate_lookups(lookup_config)
         self.lookups['relations'] = relation_lookup
 
     def commit(self):
         return self.ew.commit()
+
 
     def generate_lookups(self, lookup_config):
         # Maybe make this private & have it directly modify self.lookups?
@@ -223,4 +224,4 @@ class CurationWriter:
         for k, v in args.items():
             if k in self.lookups.keys():
                 args[k] = self.lookups[k][v]
-#        self.add_anatomy_image_set(**args)  # Surely possible to do this on the original method!
+        self.pattern_writer.add_anatomy_image_set(**args)  # Surely possible to do this on the original method!

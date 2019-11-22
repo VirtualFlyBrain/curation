@@ -13,7 +13,7 @@ except:
 import glob
 from collections import namedtuple, Counter
 import warnings
-from uk.ac.ebi.vfb.neo4j.KB_tools import KB_pattern_writer
+from .cur_load import CurationWriter
 from uk.ac.ebi.vfb.neo4j.flybase2neo.feature_tools import FeatureMover
 from uk.ac.ebi.vfb.neo4j.flybase2neo.pub_tools import pubMover
 
@@ -156,18 +156,19 @@ class Record(object):
                       "entries found: %s" % (c, str(duplicates)))
 
 
+# Should probably move following to separate file:
+
 class RecordLoader:
 
     def __init__(self, endpoint, usr, pwd, lookup_config):
-        self.pattern = KB_pattern_writer(endpoint, usr, pwd)
-        self.pattern.generate_lookups(lookup_config)
+        self.cw = CurationWriter(endpoint, usr, pwd, lookup_config)
         self.fm = FeatureMover(endpoint, usr, pwd)
         self.pm = pubMover(endpoint, usr, pwd)
 
     def process_record(self, r: Record, chunk=500):
         # Should we make the assumption that all rows are processed in isolation?
         # May not be great for efficiency e.g. should add features together as likely to be smaller number
-        record_type = record.cr.type
+        record_type = r.cr.type
 
         # Add dataset crosscheck with name -> exception
         if record_type == 'split':
@@ -182,14 +183,13 @@ class RecordLoader:
             self.process_dataset(r)
         else:
                 # Throw some exception
-                x = 1
-        self.pattern.commit(ni_chunk_length=chunk, ew_chunk_length=chunk)
+                return
 
     def process_split(self, record: Record):
 
         self.fm.gen_split_ep_feat()
         for i, r in record.tsv.iterrows():
-            self.pattern.add_anatomy_image_set()
+            self.cw.load_new_image_table()
         return
 
     def process_ep(self, r):
@@ -197,18 +197,18 @@ class RecordLoader:
         # Former is probably more efficient but may require more code.
 
         self.fm.generate_expression_patterns(list(r.tsv['ep']))  # But IDs!
-        self.pattern.add_anatomy_image_set()
+        self.cw.load_new_image_table()
         return
 
     def process_anat(self, r):
-        self.pattern.add_anatomy_image_set()
+        self.cw.load_new_image_table()
         return
 
     def process_dataset(self, r):
-        self.pattern.add_dataSet()
+        self.cw.load_new_image_table()
 
     def process_annotations(self, r):
-        self.pattern.ew.add_anon_type_ax()
+        self.cw.add_assertion_to_VFB_ind()
 
 
 
