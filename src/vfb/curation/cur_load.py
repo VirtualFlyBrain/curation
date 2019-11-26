@@ -2,10 +2,9 @@ from uk.ac.ebi.vfb.neo4j.neo4j_tools import results_2_dict_list
 from dataclasses import dataclass
 from typing import List
 from uk.ac.ebi.vfb.neo4j.KB_tools import kb_owl_edge_writer, KB_pattern_writer
+from uk.ac.ebi.vfb.neo4j.flybase2neo.feature_tools import FeatureMover
+from uk.ac.ebi.vfb.neo4j.flybase2neo.pub_tools import pubMover
 import warnings
-
-
-
 
 @dataclass
 class VfbInd:
@@ -39,7 +38,7 @@ class VfbInd:
         return stat
 
 
-@dataclass # post init step addition of attribute prevents adding frozen=True
+@dataclass  # post init step addition of attribute prevents adding frozen=True
 class LConf:
     """field = node attribute  to which regex restriction"""
     field: str
@@ -66,6 +65,8 @@ class CurationWriter:
         # TBD: how to deal with FB features.  Maybe needs to be outside of this by adding to
         # KB first?
         self.pattern_writer = KB_pattern_writer(endpoint, usr, pwd)
+        self.feature_mover = FeatureMover(endpoint, usr, pwd)
+        self.pub_mover = pubMover(endpoint, usr, pwd)
         self.ew = self.pattern_writer.ew
         self.lookups = self.generate_lookups(lookup_config)
         self.lookups['relations'] = relation_lookup
@@ -96,6 +97,28 @@ class CurationWriter:
             return lookup
         else:
             return {}
+
+    def extend_lookup_from_flybase(self, features, key='expresses'):
+        fu = "['"+"', ".join(features) + "']"
+        ## Notes - use uniq'd IDs from features columns for lookup.
+        query = "SELECT f.uniquename AS short_form, f.name AS label" \
+                " FROM feature WHERE f.name IN %s" % fu
+        dc = self.feature_mover.query_fb(query)
+        self.lookups[key] = {d['label']: d['short_form'] for d in dc}
+
+
+class Annotate(CurationWriter):
+
+    def proc_rec(self, rec):
+        if 'expresses' in rec.tsv['Relation']:
+            features = []  # pandas lookup
+            self.extend_lookup_from_flybase(features)
+            self.feature_mover.add_features(self.lookups['expresses'].values())
+        for i,r in rec.tsv.itterows():
+            self.proc_line(r)
+
+    def proc_line(self, r):
+        s = VfbInd()
 
     def add_assertion_to_VFB_ind(self, s: VfbInd,
                                  r: str, o: str,
@@ -130,7 +153,6 @@ class CurationWriter:
                 return False
         else:
             return False
-
 
     def get_subject_id(self, s: VfbInd):
         if s.xref:
@@ -170,28 +192,29 @@ class CurationWriter:
             # Allows for bare IDs. But should we?
             return s.id
 
+class NewImageWriter(CurationWriter):
 
     def load_new_image_table(self,
-                              dataset,
-                              imaging_type,
-                              label,
-                              start,
-                              template,
-                              anatomical_type,
-                              classification_reference='',
-                              classification_comment='',
-                              part_of = '',
-                              expresses = '',
-                              index=False,
-                              center=(),
-                              anatomy_attributes=None,
-                              dbxrefs=None,
-                              dbxref_strings=None,
-                              image_filename='',
-                              match_on='short_form',
-                              orcid='',
-                              name_id_sub_via_lookup = False,
-                              hard_fail=False):
+                             dataset,
+                             imaging_type,
+                             label,
+                             start,
+                             template,
+                             anatomical_type,
+                             classification_reference='',
+                             classification_comment='',
+                             part_of='',
+                             expresses='',
+                             index=False,
+                             center=(),
+                             anatomy_attributes=None,
+                             dbxrefs=None,
+                             dbxref_strings=None,
+                             image_filename='',
+                             match_on='short_form',
+                             orcid='',
+                             name_id_sub_via_lookup=False,
+                             hard_fail=False):
 
         """Method for loading new image curation tables.
         Spec: https://github.com/VirtualFlyBrain/curation/blob/test_curation/records/new_images/anatomy_spec.yaml
@@ -225,3 +248,4 @@ class CurationWriter:
             if k in self.lookups.keys():
                 args[k] = self.lookups[k][v]
         self.pattern_writer.add_anatomy_image_set(**args)  # Surely possible to do this on the original method!
+

@@ -1,5 +1,5 @@
 import unittest
-from ..cur_load import CurationWriter, VfbInd, LConf
+from ..cur_load import Annotate, VfbInd, LConf
 
 
 class TestVFbInd(unittest.TestCase):
@@ -19,7 +19,7 @@ class TestCurationWriter(unittest.TestCase):
         lc = {'overlaps': [LConf(field='short_form', regex='FBbt_.+', labels=['Class'])],
               'subject': [LConf(field='short_form', regex='VFB_.+', labels=['Individual'])]}
         rl = {'overlaps': 'RO_0002131'}
-        self.aw = CurationWriter('http://localhost:7474', 'neo4j', 'neo4j',
+        self.aw = Annotate('http://localhost:7474', 'neo4j', 'neo4j',
                                  lookup_config=lc,
                                  relation_lookup=rl)
 
