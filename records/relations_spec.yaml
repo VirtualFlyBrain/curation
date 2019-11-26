@@ -1,0 +1,71 @@
+part_of:
+  description: Name of anatomical entity (FBbt) that the depicted entity is part of.
+  short_form: BFO_0000050
+  restriction:
+    field: short_form
+    regex: "FBbt_.+"
+    labels: ['Class']
+
+expresses:
+  description: >
+    FlyBase Feature identifier for gene or transgene whose expression marks the
+     depicted entity in the image being annotated.
+  short_form: RO_0002292
+  flybase_feature: true
+
+overlaps:
+  description: >
+    Name of anatomical entity (FBbt) that the depicted entity has some part in.
+  short_form: RO_0002131
+  restriction:
+    field: short_form
+    regex: "FBbt_.+"
+    labels: ['Class']
+
+has_synaptic_terminal_in:
+  description: >
+    Subject must be a neuron. Name of anatomical entity (FBbt),
+    typically a synaptic neuropil, that the depicted neuron has synaptic terminals in.
+  short_form: RO_0002130
+  restriction:
+    field: short_form
+    regex: "FBbt_.+"
+    labels: ['Class']
+
+has_postsynaptic_terminal_in:
+  description: >
+    Subject must be a neuron. Name of anatomical entity (FBbt), typically a synaptic
+    neuropil, that the depicted neuron postsynaptic terminals in.
+  restriction:
+  short_form: RO_0002110
+    field: short_form
+    regex: "FBbt_.+"
+    labels: ['Class']
+
+has_presynaptic_terminal_in:
+  description: >
+    Subject must be a neuron. Name of anatomical entity (FBbt), typically a synaptic
+    neuropil, that the depicted neuron has presynaptic terminals in.
+  short_form: RO_0002113
+  restriction:
+    field: short_form
+    regex: "FBbt_.+"
+    labels: ['Class']
+
+develops_from:
+  description: >
+    Name of anatomical entity (FBbt) that the depicted entity develops from.
+  short_form: RO_0002202
+  restriction:
+    field: short_form
+    regex: "FBbt_.+"
+    labels: ['Class']
+
+has_soma_location:
+  description: >
+    Subject must be a neuron. Name of anatomical entity (FBbt), that the depicted neuron has its soma in.
+  short_form: RO_0002100
+    field: short_form
+    regex: "FBbt_.+"
+    labels: ['Class']
+

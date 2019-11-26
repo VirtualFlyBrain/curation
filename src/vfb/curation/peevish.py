@@ -99,7 +99,8 @@ class Record:
                 self.spec = ruamel_yaml.safe_load(type_spec_file.read())
                 general_spec = ruamel_yaml.safe_load(general_spec_file.read())
                 self.spec.update(general_spec)
-
+        with open(spec_path + 'relations_spec.yaml', 'r') as rel_spec_file:
+            self.rel_spec = ruamel_yaml.safe_load(rel_spec_file.read())
         for cr in cur_recs:
             if cr.ext == 'tsv':
                 self.tsv = pd.read_csv(cr.path, sep="\t")
@@ -171,55 +172,7 @@ class Record:
 
 # Should probably move following to separate file:
 
-class RecordLoader:
 
-    def __init__(self, endpoint, usr, pwd, lookup_config):
-        self.cw = Annotate(endpoint, usr, pwd, lookup_config)
-
-
-    def process_record(self, r: Record, chunk=500):
-        # Should we make the assumption that all rows are processed in isolation?
-        # May not be great for efficiency e.g. should add features together as likely to be smaller number
-        record_type = r.cr.type
-
-        # Add dataset crosscheck with name -> exception
-        if record_type == 'split':
-            self.process_split(r)
-        elif record_type == 'ep':
-            self.process_ep(r)
-        elif record_type == 'anat':
-            self.process_ep(r)
-        elif record_type == 'ann':
-            self.process_annotations(r)
-        elif record_type == 'ds':
-            self.process_dataset(r)
-        else:
-                # Throw some exception
-                return
-
-    def process_split(self, record: Record):
-
-        for i, r in record.tsv.iterrows():
-            self.cw.load_new_image_table()
-        return
-
-    def process_ep(self, r):
-        # Question: add in eps in bulk or one at a time with inds?
-        # Former is probably more efficient but may require more code.
-
-        self.fm.generate_expression_patterns(list(r.tsv['ep']))  # But IDs!
-        self.cw.load_new_image_table()
-        return
-
-    def process_anat(self, r):
-        self.cw.load_new_image_table()
-        return
-
-    def process_dataset(self, r):
-        self.cw.load_new_image_table()
-
-    def process_annotations(self, r):
-        self.cw.add_assertion_to_VFB_ind()
 
 
 

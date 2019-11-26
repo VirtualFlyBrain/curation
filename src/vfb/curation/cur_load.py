@@ -4,6 +4,7 @@ from typing import List
 from uk.ac.ebi.vfb.neo4j.KB_tools import kb_owl_edge_writer, KB_pattern_writer
 from uk.ac.ebi.vfb.neo4j.flybase2neo.feature_tools import FeatureMover
 from uk.ac.ebi.vfb.neo4j.flybase2neo.pub_tools import pubMover
+from .peevish import Record
 import warnings
 
 @dataclass
@@ -40,16 +41,42 @@ class VfbInd:
 
 @dataclass  # post init step addition of attribute prevents adding frozen=True
 class LConf:
-    """field = node attribute  to which regex restriction"""
+    """field = node attribute  to which regex restriction applies"""
     field: str
-    labels: List[str]
     regex: str
+    labels: List[str]
+
 
     def __post_init__(self):
         if self.labels:
             self.neo_label_string = ':' + ':'.join(self.labels)
         else:
             self.neo_label_string = ''
+
+
+def load_record(endpoint, usr, pwd, record: Record):
+
+
+    if record.cr.type == 'ann':
+        lookup_config = { k: [LConf(field='short_form',
+                            regex=v['regex'],
+                            labels=v['labels'])] for k,v in record.rel_spec.items()}
+        relation_lookup = { k : v['short_form'] for k,v in record.rel_spec.items()}
+        ann = Annotate(endpoint, usr, pwd, lookup_config=lookup_config,
+                       relation_lookup=relation_lookup)
+
+
+    elif record.cr.type == 'ds':
+        warnings.warn("Dataset loading is not currently supported.")
+        return False
+    else:
+        # Needs some more thought!
+        lookup_config = {k: [LConf(field='short_form',
+                                   regex=v['regex'],
+                                   labels=v['labels'])] for k, v in record.rel_spec.items()}
+
+        niw=NewImageWriter(endpoint, usr, pwd, lookup_config)
+
 
 
 class CurationWriter:
@@ -103,13 +130,13 @@ class CurationWriter:
         ## Notes - use uniq'd IDs from features columns for lookup.
         query = "SELECT f.uniquename AS short_form, f.name AS label" \
                 " FROM feature WHERE f.name IN %s" % fu
-        dc = self.feature_mover.query_fb(query)
         self.lookups[key] = {d['label']: d['short_form'] for d in dc}
 
 
 class Annotate(CurationWriter):
 
     def proc_rec(self, rec):
+        # Better to have this run from spec.
         if 'expresses' in rec.tsv['Relation']:
             features = []  # pandas lookup
             self.extend_lookup_from_flybase(features)
