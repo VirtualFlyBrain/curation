@@ -8,14 +8,12 @@ except:
     try:
         import ruamel.yaml as ruamel_yaml
     except:
-        ImportError("Neither ruamel.yaml nor ruamel_yaml pacakage found")
+        ImportError("Neither ruamel.yaml nor ruamel_yaml package found")
     pass
 import glob
 from collections import namedtuple, Counter
 import warnings
-from .cur_load import CurationWriter
-from uk.ac.ebi.vfb.neo4j.flybase2neo.feature_tools import FeatureMover
-from uk.ac.ebi.vfb.neo4j.flybase2neo.pub_tools import pubMover
+from .cur_load import CurationWriter, Annotate
 
 
 CurFile = namedtuple('CurFile', ['path', 'loc', 'extended_name',
@@ -81,14 +79,20 @@ def get_recs(path_to_recs, spec_path):
     # Test that every tsv file has a matching yaml file & vice_versa)
 
 
-class Record(object):
+class Record:
     # Architecture question: Raise exceptions, or warn and return false
     # so that wrapper script can check all recs?  Probably latter.
 
     def __init__(self, spec_path, cur_recs):
 
         """spec path = *directory* where spec is located
-        cur_recs = tuple of CurFile objects (tsv, potentially plus paired yaml) """
+        cur_recs = tuple of CurFile objects (tsv, potentially plus paired yaml)
+         Attributes:
+             self.spec: Curation spec for curation record type
+             self.tsv pandas.DataFrame of curation record
+             self.cr = curRec object (curation file name breakdown)
+             self.y = datastrucure of yaml curation partner to tsv
+             """
         stat = True
         with open(spec_path + cur_recs[0].type + '_spec.yaml', 'r') as type_spec_file:
             with open(spec_path + 'common_fields_spec.yaml', 'r') as general_spec_file:
@@ -152,8 +156,17 @@ class Record(object):
             try:
                 assert len(duplicates) == 0
             except ValueError:
-                print("Entries in Column %s should be uniq, but duplicate "
+                Exception("Entries in Column %s should be uniq, but duplicate "
                       "entries found: %s" % (c, str(duplicates)))
+
+    def check_DataSet(self):
+        if 'dataset' in self.y.keys():
+            try:
+                assert self.y.dataset == self.cr.dataset
+            except ValueError:
+                Exception("dataset specified in yaml (%s doesn't match that "
+                          "in name %s" % (self.y.dataset,
+                                          self.cr.dataset))
 
 
 # Should probably move following to separate file:
@@ -161,9 +174,8 @@ class Record(object):
 class RecordLoader:
 
     def __init__(self, endpoint, usr, pwd, lookup_config):
-        self.cw = CurationWriter(endpoint, usr, pwd, lookup_config)
-        self.fm = FeatureMover(endpoint, usr, pwd)
-        self.pm = pubMover(endpoint, usr, pwd)
+        self.cw = Annotate(endpoint, usr, pwd, lookup_config)
+
 
     def process_record(self, r: Record, chunk=500):
         # Should we make the assumption that all rows are processed in isolation?
@@ -187,7 +199,6 @@ class RecordLoader:
 
     def process_split(self, record: Record):
 
-        self.fm.gen_split_ep_feat()
         for i, r in record.tsv.iterrows():
             self.cw.load_new_image_table()
         return
