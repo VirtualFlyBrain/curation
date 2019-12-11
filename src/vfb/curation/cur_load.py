@@ -9,9 +9,19 @@ import warnings
 
 @dataclass
 class VfbInd:
+    """VFB individual. Must have attributes:
+       *name* (label) + *ID* (short_form)
+    OR
+       *xref_db* (external db/site short_form) + *xref_acc* (external id)
+        (optionally including label).
+    *_stat* is an auto-generated validation status marker.
+    Any assigned value will be over-writen
+    """
     label: str = ''
     id: str = ''
-    xref: str = ''
+    xref_db: str = ''
+    xref_acc: str = ''
+    _stat: bool = True
 
     def __post_init__(self):
         self.validate()
@@ -19,26 +29,28 @@ class VfbInd:
     def validate(self):
         """Must have either label + id OR xref
           xref must contain a single colon"""
-        stat = True
-        if self.xref:
-            if not(len(self.xref.split(':')) == 2):
-                Exception("%s doesn't look like "
-                              "a single xref, expected db:acc" % self.xref)
+        if self.xref_acc:
+            if not self.xref_db:
+                warnings.warn("External accession provided but no database: "
+                              "%s" % self.__str__())
+                self._stat = False
             if self.id:
-                Exception("ID and xref provided (%s + %s) "
-                              "Which do you want me to use?"
-                              "" % (self.id, self.xref))
-                stat = False
-        if self.id and not self.xref:
+                warnings.warn("ID and xref provided, Which do you want me to use?"
+                          "%s" % (self.__str__()))
+                self._stat = False
+        elif self.id:
             if not self.label:
-                Exception("ID provided (%s) but no label. "
+                warnings.warn("ID provided (%s) but no label. "
                               "Please provide a label "
-                              "(name) to go with this ID for cross-checking"
+                              "(name) to go with this ID for cross-checking."
                               "" % self.id)
-                stat = False
-        return stat
+                self._stat = False
+        else:
+            warnings.warn('Not enough information supplied to identify subject. Minimaun =  dbxref or ID, you supplied only %s' % self.__str__())
 
+            self._stat = False
 
+# Not sure this class still needed.
 @dataclass  # post init step addition of attribute prevents adding frozen=True
 class LConf:
     """field = node attribute  to which regex restriction applies"""
@@ -54,36 +66,11 @@ class LConf:
             self.neo_label_string = ''
 
 
-def load_record(endpoint, usr, pwd, record: Record):
-
-
-    if record.cr.type == 'ann':
-        lookup_config = { k: [LConf(field='short_form',
-                            regex=v['regex'],
-                            labels=v['labels'])] for k,v in record.rel_spec.items()}
-        relation_lookup = { k : v['short_form'] for k,v in record.rel_spec.items()}
-        ann = Annotate(endpoint, usr, pwd, lookup_config=lookup_config,
-                       relation_lookup=relation_lookup)
-
-
-    elif record.cr.type == 'ds':
-        warnings.warn("Dataset loading is not currently supported.")
-        return False
-    else:
-        # Needs some more thought!
-        lookup_config = {k: [LConf(field='short_form',
-                                   regex=v['regex'],
-                                   labels=v['labels'])] for k, v in record.rel_spec.items()}
-
-        niw=NewImageWriter(endpoint, usr, pwd, lookup_config)
-
-
 
 class CurationWriter:
     """A wrapper class for loading annotation curation tables to VFB KB"""
 
-    def __init__(self, endpoint, usr, pwd,
-                 lookup_config: dict, relation_lookup: dict):
+    def __init__(self, endpoint, usr, pwd, record: Record):
         """KB connection: endpoint, usr, pwd
         lookup_config: a dict of lists of LookupConf keyed on column name or relation name.
         relation_lookup: name: short_form dictionary for valid relations"
@@ -95,20 +82,33 @@ class CurationWriter:
         self.feature_mover = FeatureMover(endpoint, usr, pwd)
         self.pub_mover = pubMover(endpoint, usr, pwd)
         self.ew = self.pattern_writer.ew
-        self.lookups = self.generate_lookups(lookup_config)
-        self.lookups['relations'] = relation_lookup
+        self.record = record
+        self.lookups = self.generate_lookups()
+        #self.lookups['relations'] = relation_lookup
+
 
     def commit(self):
         return self.ew.commit()
 
+    def generate_lookups(self):
+        print()
 
-    def generate_lookups(self, lookup_config):
-        # Maybe make this private & have it directly modify self.lookups?
+    def _generate_lookups(self):
+
+        #
+
+
         """Generate  :Class name:ID lookups from DB for loading by label.
          Lookups are defined by standard config that specifies a config:
          name:field:regex, e.g. {'part_of': {'short_form': 'FBbt_.+'}}
          name should match the kwarg for which it is to be used.
          """
+
+        lookup_config = {k: [LConf(field=v['restriction']['field'],
+                                   regex=v['restriction']['regex'],
+                                   labels=v['restriction']['labels'])]
+                         for k, v in self.record.rel_spec.items()
+                         if 'restriction' in v.keys()}
         lookup = {}
         if lookup_config:
             # Add some type checking here?
@@ -121,35 +121,42 @@ class CurationWriter:
                     rr = self.ew.nc.commit_list([q])
                     r = results_2_dict_list(rr)
                     lookup[name].update({x['label']: x['short_form'] for x in r})
-            return lookup
-        else:
-            return {}
+        lookup['relation'] = {k: v['short_form'] for k, v in self.record.rel_spec.items()}
+        return lookup
+
 
     def extend_lookup_from_flybase(self, features, key='expresses'):
         fu = "['"+"', ".join(features) + "']"
         ## Notes - use uniq'd IDs from features columns for lookup.
         query = "SELECT f.uniquename AS short_form, f.name AS label" \
                 " FROM feature WHERE f.name IN %s" % fu
+        dc = self.feature_mover.query_fb(query)
         self.lookups[key] = {d['label']: d['short_form'] for d in dc}
 
 
-class Annotate(CurationWriter):
+class NewMetaDataWriter(CurationWriter):
 
-    def proc_rec(self, rec):
-        # Better to have this run from spec.
-        if 'expresses' in rec.tsv['Relation']:
-            features = []  # pandas lookup
-            self.extend_lookup_from_flybase(features)
-            self.feature_mover.add_features(self.lookups['expresses'].values())
-        for i,r in rec.tsv.itterows():
-            self.proc_line(r)
+    """Wrapper object for adding new metatadata to existing entities.
+    Takes """
 
-    def proc_line(self, r):
-        s = VfbInd()
+    def get_rels(self):
+        rels = self.record.tsv['relation']
+        if set(rels) - set(self.record.rel_spec.keys()):
+            warnings.warn()  # Should this be on record check?
+            return False
+        else:
+            return rels
 
-    def add_assertion_to_VFB_ind(self, s: VfbInd,
-                                 r: str, o: str,
-                                 edge_annotations=None):
+    def generate_lookup(self):
+        # Only roll lookups for rels used
+        rels = self.get_rels()
+
+
+
+    def write_row(self,
+                  s: VfbInd,
+                  r: str, o: str,
+                  edge_annotations=None):
         """s = subject individual. Type: VFB_ind
            r = relation label
            o = object label

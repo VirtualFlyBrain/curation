@@ -13,7 +13,8 @@ except:
 import glob
 from collections import namedtuple, Counter
 import warnings
-from .cur_load import CurationWriter, Annotate
+import os
+#from .cur_load import NewMetaDataWriter, NewImageWriter
 
 
 CurFile = namedtuple('CurFile', ['path', 'loc', 'extended_name',
@@ -70,9 +71,15 @@ def get_recs(path_to_recs, spec_path):
 
     records = []
     for r in combined_recs:
-        records.append(Record(spec_path=spec_path,
-                              cur_recs=r))
+        rec = Record(spec_path=spec_path,
+                     cur_recs=r)
 
+        # Only return valid records
+        if rec.stat:
+            records.append(rec)
+        else:
+            # Not sure this is the best way to feed back up...
+            records.append(False)
     return records
 
 
@@ -93,13 +100,15 @@ class Record:
              self.cr = curRec object (curation file name breakdown)
              self.y = datastrucure of yaml curation partner to tsv
              """
-        stat = True
-        with open(spec_path + cur_recs[0].type + '_spec.yaml', 'r') as type_spec_file:
-            with open(spec_path + 'common_fields_spec.yaml', 'r') as general_spec_file:
-                self.spec = ruamel_yaml.safe_load(type_spec_file.read())
-                general_spec = ruamel_yaml.safe_load(general_spec_file.read())
-                self.spec.update(general_spec)
-        with open(spec_path + 'relations_spec.yaml', 'r') as rel_spec_file:
+        self.stat = True
+        self.y = False
+        with open(spec_path + '/' + cur_recs[0].type + '_spec.yaml', 'r') as type_spec_file:
+            self.spec = ruamel_yaml.safe_load(type_spec_file.read())
+            if os.path.isfile(spec_path + '/' + 'common_fields_spec.yaml'):
+                with open(spec_path + '/' + 'common_fields_spec.yaml', 'r') as general_spec_file:
+                    general_spec = ruamel_yaml.safe_load(general_spec_file.read())
+                    self.spec.update(general_spec)
+        with open(spec_path + '/' + 'relations_spec.yaml', 'r') as rel_spec_file:
             self.rel_spec = ruamel_yaml.safe_load(rel_spec_file.read())
         for cr in cur_recs:
             if cr.ext == 'tsv':
@@ -111,22 +120,31 @@ class Record:
             else:
                 warnings.warn("Unknown file type %s" % cr.extended_name)
                 stat = False
-        stat = self._check_headers()
-        stat = self._proc_yaml()
+        # Each test fail should warn and set record stat to False.
+        if self.y:
+            self._proc_yaml()
+            self.check_DataSet()
+        self._check_headers()
+        self.check_uniqueness()
+
+    def _fail(self, test_name):
+        warnings.warn("%s failed test: %s" % (self.cr.name, test_name))
+        self.stat = False
 
 
     def _proc_yaml(self):
         #  check all are literals first?
         for k,v in self.y.items():
             # Need to run spec check first.
-            if self.spec[k]['yaml']:
+            if k in self.spec.keys() and self.spec[k]['yaml']:
                 self.tsv[k] = v
             else:
-                warnings.warn("Key not allowed in yaml: %s" % k)
+                self._fail("Yaml check")
+                warnings.warn("Record fail: %s Key not allowed in yaml: %s" % (k, self.cr.name))
 
 # Should probably refactor to a single key check function.
     def _check_headers(self):
-        input_columns = set(self.tsv.columns).union(set(self.y.keys()))
+        input_columns = set(self.tsv.columns)
         # Allow for columns that are legal in YAML to be present in tsv.
         spec_columns = set(self.spec.keys())
         compulsory_columns = set([k for k, v in
@@ -134,43 +152,41 @@ class Record:
 
 
         #  Check all input columns in spec
-        try:
-            assert not (input_columns - spec_columns)
-        except ValueError:
+        if not (input_columns - spec_columns):
             illegal_columns = input_columns - spec_columns
-            print("TSV contains illegal columns: %s" % str(illegal_columns))
+            self._fail("TSV header test")
+            warnings.warn("TSV contains illegal columns: %s" % str(illegal_columns))
 
-        try:
-            assert input_columns.issuperset(compulsory_columns)
-        except ValueError:
-            print("TSV is missing compulsory columns: %s" %
-                  str(compulsory_columns - spec_columns))
+        if not input_columns.issuperset(compulsory_columns):
+            self._fail("TSV header test")
+            warnings.warn("TSV is missing compulsory columns: %s" %
+                  str(compulsory_columns - input_columns))
 
 
     def check_uniqueness(self):
         uniq_columns = [k for k, v in self.spec.items() if 'uniq' in v.keys() and v['uniq']]
         for c in uniq_columns:
             # Need to strip Nan - to cope with empty rows!
-            contents = list(self.tsv[c].dropna())
-            duplicates = [item for item, count
-                          in Counter(contents).items() if count > 1]
-            try:
-                assert len(duplicates) == 0
-            except ValueError:
-                Exception("Entries in Column %s should be uniq, but duplicate "
-                      "entries found: %s" % (c, str(duplicates)))
+            if c in self.tsv.columns:
+                contents = list(self.tsv[c].dropna())
+                duplicates = [item for item, count
+                            in Counter(contents).items() if count > 1]
+                if len(duplicates):
+                    self._fail("Column uniqueness test")
+                    warnings.warn("Entries in Column %s should be uniq, "
+                                  "but duplicate "
+                                  "entries found: %s" % (c, str(duplicates)))
 
     def check_DataSet(self):
         if 'dataset' in self.y.keys():
-            try:
-                assert self.y.dataset == self.cr.dataset
-            except ValueError:
-                Exception("dataset specified in yaml (%s doesn't match that "
+            if not self.y.dataset == self.cr.dataset:
+                self._fail("DataSet test")
+                warnings.warn("dataset specified in yaml (%s doesn't match that "
                           "in name %s" % (self.y.dataset,
                                           self.cr.dataset))
 
 
-# Should probably move following to separate file:
+
 
 
 

@@ -1,0 +1,9 @@
+DataSet:
+  description: "The name (label) of a DataSet in the KB"
+  compulsory: True
+  yaml: True
+
+Curator:
+  description: A list of orcids of curators.
+  compulsory: True
+  yaml: True

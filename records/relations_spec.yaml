@@ -36,8 +36,8 @@ has_postsynaptic_terminal_in:
   description: >
     Subject must be a neuron. Name of anatomical entity (FBbt), typically a synaptic
     neuropil, that the depicted neuron postsynaptic terminals in.
-  restriction:
   short_form: RO_0002110
+  restriction:
     field: short_form
     regex: "FBbt_.+"
     labels: ['Class']
@@ -65,6 +65,7 @@ has_soma_location:
   description: >
     Subject must be a neuron. Name of anatomical entity (FBbt), that the depicted neuron has its soma in.
   short_form: RO_0002100
+  restriction:
     field: short_form
     regex: "FBbt_.+"
     labels: ['Class']

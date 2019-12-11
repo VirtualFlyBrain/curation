@@ -1,12 +1,20 @@
-subject_name:  
-  compulsory: True
+subject_external_db:
+  compulsory: False
+  description: VFB DataBase ID for external DB
+
+subject_external_id:
+  compulsory: False
+  description: Identifier in external DB (specified in subject_external_db field).
+
+subject_name:
+  compulsory: False
   description: > 
   uniq: False
   type: Class
   multiple: False
   
 subject_id:  
-  compulsory: True
+  compulsory: False
   description: > 
   uniq: False
   type: Ind_id
