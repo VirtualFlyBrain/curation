@@ -27,5 +27,5 @@ script:
   - cd src
   - python -m vfb.curation.test.test_peevish
   # Run against test records
-  - python run_peevish.py --base_path=vfb/curation/test/resources/records http://localhost:7474, neo4j, neo4j
+  - python run_peevish.py --base_path=vfb/curation/test/resources/records http://localhost:7474 neo4j neo4j
 
