@@ -1,0 +1,7 @@
+name	filename	part_of	expresses	comment	xref
+5-HT1B-F-000002	5-HT1B-F-000002	adult female|brain	P{GAL4-5-HT1B.Y}	Adult 5~15 days	Flycircuit:5-HT1B-F-000002
+Cha-F-000101	Cha-F-000101	adult female|brain	P{ChAT-GAL4.7.4}	Adult 5~15 days	Flycircuit:Cha-F-000101
+VGlut-F-900036	VGlut-F-900036	adult female|brain	P{VGlut-GAL4.D}	Adult 5~15 days	Flycircuit:VGlut-F-900036
+VGlut-F-900139	VGlut-F-900139	adult female|brain	P{VGlut-GAL4.D}	Adult 5~15 days	Flycircuit:VGlut-F-900139
+VT19730-F-200000	VT19730-F-200000	adult female|brain	P{VT019730-GAL4}	Adult 5~15 days	Flycircuit:VT19730-F-200000
+VT4419-F-300017	VT4419-F-300017	adult female|brain	P{VT004419-GAL4}	Adult 5~15 days	Flycircuit:VT4419-F-300017
