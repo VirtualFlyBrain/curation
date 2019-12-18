@@ -6,11 +6,12 @@ Directory structure:
 
 ```
 /records
-   /working    # Records here are checked for syntax only
-   /to_submit  # Records here run through the full set of checks, 
-                 including loading into test DB. A Jenkins job is used 
-                 to load passing records from here into the KB.
-   /archive    # Submitted records are archived here
+    /new_images
+        /working    # Records here are checked for syntax only
+        /to_submit  # Records here run through the full set of checks, 
+                       including loading into test DB. A Jenkins job is used 
+                       to load passing records from here into the KB.
+        /archive    # Submitted records are archived here
 ```
 
 Curation file naming: type_DataSetName_YYMMDD

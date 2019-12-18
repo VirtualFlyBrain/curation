@@ -8,50 +8,21 @@ except:
     try:
         import ruamel.yaml as ruamel_yaml
     except:
-        ImportError("Neither ruamel.yaml nor ruamel_yaml pacakage found")
+        ImportError("Neither ruamel.yaml nor ruamel_yaml package found")
     pass
 import glob
 from collections import namedtuple, Counter
 import warnings
+import os
+#from .cur_load import NewMetaDataWriter, NewImageWriter
 
-
-
-# This is built with the assumption that all curation involves
-# (a) Paired YAML &
-# (b) Spec file defined by location - not name.
-## But latest draft spec has file types defined by name.
-## Managing this would require a more complicated architecture.
-## Compromise:
-# 1. Separate space for extending annotations on existing Inds.
-# 2. Names of spec files used are driven by Type prefix
-
-# from dataclasses import dataclass, field
-#
-# @dataclass
-# class CurFile:
-#     loc: str
-#     name: str
-#     ext: str
-#     type: str
-#     dataset: str
-#     date: str
-
-
-
-# def strip_file_extension(ext, filename):
-#
-#     m = re.search("(.+)/(.+)\.(.+)$" + ext + "$", "filename")
-#     if m:
-#         return m.group(1)
-#     else:
-#         return False
 
 CurFile = namedtuple('CurFile', ['path', 'loc', 'extended_name',
-                                 'name', 'ext', 'type',
+                                 'name', 'ext', 'type', 'gross_type',
                                  'dataset', 'date'])
 
 def process_file_path(file_path):
-    path = file_path.split('/')
+    path = [fp for fp in file_path.split('/') if fp]  # list comp removes empty path components (//)
     extended_name = path[-1]
     name_ext = extended_name.split('.')
     if not (len(name_ext) == 2):
@@ -69,15 +40,16 @@ def process_file_path(file_path):
                    name=name_ext[0],
                    ext=name_ext[1],
                    type=name_breakdown[0],
+                   gross_type=path[-3],
                    dataset=name_breakdown[1],
                    date=name_breakdown[2]
                    )
 
 
 def get_recs(path_to_recs, spec_path):
-    # Check _ Does glob preserve path?
-    # Assumes pairs of yaml+tsv files with same name apart from extension.
-    # Generates record by combining the two.
+    """path_to_recs = """
+
+    ## This function knows nothing about content except what is in spec files.
 
     tsv_rec_files = glob.glob(path_to_recs + "*.tsv")
     yaml_rec_files = glob.glob(path_to_recs + "*.yaml")
@@ -100,78 +72,129 @@ def get_recs(path_to_recs, spec_path):
 
     records = []
     for r in combined_recs:
-        records.append(Record(spec_path=spec_path,
-                            cur_recs=r))
+        rec = Record(spec_path=spec_path,
+                     cur_recs=r)
 
+        # Only return valid records
+        if rec.stat:
+            records.append(rec)
+        else:
+            # Not sure this is the best way to feed back up...
+            records.append(False)
     return records
 
 
     # Test that every tsv file has a matching yaml file & vice_versa)
 
 
-class Record(object):
-
+class Record:
     def __init__(self, spec_path, cur_recs):
 
-        """path to tsv"""
-        with open(spec_path + cur_recs[0].type + '_spec.yaml', 'r') as type_spec_file:
-            with open(spec_path + 'common_fields_spec.yaml', 'r') as general_spec_file:
-                self.spec = ruamel_yaml.safe_load(type_spec_file.read())
-                general_spec = ruamel_yaml.safe_load(general_spec_file.read())
-                self.spec.update(general_spec)
-
+        """spec path = *directory* where spec is located
+        cur_recs = tuple of CurFile objects (tsv, potentially plus paired yaml)
+         Attributes:
+             self.spec: Curation spec for curation record type
+             self.tsv pandas.DataFrame of curation record - includes YAML curation file content as additional columns.
+             self.cr = curRec object (curation file name breakdown)
+             self.type = record type (from curRec - for convenience)
+             self.gross_type = ross record type (from curRec - for convenience)
+             self.y = data-structure of yaml curation partner to tsv
+             self.stat: False if any checks have failed.  Use this to control
+             exceptions in wrapper scripts
+             """
+        self.stat = True
+        self.y = False
+        with open(spec_path + '/' + cur_recs[0].type + '_spec.yaml', 'r') as type_spec_file:
+            self.spec = ruamel_yaml.safe_load(type_spec_file.read())
+            if os.path.isfile(spec_path + '/' + 'common_fields_spec.yaml'):
+                with open(spec_path + '/' + 'common_fields_spec.yaml', 'r') as general_spec_file:
+                    general_spec = ruamel_yaml.safe_load(general_spec_file.read())
+                    self.spec.update(general_spec)
+        with open(spec_path + '/' + 'relations_spec.yaml', 'r') as rel_spec_file:
+            self.rel_spec = ruamel_yaml.safe_load(rel_spec_file.read())
         for cr in cur_recs:
             if cr.ext == 'tsv':
                 self.tsv = pd.read_csv(cr.path, sep="\t")
+                self.tsv.fillna('')
+                self.cr = cr
+                self.type = self.cr.type
+                self.gross_type = self.cr.gross_type
             elif cr.ext == 'yaml':
                 y_file = open(cr.path, 'r')
                 self.y = ruamel_yaml.safe_load(y_file.read())
             else:
                 warnings.warn("Unknown file type %s" % cr.extended_name)
-
-    def check_working(self):
-        self.check_tsv_headers()
+                stat = False
+        # Each test fail should warn and set record stat to False.
+        if self.y:
+            self._proc_yaml()
+            self.check_DataSet()
+        self._check_headers()
         self.check_uniqueness()
 
-    def check_all(self):
-        self.check_working()
-        #Add more checks in here
+    def _fail(self, test_name):
+        warnings.warn("%s failed test: %s" % (self.cr.name, test_name))
+        self.stat = False
 
+
+    def _proc_yaml(self):
+        #  check all are literals first?
+        for k,v in self.y.items():
+            # Need to run spec check first.
+            if k in self.spec.keys() and self.spec[k]['yaml']:
+                self.tsv[k] = v
+            else:
+                self._fail("Yaml check")
+                warnings.warn("Record fail: %s Key not allowed in yaml: %s" % (k, self.cr.name))
 
 # Should probably refactor to a single key check function.
-    def check_tsv_headers(self):
-        input_columns = set(self.tsv.columns).union(set(self.y.keys()))
+    def _check_headers(self):
+        input_columns = set(self.tsv.columns)
         # Allow for columns that are legal in YAML to be present in tsv.
         spec_columns = set(self.spec.keys())
         compulsory_columns = set([k for k, v in
-                                  self.spec.items() if v['compulsory']])
+                                  self.spec.items() if ('compulsory' in v.keys()) and v['compulsory']])
+
 
         #  Check all input columns in spec
-        try:
-            assert not (input_columns - spec_columns)
-        except ValueError:
-            illegal_columns = input_columns - spec_columns
-            print("TSV contains illegal columns: %s" % str(illegal_columns))
+        illegal_columns = input_columns - spec_columns
+        if illegal_columns:
+            self._fail("TSV header test")
+            warnings.warn("TSV contains illegal columns: %s" % str(illegal_columns))
 
-        try:
-            assert input_columns.issuperset(compulsory_columns)
-        except ValueError:
-            print("TSV is missing compulsory columns: %s" %
-                  str(compulsory_columns - spec_columns))
+        if not input_columns.issuperset(compulsory_columns):
+            self._fail("TSV header test")
+            warnings.warn("TSV is missing compulsory columns: %s" %
+                  str(compulsory_columns - input_columns))
 
 
     def check_uniqueness(self):
         uniq_columns = [k for k, v in self.spec.items() if 'uniq' in v.keys() and v['uniq']]
         for c in uniq_columns:
-            # Need to strip Nan - to cope with empty rows!
-            contents = list(self.tsv[c].dropna())
-            duplicates = [item for item, count
-                          in Counter(contents).items() if count > 1]
-            try:
-                assert len(duplicates) == 0
-            except ValueError:
-                print("Entries in Column %s should be uniq, but duplicate "
-                      "entries found: %s" % (c, str(duplicates)))
+            # This will fail unless NaN is converted to empty string to cope with empty cells.
+            if c in self.tsv.columns:
+                contents = list(self.tsv[c].dropna())
+                duplicates = [item for item, count
+                            in Counter(contents).items() if count > 1]
+                if len(duplicates):
+                    self._fail("Column uniqueness test")
+                    warnings.warn("Entries in Column %s should be uniq, "
+                                  "but duplicate "
+                                  "entries found: %s" % (c, str(duplicates)))
+
+    def check_DataSet(self):
+        if 'dataset' in self.y.keys():
+            if not self.y.dataset == self.cr.dataset:
+                self._fail("DataSet test")
+                warnings.warn("dataset specified in yaml (%s doesn't match that "
+                          "in name %s" % (self.y.dataset,
+                                          self.cr.dataset))
+
+
+
+
+
+
 
 
 

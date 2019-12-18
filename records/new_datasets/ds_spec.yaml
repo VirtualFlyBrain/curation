@@ -1,0 +1,51 @@
+short_form:
+  description: >
+      A short, readable identifier for a dataset.
+      This must have no spaces or special characters apart from '_'.
+      By convention, for datasets associated with a publication this
+      should take the form: [first_author_surname][YYYY]{a-z}, e.g. Burgos2018.
+      If this is not sufficient for uniqueness, extend with a single letter
+      e.g. Burgos2018a
+  type: String
+  compulsory: True
+  yaml: True
+
+label:
+  description: A short, descriptive name for the dataset.
+  type: String
+  compulsory: True
+  yaml: True
+
+synonyms:
+  type: String
+  description: Other names by which this dataset is known (e.g. name in source)
+  compulsory: False
+  yaml: True
+  multiple: True
+
+comment:
+  type: String
+  description: Optional free text comment.
+  compulsory: False
+  yaml: True
+
+description:
+  type: String
+  description: Optional extended descriptive text.
+  yaml: True
+
+publications:
+  type: Ind_id
+  compulsory: False
+  description: >
+    A publication describing this dataset - FBrf if available,
+    otherwise DOI (e.g. for preprint).
+  yaml: True
+
+dbxrefs:
+  type: String
+  compulsory: False
+  yaml: True
+  multiple: True
+
+

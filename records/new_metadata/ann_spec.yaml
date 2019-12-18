@@ -1,0 +1,52 @@
+subject_external_db:
+  compulsory: False
+  description: VFB DataBase ID for external DB
+
+subject_external_id:
+  compulsory: False
+  description: Identifier in external DB (specified in subject_external_db field).
+
+subject_name:
+  compulsory: False
+  description: > 
+  uniq: False
+  type: Class
+  multiple: False
+  
+subject_id:  
+  compulsory: False
+  description: > 
+  uniq: False
+  type: Ind_id
+  multiple: False
+  
+relation:  
+  compulsory: True
+  description: > 
+  uniq: False
+  type: Property
+  multiple: False
+  
+object:  
+  compulsory: True
+  description: > 
+  uniq: False
+  type: Class
+  multiple: False
+
+comment:
+  description: >
+    Free text comment on asserted relationship.  Typically used to describe evidence for assertion.
+  edge_annotation: true
+  uniq: False
+  multiple: False
+
+pub:
+  description: >
+    An identifier for a supporting publication - either a DOI (for preprints) or a FlyBase FBrf.
+  type: pub
+  edge_annotation: true
+
+
+
+

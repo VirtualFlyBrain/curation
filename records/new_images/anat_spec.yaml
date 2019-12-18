@@ -7,16 +7,6 @@ is_a:
   type: String
   multiple: True
 
-part_of:
-  compulsory: True
-  description: > 
-     Anatomical structure(s) that the entity depicted in the image is part of
-     e.g. 'adult brain'.  
-     Use ontology term labels. Multiple entries should be separated by a '|'
-  uniq: False
-  type: String
-  multiple: True
-
 classification_reference:
   compulsory: True
   description: > 
@@ -33,10 +23,19 @@ classification_comment:
   type: String
   multiple: False
 
-expresses:
+expresses_id:
   compulsory: False
   description: > 
-     Name(s) of FlyBase features whose expression is used to mark the depicted entity (e.g. GAL4 driver).
+     FBid(s) of FlyBase features whose expression is used to mark the depicted entity (e.g. GAL4 driver).
+     Multiple entries should be separated by a '|'.
+  uniq: True
+  type: String
+  multiple: True
+
+expresses_name:
+  compulsory: False
+  description: >
+     Names(s) of FlyBase features whose expression is used to mark the depicted entity (e.g. GAL4 driver).
      Multiple entries should be separated by a '|'.
   uniq: True
   type: String

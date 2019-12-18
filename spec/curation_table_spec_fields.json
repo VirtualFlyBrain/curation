@@ -1,0 +1,62 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "definitions": {
+    "neo_node_restriction": {
+      "type": "object",
+      "description": "A set of criteria applied to filter some set of nodes from Neo4j.",
+      "additionalProperties": false,
+      "required": ["field", "regex", "labels"],
+      "properties": {
+        "field": {
+          "description": "Neo4J property to which the regex restriction applies.",
+          "type": "string"
+        },
+        "regex": {
+          "description": "Regex restriction on field.",
+          "type": "string"
+        },
+        "labels": {
+          "description": "List of Neo:labels to use in restriction",
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    }
+  },
+  "title": "VFB_cur_meta",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "description",
+    "compulsory",
+    "type"
+  ],
+  "properties": {
+    "yaml": {
+      "description" : "Field may legally live in YAML file.",
+      "type": "boolean"
+    },
+    "compulsory": {
+      "description" : "Field/column must be present in record.",
+      "type": "boolean"
+    },
+    "multiple": {
+      "description" : "Are multiple entries (separated by '|') allowed?",
+      "type": "boolean"
+    },
+    "description": {
+      "description" : "Description of legal field content for curators.",
+      "type": "string"
+    },
+    "type": {
+      "type": "string",
+      "enum": ["Property", "Class", "Ind", "Property_id",
+        "Ind_id", "Class_id", "String", "Integer", "float"]
+    },
+
+    "restriction": {
+      "$ref": "#/definitions/neo_node_restriction"
+    },
+    "flybase_feature": { "type": "boolean" }
+  }
+}

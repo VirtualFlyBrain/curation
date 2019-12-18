@@ -1,0 +1,75 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "definitions": {
+    "restriction": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "neo_node_restriction": {
+          "type": "object",
+          "description": "A set of criteria applied to filter some set of nodes from Neo4j.",
+          "additionalProperties": false,
+          "required": [
+            "field",
+            "regex",
+            "labels"
+          ],
+          " properties": {
+            "field": {
+              "description": "Neo4J property to which the regex restriction applies.",
+              "type": "string"
+            },
+            "regex": {
+              "description": "Regex restriction on field.",
+              "type": "string"
+            },
+            "labels": {
+              "description": "List of Neo:labels to use in restriction",
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "FlyBase": {
+          "type": "object",
+          "properties": {
+            "table": {
+              "type": "string",
+              "description": "name of table for lookup in FlyBase CHADO"
+            },
+            "column": {
+              "type": "string",
+              "description": "name of column for lookup in FlyBase CHADO table."
+            }
+          }
+        }
+      }
+    }
+  },
+  "required": [],
+  "additionalProperties": false,
+  "properties": {
+    "description": {
+      "type": "string",
+      "description": "Curator facing descripton of relation and its usage"
+    },
+    "short_form": {
+      "type": "string",
+      "description": "short_form of relation or is_a."
+    },
+    "restriction": {
+      "Description": "Details of object restriction",
+      "$ref": "#/definitions/restriction"
+    }
+  }
+}
+
+
+
+
+
+
+  }
+}

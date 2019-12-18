@@ -16,12 +16,16 @@ before_install:
   - curl -sSf -u neo4j:neo4j "http://localhost:7474/db/data/"
   - git clone https://github.com/VirtualFlyBrain/VFB_neo4j.git
   - export PYTHONPATH=$PYTHONPATH:$TRAVIS_BUILD_DIR/VFB_neo4j/src/
+  - pwd
   
 install:
   - pip install -r requirements.txt
+  - pip install -r VFB_neo4j/requirements.txt
   - pip install ruamel.yaml # Hack for different package name on pip vs condaForge
 
 script:
   - cd src
   - python -m vfb.curation.test.test_peevish
+  # Run against test records
+  - python run_peevish.py --base_path=vfb/curation/test/resources/records http://localhost:7474 neo4j neo4j
 

@@ -1,15 +1,35 @@
 $schema: "http://json-schema.org/draft-04/schema#"
+
+definitions:
+  neo_restriction:
+    description: "A set of criteria applied to filter some set of nodes from Neo4j."
+    properties:
+      field:
+        description: "Neo4J property to which the regex restriction applies."
+        type: string
+      regex:
+        description: "Regex restriction on field."
+        type: string
+      labels:
+        description: "List of Neo:labels to use in restriction"
+        type: array
+        items: string
+
 title: VFB_cur_meta
 type: object
 additionalProperties: False
-
+required: ['description', 'compulsory', 'type']
 properties:
   yaml: Boolean
-  Compulsory: Boolean
-  List: Boolean
-  Description: String
+  compulsory: Boolean
+  multiple: Boolean
+  description: String
   type:
-    enum['Ontology', 'String', 'Integer', 'float']
+    enum['Property', 'Class', 'Ind', 'Property_id', 'Ind_id, 'Class_id', 'String', 'Integer', 'float']
+  restriction:
+    $definitions
+  flybase_relation: Boolean
+
    
     
   
