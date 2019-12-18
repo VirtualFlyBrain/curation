@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 from vfb.curation.peevish import get_recs
+from vfb.curation.curation_loader import load_recs
 #from vfb.curation.cur_load import NewMetaDataWriter, NewImageWriter
 import argparse
 import warnings
@@ -40,33 +41,19 @@ def check_records(path):
 
 
 
-def load_records(path, loader_class):
+def load_records(path):
     rec_path = '/'.join([args.base_path, path, "to_submit"]) + '/'
-    recs = get_recs(spec_path="../records/" + path,
-                    path_to_recs=rec_path)
-    stat = True
-    if len(recs) == 0:
-        warnings.warn("No records to check in: " + rec_path)
-    for r in recs:
-        if r:
-            loader = loader_class(args.endpoint, args.usr, args.pwd, r)
-            loader.write()
-        else:
-            stat = False
+    stat = load_recs("../records/" + path, rec_path, args.endpoint, args.usr, args.pwd)
     return stat
 
 
 stat = True
 
-if not check_records(path="new_images/"):
-    stat = False
-#if not check_records(path="new_datasets/"):
-#    stat = False
-if not check_records(path="new_metadata/"):
-    stat = False
+#if not check_records(path="new_images/"): stat = False
+#if not check_records(path="new_datasets/"): stat = False
 
-# load_records(path="../records/new_images", loader_class=NewImageWriter)
-# load_records(path="../records/new_metadata", loader_class=NewMetaDataWriter)
+if not check_records(path="new_metadata/"): stat = False
+if not load_records(path="new_metadata/"): stat = False
 
 if not stat:
     raise Exception("Failing records.  See preceding warnings for details.")

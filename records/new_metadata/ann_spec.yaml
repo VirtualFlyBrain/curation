@@ -33,3 +33,20 @@ object:
   uniq: False
   type: Class
   multiple: False
+
+comment:
+  description: >
+    Free text comment on asserted relationship.  Typically used to describe evidence for assertion.
+  edge_annotation: true
+  uniq: False
+  multiple: False
+
+pub:
+  description: >
+    An identifier for a supporting publication - either a DOI (for preprints) or a FlyBase FBrf.
+  type: pub
+  edge_annotation: true
+
+
+
+

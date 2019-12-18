@@ -5,7 +5,9 @@ from uk.ac.ebi.vfb.neo4j.KB_tools import kb_owl_edge_writer, KB_pattern_writer
 from uk.ac.ebi.vfb.neo4j.flybase2neo.feature_tools import FeatureMover
 from uk.ac.ebi.vfb.neo4j.flybase2neo.pub_tools import pubMover
 from .peevish import Record
+import numpy
 import warnings
+
 
 @dataclass
 class VfbInd:
@@ -78,37 +80,59 @@ class CurationWriter:
 
         # TBD: how to deal with FB features.  Maybe needs to be outside of this by adding to
         # KB first?
-        self.pattern_writer = KB_pattern_writer(endpoint, usr, pwd)
+        self.pattern_writer = KB_pattern_writer(endpoint, usr, pwd)  # maybe limit this to NewImageWriter
         self.feature_mover = FeatureMover(endpoint, usr, pwd)
         self.pub_mover = pubMover(endpoint, usr, pwd)
-        self.ew = self.pattern_writer.ew
+        self.ew = self.feature_mover.ew
         self.record = record
-        self.lookups = self.generate_lookups()
-        #self.lookups['relations'] = relation_lookup
+        self.object_lookup = self.generate_object_lookups()
+        self.relation_lookup = self.generate_relation_lookup()
+        self.stat = True
 
 
     def commit(self):
-        return self.ew.commit()
+        r = self.ew.commit()
+        if not r:
+            self.stat = False
+        return r
 
-    def generate_lookups(self):
-        print()
+    def generate_object_lookups(self):
+        cl = self._generate_lookups(self._gen_lookup_config_by_header())
+        rl = self._generate_lookups(self._gen_lookup_config_by_rel())
+        cl['rel_object'] = rl  # Might be better to have these as separate lookups?
+        return cl
 
-    def _generate_lookups(self):
 
-        #
+    def _gen_lookup_config_by_rel(self):
+        return {k: [LConf(field=v['restriction']['field'],
+                   regex=v['restriction']['regex'],
+                   labels=v['restriction']['labels'])]
+                for k, v in self.record.rel_spec.items()
+                if 'restriction' in v.keys()}
 
+    def _gen_lookup_config_by_header(self):
+        return {k: [LConf(field=v['restriction']['field'],
+                   regex=v['restriction']['regex'],
+                   labels=v['restriction']['labels'])]
+                for k, v in self.record.rel_spec.items()
+                if 'restriction' in v.keys()}
+
+    def generate_relation_lookup(self):
+        return {k: v['short_form']
+                for k, v in self.record.rel_spec.items()
+                if not (k == 'is_a')}  # Not keen on hard wiring here, but maybe unavoidable
+
+    def _generate_lookups(self, conf):
 
         """Generate  :Class name:ID lookups from DB for loading by label.
          Lookups are defined by standard config that specifies a config:
          name:field:regex, e.g. {'part_of': {'short_form': 'FBbt_.+'}}
          name should match the kwarg for which it is to be used.
          """
+        # This is just rolling a relation lookup...
 
-        lookup_config = {k: [LConf(field=v['restriction']['field'],
-                                   regex=v['restriction']['regex'],
-                                   labels=v['restriction']['labels'])]
-                         for k, v in self.record.rel_spec.items()
-                         if 'restriction' in v.keys()}
+        lookup_config = conf
+
         lookup = {}
         if lookup_config:
             # Add some type checking here?
@@ -121,16 +145,16 @@ class CurationWriter:
                     rr = self.ew.nc.commit_list([q])
                     r = results_2_dict_list(rr)
                     lookup[name].update({x['label']: x['short_form'] for x in r})
-        lookup['relation'] = {k: v['short_form'] for k, v in self.record.rel_spec.items()}
         return lookup
 
 
     def extend_lookup_from_flybase(self, features, key='expresses'):
+
         fu = "['"+"', ".join(features) + "']"
         ## Notes - use uniq'd IDs from features columns for lookup.
         query = "SELECT f.uniquename AS short_form, f.name AS label" \
                 " FROM feature WHERE f.name IN %s" % fu
-        dc = self.feature_mover.query_fb(query)
+        dc = self.feature_mover.query_fb(query)  # What does this return on fail
         self.lookups[key] = {d['label']: d['short_form'] for d in dc}
 
 
@@ -139,18 +163,46 @@ class NewMetaDataWriter(CurationWriter):
     """Wrapper object for adding new metatadata to existing entities.
     Takes """
 
+    def __init__(self, *args, **kwargs):
+        super(NewMetaDataWriter, self).__init__(*args, **kwargs)
+        self.rels = self.get_rels()  # May not need attribute
+
     def get_rels(self):
         rels = self.record.tsv['relation']
-        if set(rels) - set(self.record.rel_spec.keys()):
-            warnings.warn()  # Should this be on record check?
+        unknown_rels = set(rels) - set(self.record.rel_spec.keys())
+        if unknown_rels:
+            warnings.warn("Unknown relations used %s. "
+                          "Please extend relations_spec.yaml if you need new relations." % str(unknown_rels))
+            self.stat = False
             return False
         else:
             return rels
 
-    def generate_lookup(self):
-        # Only roll lookups for rels used
-        rels = self.get_rels()
+    def write_rows(self):
+        def kwarg_proc(r):
+            mapping = {'xref_db': 'subject_external_db',
+                       'xref_acc': 'subject_external_id',
+                       'id': 'subject_id',
+                       'label': 'subject_name'}
+            return {k: r[v] for k, v in mapping.items() if v in list(r.keys())}
 
+        for i, r in self.record.tsv.iterrows():
+            # Assumes all empty cells in DataFrame replaced with empty string.
+            s = VfbInd(**kwarg_proc(r))
+            edge_annotations = self._generate_edge_annotations(r)
+            # TODO: Refactor this to work from config
+            self.write_row(s, r['relation'], r['object'], edge_annotations=edge_annotations)
+
+    def _generate_edge_annotations(self, r):
+        """Generates edge annotation dict from pandas table row, using config as a lookup for edge annotation rows."""
+        # TODO - add lookup instead of relying on column header names matching AP names!
+        edge_annotations = {}
+        for k, v in r.items():
+            if v and (k in self.record.spec.keys()) \
+                    and 'edge_annotation' in self.record.spec[k].keys() \
+                    and self.record.spec[k]['edge_annotation']:
+                edge_annotations[k] = v
+        return edge_annotations
 
 
     def write_row(self,
@@ -164,7 +216,7 @@ class NewMetaDataWriter(CurationWriter):
         if edge_annotations is None:
             edge_annotations = {}
         subject_id = self.get_subject_id(s)
-        object_id = self.lookups[r][o]
+        object_id = self.object_lookup['rel_object'][r][o]
         if subject_id and object_id:
             if r == 'is_a':
                 self.ew.add_named_type_ax(s=subject_id,
@@ -172,8 +224,8 @@ class NewMetaDataWriter(CurationWriter):
                                           edge_annotations=edge_annotations,
                                           match_on='short_form')
                 return True
-            elif r in self.lookups['relations'].keys():
-                relation_id = self.lookups['relations'][r]
+            elif r in self.relation_lookup.keys():
+                relation_id = self.relation_lookup[r]
                 self.ew.add_anon_type_ax(s=subject_id,
                                          r=relation_id,
                                          o=object_id,
@@ -189,25 +241,28 @@ class NewMetaDataWriter(CurationWriter):
             return False
 
     def get_subject_id(self, s: VfbInd):
-        if s.xref:
+        if s.xref_db and s.xref_acc:
             # query to find id
-            xrefl = s.xref.split(':')
-            db = xrefl[0]
-            acc = xrefl[1]
             query = "MATCH (s:Site)<-[r:hasDbXref]-(i:Individual) " \
                     "WHERE s.short_form = '%s' " \
                     "ANd r.accession = '%s'" \
-                    "RETURN i.short_form as subject_id" % (db, acc)
+                    "RETURN i.short_form as subject_id" % (s.xref_db, s.xref_acc)
             q = self.ew.nc.commit_list([query])
             if not q:
-                return False  # Better try except here?
+                warnings.warn("VFB subject query fail") # Better make exception ?
+                self.stat = False  # Better try except here?
             else:
                 r = results_2_dict_list(q)
                 if len(r) == 1:
                     return r[0]['subject_id']
+                elif not r:
+                    warnings.warn("Unknown xref: %s:%s" % (s.xref_db, s.xref_acc))
+                    self.stat = False
                 else:
-                    warnings.warn()
-                    return False
+                    warnings.warn('Multiple matches for xref: %s:%s - %s' % (s.xref_db,
+                                                                             s.xref_acc,
+                                                                             str([x['subject_id'] for x in r])))
+                    self.stat = False
 
         elif s.label:
             if s.label in self.lookups['subject']:
@@ -227,6 +282,10 @@ class NewMetaDataWriter(CurationWriter):
             return s.id
 
 class NewImageWriter(CurationWriter):
+
+    def __init__(self, *args, **kwargs):
+        super(NewImageWriter, self).__init__(*args, **kwargs)
+        # some extensions here
 
     def load_new_image_table(self,
                              dataset,

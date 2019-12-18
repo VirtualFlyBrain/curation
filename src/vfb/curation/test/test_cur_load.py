@@ -1,5 +1,5 @@
 import unittest
-from ..cur_load import VfbInd, LConf, NewMetaDataWriter
+from ..curation_writer import VfbInd, LConf, NewMetaDataWriter
 
 
 class TestVFbInd(unittest.TestCase):

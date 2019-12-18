@@ -7,16 +7,6 @@ is_a:
   type: String
   multiple: True
 
-part_of:
-  compulsory: True
-  description: > 
-     Anatomical structure(s) that the entity depicted in the image is part of
-     e.g. 'adult brain'.  
-     Use ontology term labels. Multiple entries should be separated by a '|'
-  uniq: False
-  type: String
-  multiple: True
-
 classification_reference:
   compulsory: True
   description: > 

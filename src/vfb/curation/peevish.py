@@ -18,11 +18,11 @@ import os
 
 
 CurFile = namedtuple('CurFile', ['path', 'loc', 'extended_name',
-                                 'name', 'ext', 'type',
+                                 'name', 'ext', 'type', 'gross_type',
                                  'dataset', 'date'])
 
 def process_file_path(file_path):
-    path = file_path.split('/')
+    path = [fp for fp in file_path.split('/') if fp]  # list comp removes empty path components (//)
     extended_name = path[-1]
     name_ext = extended_name.split('.')
     if not (len(name_ext) == 2):
@@ -40,6 +40,7 @@ def process_file_path(file_path):
                    name=name_ext[0],
                    ext=name_ext[1],
                    type=name_breakdown[0],
+                   gross_type=path[-3],
                    dataset=name_breakdown[1],
                    date=name_breakdown[2]
                    )
@@ -87,18 +88,19 @@ def get_recs(path_to_recs, spec_path):
 
 
 class Record:
-    # Architecture question: Raise exceptions, or warn and return false
-    # so that wrapper script can check all recs?  Probably latter.
-
     def __init__(self, spec_path, cur_recs):
 
         """spec path = *directory* where spec is located
         cur_recs = tuple of CurFile objects (tsv, potentially plus paired yaml)
          Attributes:
              self.spec: Curation spec for curation record type
-             self.tsv pandas.DataFrame of curation record
+             self.tsv pandas.DataFrame of curation record - includes YAML curation file content as additional columns.
              self.cr = curRec object (curation file name breakdown)
-             self.y = datastrucure of yaml curation partner to tsv
+             self.type = record type (from curRec - for convenience)
+             self.gross_type = ross record type (from curRec - for convenience)
+             self.y = data-structure of yaml curation partner to tsv
+             self.stat: False if any checks have failed.  Use this to control
+             exceptions in wrapper scripts
              """
         self.stat = True
         self.y = False
@@ -113,7 +115,10 @@ class Record:
         for cr in cur_recs:
             if cr.ext == 'tsv':
                 self.tsv = pd.read_csv(cr.path, sep="\t")
+                self.tsv.fillna('')
                 self.cr = cr
+                self.type = self.cr.type
+                self.gross_type = self.cr.gross_type
             elif cr.ext == 'yaml':
                 y_file = open(cr.path, 'r')
                 self.y = ruamel_yaml.safe_load(y_file.read())
@@ -148,12 +153,12 @@ class Record:
         # Allow for columns that are legal in YAML to be present in tsv.
         spec_columns = set(self.spec.keys())
         compulsory_columns = set([k for k, v in
-                                  self.spec.items() if v['compulsory']])
+                                  self.spec.items() if ('compulsory' in v.keys()) and v['compulsory']])
 
 
         #  Check all input columns in spec
-        if not (input_columns - spec_columns):
-            illegal_columns = input_columns - spec_columns
+        illegal_columns = input_columns - spec_columns
+        if illegal_columns:
             self._fail("TSV header test")
             warnings.warn("TSV contains illegal columns: %s" % str(illegal_columns))
 
@@ -166,7 +171,7 @@ class Record:
     def check_uniqueness(self):
         uniq_columns = [k for k, v in self.spec.items() if 'uniq' in v.keys() and v['uniq']]
         for c in uniq_columns:
-            # Need to strip Nan - to cope with empty rows!
+            # This will fail unless NaN is converted to empty string to cope with empty cells.
             if c in self.tsv.columns:
                 contents = list(self.tsv[c].dropna())
                 duplicates = [item for item, count

@@ -56,6 +56,11 @@ part_of:
      Use ontology term labels. Multiple entries should be separated by a '|'
   uniq: False
   type: String
+  short_form: BFO_0000050
+  restriction:
+    field: short_form
+    regex: "FBbt_.+"
+    labels: ['Class']
   multiple: True
 
 dbxrefs:
