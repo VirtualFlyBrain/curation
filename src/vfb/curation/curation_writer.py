@@ -141,7 +141,7 @@ class CurationWriter:
                 for c in lcs:
                     q = "MATCH (c%s) where c.%s =~ '%s' RETURN c.label as label" \
                         ", c.short_form as short_form" % (c.neo_label_string, c.field, c.regex)
-                    print(q)
+                    #print(q)
                     rr = self.ew.nc.commit_list([q])
                     r = results_2_dict_list(rr)
                     lookup[name].update({x['label']: x['short_form'] for x in r})
