@@ -6,7 +6,8 @@ is_a:
     labels: ['Class']
 
 part_of:
-  description: Name of anatomical entity (FBbt) that the depicted entity is part of.
+  description: >
+     Use this to record the name of anatomical entity (FBbt) that the depicted entity is part of.
   short_form: BFO_0000050
   restriction:
     field: short_form
@@ -15,14 +16,14 @@ part_of:
 
 expresses:
   description: >
-    FlyBase Feature identifier for gene or transgene whose expression marks the
+     Use this to record the FlyBase Feature identifier for a gene or transgene whose expression marks the
      depicted entity in the image being annotated.
   short_form: RO_0002292
   flybase_feature: true
 
 overlaps:
   description: >
-    Name of anatomical entity (FBbt) that the depicted entity has some part in.
+     Use this record the name of an anatomical entity (FBbt) that the depicted entity has some part in.
   short_form: RO_0002131
   restriction:
     field: short_form
@@ -31,7 +32,7 @@ overlaps:
 
 has_synaptic_terminal_in:
   description: >
-    Subject must be a neuron. Name of anatomical entity (FBbt),
+    Subject must be a neuron. Use this relation to record the name of anatomical entity (FBbt),
     typically a synaptic neuropil, that the depicted neuron has synaptic terminals in.
   short_form: RO_0002130
   restriction:
@@ -41,8 +42,9 @@ has_synaptic_terminal_in:
 
 has_postsynaptic_terminal_in:
   description: >
-    Subject must be a neuron. Name of anatomical entity (FBbt), typically a synaptic
-    neuropil, that the depicted neuron postsynaptic terminals in.
+    Subject must be a neuron. Use this relation to record the name of an
+    anatomical entity (FBbt), typically a synaptic neuropil, that the depicted neuron 
+    postsynaptic terminals in.
   short_form: RO_0002110
   restriction:
     field: short_form
@@ -51,8 +53,9 @@ has_postsynaptic_terminal_in:
 
 has_presynaptic_terminal_in:
   description: >
-    Subject must be a neuron. Name of anatomical entity (FBbt), typically a synaptic
-    neuropil, that the depicted neuron has presynaptic terminals in.
+    Subject must be a neuron. Use this relation to record the name of an
+    anatomical entity (FBbt), typically a synaptic neuropil, that the depicted
+    neuron has presynaptic terminals in.
   short_form: RO_0002113
   restriction:
     field: short_form
@@ -61,7 +64,7 @@ has_presynaptic_terminal_in:
 
 develops_from:
   description: >
-    Name of anatomical entity (FBbt) that the depicted entity develops from.
+    Use this to record that name of anatomical entity (FBbt) that the depicted entity develops from.
   short_form: RO_0002202
   restriction:
     field: short_form
@@ -70,7 +73,8 @@ develops_from:
 
 has_soma_location:
   description: >
-    Subject must be a neuron. Name of anatomical entity (FBbt), that the depicted neuron has its soma in.
+    Subject must be a neuron. Use this relation to record the name of an anatomical entity (FBbt) 
+    that the depicted neuron has its soma in.
   short_form: RO_0002100
   restriction:
     field: short_form
