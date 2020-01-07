@@ -174,9 +174,7 @@ class NewMetaDataWriter(CurationWriter):
             warnings.warn("Unknown relations used %s. "
                           "Please extend relations_spec.yaml if you need new relations." % str(unknown_rels))
             self.stat = False
-            return False
-        else:
-            return rels
+        return list(set(rels)-unknown_rels)
 
     def write_rows(self):
         def kwarg_proc(r):
@@ -213,6 +211,12 @@ class NewMetaDataWriter(CurationWriter):
            r = relation label
            o = object label
            edge_annotations: Optionally annotate edge"""
+        if r not in self.rels:
+            warnings.warn("Not attempting to write row due to invalid relation %s." % r)
+            return False
+        if not (o in self.object_lookup['rel_object'][r].keys()):
+            warnings.warn("Not attempting to write row due to invalid object %s." % o)
+            return False
         if edge_annotations is None:
             edge_annotations = {}
         subject_id = self.get_subject_id(s)

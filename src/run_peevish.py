@@ -24,12 +24,13 @@ parser.add_argument("usr",
 parser.add_argument("pwd",
                     help="password")
 parser.add_argument("--base_path", help="Optional", default="../")
+parser.add_argument("--test_mode", help="Optional", action='store_true', default=False)
 args = parser.parse_args()
 
 
 
-def check_records(path):
-    rec_path = '/'.join([args.base_path, path, "working"]) + '/'
+def check_records(path, check_dir = "working"):
+    rec_path = '/'.join([args.base_path, path, check_dir]) + '/'
     recs = get_recs(spec_path="../records/" + path,
                     path_to_recs=rec_path)
     stat = True
@@ -43,8 +44,8 @@ def check_records(path):
 
 
 
-def load_records(path):
-    rec_path = '/'.join([args.base_path, path, "to_submit"]) + '/'
+def load_records(path, load_dir = "to_submit"):
+    rec_path = '/'.join([args.base_path, path, load_dir]) + '/'
     stat = load_recs("../records/" + path, rec_path, args.endpoint, args.usr, args.pwd)
     return stat
 
@@ -62,4 +63,7 @@ if not stat:
 else:
     print("Success!")
 
+if args.test_mode:
+    print("Running fail tests.")
+    load_records(path="new_metadata/", load_dir="test_fail")
 
