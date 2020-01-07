@@ -34,7 +34,9 @@ def check_records(path):
                     path_to_recs=rec_path)
     stat = True
     if len(recs) == 0:
-        warnings.warn("No records to check in: " + rec_path)
+        print("No records to check in: " + rec_path)
+    else:
+        print("Testing syntax of %s curation records." % len(recs))
     if False in recs:
         stat = False
     return stat
@@ -56,6 +58,8 @@ if not check_records(path="new_metadata/"): stat = False
 if not load_records(path="new_metadata/"): stat = False
 
 if not stat:
-    raise Exception("Failing records.  See preceding warnings for details.")
+    raise Exception("Failing records. See preceding warnings for details.")
+else:
+    print("Success!")
 
 

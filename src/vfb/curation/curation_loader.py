@@ -7,8 +7,12 @@ def load_recs(path_to_specs, path_to_recs, endpoint, usr, pwd):
                                    spec_path=path_to_specs) if r]
     stat = True
     if len(records) == 0:
-        warnings.warn("No records to check in: " + path_to_recs)  # No records => soft warning ONLY.
+        print("No records to check in: " + path_to_recs)
+    else:
+        print("Test loading %d record(s)." % len(records))
+
     for r in records:
+        print("Test loading %s" % r.cr.name)
         if r.gross_type == 'new_images':
             niw = NewImageWriter(endpoint, usr, pwd, r)  # niw rolls appropriate dicts
             # roll lookups (from configs)

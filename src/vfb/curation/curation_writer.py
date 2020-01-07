@@ -141,7 +141,7 @@ class CurationWriter:
                 for c in lcs:
                     q = "MATCH (c%s) where c.%s =~ '%s' RETURN c.label as label" \
                         ", c.short_form as short_form" % (c.neo_label_string, c.field, c.regex)
-                    print(q)
+                    #print(q)
                     rr = self.ew.nc.commit_list([q])
                     r = results_2_dict_list(rr)
                     lookup[name].update({x['label']: x['short_form'] for x in r})
@@ -154,7 +154,7 @@ class CurationWriter:
         ## Notes - use uniq'd IDs from features columns for lookup.
         query = "SELECT f.uniquename AS short_form, f.name AS label" \
                 " FROM feature WHERE f.name IN %s" % fu
-        dc = self.feature_mover.query_fb(query)  # What does this return on fail
+        dc = self.feature_mover.query_fb(query)  # What does this return on fail?
         self.lookups[key] = {d['label']: d['short_form'] for d in dc}
 
 
