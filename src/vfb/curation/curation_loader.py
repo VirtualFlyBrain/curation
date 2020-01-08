@@ -41,7 +41,7 @@ def load_recs(path_to_specs, path_to_recs, endpoint, usr, pwd):
             nmw = NewMetaDataWriter(endpoint, usr, pwd, r)  # nmw rolls appropriate dicts
             nmw.write_rows()
             nmw.commit()
-            # check relations
+            # check relations !!!
             # roll lookups (from configs)
             # Check FlyBase (from configs)
             # load rows (wrap rolling VfbInd)

@@ -6,6 +6,7 @@ from uk.ac.ebi.vfb.neo4j.flybase2neo.feature_tools import FeatureMover
 from uk.ac.ebi.vfb.neo4j.flybase2neo.pub_tools import pubMover
 from .peevish import Record
 import numpy
+import logging
 import warnings
 
 
@@ -48,7 +49,7 @@ class VfbInd:
                               "" % self.id)
                 self._stat = False
         else:
-            warnings.warn('Not enough information supplied to identify subject. Minimaun =  dbxref or ID, you supplied only %s' % self.__str__())
+            logging.warning('Not enough information supplied to identify subject. Minimum =  dbxref or ID, you supplied only %s' % self.__str__())
 
             self._stat = False
 
@@ -66,7 +67,6 @@ class LConf:
             self.neo_label_string = ':' + ':'.join(self.labels)
         else:
             self.neo_label_string = ''
-
 
 
 class CurationWriter:
@@ -89,12 +89,16 @@ class CurationWriter:
         self.relation_lookup = self.generate_relation_lookup()
         self.stat = True
 
-
     def commit(self):
         r = self.ew.commit()
         if not r:
             self.stat = False
         return r
+
+    def warn(self, context_name, context, message):
+        logging.warning("Error in record %s, %s\n %s\n:"
+                        "" % (self.record.cr.name, context_name,
+                              str(context)) + message)
 
     def generate_object_lookups(self):
         cl = self._generate_lookups(self._gen_lookup_config_by_header())
@@ -171,27 +175,17 @@ class NewMetaDataWriter(CurationWriter):
         rels = self.record.tsv['relation']
         unknown_rels = set(rels) - set(self.record.rel_spec.keys())
         if unknown_rels:
-            warnings.warn("Unknown relations used %s. "
-                          "Please extend relations_spec.yaml if you need new relations." % str(unknown_rels))
+            self.warn(context_name='relations', context='',
+                      message="Unknown relations used %s. "
+                              "Please extend relations_spec.yaml "
+                              "if you need new relations." % str(unknown_rels))
             self.stat = False
-            return False
-        else:
-            return rels
+        return list(set(rels)-unknown_rels)
 
     def write_rows(self):
-        def kwarg_proc(r):
-            mapping = {'xref_db': 'subject_external_db',
-                       'xref_acc': 'subject_external_id',
-                       'id': 'subject_id',
-                       'label': 'subject_name'}
-            return {k: r[v] for k, v in mapping.items() if v in list(r.keys())}
-
-        for i, r in self.record.tsv.iterrows():
+        for i, row in self.record.tsv.iterrows():
             # Assumes all empty cells in DataFrame replaced with empty string.
-            s = VfbInd(**kwarg_proc(r))
-            edge_annotations = self._generate_edge_annotations(r)
-            # TODO: Refactor this to work from config
-            self.write_row(s, r['relation'], r['object'], edge_annotations=edge_annotations)
+            self.write_row(row)
 
     def _generate_edge_annotations(self, r):
         """Generates edge annotation dict from pandas table row, using config as a lookup for edge annotation rows."""
@@ -205,14 +199,34 @@ class NewMetaDataWriter(CurationWriter):
         return edge_annotations
 
 
-    def write_row(self,
-                  s: VfbInd,
-                  r: str, o: str,
-                  edge_annotations=None):
+    def write_row(self, row):
         """s = subject individual. Type: VFB_ind
            r = relation label
            o = object label
            edge_annotations: Optionally annotate edge"""
+        def kwarg_proc(rw):
+            mapping = {'xref_db': 'subject_external_db',
+                       'xref_acc': 'subject_external_id',
+                       'id': 'subject_id',
+                       'label': 'subject_name'}
+            return {k: rw[v] for k, v in mapping.items() if v in list(rw.keys())}
+
+        s = VfbInd(**kwarg_proc(row))
+        edge_annotations = self._generate_edge_annotations(row)
+        # TODO: Refactor this to work from config
+        r = row['relation']
+        o = row['object']
+        edge_annotations = edge_annotations
+        if r not in self.rels:
+            self.warn(context_name="row", context=dict(row),
+                      message="Not attempting to write row due to"
+                              " invalid relation '%s'." % r)
+            return False
+        if not (o in self.object_lookup['rel_object'][r].keys()):
+            self.warn(context_name="row", context=dict(row),
+                      message="Not attempting to write row due to"
+                              " invalid object '%s'." % o)
+            return False
         if edge_annotations is None:
             edge_annotations = {}
         subject_id = self.get_subject_id(s)
@@ -245,23 +259,31 @@ class NewMetaDataWriter(CurationWriter):
             # query to find id
             query = "MATCH (s:Site)<-[r:hasDbXref]-(i:Individual) " \
                     "WHERE s.short_form = '%s' " \
-                    "ANd r.accession = '%s'" \
+                    "AND r.accession = '%s'" \
                     "RETURN i.short_form as subject_id" % (s.xref_db, s.xref_acc)
             q = self.ew.nc.commit_list([query])
             if not q:
-                warnings.warn("VFB subject query fail") # Better make exception ?
+                self.warn(context_name="Subject individual",
+                          context=s,
+                          message="VFB subject query fail") # Better make exception ?
                 self.stat = False  # Better try except here?
             else:
                 r = results_2_dict_list(q)
                 if len(r) == 1:
                     return r[0]['subject_id']
                 elif not r:
-                    warnings.warn("Unknown xref: %s:%s" % (s.xref_db, s.xref_acc))
+                    self.warn(context_name='Subject_individual',
+                              context=s,
+                              message="Unknown xref: %s:%s"
+                                      "" % (s.xref_db, s.xref_acc))
                     self.stat = False
                 else:
-                    warnings.warn('Multiple matches for xref: %s:%s - %s' % (s.xref_db,
-                                                                             s.xref_acc,
-                                                                             str([x['subject_id'] for x in r])))
+                    self.warn(context_name='Subject_individual',
+                              context=s,
+                              message='Multiple matches for xref: %s:%s - %s'
+                                      '' % (s.xref_db,
+                                            s.xref_acc,
+                                            str([x['subject_id'] for x in r])))
                     self.stat = False
 
         elif s.label:
