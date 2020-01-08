@@ -12,7 +12,7 @@ def load_recs(path_to_specs, path_to_recs, endpoint, usr, pwd):
         print("Test loading %d record(s)." % len(records))
 
     for r in records:
-        print("Test loading %s" % r.cr.name)
+        print("Test loading %s" % r.cr.path)
         if r.gross_type == 'new_images':
             niw = NewImageWriter(endpoint, usr, pwd, r)  # niw rolls appropriate dicts
             # roll lookups (from configs)
