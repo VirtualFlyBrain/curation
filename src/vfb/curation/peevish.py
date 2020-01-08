@@ -14,7 +14,7 @@ import glob
 from collections import namedtuple, Counter
 import warnings
 import os
-#from .cur_load import NewMetaDataWriter, NewImageWriter
+import logging
 
 
 CurFile = namedtuple('CurFile', ['path', 'loc', 'extended_name',
@@ -26,13 +26,13 @@ def process_file_path(file_path):
     extended_name = path[-1]
     name_ext = extended_name.split('.')
     if not (len(name_ext) == 2):
-        warnings.warn("Can't parse filename extension for %s"
-                      "Wrong number of '.'" % extended_name)
+        logging.warning("Can't parse filename extension for %s"
+                        "Wrong number of '.'" % extended_name)
         return False
     name_breakdown = name_ext[0].split('_')
     if not (len(name_breakdown) == 3):
-        warnings.warn("Curation FileName (%s) has wrong format,"
-                      "should be: type_dataset_date.ext" % extended_name)
+        logging.warning("Curation FileName (%s) has wrong format,"
+                        "should be: type_dataset_date.ext" % extended_name)
         return False
     return CurFile(path=file_path,
                    loc=path[0],
@@ -123,7 +123,7 @@ class Record:
                 y_file = open(cr.path, 'r')
                 self.y = ruamel_yaml.safe_load(y_file.read())
             else:
-                warnings.warn("Unknown file type %s" % cr.extended_name)
+                logging.warning("Unknown file type %s" % cr.extended_name)
                 stat = False
         # Each test fail should warn and set record stat to False.
         if self.y:
@@ -133,7 +133,7 @@ class Record:
         self.check_uniqueness()
 
     def _fail(self, test_name):
-        warnings.warn("%s failed test: %s" % (self.cr.name, test_name))
+        logging.warning("%s failed test: %s" % (self.cr.path, test_name))
         self.stat = False
 
 
@@ -145,7 +145,7 @@ class Record:
                 self.tsv[k] = v
             else:
                 self._fail("Yaml check")
-                warnings.warn("Record fail: %s Key not allowed in yaml: %s" % (k, self.cr.name))
+                logging.warning("Record fail: %s Key not allowed in yaml: %s" % (k, self.cr.path))
 
 # Should probably refactor to a single key check function.
     def _check_headers(self):

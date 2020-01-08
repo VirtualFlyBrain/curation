@@ -64,6 +64,8 @@ else:
     print("Success!")
 
 if args.test_mode:
+    print("Running record syntax fails tests")
+    check_records(path="new_metadata/", check_dir="test_syntax_fail")
     print("Running fail tests.")
-    load_records(path="new_metadata/", load_dir="test_fail")
+    load_records(path="new_metadata/", load_dir="test_load_fail")
 
