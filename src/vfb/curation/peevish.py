@@ -145,7 +145,8 @@ class Record:
                 self.tsv[k] = v
             else:
                 self._fail("Yaml check")
-                logging.warning("Record fail: %s Key not allowed in yaml: %s" % (k, self.cr.path))
+                logging.warning("Record fail: %s Key not allowed in"
+                                " yaml: %s" % (k, self.cr.name))
 
 # Should probably refactor to a single key check function.
     def _check_headers(self):
@@ -160,7 +161,7 @@ class Record:
         illegal_columns = input_columns - spec_columns
         if illegal_columns:
             self._fail("TSV header test")
-            warnings.warn("TSV contains illegal columns: %s" % str(illegal_columns))
+            logging.warning("TSV contains illegal columns: %s" % str(illegal_columns))
 
         if not input_columns.issuperset(compulsory_columns):
             self._fail("TSV header test")

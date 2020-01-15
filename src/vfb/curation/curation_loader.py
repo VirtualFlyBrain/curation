@@ -16,22 +16,23 @@ def load_recs(path_to_specs, path_to_recs, endpoint, usr, pwd):
         if r.gross_type == 'new_images':
             niw = NewImageWriter(endpoint, usr, pwd, r)  # niw rolls appropriate dicts
             # roll lookups (from configs)
-            print()  # Do stuff
             # Could potentially simplify from here and embed in CurationWriter...
-            if type == 'ep':
+            if r.type == 'ep':
+                f = niw.feature_mover.generate_expression_patterns()
                 print()  # Do stuff
                 # Attempt to add split classes
                 # load rows
                 if not niw.stat: stat = False
-            elif type == 'split':
+
+            elif r.type == 'split':
+                niw.feature_mover.gen_split_ep_feat()
                 print()  # Do stuff
                 # Attempt to add split classes
                 # load rows
                 if not niw.stat: stat = False
-            elif type == 'anat':
-                # Check FlyBase (from configs) & add types if poss
-                # load rows
-                print()  # Do stuff
+
+            elif r.type == 'anat':
+                niw.write_rows()
                 if not niw.stat: stat = False
             else:
                 warnings.warn("Unknown record type: %s" % r.type)
@@ -41,10 +42,6 @@ def load_recs(path_to_specs, path_to_recs, endpoint, usr, pwd):
             nmw = NewMetaDataWriter(endpoint, usr, pwd, r)  # nmw rolls appropriate dicts
             nmw.write_rows()
             nmw.commit()
-            # check relations !!!
-            # roll lookups (from configs)
-            # Check FlyBase (from configs)
-            # load rows (wrap rolling VfbInd)
             if not nmw.stat: stat = False
 
         elif r.gross_type == 'new_dataset':

@@ -1,18 +1,18 @@
-is_a:
+classification:
   compulsory: True
   description: > 
      Classification(s) of the entity depicted in the image, e.g. a neuron type from FBbt.
-     Use ontology term labels. Multiple entries should be separated by a '|'
   uniq: False
-  type: String
-  multiple: True
+  multiple: False
+  arg_mapping: anatomical_type
 
 classification_reference:
   compulsory: True
   description: > 
      FBrf or DOI (for preprint) of reference that specifies classification(s) 
   uniq: False
-  type: String
+  type: edge_attribute
+  applies_to: is_a
   multiple: True
 
 classification_comment:
@@ -20,7 +20,8 @@ classification_comment:
   description: > 
      Free text comment on classification(s) 
   uniq: True
-  type: String
+  type: edge_attribute
+  applies_to: is_a
   multiple: False
 
 expresses_id:
@@ -29,19 +30,19 @@ expresses_id:
      FBid(s) of FlyBase features whose expression is used to mark the depicted entity (e.g. GAL4 driver).
      Multiple entries should be separated by a '|'.
   uniq: True
-  type: String
+  type: Related
   multiple: True
 
-expresses_name:
+expresses:
   compulsory: False
   description: >
      Names(s) of FlyBase features whose expression is used to mark the depicted entity (e.g. GAL4 driver).
      Multiple entries should be separated by a '|'.
   uniq: True
-  type: String
+  type: Related
   multiple: True
   
 index:
   compulsory: False
   description: "Index number for an annotation layer.  This is required for painted domains."
-  type: Integer
+  type: AAIS_arg

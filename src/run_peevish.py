@@ -52,7 +52,9 @@ def load_records(path, load_dir = "to_submit"):
 
 stat = True
 
-#if not check_records(path="new_images/"): stat = False
+if not check_records(path="new_images/"): stat = False
+if not load_records(path="new_images/"): stat = False
+
 #if not check_records(path="new_datasets/"): stat = False
 
 if not check_records(path="new_metadata/"): stat = False
@@ -61,11 +63,11 @@ if not load_records(path="new_metadata/"): stat = False
 if not stat:
     raise Exception("Failing records. See preceding warnings for details.")
 else:
-    print("Success!")
+    print("* Test loading succeeded for all records * ")
 
 if args.test_mode:
-    print("Running record syntax fails tests")
+    print("*** Running record syntax fails tests ***")
     check_records(path="new_metadata/", check_dir="test_syntax_fail")
-    print("Running fail tests.")
+    print("*** Running fail tests.***")
     load_records(path="new_metadata/", load_dir="test_load_fail")
 

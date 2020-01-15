@@ -8,6 +8,7 @@ from .peevish import Record
 import numpy
 import logging
 import warnings
+import inspect
 
 
 @dataclass
@@ -39,7 +40,7 @@ class VfbInd:
                 self._stat = False
             if self.id:
                 warnings.warn("ID and xref provided, Which do you want me to use?"
-                          "%s" % (self.__str__()))
+                              "%s" % (self.__str__()))
                 self._stat = False
         elif self.id:
             if not self.label:
@@ -49,9 +50,11 @@ class VfbInd:
                               "" % self.id)
                 self._stat = False
         else:
-            logging.warning('Not enough information supplied to identify subject. Minimum =  dbxref or ID, you supplied only %s' % self.__str__())
+            logging.warning(
+                'Not enough information supplied to identify subject. Minimum =  dbxref or ID, you supplied only %s' % self.__str__())
 
             self._stat = False
+
 
 # Not sure this class still needed.
 @dataclass  # post init step addition of attribute prevents adding frozen=True
@@ -60,7 +63,6 @@ class LConf:
     field: str
     regex: str
     labels: List[str]
-
 
     def __post_init__(self):
         if self.labels:
@@ -106,22 +108,22 @@ class CurationWriter:
         cl['rel_object'] = rl  # Might be better to have these as separate lookups?
         return cl
 
-
     def _gen_lookup_config_by_rel(self):
         return {k: [LConf(field=v['restriction']['field'],
-                   regex=v['restriction']['regex'],
-                   labels=v['restriction']['labels'])]
+                          regex=v['restriction']['regex'],
+                          labels=v['restriction']['labels'])]
                 for k, v in self.record.rel_spec.items()
                 if 'restriction' in v.keys()}
 
     def _gen_lookup_config_by_header(self):
         return {k: [LConf(field=v['restriction']['field'],
-                   regex=v['restriction']['regex'],
-                   labels=v['restriction']['labels'])]
+                          regex=v['restriction']['regex'],
+                          labels=v['restriction']['labels'])]
                 for k, v in self.record.rel_spec.items()
                 if 'restriction' in v.keys()}
 
     def generate_relation_lookup(self):
+        """Generate relation name to short_form mapping"""
         return {k: v['short_form']
                 for k, v in self.record.rel_spec.items()
                 if not (k == 'is_a')}  # Not keen on hard wiring here, but maybe unavoidable
@@ -145,47 +147,24 @@ class CurationWriter:
                 for c in lcs:
                     q = "MATCH (c%s) where c.%s =~ '%s' RETURN c.label as label" \
                         ", c.short_form as short_form" % (c.neo_label_string, c.field, c.regex)
-                    #print(q)
+                    # print(q)
                     rr = self.ew.nc.commit_list([q])
                     r = results_2_dict_list(rr)
                     lookup[name].update({x['label']: x['short_form'] for x in r})
         return lookup
 
+    def extend_lookup_from_flybase(self, features,
+                                   key='expresses',  # Lose hard wiring here?!
+                                   add_feature_to_kb=True):
 
-    def extend_lookup_from_flybase(self, features, key='expresses'):
-
-        fu = "['"+"', ".join(features) + "']"
+        fu = "['" + "', ".join(features) + "']"
         ## Notes - use uniq'd IDs from features columns for lookup.
         query = "SELECT f.uniquename AS short_form, f.name AS label" \
                 " FROM feature WHERE f.name IN %s" % fu
         dc = self.feature_mover.query_fb(query)  # What does this return on fail?
-        self.lookups[key] = {d['label']: d['short_form'] for d in dc}
-
-
-class NewMetaDataWriter(CurationWriter):
-
-    """Wrapper object for adding new metatadata to existing entities.
-    Takes """
-
-    def __init__(self, *args, **kwargs):
-        super(NewMetaDataWriter, self).__init__(*args, **kwargs)
-        self.rels = self.get_rels()  # May not need attribute
-
-    def get_rels(self):
-        rels = self.record.tsv['relation']
-        unknown_rels = set(rels) - set(self.record.rel_spec.keys())
-        if unknown_rels:
-            self.warn(context_name='relations', context='',
-                      message="Unknown relations used %s. "
-                              "Please extend relations_spec.yaml "
-                              "if you need new relations." % str(unknown_rels))
-            self.stat = False
-        return list(set(rels)-unknown_rels)
-
-    def write_rows(self):
-        for i, row in self.record.tsv.iterrows():
-            # Assumes all empty cells in DataFrame replaced with empty string.
-            self.write_row(row)
+        self.object_lookup[key] = {d['label']: d['short_form'] for d in dc}
+        if add_feature_to_kb:
+            self.feature_mover.add_features(self.object_lookup[key].values())
 
     def _generate_edge_annotations(self, r):
         """Generates edge annotation dict from pandas table row, using config as a lookup for edge annotation rows."""
@@ -198,12 +177,40 @@ class NewMetaDataWriter(CurationWriter):
                 edge_annotations[k] = v
         return edge_annotations
 
+    def write_row(self, row):
+        pass
+
+    def write_rows(self):
+        for i, row in self.record.tsv.iterrows():
+            # Assumes all empty cells in DataFrame replaced with empty string.
+            self.write_row(row)
+
+
+class NewMetaDataWriter(CurationWriter):
+    """Wrapper object for adding new metatadata to existing entities.
+    Takes """
+
+    def __init__(self, *args, **kwargs):
+        super(NewMetaDataWriter, self).__init__(*args, **kwargs)
+        self.rels = self.get_rels()  # May not need attribute
+
+    def get_rels(self):
+        rels = self.record.tsv['relation']
+        unknown_rels = set(rels) - set(self.record.rel_spec.keys())
+        if unknown_rels:
+            self.warn(context_name='relations', context=set(rels),
+                      message="Unknown relations used %s. "
+                              "Please extend relations_spec.yaml "
+                              "if you need new relations." % str(unknown_rels))
+            self.stat = False
+        return list(set(rels) - unknown_rels)
 
     def write_row(self, row):
         """s = subject individual. Type: VFB_ind
            r = relation label
            o = object label
            edge_annotations: Optionally annotate edge"""
+
         def kwarg_proc(rw):
             mapping = {'xref_db': 'subject_external_db',
                        'xref_acc': 'subject_external_id',
@@ -265,7 +272,7 @@ class NewMetaDataWriter(CurationWriter):
             if not q:
                 self.warn(context_name="Subject individual",
                           context=s,
-                          message="VFB subject query fail") # Better make exception ?
+                          message="VFB subject query fail")  # Better make exception ?
                 self.stat = False  # Better try except here?
             else:
                 r = results_2_dict_list(q)
@@ -303,64 +310,88 @@ class NewMetaDataWriter(CurationWriter):
             # Allows for bare IDs. But should we?
             return s.id
 
+
 class NewImageWriter(CurationWriter):
 
     def __init__(self, *args, **kwargs):
         super(NewImageWriter, self).__init__(*args, **kwargs)
         # some extensions here
 
-    def load_new_image_table(self,
-                             dataset,
-                             imaging_type,
-                             label,
-                             start,
-                             template,
-                             anatomical_type,
-                             classification_reference='',
-                             classification_comment='',
-                             part_of='',
-                             expresses='',
-                             index=False,
-                             center=(),
-                             anatomy_attributes=None,
-                             dbxrefs=None,
-                             dbxref_strings=None,
-                             image_filename='',
-                             match_on='short_form',
-                             orcid='',
-                             name_id_sub_via_lookup=False,
-                             hard_fail=False):
+    def write_row(self, row):
 
-        """Method for loading new image curation tables.
-        Spec: https://github.com/VirtualFlyBrain/curation/blob/test_curation/records/new_images/anatomy_spec.yaml
-        All ontology fields use labels"""
+        def process_row(rw, start):
 
-        # Strategies for rdfs:label matching
+            """Takes row and ID range start as input. Distributes
+             each key, value pair to the appropriate method call,
+              converting to appropriate arg, value pairs."""
 
-        # 1. use match_on = label - some risk of choosing term from wrong ontology. This could potentially be managed in KB
-        # via enforced label uniquenes.  This would require some clean up! We already have 7 pairs of :Class nodes with
-        # matching labels, although none are currently used in annotation.  3 are GO:FBbt CC term, the rest are FBbi or
-        # SO terms with duplicate names. The only term likely to cause problems is GO:Cell. It is not clear to me why GO
-        # is in the KB at all. It is not used in annotation.
-        # BUT: enforcing uniquenes is a pain given that we will potentially load many external ontologies, some of which
-        # already have duplicates!
+            ###
+            # Type: Related
+            # Type: Annotation
+            # Type: node_attribute (assumed to apply to subject)
+            # Type: edge_attribute (applies_to: some specified edge)
+            # Type: aais_arg
+            # Multiple: True/False
+            aais_kwargs = inspect.getfullargspec(
+                self.pattern_writer.add_anatomy_image_set).args
+            aais_kwarg_dict = {
+                'start': start,
+                'edge_annotation': {},
+                'dbxref_strings': True
+            }
+            relationships = {}
+            annotations = {}
+            for k, v in rw.items():
+                # Treat all entries as list:
+                vl = v.split('|')
+                # Check if list can be > 1
+                if (('multiple' in self.record.spec[k].keys()) and
+                        self.record.spec[k]['multiple']):
+                    pass
+                else:
+                    if len(vl) > 1:
+                        self.warn(context_name='row',
+                                  context=row,
+                                  message="Multiple content not"
+                                          " allowed in %s but you"
+                                          " provided %s" % (k, v))
 
-        # 2. match_on = label + some additional match criteria (label, or short_form regex). This would require some
-        # re-engineering of core methods. The easiest strategy to support would be filter on neo4j:label.  However, the
-        # KB is deliberately poor in labels - maintaining them would be an overhead. (extending core methods to support
-        # labels seems like a good idea anyway - potentially useful for pdb).
+                # Separate out relationship assertions:
 
-        # 3. Roll lookup(s) that enforce some set of restrictions - e.g. short_form or iri regex.  Use lookup (dict) to
-        # run add_anatomy_image set using short_forms.  We can use these lookups to enforce some annotation consistency
-        # The maintenance overhead here is on the load table method and is relatively easy to manage through kwargs.
-        # is_a: broad - maybe just maintain a blacklist
-        # part_of: FBbt only
-        # expresses: iri filter for FlyBase?
-        # kwargs be on KB_pattern_writer __init__ so lookups only need to be rolled once.
+                if self.record.spec[k]['type'] == 'Related':
+                    relationships.update([self.object_lookup[k][x] for x in vl
+                                          if k in self.object_lookup.keys()])
 
-        args = locals()
-        for k, v in args.items():
-            if k in self.lookups.keys():
-                args[k] = self.lookups[k][v]
-        self.pattern_writer.add_anatomy_image_set(**args)  # Surely possible to do this on the original method!
+                elif self.record.spec[k]['type'] == 'Annotation':
+                    annotations.update([self.object_lookup[k][x] for x in vl
+                                        if k in self.object_lookup.keys()])
 
+                elif self.record.spec[k]['type'] == 'aais_arg':
+                    if 'arg_mapping' in self.record.spec[k].keys():
+                        arg = self.record.spec[k]['arg_mapping']
+                    else:
+                        arg = k
+
+                if 'restriction' in self.record.spec[k].keys():
+                    if v in self.object_lookup[k].keys():
+                        val = self.object_lookup[k][v]
+                    else:
+                        self.warn(context_name='row',
+                                  context=list(row),
+                                  message="Invalid object '%s'"
+                                          " in column: '%s'"
+                                          "" % (v, k))
+                        self.stat = False
+                        continue
+                else:
+                    val = v
+                if 'edge_annotation' in self.record.spec[k].keys():
+                    kwargs['edge_annotation']['arg'] = val
+                elif arg in aiis_args:
+                    kwargs[arg] = val
+                else:
+                    warnings.warn("Not processing %s as column not "
+                                  "applicable to method" % k)
+            return kwargs
+
+        self.pattern_writer.add_anatomy_image_set(**kwarg_proc(row, start='1000000'))
