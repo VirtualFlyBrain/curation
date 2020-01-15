@@ -26,6 +26,8 @@ install:
 script:
   - cd src
   - python -m vfb.curation.test.test_peevish
-  # Run against test records
-  - python run_peevish.py --test_mode --base_path=vfb/curation/test/resources/records http://localhost:7474 neo4j neo4j
+  # Run against test records (postive tests only)
+  - python run_peevish.py --base_path=vfb/curation/test/resources/records http://localhost:7474 neo4j neo4j
+  - echo "*** LOOKING FOR CURATION RECORDS TO LOAD ***"
+  - python run_peevish.py --base_path=../ http://localhost:7474 neo4j neo4j
 
