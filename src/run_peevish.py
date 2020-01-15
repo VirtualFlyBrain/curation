@@ -24,25 +24,28 @@ parser.add_argument("usr",
 parser.add_argument("pwd",
                     help="password")
 parser.add_argument("--base_path", help="Optional", default="../")
+parser.add_argument("--test_mode", help="Optional", action='store_true', default=False)
 args = parser.parse_args()
 
 
 
-def check_records(path):
-    rec_path = '/'.join([args.base_path, path, "working"]) + '/'
+def check_records(path, check_dir = "working"):
+    rec_path = '/'.join([args.base_path, path, check_dir]) + '/'
     recs = get_recs(spec_path="../records/" + path,
                     path_to_recs=rec_path)
     stat = True
     if len(recs) == 0:
-        warnings.warn("No records to check in: " + rec_path)
+        print("No records to check in: " + rec_path)
+    else:
+        print("Testing syntax of %s curation records." % len(recs))
     if False in recs:
         stat = False
     return stat
 
 
 
-def load_records(path):
-    rec_path = '/'.join([args.base_path, path, "to_submit"]) + '/'
+def load_records(path, load_dir = "to_submit"):
+    rec_path = '/'.join([args.base_path, path, load_dir]) + '/'
     stat = load_recs("../records/" + path, rec_path, args.endpoint, args.usr, args.pwd)
     return stat
 
@@ -56,6 +59,13 @@ if not check_records(path="new_metadata/"): stat = False
 if not load_records(path="new_metadata/"): stat = False
 
 if not stat:
-    raise Exception("Failing records.  See preceding warnings for details.")
+    raise Exception("Failing records. See preceding warnings for details.")
+else:
+    print("Success!")
 
+if args.test_mode:
+    print("Running record syntax fails tests")
+    check_records(path="new_metadata/", check_dir="test_syntax_fail")
+    print("Running fail tests.")
+    load_records(path="new_metadata/", load_dir="test_load_fail")
 
