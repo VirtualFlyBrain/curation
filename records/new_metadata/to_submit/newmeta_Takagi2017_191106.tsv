@@ -1,20 +1,20 @@
-subject_external_id	subject_name	relation	object
-18694051	Pre-goro6 left	is_a	larval pre-Goro6 neuron
-360861	Pre-goro6 right	is_a	larval pre-Goro6 neuron
-18695579	Pre-swallowtail1 left	is_a	larval pre-Swallowtail1 neuron
-18684928	A02o_a1r Wave-1	is_a	larval abdominal 1 Wave neuron
-18303100	ddac t2r	is_a	mesothoracic dorsal multidendritic neuron ddaC
-18189977	swallowtail t2l	is_a	larval Swallowtail neuron
-16605707	T19v_t1l	is_a	larval T19v neuron
-16418094	goro-like t1l	is_a	larval Goro-like neuron
-16100981	Pre-swallowtail1 right	is_a	larval pre-Swallowtail1 neuron
-15892037	T07u_t2l	is_a	larval T07u neuron
-13880943	MN30 RP4_a2r	is_a	abdominal 2 VO1 motor neuron
-13874213	MN30 RP4_a2l	is_a	abdominal 2 VO1 motor neuron
-6724973	goro-like t1r	is_a	larval Goro-like neuron
-3942269	MN1 aCC_a3r	is_a	larval abdominal 3 aCC neuron
-3931434	MN1 aCC_a3l	is_a	larval abdominal 3 aCC neuron
-1931981	T19v_t1r	is_a	larval T19v neuron
-918889	A02o_a1l Wave-1	is_a	larval abdominal 1 Wave neuron
-14472972	T07u_t2r	is_a	larval T07u neuron
-8342582	swallowtail_t2r	is_a	larval Swallowtail neuron
+subject_external_db	subject_external_id	subject_name	relation	object
+catmaid_l1em	18694051	Pre-goro6 left	is_a	larval pre-Goro6 neuron
+catmaid_l1em	360861	Pre-goro6 right	is_a	larval pre-Goro6 neuron
+catmaid_l1em	18695579	Pre-swallowtail1 left	is_a	larval pre-Swallowtail1 neuron
+catmaid_l1em	18684928	A02o_a1r Wave-1	is_a	larval abdominal 1 Wave neuron
+catmaid_l1em	18303100	ddac t2r	is_a	mesothoracic dorsal multidendritic neuron ddaC
+catmaid_l1em	18189977	swallowtail t2l	is_a	larval Swallowtail neuron
+catmaid_l1em	16605707	T19v_t1l	is_a	larval T19v neuron
+catmaid_l1em	16418094	goro-like t1l	is_a	larval Goro-like neuron
+catmaid_l1em	16100981	Pre-swallowtail1 right	is_a	larval pre-Swallowtail1 neuron
+catmaid_l1em	15892037	T07u_t2l	is_a	larval T07u neuron
+catmaid_l1em	13880943	MN30 RP4_a2r	is_a	abdominal 2 VO1 motor neuron
+catmaid_l1em	13874213	MN30 RP4_a2l	is_a	abdominal 2 VO1 motor neuron
+catmaid_l1em	6724973	goro-like t1r	is_a	larval Goro-like neuron
+catmaid_l1em	3942269	MN1 aCC_a3r	is_a	larval abdominal 3 aCC neuron
+catmaid_l1em	3931434	MN1 aCC_a3l	is_a	larval abdominal 3 aCC neuron
+catmaid_l1em	1931981	T19v_t1r	is_a	larval T19v neuron
+catmaid_l1em	918889	A02o_a1l Wave-1	is_a	larval abdominal 1 Wave neuron
+catmaid_l1em	14472972	T07u_t2r	is_a	larval T07u neuron
+catmaid_l1em	8342582	swallowtail_t2r	is_a	larval Swallowtail neuron
