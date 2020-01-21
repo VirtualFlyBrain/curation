@@ -1,0 +1,71 @@
+subject_external_id	subject_name	relation	object
+7952981	5thLN;left	is_a	larval Pdf negative s-LNv neuron
+8717219	5thLN;right	is_a	larval Pdf negative s-LNv neuron
+7940800	anlagen cell_left	part_of	anlage
+2208920	anlagen cell_left	part_of	anlage
+8448809	anlagen cell_left	part_of	anlage
+8449478	anlagen cell_left	part_of	anlage
+8448796	anlagen cell_left	part_of	anlage
+8449457	anlagen cell_left	part_of	anlage
+8353473	anlagen cell_left	part_of	anlage
+8358800	anlagen cell_left	part_of	anlage
+8337623	anlagen cell_left	part_of	anlage
+8448457	anlagen cell_left	part_of	anlage
+8448464	anlagen cell_left	part_of	anlage
+8448477	anlagen cell_left	part_of	anlage
+8448568	anlagen cell_left	part_of	anlage
+8362221	anlagen cell_left	part_of	anlage
+1816102	anlagen cell_right	part_of	anlage
+8470256	anlagen cell_right	part_of	anlage
+8432028	anlagen cell_right	part_of	anlage
+8361378	anlagen cell-older_left	part_of	anlage
+17414715	ChalOLP;left	is_a	optic lobe pioneer neuron 1
+8247641	ChalOLP;right	is_a	optic lobe pioneer neuron 1
+8700125	GlulOLP;left	is_a	optic lobe pioneer neuron 2
+7897051	GlulOLP;right	is_a	optic lobe pioneer neuron 2
+9927082	LN1;left	is_a	larval s-LNv Pdf neuron
+7874184	LN1;right	is_a	larval s-LNv Pdf neuron
+2204467	LN2;left	is_a	larval s-LNv Pdf neuron
+2512602	LN2;right	is_a	larval s-LNv Pdf neuron
+8118929	LN3;left	is_a	larval s-LNv Pdf neuron
+2775943	LN3;right	is_a	larval s-LNv Pdf neuron
+16087799	LN4;left	is_a	larval s-LNv Pdf neuron
+2775707	LN4;right	is_a	larval s-LNv Pdf neuron
+8111135	nc1;left	is_a	larval non-clock lateral neuron 1
+7555968	nc1;right	is_a	larval non-clock lateral neuron 1
+8340950	nc2;left	is_a	larval non-clock lateral neuron 2
+8270683	nc2;right	is_a	larval non-clock lateral neuron 2
+8480418	OLP4;right	is_a	optic lobe pioneer neuron
+9940382	pOLP;left	is_a	optic lobe pioneer neuron 3
+8124177	pOLP;right	is_a	optic lobe pioneer neuron 3
+9567051	PVL09 left	is_a	larval visual projection neuron PVL09
+9539868	PVL09 right	is_a	larval visual projection neuron PVL09
+7480731	Rh5PR-1;left	is_a	Rh5 photoreceptor of Bolwig organ
+766246	Rh5PR-1;right	is_a	Rh5 photoreceptor of Bolwig organ
+2216187	Rh5PR-2;left	is_a	Rh5 photoreceptor of Bolwig organ
+902877	Rh5PR-2;right	is_a	Rh5 photoreceptor of Bolwig organ
+7483922	Rh5PR-3;left	is_a	Rh5 photoreceptor of Bolwig organ
+7485368	Rh5PR-3;right	is_a	Rh5 photoreceptor of Bolwig organ
+2209091	Rh5PR-4;left	is_a	Rh5 photoreceptor of Bolwig organ
+2552701	Rh5PR-4;right	is_a	Rh5 photoreceptor of Bolwig organ
+7568455	Rh5PR-5;right	is_a	Rh5 photoreceptor of Bolwig organ
+7778722	Rh5PR-6;right	is_a	Rh5 photoreceptor of Bolwig organ
+2216445	Rh6PR-1;left	is_a	Rh6 photoreceptor of Bolwig organ
+900032	Rh6PR-1;right	is_a	Rh6 photoreceptor of Bolwig organ
+8447845	Rh6PR-10;right	is_a	Rh6 photoreceptor of Bolwig organ
+2200028	Rh6PR-2;left	is_a	Rh6 photoreceptor of Bolwig organ
+7555204	Rh6PR-2;right	is_a	Rh6 photoreceptor of Bolwig organ
+2206279	Rh6PR-3;left	is_a	Rh6 photoreceptor of Bolwig organ
+902038	Rh6PR-3;right	is_a	Rh6 photoreceptor of Bolwig organ
+2215447	Rh6PR-4;left	is_a	Rh6 photoreceptor of Bolwig organ
+1856512	Rh6PR-4;right	is_a	Rh6 photoreceptor of Bolwig organ
+10241716	Rh6PR-5;left	is_a	Rh6 photoreceptor of Bolwig organ
+2544902	Rh6PR-5;right	is_a	Rh6 photoreceptor of Bolwig organ
+2216131	Rh6PR-6;left	is_a	Rh6 photoreceptor of Bolwig organ
+2532841	Rh6PR-6;right	is_a	Rh6 photoreceptor of Bolwig organ
+2215247	Rh6PR-7;left	is_a	Rh6 photoreceptor of Bolwig organ
+7566199	Rh6PR-7;right	is_a	Rh6 photoreceptor of Bolwig organ
+2215622	Rh6PR-8;left	is_a	Rh6 photoreceptor of Bolwig organ
+946481	Rh6PR-8;right	is_a	Rh6 photoreceptor of Bolwig organ
+37365	Rh6PR-9;left	is_a	Rh6 photoreceptor of Bolwig organ
+16267292	Rh6PR-9;right	is_a	Rh6 photoreceptor of Bolwig organ
