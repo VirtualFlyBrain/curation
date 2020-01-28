@@ -32,7 +32,7 @@ catmaid_l1em	18508515	A02o_a4l Wave-1	is_a	larval abdominal 4 Wave neuron
 catmaid_l1em	17872154	A01d3_a1r	is_a	larval abdominal 1 A01d-3 neuron
 catmaid_l1em	17693220	A09l_a2r Down-and-back-1	is_a	larval abdominal 2 down and back neuron
 catmaid_l1em	16312925	ddaA a1r class III md	is_a	abdominal 1 dorsal multidendritic neuron ddaA
-catmaid_l1em	16311520	v'pda_a1l (class III)	is_a	abdominal 1 ventral multidendritic neuron v'dap
+catmaid_l1em	16311520	v'pda_a1l (class III)	is_a	abdominal 1 ventral multidendritic neuron v\'dap
 catmaid_l1em	16311502	v'esA or v'esB or v'es2[1][2]_a1l	is_a	posterior fascicle sensory neuron
 catmaid_l1em	14642308	ldaB class III_a1l	is_a	abdominal 1 lateral multidendritic neuron ldaB
 catmaid_l1em	12468812	A09l_a1l Down-and-back-1	is_a	larval abdominal 1 down and back neuron
@@ -43,7 +43,7 @@ catmaid_l1em	10053642	A09l_t3r Down-and-back-1	is_a	larval metathoracic down and
 catmaid_l1em	10021175	A18l_a1l	is_a	larval abdominal 1 A18l neuron
 catmaid_l1em	10004243	A27k_a1r	is_a	larval abdominal 1 A27k neuron
 catmaid_l1em	7792781	vdaD a1l class III md	is_a	abdominal 1 ventral multidendritic neuron vdaD
-catmaid_l1em	7636004	v'pda a1r class III md	is_a	abdominal 1 ventral multidendritic neuron v'dap
+catmaid_l1em	7636004	v'pda a1r class III md	is_a	abdominal 1 ventral multidendritic neuron v\'dap
 catmaid_l1em	7633929	v'esA or v'esB or v'es2[1][2]_a1r	is_a	posterior fascicle sensory neuron
 catmaid_l1em	7124056	A09l_t3l Down-and-back-1	is_a	larval metathoracic down and back neuron
 catmaid_l1em	7076835	ldaB a1r class III md	is_a	abdominal 1 lateral multidendritic neuron ldaB
