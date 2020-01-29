@@ -1,6 +1,7 @@
 from uk.ac.ebi.vfb.neo4j.neo4j_tools import results_2_dict_list
 from dataclasses import dataclass
 from typing import List
+from uk.ac.ebi.vfb.neo4j.neo4j_tools import escape_string as escape_string_for_neo
 from uk.ac.ebi.vfb.neo4j.KB_tools import kb_owl_edge_writer, KB_pattern_writer
 from uk.ac.ebi.vfb.neo4j.flybase2neo.feature_tools import FeatureMover
 from uk.ac.ebi.vfb.neo4j.flybase2neo.pub_tools import pubMover
@@ -8,6 +9,9 @@ from .peevish import Record
 import numpy
 import logging
 import warnings
+import re
+
+
 
 
 @dataclass
@@ -95,10 +99,12 @@ class CurationWriter:
             self.stat = False
         return r
 
-    def warn(self, context_name, context, message):
+    def warn(self, context_name, context, message, stat=False):
         logging.warning("Error in record %s, %s\n %s\n:"
                         "" % (self.record.cr.name, context_name,
                               str(context)) + message)
+        if not stat:
+            self.stat = False
 
     def generate_object_lookups(self):
         cl = self._generate_lookups(self._gen_lookup_config_by_header())
@@ -148,7 +154,7 @@ class CurationWriter:
                     #print(q)
                     rr = self.ew.nc.commit_list([q])
                     r = results_2_dict_list(rr)
-                    lookup[name].update({x['label']: x['short_form'] for x in r})
+                    lookup[name].update({escape_string_for_neo(x['label']): x['short_form'] for x in r})
         return lookup
 
 
@@ -159,7 +165,7 @@ class CurationWriter:
         query = "SELECT f.uniquename AS short_form, f.name AS label" \
                 " FROM feature WHERE f.name IN %s" % fu
         dc = self.feature_mover.query_fb(query)  # What does this return on fail?
-        self.lookups[key] = {d['label']: d['short_form'] for d in dc}
+        self.lookups[key] = {escape_string_for_neo(d['label']): d['short_form'] for d in dc}
 
 
 class NewMetaDataWriter(CurationWriter):
