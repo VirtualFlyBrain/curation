@@ -17,6 +17,8 @@ before_install:
   - git clone https://github.com/VirtualFlyBrain/VFB_neo4j.git
   - export PYTHONPATH=$PYTHONPATH:$TRAVIS_BUILD_DIR/VFB_neo4j/src/
   - pwd
+  - export BUILD_TYPE=`if [[ "$TRAVIS_BRANCH" == *"_curation" ]]; then echo "curation"; elif [ "$TRAVIS_BRANCH" == "master" ]; then echo "master"; else echo "other"; fi`
+  - export BASEPATH=`if [ "$BUILD_TYPE" == "curation" ]; then echo "../records"; else echo "vfb/curation/test/resources/records"; fi`
   
 install:
   - pip install -r requirements.txt
@@ -25,7 +27,7 @@ install:
 
 script:
   - cd src
-  - python -m vfb.curation.test.test_peevish
-  # Run against test records
-  - python run_peevish.py --test_mode --base_path=vfb/curation/test/resources/records http://localhost:7474 neo4j neo4j
+  - if [ ! "$BUILD_TYPE" == "curation" ]; then python -m vfb.curation.test.test_peevish; fi;
+  # Run against [test] records
+  - python run_peevish.py --test_mode --base_path=$BASEPATH http://localhost:7474 neo4j neo4j
 
