@@ -27,15 +27,15 @@ catmaid_l1em	4038808	A27k_a2l	is_a	larval abdominal 1 A27k neuron
 catmaid_l1em	4113612	A27k_a2r	is_a	larval abdominal 1 A27k neuron		
 catmaid_l1em	7934159	A27n_a1l	is_a	larval abdominal 1 A27n neuron		
 catmaid_l1em	4124563	A27n_a1r	is_a	larval abdominal 1 A27n neuron		
-catmaid_l1em	6467481	MN21/22 (RF:LT1/LT2) LT2_a1l	is_a			needs merge - ticket #713
-catmaid_l1em	16713121	MN21/22 (RF:LT1/LT2) LT2_a1r  	is_a			needs merge - ticket #713
-catmaid_l1em	4042315	MN22/23 (RF:LT2/LT3) LT1_a1l	is_a			needs merge - ticket #713
-catmaid_l1em	4102728	MN22/23 (RF:LT2/LT3) LT1_a1r  	is_a			needs merge - ticket #713
-catmaid_l1em	4289773	MN23/24 (RF: LT3/LT4) LT4_a1l	is_a			needs merge - ticket #713
-catmaid_l1em	4121534	MN23/24 (RF: LT3/LT4) LT4_a1r  	is_a			needs merge - ticket #713
+catmaid_l1em	6467481	MN21/22 (RF:LT1/LT2) LT2_a1l	is_a			can't map yet
+catmaid_l1em	16713121	MN21/22 (RF:LT1/LT2) LT2_a1r  	is_a			can't map yet
+catmaid_l1em	4042315	MN22/23 (RF:LT2/LT3) LT1_a1l	is_a			can't map yet
+catmaid_l1em	4102728	MN22/23 (RF:LT2/LT3) LT1_a1r  	is_a			can't map yet
+catmaid_l1em	4289773	MN23/24 (RF: LT3/LT4) LT4_a1l	is_a			can't map yet
+catmaid_l1em	4121534	MN23/24 (RF: LT3/LT4) LT4_a1r  	is_a			can't map yet
 catmaid_l1em	4028114	MN5 LO1_a1l	is_a	larval abdominal 1 LO1 motor neuron		
 catmaid_l1em	4535767	MN5 LO1_a1r	is_a	larval abdominal 1 LO1 motor neuron		
-catmaid_l1em	4326468	MN8 (RF:SBM) LT3_a1l	is_a			LT3 or SBM?
-catmaid_l1em	4881629	MN8 (RF:SBM) LT3_a1r 	is_a			LT3 or SBM?
+catmaid_l1em	4326468	MN8 (RF:SBM) LT3_a1l	is_a			can't map yet
+catmaid_l1em	4881629	MN8 (RF:SBM) LT3_a1r 	is_a			can't map yet
 catmaid_l1em	4104476	T01d1_t3l	is_a	larval metathoracic T01d1 neuron		
 catmaid_l1em	10185585	T01d1_t3r	is_a	larval metathoracic T01d1 neuron		
