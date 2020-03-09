@@ -1,0 +1,12 @@
+subject_external_db	subject_external_id	subject_name	relation	object		notes
+catmaid_l1em	4936149	A01c1_a1r	is_a			later
+catmaid_l1em	5084467	A01c2_a1l (ipsi_dendrite)	is_a			later
+catmaid_l1em	7992966	A02e_a1l	is_a	larval abdominal 1 A02e neuron		
+catmaid_l1em	14858626	A02e_a1r	is_a	larval abdominal 1 A02e neuron		
+catmaid_l1em	14866842	A02g_a1l	is_a	larval abdominal 1 A02g neuron		
+catmaid_l1em	18145093	A02g_a1r	is_a	larval abdominal 1 A02g neuron		
+catmaid_l1em	10855206	A03g_a1r	is_a	larval abdominal 1 A03g neuron		
+catmaid_l1em	17904627	A27j_a1l	is_a	larval abdominal 1 A27j neuron		
+catmaid_l1em	10015769	A27j_a1r	is_a	larval abdominal 1 A27j neuron		
+catmaid_l1em	4213417	A27k_a1l	is_a	larval abdominal 1 A27k neuron		
+catmaid_l1em	10492185	vdaA_a1l (class II)	is_a	abdominal 1 ventral multidendritic neuron vdaA		
