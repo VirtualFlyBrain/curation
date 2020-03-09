@@ -1,0 +1,6 @@
+subject_external_db	subject_external_id	subject_name	relation	object
+catmaid_l1em	7782409	drunken-4 a1l	is_a	larval abdominal 1 Drunken-4 neuron
+catmaid_l1em	7683669	drunken-4 a1r	is_a	larval abdominal 1 Drunken-4 neuron
+catmaid_l1em	17435666	Recliner left; T08v left	is_a	larval recliner neuron
+catmaid_l1em	6144284	Recliner right; T08v right	is_a	larval recliner neuron
+catmaid_l1em	20153309	Thoracic Ladder-1 t2	is_a	larval thoracic ladder-1 neuron
