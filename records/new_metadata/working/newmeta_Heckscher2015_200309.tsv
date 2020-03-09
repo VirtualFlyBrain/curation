@@ -1,130 +1,110 @@
-subject_external_db	subject_external_id	subject_name	relation	object
-catmaid_l1em	10474936	A06e_a1l (Saaghi-3)	is_a	
-catmaid_l1em	11958584	A06e_a1r (Saaghi-3)	is_a	
-catmaid_l1em	11065546	A06e_t3r (Saaghi-3)	is_a	
-catmaid_l1em	18418512	A06l_a1l (Saaghi-1)	is_a	
-catmaid_l1em	17435371	A06l_a1r (Saaghi-1)	is_a	
-catmaid_l1em	16009772	A08c_a1l	is_a	
-catmaid_l1em	10929871	A08c_a1r	is_a	
-catmaid_l1em	7876385	A08e1_a1l 	is_a	
-catmaid_l1em	8198957	A08e1_a1r	is_a	
-catmaid_l1em	8602632	A08e1_a2l	is_a	
-catmaid_l1em	14201007	A08e1_a2r	is_a	
-catmaid_l1em	12809923	A08e2_a1l	is_a	
-catmaid_l1em	8234099	A08e2_a1r 	is_a	
-catmaid_l1em	8374407	A08e2_a2l	is_a	
-catmaid_l1em	15879188	A08e2_a2r	is_a	
-catmaid_l1em	8421329	A08e3_a1l 	is_a	
-catmaid_l1em	8039617	A08e3_a1r	is_a	
-catmaid_l1em	10413917	A08e3_a2l	is_a	
-catmaid_l1em	10397674	A08e3_a2r	is_a	
-catmaid_l1em	13671419	dbd_a1l	is_a	
-catmaid_l1em	6195521	dbd_a1r	is_a	
-catmaid_l1em	13883895	dbd_a2l	is_a	
-catmaid_l1em	13876816	dbd_a2r	is_a	
-catmaid_l1em	10562191	dbd_t3l_JMpair5	is_a	
-catmaid_l1em	14573136	dbd_t3r_JMpair5	is_a	
-catmaid_l1em	12960217	ddaD_a1l (class I)	is_a	
-catmaid_l1em	6280151	ddaD_a1r (class I)	is_a	
-catmaid_l1em	10561898	ddaD_a2l	is_a	
-catmaid_l1em	15351530	ddaD_a2r	is_a	
-catmaid_l1em	15505125	ddaE_t3l	is_a	
-catmaid_l1em	16233066	ddaE_t3r	is_a	
-catmaid_l1em	12960079	dmd1_a1l_JMpair3	is_a	
-catmaid_l1em	15551560	dmd1_a1r_JMpair3	is_a	
-catmaid_l1em	14198375	ISN MN_a1r	is_a	
-catmaid_l1em	13877013	ISN MN_a2r (U4/U5)	is_a	
-catmaid_l1em	8196192	Jaam-1_a1l (HMD1 (A12p))	is_a	
-catmaid_l1em	8095561	Jaam-1_a1r (HMD1 (A12p))	is_a	
-catmaid_l1em	11466247	Jaam-2_a1l (HMD2 (A12g))	is_a	
-catmaid_l1em	12990250	Jaam-2_a1r (HMD2 (A12g))	is_a	
-catmaid_l1em	11928389	Jaam-3_a1l (HMD3 (A12 c3))	is_a	
-catmaid_l1em	13775274	Jaam-3_a1r (HMD3 (A12 c3))	is_a	
-catmaid_l1em	14194026	MN ISN MN_a1r    R only 	is_a	
-catmaid_l1em	13885023	MN ISN MN_a2l (U4/U5)	is_a	
-catmaid_l1em	13882192	MN ISN MN_a2l [MN-VL2 (13)?]	is_a	
-catmaid_l1em	13877402	MN ISN MN_a2r (U4/U5)	is_a	
-catmaid_l1em	10051927	MN ISN MN_a2r [MN-VL2 (13)?]	is_a	
-catmaid_l1em	13884216	MN-VO4Ð6 (NB7-1 was- VO6 (17)? )_a2l	is_a	
-catmaid_l1em	13881810	MN-VO4/5_a2l (NB7-1? ISN MN-15/16 ?)	is_a	
-catmaid_l1em	10649843	MN1 aCC_a1l	is_a	
-catmaid_l1em	4488976	MN1 aCC_a1r	is_a	
-catmaid_l1em	8026224	MN10 U2_a1l	is_a	
-catmaid_l1em	14047760	MN10 U2_a1r	is_a	
-catmaid_l1em	13875538	MN10 U2_a2r	is_a	
-catmaid_l1em	13883598	MN10U2_a2l	is_a	
-catmaid_l1em	14088451	MN11 (ISN NB3-2)_a1l	is_a	
-catmaid_l1em	10013402	MN11 (ISN NB3-2)_a1r	is_a	
-catmaid_l1em	10678017	MN12-III (ISN VL1 V-MN NB5-2)_a1l	is_a	
-catmaid_l1em	14046720	MN12-III (ISN VL1 V-MN NB5-2)_a1r	is_a	
-catmaid_l1em	13877719	MN12-III (ISN VL1 V-MN NB5-2)_a2l	is_a	
-catmaid_l1em	19111930	MN13 ISN MN-VL2_a1l 	is_a	
-catmaid_l1em	14194703	MN13 ISN MN-VL2_a1r	is_a	
-catmaid_l1em	14045016	MN14 RP1_a1l	is_a	
-catmaid_l1em	14206438	MN14 RP1_a1r	is_a	
-catmaid_l1em	14203725	MN15/16 VO4/5 (NB7-1? ISN)_a1l	is_a	
-catmaid_l1em	14048538	MN15/16 VO4/5 (NB7-1? ISN)_a1r	is_a	
-catmaid_l1em	19139253	MN15/16/17 VO4Ð6 (NB7-1? )_a1l	is_a	
-catmaid_l1em	14045489	MN15/16/17 VO4Ð6 (NB7-1? )_a1r	is_a	
-catmaid_l1em	14199031	MN18 (ISN DT1)_a1l	is_a	
-catmaid_l1em	6970942	MN18 (ISN DT1)_a1r	is_a	
-catmaid_l1em	14086309	MN19 (ISN NB3-2)_a1l	is_a	
-catmaid_l1em	16181494	MN19 (ISN NB3-2)_a1r	is_a	
-catmaid_l1em	14047130	MN2 ISN(U3-NB7-1?)_a1l	is_a	
-catmaid_l1em	14048287	MN2 ISN(U3-NB7-1?)_a1r	is_a	
-catmaid_l1em	16433395	MN20 ISN_a1l	is_a	
-catmaid_l1em	5085455	MN20 ISN_a1r	is_a	
-catmaid_l1em	6467481	MN21/22 (RF:LT1/LT2) LT2_a1l	is_a	
-catmaid_l1em	16713121	MN21/22 (RF:LT1/LT2) LT2_a1r  	is_a	
-catmaid_l1em	4042315	MN22/23 (RF:LT2/LT3) LT1_a1l	is_a	
-catmaid_l1em	4102728	MN22/23 (RF:LT2/LT3) LT1_a1r  	is_a	
-catmaid_l1em	4289773	MN23/24 (RF: LT3/LT4) LT4_a1l	is_a	
-catmaid_l1em	4121534	MN23/24 (RF: LT3/LT4) LT4_a1r  	is_a	
-catmaid_l1em	4524871	MN26 (SN MN VA1)_a1l	is_a	
-catmaid_l1em	4397287	MN26 (SN MN VA1)_a1r	is_a	
-catmaid_l1em	4326520	MN27 (SN MN VA2)_a1l	is_a	
-catmaid_l1em	4101976	MN27 (SN MN VA2)_a1r	is_a	
-catmaid_l1em	5899328	MN28 ISN_a1l	is_a	
-catmaid_l1em	14048876	MN28 ISN_a1r	is_a	
-catmaid_l1em	4274364	MN29 (SN MN VA3)_a1l	is_a	
-catmaid_l1em	4382895	MN29 (SN MN VA3)_a1r	is_a	
-catmaid_l1em	14088149	MN3 (ISN U4 DA3 NB7-1?)_a1l 	is_a	
-catmaid_l1em	14045854	MN3 (ISN U4 DA3 NB7-1?)_a1r	is_a	
-catmaid_l1em	14194234	MN30 RP4_a1l	is_a	
-catmaid_l1em	14087107	MN30 RP4_a1r	is_a	
-catmaid_l1em	14087339	MN4 (ISN U5 NB7-1?)_a1l	is_a	
-catmaid_l1em	14047945	MN4 (ISN U5 NB7-1?)_a1r	is_a	
-catmaid_l1em	4028114	MN5 LO1_a1l	is_a	
-catmaid_l1em	4535767	MN5 LO1_a1r	is_a	
-catmaid_l1em	16264802	MN6/7 RP3_a2l	is_a	
-catmaid_l1em	4326468	MN8 (RF:SBM) LT3_a1l	is_a	
-catmaid_l1em	4881629	MN8 (RF:SBM) LT3_a1r 	is_a	
-catmaid_l1em	14085813	MN9 U1_a1l	is_a	
-catmaid_l1em	14047554	MN9 U1_a1r	is_a	
-catmaid_l1em	13885984	MN9 U1_a2l	is_a	
-catmaid_l1em	13873397	MN9 U1_a2r	is_a	
-catmaid_l1em	13058240	MNISN-Is RP2_a1l	is_a	
-catmaid_l1em	13057994	MNISN-Is RP2_a1r	is_a	
-catmaid_l1em	14044614	MNISNb/d-Is RP5_a1l	is_a	
-catmaid_l1em	14199565	MNISNb/d-Is RP5_a1r	is_a	
-catmaid_l1em	13874875	MNISNb/d-Is RP5_a2l	is_a	
-catmaid_l1em	13881374	MNISNb/d-Is RP5_a2r	is_a	
-catmaid_l1em	11321644	neuron 11321645 frag run into a1 neuron	is_a	
-catmaid_l1em	12825902	Neuron 20725668	is_a	
-catmaid_l1em	5458046	Saaghi-1_a2l (AAZ1 (A06l))	is_a	
-catmaid_l1em	10089445	Saaghi-1_a2r (AAZ1 (A06l))	is_a	
-catmaid_l1em	18514164	Saaghi-3_a2l (AAZ3 (A06e))	is_a	
-catmaid_l1em	15625865	Saaghi-3_a2r (AAZ3 (A06e))	is_a	
-catmaid_l1em	4050398	SN motor neuron a1l	is_a	
-catmaid_l1em	4483081	SN motor neuron a1l bilateral	is_a	
-catmaid_l1em	4289745	SN motor neuron a1l posterior dendrite	is_a	
-catmaid_l1em	4271519	SN motor neuron a1l ventral dendrite	is_a	
-catmaid_l1em	16042164	SN motor neuron a1r bilateral	is_a	
-catmaid_l1em	16314353	SN motor neuron a1r posterior dendrite	is_a	
-catmaid_l1em	3641568	SN motor neuron a1r ventral dendrite	is_a	
-catmaid_l1em	8419064	vbd_a1l_	is_a	
-catmaid_l1em	14493979	vbd_a1r	is_a	
-catmaid_l1em	13124815	vdaA_a1r (class II)	is_a	
-catmaid_l1em	7783764	vdaC_a1l (class II)	is_a	
-catmaid_l1em	11578922	vpda classI md?_t3l	is_a	
-catmaid_l1em	8234536	vpda classI md?_t3r	is_a	
+subject_external_db	subject_external_id	subject_name	relation	object		notes
+catmaid_l1em	10474936	A06e_a1l (Saaghi-3)	is_a	larval abdominal 1 Saaghi 3 neuron		
+catmaid_l1em	11958584	A06e_a1r (Saaghi-3)	is_a	larval abdominal 1 Saaghi 3 neuron		
+catmaid_l1em	11065546	A06e_t3r (Saaghi-3)	is_a	larval metathoracic Saaghi 3 neuron		
+catmaid_l1em	18418512	A06l_a1l (Saaghi-1)	is_a	larval abdominal 1 Saaghi 1 neuron		
+catmaid_l1em	17435371	A06l_a1r (Saaghi-1)	is_a	larval abdominal 1 Saaghi 1 neuron		
+catmaid_l1em	16009772	A08c_a1l	is_a			later
+catmaid_l1em	10929871	A08c_a1r	is_a			later
+catmaid_l1em	7876385	A08e1_a1l 	is_a	larval abdominal 1 A08e1 local neuron		
+catmaid_l1em	8198957	A08e1_a1r	is_a	larval abdominal 1 A08e1 local neuron		
+catmaid_l1em	8602632	A08e1_a2l	is_a	larval abdominal 2 A08e1 local neuron		
+catmaid_l1em	14201007	A08e1_a2r	is_a	larval abdominal 2 A08e1 local neuron		
+catmaid_l1em	12809923	A08e2_a1l	is_a	larval abdominal 1 A08e2 local neuron		
+catmaid_l1em	8234099	A08e2_a1r 	is_a	larval abdominal 1 A08e2 local neuron		
+catmaid_l1em	8374407	A08e2_a2l	is_a	larval abdominal 2 A08e2 local neuron		
+catmaid_l1em	15879188	A08e2_a2r	is_a	larval abdominal 2 A08e2 local neuron		
+catmaid_l1em	8421329	A08e3_a1l 	is_a	larval abdominal 1 A08e3 local neuron		
+catmaid_l1em	8039617	A08e3_a1r	is_a	larval abdominal 1 A08e3 local neuron		
+catmaid_l1em	10413917	A08e3_a2l	is_a	larval abdominal 2 A08e3 local neuron		
+catmaid_l1em	10397674	A08e3_a2r	is_a	larval abdominal 2 A08e3 local neuron		
+catmaid_l1em	13671419	dbd_a1l	is_a	abdominal 1 dorsal bipolar neuron dbp		
+catmaid_l1em	6195521	dbd_a1r	is_a	abdominal 1 dorsal bipolar neuron dbp		
+catmaid_l1em	13883895	dbd_a2l	is_a	abdominal 2 dorsal bipolar neuron dbp		
+catmaid_l1em	13876816	dbd_a2r	is_a	abdominal 2 dorsal bipolar neuron dbp		
+catmaid_l1em	10562191	dbd_t3l_JMpair5	is_a			JMpair5? - no t3 of dbd
+catmaid_l1em	14573136	dbd_t3r_JMpair5	is_a			JMpair5? - no t3 of dbd
+catmaid_l1em	12960217	ddaD_a1l (class I)	is_a	abdominal 1 dorsal multidendritic neuron ddaD		
+catmaid_l1em	6280151	ddaD_a1r (class I)	is_a	abdominal 1 dorsal multidendritic neuron ddaD		
+catmaid_l1em	10561898	ddaD_a2l	is_a	abdominal 2 dorsal multidendritic neuron ddaD		
+catmaid_l1em	15351530	ddaD_a2r	is_a	abdominal 2 dorsal multidendritic neuron ddaD		
+catmaid_l1em	15505125	ddaE_t3l	is_a	metathoracic dorsal multidendritic neuron ddaE		
+catmaid_l1em	16233066	ddaE_t3r	is_a	metathoracic dorsal multidendritic neuron ddaE		
+catmaid_l1em	12960079	dmd1_a1l_JMpair3	is_a			JMpair3? - no a1 of dmd1
+catmaid_l1em	15551560	dmd1_a1r_JMpair3	is_a			JMpair3? - no a1 of dmd1
+catmaid_l1em	8196192	Jaam-1_a1l (HMD1 (A12p))	is_a			later
+catmaid_l1em	8095561	Jaam-1_a1r (HMD1 (A12p))	is_a			later
+catmaid_l1em	11466247	Jaam-2_a1l (HMD2 (A12g))	is_a			later
+catmaid_l1em	12990250	Jaam-2_a1r (HMD2 (A12g))	is_a			later
+catmaid_l1em	11928389	Jaam-3_a1l (HMD3 (A12 c3))	is_a			later
+catmaid_l1em	13775274	Jaam-3_a1r (HMD3 (A12 c3))	is_a			later
+catmaid_l1em	10649843	MN1 aCC_a1l	is_a	larval abdominal 2 aCC neuron		
+catmaid_l1em	4488976	MN1 aCC_a1r	is_a	larval abdominal 2 aCC neuron		
+catmaid_l1em	8026224	MN10 U2_a1l	is_a			MN10 != U2
+catmaid_l1em	14047760	MN10 U2_a1r	is_a			MN10 != U2
+catmaid_l1em	13875538	MN10 U2_a2r	is_a			MN10 != U2
+catmaid_l1em	13883598	MN10U2_a2l	is_a			MN10 != U2
+catmaid_l1em	14088451	MN11 (ISN NB3-2)_a1l	is_a	abdominal 2 DO2 motor neuron		
+catmaid_l1em	10013402	MN11 (ISN NB3-2)_a1r	is_a	abdominal 2 DO2 motor neuron		
+catmaid_l1em	10678017	MN12-III (ISN VL1 V-MN NB5-2)_a1l	is_a	abdominal 2 V motor neuron		
+catmaid_l1em	14046720	MN12-III (ISN VL1 V-MN NB5-2)_a1r	is_a	abdominal 2 V motor neuron		
+catmaid_l1em	13877719	MN12-III (ISN VL1 V-MN NB5-2)_a2l	is_a	abdominal 3 V motor neuron		
+catmaid_l1em	19111930	MN13 ISN MN-VL2_a1l 	is_a	abdominal 2 VL2 motor neuron		
+catmaid_l1em	14194703	MN13 ISN MN-VL2_a1r	is_a	abdominal 2 VL2 motor neuron		
+catmaid_l1em	14045016	MN14 RP1_a1l	is_a			MN14 != RP1
+catmaid_l1em	14206438	MN14 RP1_a1r	is_a			MN14 != RP1
+catmaid_l1em	14203725	MN15/16 VO4/5 (NB7-1? ISN)_a1l	is_a	abdominal 2 VO4/5 motor neuron		
+catmaid_l1em	14048538	MN15/16 VO4/5 (NB7-1? ISN)_a1r	is_a	abdominal 2 VO4/5 motor neuron		
+catmaid_l1em	19139253	MN15/16/17 VO4Ð6 (NB7-1? )_a1l	is_a	abdominal 2 VO4-6 motor neuron		
+catmaid_l1em	14045489	MN15/16/17 VO4Ð6 (NB7-1? )_a1r	is_a	abdominal 2 VO4-6 motor neuron		
+catmaid_l1em	14199031	MN18 (ISN DT1)_a1l	is_a	abdominal 2 DT1 motor neuron		
+catmaid_l1em	6970942	MN18 (ISN DT1)_a1r	is_a	abdominal 2 DT1 motor neuron		
+catmaid_l1em	14086309	MN19 (ISN NB3-2)_a1l	is_a	abdominal 2 DO4 motor neuron		
+catmaid_l1em	16181494	MN19 (ISN NB3-2)_a1r	is_a	abdominal 2 DO4 motor neuron		
+catmaid_l1em	14047130	MN2 ISN(U3-NB7-1?)_a1l	is_a			MN2 != U3
+catmaid_l1em	14048287	MN2 ISN(U3-NB7-1?)_a1r	is_a			MN2 != U3
+catmaid_l1em	16433395	MN20 ISN_a1l	is_a	abdominal 2 DO5 motor neuron		
+catmaid_l1em	5085455	MN20 ISN_a1r	is_a	abdominal 2 DO5 motor neuron		
+catmaid_l1em	6467481	MN21/22 (RF:LT1/LT2) LT2_a1l	is_a			can't map yet
+catmaid_l1em	16713121	MN21/22 (RF:LT1/LT2) LT2_a1r  	is_a			can't map yet
+catmaid_l1em	4042315	MN22/23 (RF:LT2/LT3) LT1_a1l	is_a			can't map yet
+catmaid_l1em	4102728	MN22/23 (RF:LT2/LT3) LT1_a1r  	is_a			can't map yet
+catmaid_l1em	4289773	MN23/24 (RF: LT3/LT4) LT4_a1l	is_a			can't map yet
+catmaid_l1em	4121534	MN23/24 (RF: LT3/LT4) LT4_a1r  	is_a			can't map yet
+catmaid_l1em	4524871	MN26 (SN MN VA1)_a1l	is_a			later
+catmaid_l1em	4397287	MN26 (SN MN VA1)_a1r	is_a			later
+catmaid_l1em	4326520	MN27 (SN MN VA2)_a1l	is_a	abdominal 1 VA2 motor neuron		
+catmaid_l1em	4101976	MN27 (SN MN VA2)_a1r	is_a	abdominal 1 VA2 motor neuron		
+catmaid_l1em	5899328	MN28 ISN_a1l	is_a	abdominal 2 VO3 motor neuron		
+catmaid_l1em	14048876	MN28 ISN_a1r	is_a	abdominal 2 VO3 motor neuron		
+catmaid_l1em	4274364	MN29 (SN MN VA3)_a1l	is_a	abdominal 1 VA3 motor neuron		
+catmaid_l1em	4382895	MN29 (SN MN VA3)_a1r	is_a	abdominal 1 VA3 motor neuron		
+catmaid_l1em	14088149	MN3 (ISN U4 DA3 NB7-1?)_a1l 	is_a	abdominal 2 DA3 motor neuron		
+catmaid_l1em	14045854	MN3 (ISN U4 DA3 NB7-1?)_a1r	is_a	abdominal 2 DA3 motor neuron		
+catmaid_l1em	14194234	MN30 RP4_a1l	is_a			MN30 != RP4
+catmaid_l1em	14087107	MN30 RP4_a1r	is_a			MN30 != RP4
+catmaid_l1em	14087339	MN4 (ISN U5 NB7-1?)_a1l	is_a	abdominal 2 LL1 motor neuron		
+catmaid_l1em	14047945	MN4 (ISN U5 NB7-1?)_a1r	is_a	abdominal 2 LL1 motor neuron		
+catmaid_l1em	4028114	MN5 LO1_a1l	is_a	larval abdominal 1 LO1 motor neuron		
+catmaid_l1em	4535767	MN5 LO1_a1r	is_a	larval abdominal 1 LO1 motor neuron		
+catmaid_l1em	16264802	MN6/7 RP3_a2l	is_a	abdominal 3 VL3/4 motor neuron		
+catmaid_l1em	4326468	MN8 (RF:SBM) LT3_a1l	is_a			can't map yet
+catmaid_l1em	4881629	MN8 (RF:SBM) LT3_a1r 	is_a			can't map yet
+catmaid_l1em	14085813	MN9 U1_a1l	is_a	abdominal 2 DO1 motor neuron		
+catmaid_l1em	14047554	MN9 U1_a1r	is_a	abdominal 2 DO1 motor neuron		
+catmaid_l1em	13885984	MN9 U1_a2l	is_a	abdominal 3 DO1 motor neuron		
+catmaid_l1em	13873397	MN9 U1_a2r	is_a	abdominal 3 DO1 motor neuron		
+catmaid_l1em	13058240	MNISN-Is RP2_a1l	is_a	abdominal 1 dorsal motor neuron		
+catmaid_l1em	13057994	MNISN-Is RP2_a1r	is_a	abdominal 1 dorsal motor neuron		
+catmaid_l1em	14044614	MNISNb/d-Is RP5_a1l	is_a	abdominal 2 ventral motor neuron		
+catmaid_l1em	14199565	MNISNb/d-Is RP5_a1r	is_a	abdominal 2 ventral motor neuron		
+catmaid_l1em	13874875	MNISNb/d-Is RP5_a2l	is_a	abdominal 3 ventral motor neuron		
+catmaid_l1em	13881374	MNISNb/d-Is RP5_a2r	is_a	abdominal 3 ventral motor neuron		
+catmaid_l1em	5458046	Saaghi-1_a2l (AAZ1 (A06l))	is_a			later
+catmaid_l1em	10089445	Saaghi-1_a2r (AAZ1 (A06l))	is_a			later
+catmaid_l1em	18514164	Saaghi-3_a2l (AAZ3 (A06e))	is_a			later
+catmaid_l1em	15625865	Saaghi-3_a2r (AAZ3 (A06e))	is_a			later
+catmaid_l1em	8419064	vbd_a1l_	is_a	abdominal 1 ventral bipolar neuron vbp		
+catmaid_l1em	14493979	vbd_a1r	is_a	abdominal 1 ventral bipolar neuron vbp		
+catmaid_l1em	13124815	vdaA_a1r (class II)	is_a	abdominal 1 ventral multidendritic neuron vdaA		
+catmaid_l1em	7783764	vdaC_a1l (class II)	is_a	abdominal 1 ventral multidendritic neuron vdaC		
