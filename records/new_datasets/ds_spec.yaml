@@ -48,4 +48,9 @@ dbxrefs:
   yaml: True
   multiple: True
 
+notes:
+  description: "Column for curator notes (notes will not be checked or loaded)."
+  compulsory: False
+  yaml: False
+
 
