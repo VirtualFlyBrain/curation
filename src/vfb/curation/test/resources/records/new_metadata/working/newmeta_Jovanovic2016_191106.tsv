@@ -1,20 +1,20 @@
 subject_external_db	subject_external_id	subject_name	relation	object	notes
 catmaid_l1em	9867541	Griddle-1 t3l	is_a	larval metathoracic Griddle-1 neuron	example note 1
 catmaid_l1em	8614658	Ladder-a_t3l	is_a	larval Ladder-a neuron	example note 1
-catmaid_l1em	8614658	Ladder-a_t3l	has_soma_location	larval metathoracic neuromere	
-catmaid_l1em	8577316	Ladder-f a1	is_a	larval abdominal 1 ladder-f neuron	
-catmaid_l1em	8045800	Griddle-1 t3r	is_a	larval metathoracic Griddle-1 neuron	
-catmaid_l1em	7683401	Griddle-2 a1r	is_a	larval abdominal 1 Griddle-2 neuron	
-catmaid_l1em	7657358	Ladder-f a2	is_a	larval abdominal 2 ladder-f neuron	
-catmaid_l1em	10804041	Griddle-2 a1l	is_a	larval abdominal 1 Griddle-2 neuron	
-catmaid_l1em	4305390	Griddle-2 t3r	is_a	larval metathoracic Griddle-2 neuron	
-catmaid_l1em	471705	Ladder-d_a1	is_a	larval abdominal 1 ladder-d neuron	
-catmaid_l1em	471720	Ladder-c a1	is_a	larval abdominal 1 Ladder-c neuron	
-catmaid_l1em	471755	Ladder-b a1	is_a	larval abdominal 1 Ladder-b neuron	
+catmaid_l1em	8614658	Ladder-a_t3l	has_soma_location	larval metathoracic neuromere
+catmaid_l1em	8577316	Ladder-f a1	is_a	larval abdominal 1 ladder-f neuron
+catmaid_l1em	8045800	Griddle-1 t3r	is_a	larval metathoracic Griddle-1 neuron
+catmaid_l1em	7683401	Griddle-2 a1r	is_a	larval abdominal 1 Griddle-2 neuron
+catmaid_l1em	7657358	Ladder-f a2	is_a	larval abdominal 2 ladder-f neuron
+catmaid_l1em	10804041	Griddle-2 a1l	is_a	larval abdominal 1 Griddle-2 neuron
+catmaid_l1em	4305390	Griddle-2 t3r	is_a	larval metathoracic Griddle-2 neuron
+catmaid_l1em	471705	Ladder-d_a1	is_a	larval abdominal 1 ladder-d neuron
+catmaid_l1em	471720	Ladder-c a1	is_a	larval abdominal 1 Ladder-c neuron
+catmaid_l1em	471755	Ladder-b a1	is_a	larval abdominal 1 Ladder-b neuron
 catmaid_l1em	4096366	Drunken-1 a1r	is_a	larval abdominal 1 Drunken-1 neuron	another example note
-catmaid_l1em	7599503	Ladder-e a1	is_a	larval abdominal 1 ladder-e neuron	
-catmaid_l1em	4824878	Griddle-1 a1r	is_a	larval abdominal 1 Griddle-1 neuron	
-catmaid_l1em	11995	Ladder-a a1	is_a	larval abdominal 1 Ladder-a neuron	
-catmaid_l1em	16310625	Griddle-2 t3l	is_a	larval metathoracic Griddle-2 neuron	
-catmaid_l1em	7195651	Griddle-1 a1l	is_a	larval abdominal 1 Griddle-1 neuron	
-catmaid_l1em	6207232	Drunken-1 a1l	is_a	larval abdominal 1 Drunken-1 neuron	
+catmaid_l1em	7599503	Ladder-e a1	is_a	larval abdominal 1 ladder-e neuron
+catmaid_l1em	4824878	Griddle-1 a1r	is_a	larval abdominal 1 Griddle-1 neuron
+catmaid_l1em	11995	Ladder-a a1	is_a	larval abdominal 1 Ladder-a neuron
+catmaid_l1em	16310625	Griddle-2 t3l	is_a	larval metathoracic Griddle-2 neuron
+catmaid_l1em	7195651	Griddle-1 a1l	is_a	larval abdominal 1 Griddle-1 neuron
+catmaid_l1em	6207232	Drunken-1 a1l	is_a	larval abdominal 1 Drunken-1 neuron
