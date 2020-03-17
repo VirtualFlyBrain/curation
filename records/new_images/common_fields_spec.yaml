@@ -96,3 +96,8 @@ voxel_volume:
   uniq: False
   type: Integer
 
+notes:
+  description: "Column for curator notes (notes will not be checked or loaded)."
+  compulsory: False
+  yaml: False
+
