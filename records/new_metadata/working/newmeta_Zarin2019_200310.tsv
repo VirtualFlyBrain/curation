@@ -1,0 +1,184 @@
+subject_external_db	subject_external_id	subject_name	relation	object		notes
+catmaid_l1em	4113533	A01c1_a1l	is_a			later
+catmaid_l1em	4936149	A01c1_a1r	is_a			later
+catmaid_l1em	5084467	A01c2_a1l (ipsi_dendrite)	is_a			later
+catmaid_l1em	16226512	A01c2_a1r (ipsi_dendrite)	is_a			later
+catmaid_l1em	14826752	A01d3_t3l (T01d3)	is_a			later
+catmaid_l1em	4731383	A01d3_t3r (T01d3)	is_a			later
+catmaid_l1em	1100936	A01j_a1l	is_a	larval abdominal 1 A01j neuron		
+catmaid_l1em	4789092	A01j_a1r	is_a	larval abdominal 1 A01j neuron		
+catmaid_l1em	4123145	A01x_a1l	is_a	larval abdominal 1 A01x neuron		
+catmaid_l1em	4038469	A01x_a1r	is_a	larval abdominal 1 A01x neuron		
+catmaid_l1em	11106522	A01x2_a1l	is_a	larval abdominal 1 A01x2 neuron		
+catmaid_l1em	10312570	A01x2_a1r 	is_a	larval abdominal 1 A01x2 neuron		
+catmaid_l1em	12096730	A01x2_t3l (T01x2)	is_a			later
+catmaid_l1em	4840830	A01x2_t3r (T01x2)	is_a			later
+catmaid_l1em	9544992	A01x3_a1l	is_a	larval abdominal 1 A01x3 neuron		
+catmaid_l1em	6811349	A01x3_a1r	is_a	larval abdominal 1 A01x3 neuron		
+catmaid_l1em	6578062	A02b_a1l 	is_a	larval abdominal 1 A02b neuron		
+catmaid_l1em	15233041	A02b_a1r 	is_a	larval abdominal 1 A02b neuron		
+catmaid_l1em	7992966	A02e_a1l	is_a	larval abdominal 1 A02e neuron		
+catmaid_l1em	14858626	A02e_a1r	is_a	larval abdominal 1 A02e neuron		
+catmaid_l1em	4071032	A02f_a1l 	is_a	larval abdominal 1 A02f neuron		
+catmaid_l1em	12953345	A02f_a1r	is_a	larval abdominal 1 A02f neuron		
+catmaid_l1em	14866842	A02g_a1l	is_a	larval abdominal 1 A02g neuron		
+catmaid_l1em	18145093	A02g_a1r	is_a	larval abdominal 1 A02g neuron		
+catmaid_l1em	12820178	A02h_a1l	is_a	larval abdominal 1 A02h neuron		
+catmaid_l1em	14866379	A02h_a1r	is_a	larval abdominal 1 A02h neuron		
+catmaid_l1em	2798040	A02i_a1l	is_a	larval abdominal 1 A02i neuron		
+catmaid_l1em	5057361	A02i_a1r	is_a	larval abdominal 1 A02i neuron		
+catmaid_l1em	16274373	A02j_a3l	is_a	larval abdominal 3 A02j neuron		
+catmaid_l1em	7926496	A02j_a3r	is_a	larval abdominal 3 A02j neuron		
+catmaid_l1em	3546835	A02n_a1l Pseudolooper-4	is_a	larval abdominal 1 A02n neuron		
+catmaid_l1em	4728865	A03a1_a1l (pre dMNs) 	is_a	larval abdominal 1 A03a1 neuron		
+catmaid_l1em	4541716	A03a1_a1r (pre dMNs) 	is_a	larval abdominal 1 A03a1 neuron		
+catmaid_l1em	12704772	A03a3_a1l (pre dMNs) 	is_a	larval abdominal 1 A03a3 neuron		
+catmaid_l1em	12683525	A03a3_a1r (pre dMNs)	is_a	larval abdominal 1 A03a3 neuron		
+catmaid_l1em	14242929	A03a3_t3l (was T03a1)	is_a			later
+catmaid_l1em	4538681	A03a3_t3r (was T03a1)	is_a			later
+catmaid_l1em	8688631	A03a4_a1l	is_a	larval abdominal 1 A03a4 neuron		
+catmaid_l1em	4543281	A03a4_a1r	is_a	larval abdominal 1 A03a4 neuron		
+catmaid_l1em	5904833	A03a5_a1l	is_a	larval abdominal 1 A03a5 neuron		
+catmaid_l1em	5297998	A03a5_a1r	is_a	larval abdominal 1 A03a5 neuron		
+catmaid_l1em	10089193	A03a6_a1l 	is_a	larval abdominal 1 A03a6 neuron		
+catmaid_l1em	16257962	A03a6_a1r	is_a	larval abdominal 1 A03a6 neuron		
+catmaid_l1em	10089252	A03EGB_a2l (EGHBAL)	is_a			
+catmaid_l1em	4848300	A03EGB_a2r (EGHBAL)	is_a			
+catmaid_l1em	10855206	A03g_a1r	is_a	larval abdominal 1 A03g neuron		
+catmaid_l1em	7987962	A03g2_t3r (T03g2)	is_a			later
+catmaid_l1em	16240665	A03xKT_a1l 	is_a			?
+catmaid_l1em	15290305	A03xKT_a1r	is_a			?
+catmaid_l1em	13522678	A05a_a1l	is_a	larval abdominal 1 A05a neuron		
+catmaid_l1em	5351821	A05a_a1r	is_a	larval abdominal 1 A05a neuron		
+catmaid_l1em	4990880	A05k_a1l	is_a	larval abdominal 1 A05k neuron		
+catmaid_l1em	10053304	A05k_a1r	is_a	larval abdominal 1 A05k neuron		
+catmaid_l1em	10858401	A06a_a1l	is_a	larval abdominal 1 A06a neuron		
+catmaid_l1em	4034528	A06a_a1r	is_a	larval abdominal 1 A06a neuron		
+catmaid_l1em	12809976	A06c_a1l	is_a	larval abdominal 1 A06c neuron		
+catmaid_l1em	7280270	A06c_a1r	is_a	larval abdominal 1 A06c neuron		
+catmaid_l1em	11065546	A06e_t3r (Saaghi-3)	is_a	larval metathoracic Saaghi 3 neuron		
+catmaid_l1em	4386719	A06f_a1l (Saaghi-2)	is_a	larval abdominal 1 Saaghi 2 neuron		
+catmaid_l1em	12036009	A06f_a1r (Saaghi-2)	is_a	larval abdominal 1 Saaghi 2 neuron		
+catmaid_l1em	18418512	A06l_a1l (Saaghi-1)	is_a	larval abdominal 1 Saaghi 1 neuron		
+catmaid_l1em	17435371	A06l_a1r (Saaghi-1)	is_a	larval abdominal 1 Saaghi 1 neuron		
+catmaid_l1em	4542822	A06x1_a1l	is_a	larval abdominal 1 A06x1 neuron		
+catmaid_l1em	4478328	A06x1_a1r	is_a	larval abdominal 1 A06x1 neuron		
+catmaid_l1em	13331383	A07f2_a1l (marathon) 	is_a	larval abdominal 1 A07f2 neuron		
+catmaid_l1em	4725907	A07f2_a1r (marathon)	is_a	larval abdominal 1 A07f2 neuron		
+catmaid_l1em	7876385	A08e1_a1l 	is_a	larval abdominal 1 A08e1 local neuron		
+catmaid_l1em	8198957	A08e1_a1r	is_a	larval abdominal 1 A08e1 local neuron		
+catmaid_l1em	12809923	A08e2_a1l	is_a	larval abdominal 1 A08e2 local neuron		
+catmaid_l1em	8234099	A08e2_a1r 	is_a	larval abdominal 1 A08e2 local neuron		
+catmaid_l1em	8421329	A08e3_a1l 	is_a	larval abdominal 1 A08e3 local neuron		
+catmaid_l1em	8039617	A08e3_a1r	is_a	larval abdominal 1 A08e3 local neuron		
+catmaid_l1em	4541202	A10e_a2l	is_a	larval abdominal 1 A10e neuron		
+catmaid_l1em	4935973	A10e_a2r 	is_a	larval abdominal 1 A10e neuron		
+catmaid_l1em	12820277	A14a_a1l	is_a	larval abdominal 1 A14a neuron		
+catmaid_l1em	5298032	A14a_a1r	is_a	larval abdominal 1 A14a neuron		
+catmaid_l1em	10642320	A18a_a1l 	is_a	larval abdominal 1 A18a neuron		
+catmaid_l1em	4991402	A18a_a1r 	is_a	larval abdominal 1 A18a neuron		
+catmaid_l1em	4542433	A18b_a1l	is_a	larval abdominal 1 A18b neuron		
+catmaid_l1em	4727546	A18b_a1r	is_a	larval abdominal 1 A18b neuron		
+catmaid_l1em	18425292	A18b2_a1l	is_a			later
+catmaid_l1em	4070588	A18b2_a1r	is_a			later
+catmaid_l1em	4730042	A18b3_a1l	is_a	larval abdominal 1 A18b3 neuron		
+catmaid_l1em	16515841	A18b3_a1r	is_a	larval abdominal 1 A18b3 neuron		
+catmaid_l1em	5078760	A18j_a1l	is_a	larval abdominal 1 A18j neuron		
+catmaid_l1em	16690920	A18j_a1r	is_a	larval abdominal 1 A18j neuron		
+catmaid_l1em	5358138	A19l_a1l	is_a	larval abdominal 1 A19l neuron		
+catmaid_l1em	4978454	A19l_a1r	is_a	larval abdominal 1 A19l neuron		
+catmaid_l1em	4538738	A23a_a1l	is_a	larval abdominal 1 A23a neuron		
+catmaid_l1em	4729046	A23a_a1r	is_a	larval abdominal 1 A23a neuron		
+catmaid_l1em	13258642	A26f_a1l	is_a	larval abdominal 1 A26f neuron		
+catmaid_l1em	17071666	A26f_a1r	is_a	larval abdominal 1 A26f neuron		
+catmaid_l1em	10090269	A27e(2)_a1l	is_a			?
+catmaid_l1em	15290335	A27e(2)_a1r	is_a			?
+catmaid_l1em	10223572	A27h_a1l	is_a	larval abdominal 1 A27h neuron		
+catmaid_l1em	10398171	A27h_a1r	is_a	larval abdominal 1 A27h neuron		
+catmaid_l1em	17904627	A27j_a1l	is_a	larval abdominal 1 A27j neuron		
+catmaid_l1em	10015769	A27j_a1r	is_a	larval abdominal 1 A27j neuron		
+catmaid_l1em	4038808	A27k_a2l	is_a	larval abdominal 2 A27k neuron		
+catmaid_l1em	4113612	A27k_a2r	is_a	larval abdominal 2 A27k neuron		
+catmaid_l1em	10219170	A27l_a1l	is_a	larval abdominal 1 A27l neuron		
+catmaid_l1em	10499711	A27l_a1r	is_a	larval abdominal 1 A27l neuron		
+catmaid_l1em	7934159	A27n_a1l	is_a	larval abdominal 1 A27n neuron		
+catmaid_l1em	4124563	A27n_a1r	is_a	larval abdominal 1 A27n neuron		
+catmaid_l1em	12705004	A31b_a1l 	is_a	larval abdominal 1 A31b neuron		
+catmaid_l1em	8899200	A31b_a1r 	is_a	larval abdominal 1 A31b neuron		
+catmaid_l1em	12809152	A31d_a1l	is_a	larval abdominal 1 A31d neuron		
+catmaid_l1em	12873722	A31d_a1r	is_a	larval abdominal 1 A31d neuron		
+catmaid_l1em	15571023	A31k_a1l	is_a	larval abdominal 1 A31k neuron		
+catmaid_l1em	12944478	A31k_a1r	is_a	larval abdominal 1 A31k neuron		
+catmaid_l1em	7867016	DLN2_a1l	is_a			?
+catmaid_l1em	15094230	DLN2_a1r 	is_a			?
+catmaid_l1em	10649843	MN1 aCC_a1l	is_a	larval abdominal 2 aCC neuron		
+catmaid_l1em	4488976	MN1 aCC_a1r	is_a	larval abdominal 2 aCC neuron		
+catmaid_l1em	8026224	MN10 U2_a1l	is_a			MN10 != U2
+catmaid_l1em	14047760	MN10 U2_a1r	is_a			MN10 != U2
+catmaid_l1em	14088451	MN11 (ISN NB3-2)_a1l	is_a	abdominal 2 DO2 motor neuron		
+catmaid_l1em	10013402	MN11 (ISN NB3-2)_a1r	is_a	abdominal 2 DO2 motor neuron		
+catmaid_l1em	10678017	MN12-III (ISN VL1 V-MN NB5-2)_a1l	is_a	abdominal 2 V motor neuron		
+catmaid_l1em	14046720	MN12-III (ISN VL1 V-MN NB5-2)_a1r	is_a	abdominal 2 V motor neuron		
+catmaid_l1em	19111930	MN13 ISN MN-VL2_a1l 	is_a	abdominal 2 VL2 motor neuron		
+catmaid_l1em	14194703	MN13 ISN MN-VL2_a1r	is_a	abdominal 2 VL2 motor neuron		
+catmaid_l1em	14045016	MN14 RP1_a1l	is_a			MN14 != RP1
+catmaid_l1em	14206438	MN14 RP1_a1r	is_a			MN14 != RP1
+catmaid_l1em	14203725	MN15/16 VO4/5 (NB7-1? ISN)_a1l	is_a	abdominal 2 VO4/5 motor neuron		
+catmaid_l1em	14048538	MN15/16 VO4/5 (NB7-1? ISN)_a1r	is_a	abdominal 2 VO4/5 motor neuron		
+catmaid_l1em	19139253	MN15/16/17 VO4Ð6 (NB7-1? )_a1l	is_a	abdominal 2 VO4-6 motor neuron		
+catmaid_l1em	14045489	MN15/16/17 VO4Ð6 (NB7-1? )_a1r	is_a	abdominal 2 VO4-6 motor neuron		
+catmaid_l1em	14199031	MN18 (ISN DT1)_a1l	is_a	abdominal 2 DT1 motor neuron		
+catmaid_l1em	6970942	MN18 (ISN DT1)_a1r	is_a	abdominal 2 DT1 motor neuron		
+catmaid_l1em	14086309	MN19 (ISN NB3-2)_a1l	is_a	abdominal 2 DO4 motor neuron		
+catmaid_l1em	16181494	MN19 (ISN NB3-2)_a1r	is_a	abdominal 2 DO4 motor neuron		
+catmaid_l1em	14047130	MN2 ISN(U3-NB7-1?)_a1l	is_a			MN2 != U3
+catmaid_l1em	14048287	MN2 ISN(U3-NB7-1?)_a1r	is_a			MN2 != U3
+catmaid_l1em	16433395	MN20 ISN_a1l	is_a	abdominal 2 DO5 motor neuron		
+catmaid_l1em	5085455	MN20 ISN_a1r	is_a	abdominal 2 DO5 motor neuron		
+catmaid_l1em	6467481	MN21/22 (RF:LT1/LT2) LT2_a1l	is_a			can't map yet
+catmaid_l1em	16713121	MN21/22 (RF:LT1/LT2) LT2_a1r  	is_a			can't map yet
+catmaid_l1em	4042315	MN22/23 (RF:LT2/LT3) LT1_a1l	is_a			can't map yet
+catmaid_l1em	4102728	MN22/23 (RF:LT2/LT3) LT1_a1r  	is_a			can't map yet
+catmaid_l1em	4289773	MN23/24 (RF: LT3/LT4) LT4_a1l	is_a			can't map yet
+catmaid_l1em	4121534	MN23/24 (RF: LT3/LT4) LT4_a1r  	is_a			can't map yet
+catmaid_l1em	4717729	MN25 (TN)_a2l	is_a	abdominal 2 VT1 motor neuron		
+catmaid_l1em	16080562	MN25 (TN)_a2r	is_a	abdominal 2 VT1 motor neuron		
+catmaid_l1em	4524871	MN26 (SN MN VA1)_a1l	is_a			later
+catmaid_l1em	4397287	MN26 (SN MN VA1)_a1r	is_a			later
+catmaid_l1em	4326520	MN27 (SN MN VA2)_a1l	is_a	abdominal 1 VA2 motor neuron		
+catmaid_l1em	4101976	MN27 (SN MN VA2)_a1r	is_a	abdominal 1 VA2 motor neuron		
+catmaid_l1em	5899328	MN28 ISN_a1l	is_a	abdominal 2 VO3 motor neuron		
+catmaid_l1em	14048876	MN28 ISN_a1r	is_a	abdominal 2 VO3 motor neuron		
+catmaid_l1em	4274364	MN29 (SN MN VA3)_a1l	is_a	abdominal 1 VA3 motor neuron		
+catmaid_l1em	4382895	MN29 (SN MN VA3)_a1r	is_a	abdominal 1 VA3 motor neuron		
+catmaid_l1em	14088149	MN3 (ISN U4 DA3 NB7-1?)_a1l 	is_a	abdominal 2 DA3 motor neuron		
+catmaid_l1em	14045854	MN3 (ISN U4 DA3 NB7-1?)_a1r	is_a	abdominal 2 DA3 motor neuron		
+catmaid_l1em	14194234	MN30 RP4_a1l	is_a			MN30 != RP4
+catmaid_l1em	14087107	MN30 RP4_a1r	is_a			MN30 != RP4
+catmaid_l1em	14087339	MN4 (ISN U5 NB7-1?)_a1l	is_a	abdominal 2 LL1 motor neuron		
+catmaid_l1em	14047945	MN4 (ISN U5 NB7-1?)_a1r	is_a	abdominal 2 LL1 motor neuron		
+catmaid_l1em	4028114	MN5 LO1_a1l	is_a	larval abdominal 1 LO1 motor neuron		
+catmaid_l1em	4535767	MN5 LO1_a1r	is_a	larval abdominal 1 LO1 motor neuron		
+catmaid_l1em	16264802	MN6/7 RP3_a2l	is_a	abdominal 3 VL3/4 motor neuron		
+catmaid_l1em	4791651	MN6/7 RP3_a2r	is_a	abdominal 3 VL3/4 motor neuron		
+catmaid_l1em	4326468	MN8 (RF:SBM) LT3_a1l	is_a			can't map yet
+catmaid_l1em	4881629	MN8 (RF:SBM) LT3_a1r 	is_a			can't map yet
+catmaid_l1em	14085813	MN9 U1_a1l	is_a	abdominal 2 DO1 motor neuron		
+catmaid_l1em	14047554	MN9 U1_a1r	is_a	abdominal 2 DO1 motor neuron		
+catmaid_l1em	13058240	MNISN-Is RP2_a1l	is_a	abdominal 1 dorsal motor neuron		
+catmaid_l1em	13057994	MNISN-Is RP2_a1r	is_a	abdominal 1 dorsal motor neuron		
+catmaid_l1em	14044614	MNISNb/d-Is RP5_a1l	is_a	abdominal 2 ventral motor neuron		
+catmaid_l1em	14199565	MNISNb/d-Is RP5_a1r	is_a	abdominal 2 ventral motor neuron		
+catmaid_l1em	4104476	T01d1_t3l	is_a	larval metathoracic T01d1 neuron		
+catmaid_l1em	10185585	T01d1_t3r	is_a	larval metathoracic T01d1 neuron		
+catmaid_l1em	4123487	T01d2_t3l	is_a	larval metathoracic T01d2 neuron		
+catmaid_l1em	4584506	T01d2_t3r	is_a	larval metathoracic T01d2 neuron		
+catmaid_l1em	12949240	T01d4_t3l	is_a	larval metathoracic T01d4 neuron		
+catmaid_l1em	4732074	T01d4_t3r	is_a	larval metathoracic T01d4 neuron		
+						
+						
+						
+						
+						
+						
+						
