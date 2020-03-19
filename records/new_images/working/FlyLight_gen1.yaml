@@ -1,5 +1,6 @@
 Imaging_type: confocal microscopy
 Template: JRC2018Unisex
 DataSet: FlyLight_gen1
+Site: FlyLight
 Curator:
   - 0000-0002-0173-9080
