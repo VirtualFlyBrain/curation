@@ -8,12 +8,8 @@ catmaid_l1em	16009772	A08c_a1l	is_a	larval abdominal 1 A08c projection neuron
 catmaid_l1em	10929871	A08c_a1r	is_a	larval abdominal 1 A08c projection neuron
 catmaid_l1em	7876385	A08e1_a1l 	is_a	larval abdominal 1 A08e1 local neuron
 catmaid_l1em	8198957	A08e1_a1r	is_a	larval abdominal 1 A08e1 local neuron
-catmaid_l1em	8602632	A08e1_a2l	is_a	larval abdominal 2 A08e1 local neuron
-catmaid_l1em	14201007	A08e1_a2r	is_a	larval abdominal 2 A08e1 local neuron
 catmaid_l1em	12809923	A08e2_a1l	is_a	larval abdominal 1 A08e2 local neuron
 catmaid_l1em	8234099	A08e2_a1r 	is_a	larval abdominal 1 A08e2 local neuron
-catmaid_l1em	8374407	A08e2_a2l	is_a	larval abdominal 2 A08e2 local neuron
-catmaid_l1em	15879188	A08e2_a2r	is_a	larval abdominal 2 A08e2 local neuron
 catmaid_l1em	8421329	A08e3_a1l 	is_a	larval abdominal 1 A08e3 local neuron
 catmaid_l1em	8039617	A08e3_a1r	is_a	larval abdominal 1 A08e3 local neuron
 catmaid_l1em	10413917	A08e3_a2l	is_a	larval abdominal 2 A08e3 local neuron
