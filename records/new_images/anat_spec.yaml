@@ -32,7 +32,7 @@ expresses_id:
   type: String
   multiple: True
 
-expresses_name:
+expresses:
   compulsory: False
   description: >
      Names(s) of FlyBase features whose expression is used to mark the depicted entity (e.g. GAL4 driver).
