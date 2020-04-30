@@ -1111,7 +1111,7 @@ fan-shaped neuron	is_a	neuprint_JRC	483193732	FB8C^FB08e_L
 fan-shaped neuron	is_a	neuprint_JRC	1220800405	FB6M^FB06r_R
 fan-shaped neuron	is_a	neuprint_JRC	979052812	FB7E^FB07j_L
 alpha/beta posterior Kenyon cell	is_a	neuprint_JRC	1418273110	KCab-p
-MB-alpha' neuron of the dopaminergic PPL1 cluster	is_a	neuprint_JRC	517514142	PPL104(a'3)_R
+MB-alpha\' neuron of the dopaminergic PPL1 cluster	is_a	neuprint_JRC	517514142	PPL104(a'3)_R
 dopaminergic PAM neuron 1	is_a	neuprint_JRC	487899562	PAM01_a(y5)_R
 alpha/beta posterior Kenyon cell	is_a	neuprint_JRC	549571627	KCab-p
 alpha/beta posterior Kenyon cell	is_a	neuprint_JRC	1064891781	KCab-p
@@ -1244,7 +1244,7 @@ dopaminergic PAM neuron 4	is_a	neuprint_JRC	546641044	(MBDLaxon1)
 mushroom body vertical lobe arborizing neuron 2 alpha	is_a	neuprint_JRC	5813020828	MBON18(a2sc)_R
 fan-shaped neuron	is_a	neuprint_JRC	486842208	FB5C^FB05c_R
 fan-shaped neuron	is_a	neuprint_JRC	578008551	(MBDLaxon1)
-mushroom body vertical lobe arborizing neuron 2 alpha' middle	is_a	neuprint_JRC	5812981264	MBON17(a'3m)_R
+mushroom body vertical lobe arborizing neuron 2 alpha\' middle	is_a	neuprint_JRC	5812981264	MBON17(a'3m)_R
 dopaminergic PAM neuron 1	is_a	neuprint_JRC	1233773217	PAM01_a(y5)_R
 dopaminergic PAM neuron 4	is_a	neuprint_JRC	484735678	PAM04_a(B2)_R
 alpha/beta Kenyon cell	is_a	neuprint_JRC	767502667	KCab-c
@@ -1264,9 +1264,9 @@ fan-shaped neuron	is_a	neuprint_JRC	452401246	FB2G_b^FB02u_R
 fan-shaped neuron	is_a	neuprint_JRC	575319031	FB7C^FB07e_L
 gamma main Kenyon cell	is_a	neuprint_JRC	508599211	KCg-m
 mushroom body pedunculus-medial lobe arborizing neuron 1	is_a	neuprint_JRC	1196854070	PPL101(y1pedc)(PDL05)_L
-MB-alpha' neuron of the dopaminergic PPL1 cluster	is_a	neuprint_JRC	5813019976	PPL104(a'3)(PDL05)_L
+MB-alpha\' neuron of the dopaminergic PPL1 cluster	is_a	neuprint_JRC	5813019976	PPL104(a'3)(PDL05)_L
 dopaminergic PAM neuron 4	is_a	neuprint_JRC	1141329053	PAM04_a(B2)_R
-mushroom body vertical lobe arborizing neuron 2 alpha' anterior-posterior	is_a	neuprint_JRC	673366098	MBON16(a'3ap)_R
+mushroom body vertical lobe arborizing neuron 2 alpha\' anterior-posterior	is_a	neuprint_JRC	673366098	MBON16(a'3ap)_R
 dopaminergic PAM neuron 2	is_a	neuprint_JRC	1172372655	PAM02(B'2a)_R
 gamma main Kenyon cell	is_a	neuprint_JRC	508599276	KCg-m
 dopaminergic PAM neuron 1	is_a	neuprint_JRC	1202125326	PAM01_b(y5)_L
@@ -1443,13 +1443,13 @@ adult antennal lobe projection neuron DM6 adPN	is_a	neuprint_JRC	5813070872	DM6 
 adult antennal lobe projection neuron DA4m	is_a	neuprint_JRC	574037266	DA4m adPN(olfactory PN)_R
 fan-shaped neuron	is_a	neuprint_JRC	977338882	FB5Y^FB05Ba_R
 lobula columnar neuron	is_a	neuprint_JRC	666843764	LC28a
-PBG1-9.s-EBc.b-D/V GA.b neuron	is_a	neuprint_JRC	5813014882	PEG(PB07)_R5
+PBG1-9.s-EBt.b-D/V GA.b neuron	is_a	neuprint_JRC	5813014882	PEG(PB07)_R5
 fan-shaped neuron	is_a	neuprint_JRC	639779973	FB2D^FB02e_L
 adult antennal lobe projection neuron VA5 lPN	is_a	neuprint_JRC	574032862	VA5 lPN(olfactory PN)_R
 adult antennal lobe projection neuron VA5 lPN	is_a	neuprint_JRC	5813009876	(PDM12)_L
 adult antennal lobe projection neuron VA5 lPN	is_a	neuprint_JRC	545389295	(PLBDL8)_R
 adult antennal lobe projection neuron DM6 adPN	is_a	neuprint_JRC	5813039235	DM6 adPN(olfactory PN)_R
-PBG1-9.s-EBc.b-D/V GA.b neuron	is_a	neuprint_JRC	912147912	PEG(PB07)_R6
+PBG1-9.s-EBt.b-D/V GA.b neuron	is_a	neuprint_JRC	912147912	PEG(PB07)_R6
 dopaminergic PAM neuron 1	is_a	neuprint_JRC	581332573	PAM01_a(y5)_R
 adult antennal lobe projection neuron VA5 lPN	is_a	neuprint_JRC	574037281	VA5 lPN(olfactory PN)_R
 adult antennal lobe projection neuron DM4 adPN	is_a	neuprint_JRC	573333835	DM4 adPN(olfactory PN)_R
@@ -1845,7 +1845,7 @@ gamma main Kenyon cell	is_a	neuprint_JRC	1111278454	KCg-m
 adult antennal lobe projection neuron DA2 lPN	is_a	neuprint_JRC	1796818119	DA2 lPN(olfactory PN)_R
 fan-shaped neuron	is_a	neuprint_JRC	5813078563	FB2H_a^FB02t_R
 gamma main Kenyon cell	is_a	neuprint_JRC	5813067817	KCg-m
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1410450694	PFNp_b(PB01b)_R4_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1410450694	PFNp_b(PB01b)_R4_C7
 mushroom body output neuron	is_a	neuprint_JRC	894020730	MBON31(a'1a)_R
 gamma main Kenyon cell	is_a	neuprint_JRC	5812982252	KCg-m
 adult antennal lobe projection neuron VM5d adPN	is_a	neuprint_JRC	5813024712	VM5d adPN(olfactory PN)_R
@@ -1882,7 +1882,7 @@ lobula columnar neuron	is_a	neuprint_JRC	2031279383	LC28b(lVLPT4)_R
 gamma main Kenyon cell	is_a	neuprint_JRC	816276925	KCg-m
 fan-shaped neuron	is_a	neuprint_JRC	670651346	FB2F_a^FB02k_R
 gamma main Kenyon cell	is_a	neuprint_JRC	5812983043	KCg-m
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1441485832	PFNp_c(PB01c)_R4_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1441485832	PFNp_c(PB01c)_R4_C7
 gamma main Kenyon cell	is_a	neuprint_JRC	662767770	KCg-m
 gamma main Kenyon cell	is_a	neuprint_JRC	5812981703	KCg-m
 lobula columnar neuron	is_a	neuprint_JRC	5813075754	LC28b(lVLPT3)_R
@@ -2109,7 +2109,7 @@ dopaminergic PAM neuron 5	is_a	neuprint_JRC	834044577	PAM05_b(B'2p)_R
 gamma main Kenyon cell	is_a	neuprint_JRC	1101353948	KCg-m
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	722463321	KCg-d
 gamma main Kenyon cell	is_a	neuprint_JRC	5813027400	KCg-m
-PB 1 glomerulus-FB layers 3 and 6-ventral gall neuron	is_a	neuprint_JRC	884916660	PFGs(PB10)_R5_C5
+PB 1 glomerulus-FB layers 3 and 6-ventral gall surround neuron	is_a	neuprint_JRC	884916660	PFGs(PB10)_R5_C5
 dopaminergic PAM neuron 5	is_a	neuprint_JRC	5813127030	PAM05_a(B'2p)_R
 gamma main Kenyon cell	is_a	neuprint_JRC	664188129	KCg-m
 mushroom body output neuron 10	is_a	neuprint_JRC	766660682	MBON10(B'1)_L
@@ -2242,7 +2242,7 @@ adult antennal lobe projection neuron vPN	is_a	neuprint_JRC	730213826	DP1l vPN(o
 gamma main Kenyon cell	is_a	neuprint_JRC	540730738	KCg-m
 gamma main Kenyon cell	is_a	neuprint_JRC	5813032552	KCg-m
 gamma main Kenyon cell	is_a	neuprint_JRC	724885340	KCg-m
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1410127303	PFNp_c(PB01c)_L6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1410127303	PFNp_c(PB01c)_L6_C5
 fan-shaped neuron	is_a	neuprint_JRC	766864238	FB2C^FB02d_R
 mushroom body medial lobe arborizing neuron 3	is_a	neuprint_JRC	1233436426	PAM03(B2B'2a)_R
 fan-shaped neuron	is_a	neuprint_JRC	1043842362	FB6L^FB06q_L
@@ -2280,7 +2280,7 @@ fan-shaped neuron	is_a	neuprint_JRC	5813061116	FB2H_b^FB02x_L
 fan-shaped neuron	is_a	neuprint_JRC	5813013847	(PDL14)_L
 fan-shaped neuron	is_a	neuprint_JRC	792852667	(MBDLaxon1)
 gamma main Kenyon cell	is_a	neuprint_JRC	1172704683	KCg-m
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	5813128308	PFNp_a(PB01a)_L7_C6
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	5813128308	PFNp_a(PB01a)_L7_C6
 fan-shaped neuron	is_a	neuprint_JRC	1132168481	FB4Q_b^FB04ob_L
 gamma main Kenyon cell	is_a	neuprint_JRC	754202022	KCg-m
 adult antennal lobe projection neuron VC4 adPN	is_a	neuprint_JRC	754854077	VC4 adPN(olfactory PN)_R
@@ -2318,7 +2318,7 @@ gamma dorsal Kenyon cell	is_a	neuprint_JRC	5813035700	KCg-d
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	1039141038	(ADM01)_L
 gamma main Kenyon cell	is_a	neuprint_JRC	5812983147	KCg-m
 fan-shaped neuron	is_a	neuprint_JRC	977339390	FB5Z^FB05Bb_L
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	916974420	PFNa(PB03)_L6_C5
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	916974420	PFNa(PB03)_L6_C5
 gamma main Kenyon cell	is_a	neuprint_JRC	755544921	KCg-m
 gamma main Kenyon cell	is_a	neuprint_JRC	1172372291	KCg-m
 gamma main Kenyon cell	is_a	neuprint_JRC	793439006	(ADL08)_L
@@ -2410,8 +2410,8 @@ dopaminergic PAM neuron 8	is_a	neuprint_JRC	1140737968	PAM08_b(y4)_L
 fan-shaped neuron	is_a	neuprint_JRC	5813027679	FB2H_a^FB02t_L
 gamma main Kenyon cell	is_a	neuprint_JRC	5812983200	KCg-m
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	754884149	KCg-d
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1472542572	PFNp_a(PB01a)_L6_C5
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	601216096	PFNa(PB03)_L6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1472542572	PFNp_a(PB01a)_L6_C5
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	601216096	PFNa(PB03)_L6_C5
 PB-FB-NO subunit 2 ventral domain neuron	is_a	neuprint_JRC	1223640877	PFNv(PB05)_L6_C5
 adult antennal lobe projection neuron D adPN	is_a	neuprint_JRC	1536947502	D adPN(olfactory PN)_R
 dopaminergic PAM neuron 5	is_a	neuprint_JRC	1200687716	PAM05_a(B'2p)_L
@@ -2523,7 +2523,7 @@ dopaminergic PAM neuron 8	is_a	neuprint_JRC	1142356576	PAM08_a(y4)_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	861920004	LC10
 dopaminergic PAM neuron 4	is_a	neuprint_JRC	676612729	PAM04_a(B2)_L
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	1191392918	KCg-d
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	446714544	PFNd(PB04)_L5_C4
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	446714544	PFNd(PB04)_L5_C4
 PB-FB-NO subunit 2 ventral domain neuron	is_a	neuprint_JRC	478427368	PFNv(PB05)_L5_C4
 dopaminergic PAM neuron 5	is_a	neuprint_JRC	1017992752	PAM05_a(B'2p)_L
 lobula columnar neuron LC10	is_a	neuprint_JRC	5813047637	LC10
@@ -2640,7 +2640,7 @@ lobula tangential neuron	is_a	neuprint_JRC	5813048268	LT52_R
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	1234809285	KCg-d
 lobula columnar neuron LC10	is_a	neuprint_JRC	861915698	LC10
 dopaminergic PAM neuron 13	is_a	neuprint_JRC	1171436073	PAM13(B'1ap)_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1661122416	PFNp_e(PB01a)_L5_C4
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1661122416	PFNp_e(PB01a)_L5_C4
 lobula columnar neuron LC10	is_a	neuprint_JRC	924326233	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	5813016652	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	892259609	LC10
@@ -2664,7 +2664,7 @@ mushroom body output neuron 21	is_a	neuprint_JRC	985813153	MBON21(y4y5)(PVL06)_L
 lobula columnar neuron LC10	is_a	neuprint_JRC	862265735	LC10
 adult uniglomerular antennal lobe projection neuron	is_a	neuprint_JRC	2166133204	VL1 ilPN(olfactory PN)_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	862265699	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	879844144	PFNp_b(PB01b)_L5_C4
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	879844144	PFNp_b(PB01b)_L5_C4
 lobula columnar neuron LC10	is_a	neuprint_JRC	893633230	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	892958763	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	861920107	LC10
@@ -2722,7 +2722,7 @@ fan-shaped neuron	is_a	neuprint_JRC	886284941	FB9B_c^FB09d_L
 fan-shaped neuron	is_a	neuprint_JRC	1135311328	(PDM12)_L
 mushroom body medial lobe arborizing neuron 2	is_a	neuprint_JRC	5813100896	PAM12(y3)_R
 dopaminergic PAM neuron 8	is_a	neuprint_JRC	956138930	PAM08_a(y4)_R
-PB 1 glomerulus-FB layers 3 and 6-ventral gall neuron	is_a	neuprint_JRC	1133890586	PFGs(PB10)_L5_C5
+PB 1 glomerulus-FB layers 3 and 6-ventral gall surround neuron	is_a	neuprint_JRC	1133890586	PFGs(PB10)_L5_C5
 adult uniglomerular antennal lobe projection neuron	is_a	neuprint_JRC	1912789965	VL1 ilPN(olfactory PN)_R
 adult uniglomerular antennal lobe projection neuron	is_a	neuprint_JRC	1158333658	(lVLPT8)_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	5901214649	LC10
@@ -2742,8 +2742,8 @@ lobula columnar neuron LC10	is_a	neuprint_JRC	923303392	LC10
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	5813078684	KCg-d
 dopaminergic PAM neuron 5	is_a	neuprint_JRC	1200753289	PAM05_a(B'2p)_L
 adult multiglomerular antennal lobe projection neuron	is_a	neuprint_JRC	1639234609	VP1d+ D PN(olfactory PN)_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	725360291	PFNp_b(PB01b)_L6_C5
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	849162653	PFNp_d(PB01a)_L6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	725360291	PFNp_b(PB01b)_L6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	849162653	PFNp_d(PB01a)_L6_C5
 fan-shaped neuron	is_a	neuprint_JRC	885599260	FB7J^FB0708_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	5813016065	LC10
 mushroom body medial lobe arborizing neuron 2	is_a	neuprint_JRC	1206114100	PAM12(y3)_R
@@ -2767,27 +2767,27 @@ lobula columnar neuron LC10	is_a	neuprint_JRC	893287523	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	891595069	LC10
 lobula tangential neuron	is_a	neuprint_JRC	892277790	LT52_R
 fan-shaped neuron	is_a	neuprint_JRC	5813016553	FB8A^FB08b_L
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	880185131	PFNa(PB03)_L5_C4
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	880185131	PFNa(PB03)_L5_C4
 vertical fiber system neuron	is_a	neuprint_JRC	880875927	PFL3(PB12c)_L5_C7
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	569481415	PFNa(PB03)_L5_C4
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	569481415	PFNa(PB03)_L5_C4
 protocerebral bridge 18 glomeruli type 2 neuron	is_a	neuprint_JRC	911241750	Delta7(PB15)_L6R4_L
 vertical fiber system neuron	is_a	neuprint_JRC	911565319	PFL1(PB12a)_L5_C6
 descending neuron of the posterior brain DNp10	is_a	neuprint_JRC	707116522	DNa10_R
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	880875900	PFNm_a(PB02a)_L5_C4
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	1203433388	KCg-d
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	570185174	PFNa(PB03)_L7_C6
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	570185174	PFNa(PB03)_L7_C6
 lobula columnar neuron LC10	is_a	neuprint_JRC	892968637	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	892964102	LC10
 protocerebral bridge 18 glomeruli type 2 neuron	is_a	neuprint_JRC	880875736	Delta7(PB15)_L5R4_L
 dopaminergic PAM neuron 5	is_a	neuprint_JRC	923869685	PAM05_a(B'2p)_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	5813127525	PFNp_b(PB01b)_L5_C4
-PBG1-9.s-EBc.b-D/V GA.b neuron	is_a	neuprint_JRC	880875861	PEG(PB07)_L5
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	632229278	PFNd(PB04)_L5_C4
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	5813127525	PFNp_b(PB01b)_L5_C4
+PBG1-9.s-EBt.b-D/V GA.b neuron	is_a	neuprint_JRC	880875861	PEG(PB07)_L5
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	632229278	PFNd(PB04)_L5_C4
 medulla columnar neuron MC61	is_a	neuprint_JRC	1109827476	MC61
 descending neuron of the posterior brain DNp13	is_a	neuprint_JRC	887195902	DNp13(pMN1)_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	893305416	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	892281819	LC10
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	789126240	EPG(PB08)_L5
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	789126240	EPG(PB08)_L5
 lobula columnar neuron LC10	is_a	neuprint_JRC	892273269	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	945156049	(LWF1)_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	925008566	LC10
@@ -2803,14 +2803,14 @@ protocerebral bridge 18 glomeruli type 2 neuron	is_a	neuprint_JRC	911919917	Delt
 protocerebral bridge 18 glomeruli type 2 neuron	is_a	neuprint_JRC	941469087	Delta7(PB15)_L3R6_R
 PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	819828716	PFR_b(PB11b)_L4_C5
 lobula columnar neuron LC10	is_a	neuprint_JRC	5813027631	LC10
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	819828986	EPG(PB08)_L5
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	819828986	EPG(PB08)_L5
 PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	1008041969	PFR_a(PB11a)_L5_C5
 lobula columnar neuron LC10	is_a	neuprint_JRC	892963919	LC10
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	1412164346	PFNm_b(PB02b)_L5_C4
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	1171621616	KCg-d
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	881216816	PFNp_a(PB01a)_L5_C4
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	881216816	PFNp_a(PB01a)_L5_C4
 pb-eb-no neuron	is_a	neuprint_JRC	5813080979	PEN_a(PB06a)_L5
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	696362840	EPG(PB08)_L5
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	696362840	EPG(PB08)_L5
 lobula columnar neuron LC10	is_a	neuprint_JRC	956384643	LC10
 protocerebral bridge 18 glomeruli type 2 neuron	is_a	neuprint_JRC	912243353	Delta7(PB15)_L7R2_L
 PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	911915224	PFR_b(PB11b)_L5_C6
@@ -2836,11 +2836,11 @@ protocerebral bridge 18 glomeruli type 2 neuron	is_a	neuprint_JRC	880880259	Delt
 fan-shaped neuron	is_a	neuprint_JRC	1224595673	FB2B_b^FB02c_R
 gamma main Kenyon cell	is_a	neuprint_JRC	5813070672	KCg-m
 fan-shaped neuron	is_a	neuprint_JRC	947003825	FB7J^FB0708_L
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	663298610	PFNd(PB04)_L6_C6
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	695671851	PFNd(PB04)_L4_C3
-PB 1 glomerulus-FB layers 3 and 6-ventral gall neuron	is_a	neuprint_JRC	726352774	PFGs(PB10)_L4_C4
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	663298610	PFNd(PB04)_L6_C6
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	695671851	PFNd(PB04)_L4_C3
+PB 1 glomerulus-FB layers 3 and 6-ventral gall surround neuron	is_a	neuprint_JRC	726352774	PFGs(PB10)_L4_C4
 protocerebral bridge 18 glomeruli type 2 neuron	is_a	neuprint_JRC	911911004	Delta7(PB15)_L1L9R8_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	879844178	PFNp_d(PB01a)_L5_C4
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	879844178	PFNp_d(PB01a)_L5_C4
 dopaminergic PAM neuron 7	is_a	neuprint_JRC	5813109941	PAM07(y4<y1y2)_R
 protocerebral bridge 18 glomeruli type 2 neuron	is_a	neuprint_JRC	881221166	Delta7(PB15)_L1L9R8_R
 protocerebral bridge 18 glomeruli type 2 neuron	is_a	neuprint_JRC	911565419	Delta7(PB15)_L3R6_R
@@ -2851,8 +2851,8 @@ protocerebral bridge 18 glomeruli type 2 neuron	is_a	neuprint_JRC	910442752	Delt
 protocerebral bridge 18 glomeruli type 2 neuron	is_a	neuprint_JRC	911574261	Delta7(PB15)_L1L9R8_R
 vertical fiber system neuron	is_a	neuprint_JRC	880875840	PFL2(PB12b)_L4_C9
 lobula columnar neuron LC10	is_a	neuprint_JRC	1261902715	LC10
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	911560974	PFNd(PB04)_L4_C3
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	880526477	PFNa(PB03)_L4_C3
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	911560974	PFNd(PB04)_L4_C3
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	880526477	PFNa(PB03)_L4_C3
 dopaminergic PAM neuron 7	is_a	neuprint_JRC	1141687128	PAM07(y4<y1y2)_R
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	5812982826	KCg-d
 medulla columnar neuron MC61	is_a	neuprint_JRC	1138108777	MC61
@@ -2865,7 +2865,7 @@ fan-shaped neuron	is_a	neuprint_JRC	925548084	FB4P_b^FB04oa_L
 lobula columnar neuron LC10	is_a	neuprint_JRC	923661937	LC10
 vertical fiber system neuron	is_a	neuprint_JRC	911569552	PFL3(PB12c)_L5_C7
 lobula columnar neuron LC10	is_a	neuprint_JRC	925021558	LC10
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	819138239	PFNd(PB04)_L4_C3
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	819138239	PFNd(PB04)_L4_C3
 mushroom body output neuron	is_a	neuprint_JRC	612422902	MBON25(y1y2)_R
 PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	727376283	PFR_a(PB11a)_L4_C4
 lobula columnar neuron LC10	is_a	neuprint_JRC	5813041453	LC10
@@ -2874,30 +2874,30 @@ extrinsic ring neuron	is_a	neuprint_JRC	1046903356	(MBDLaxon1)
 fan-shaped neuron	is_a	neuprint_JRC	916305683	FB7D^FB07g_R
 protocerebral bridge 4 glomeruli neuron	is_a	neuprint_JRC	1004018344	P6-8P9(PB14)_L
 protocerebral bridge 18 glomeruli type 2 neuron	is_a	neuprint_JRC	734581598	Delta7(PB15)_L6R3_L
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	633943192	PFNd(PB04)_L4_C3
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	633943192	PFNd(PB04)_L4_C3
 protocerebral bridge 18 glomeruli type 2 neuron	is_a	neuprint_JRC	911138168	Delta7(PB15)_L4R5_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	924326157	LC10
 protocerebral bridge 18 glomeruli type 2 neuron	is_a	neuprint_JRC	911129204	Delta7(PB15)_L7R2_L
 dopaminergic PAM neuron 4	is_a	neuprint_JRC	893158121	PAM04_a(B2)_L
 protocerebral bridge 18 glomeruli type 2 neuron	is_a	neuprint_JRC	911906936	Delta7(PB15)_L3R6_R
 lobula columnar neuron	is_a	neuprint_JRC	1378856024	LC28a
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	879844210	PFNp_b(PB01b)_L5_C4
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	879844210	PFNp_b(PB01b)_L5_C4
 fan-shaped neuron	is_a	neuprint_JRC	5813048530	FB7D^FB07g_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	879844206	PFNp_a(PB01a)_L5_C4
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	879844206	PFNp_a(PB01a)_L5_C4
 lobula columnar neuron LC10	is_a	neuprint_JRC	923661510	LC10
 protocerebral bridge 18 glomeruli type 2 neuron	is_a	neuprint_JRC	911578496	Delta7(PB15)_L2R7_R
 fan-shaped neuron	is_a	neuprint_JRC	1102514975	FB5J^FB05j_L
 fan-shaped neuron	is_a	neuprint_JRC	1101474458	FB4P_a^FB04oc_R
 protocerebral bridge 18 glomeruli type 2 neuron	is_a	neuprint_JRC	973959177	Delta7(PB15)_L6R3_L
 lobula columnar neuron	is_a	neuprint_JRC	1688868386	LC28a(lVLPT4)_R
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	540493022	PFNa(PB03)_L4_C3
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	540493022	PFNa(PB03)_L4_C3
 lobula columnar neuron LC10	is_a	neuprint_JRC	923636089	LC10
 protocerebral bridge 18 glomeruli type 2 neuron	is_a	neuprint_JRC	1158747783	Delta7(PB15)_L7R2_L
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	663950729	PFNm_b(PB02b)_L4_C3
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	979132203	(PVM09)_L
 protocerebral bridge 18 glomeruli type 2 neuron	is_a	neuprint_JRC	911578595	Delta7(PB15)_L8R1R9_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	942254492	PFNp_e(PB01a)_L4_C3
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	849832062	PFNa(PB03)_L4_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	942254492	PFNp_e(PB01a)_L4_C3
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	849832062	PFNa(PB03)_L4_C3
 protocerebral bridge 18 glomeruli type 2 neuron	is_a	neuprint_JRC	910783961	Delta7(PB15)_L3R6_R
 fan-shaped neuron	is_a	neuprint_JRC	915614729	FB6J^FB06m_L
 fan-shaped neuron	is_a	neuprint_JRC	915273413	FB6J^FB06n_L
@@ -2906,92 +2906,92 @@ vertical fiber system neuron	is_a	neuprint_JRC	5813041365	PFL1(PB12a)_L4_C5
 vertical fiber system neuron	is_a	neuprint_JRC	789130596	PFL3(PB12c)_L4_C6
 pb-eb-no neuron	is_a	neuprint_JRC	757055317	PEN_a(PB06a)_L4
 lobula columnar neuron LC10	is_a	neuprint_JRC	1383633605	LC10
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	665314820	EPG(PB08)_L4
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	665314820	EPG(PB08)_L4
 fan-shaped neuron	is_a	neuprint_JRC	1132172898	FB4A^FB04a_L
 fan-shaped neuron	is_a	neuprint_JRC	980737209	FB5S^FB05u_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1349114660	PFNp_a(PB01a)_L4_C3
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1380145267	PFNp_b(PB01b)_L4_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1349114660	PFNp_a(PB01a)_L4_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1380145267	PFNp_b(PB01b)_L4_C3
 SPS-PB neuron	is_a	neuprint_JRC	911893174	SpsP(PB16)_L
 SPS-PB neuron	is_a	neuprint_JRC	987273073	(PVL05)_L
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	5813022281	EPG(PB08)_L4
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	5813022281	EPG(PB08)_L4
 protocerebral bridge 18 glomeruli type 2 neuron	is_a	neuprint_JRC	911470352	Delta7(PB15)_L2R7_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	911219981	PFNp_d(PB01a)_L4_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	911219981	PFNp_d(PB01a)_L4_C3
 lobula columnar neuron LC10	is_a	neuprint_JRC	923321015	LC10
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	755644082	PFNm_a(PB02a)_R5_C6
 fan-shaped neuron	is_a	neuprint_JRC	926490072	FB5V^FB04Ba_R
 protocerebral bridge 18 glomeruli type 2 neuron	is_a	neuprint_JRC	911911699	Delta7(PB15)_L2R7_R
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	539810773	PFNa(PB03)_L4_C3
-PB 1 glomerulus-FB layers 3 and 6-ventral gall neuron	is_a	neuprint_JRC	5813010807	PFGs(PB10)_R4_C6
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	817342497	PFNp_b(PB01b)_R7_C4
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	539810773	PFNa(PB03)_L4_C3
+PB 1 glomerulus-FB layers 3 and 6-ventral gall surround neuron	is_a	neuprint_JRC	5813010807	PFGs(PB10)_R4_C6
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	817342497	PFNp_b(PB01b)_R7_C4
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	5813032554	KCg-d
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	819138035	PFNp_a(PB01a)_L4_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	819138035	PFNp_a(PB01a)_L4_C3
 lobula columnar neuron LC10	is_a	neuprint_JRC	924348411	LC10
 PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	882200934	PFR_a(PB11a)_R1_C1
 protocerebral bridge 18 glomeruli type 2 neuron	is_a	neuprint_JRC	910801332	Delta7(PB15)_L5R4_L
-PBG1-9.s-EBc.b-D/V GA.b neuron	is_a	neuprint_JRC	942587380	PEG(PB07)_L4
+PBG1-9.s-EBt.b-D/V GA.b neuron	is_a	neuprint_JRC	942587380	PEG(PB07)_L4
 pb-eb-no neuron	is_a	neuprint_JRC	849482511	PEN_a(PB06a)_L4
 medulla columnar neuron MC63	is_a	neuprint_JRC	1409191044	MC64
 lobula columnar neuron LC10	is_a	neuprint_JRC	923657277	LC10
 protocerebral bridge 18 glomeruli type 2 neuron	is_a	neuprint_JRC	911211196	Delta7(PB15)_L6R4_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1349114669	PFNp_b(PB01b)_L4_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1349114669	PFNp_b(PB01b)_L4_C3
 mushroom body medial lobe arborizing neuron 3	is_a	neuprint_JRC	1050585709	PAM03(B2B'2a)_R
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	975518615	KCg-d
 fan-shaped neuron	is_a	neuprint_JRC	916288036	FB6L^FB06q_R
 vertical fiber system neuron	is_a	neuprint_JRC	910447181	PFL3(PB12c)_R5_C3
 pb-eb-no neuron	is_a	neuprint_JRC	910447075	PEN_a(PB06a)_R5
 PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	789121913	PFR_a(PB11a)_L4_C4
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	5813027103	EPG(PB08)_R5
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	879779401	PFNp_b(PB01b)_R5_C6
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	5813027103	EPG(PB08)_R5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	879779401	PFNp_b(PB01b)_R5_C6
 CCP-VMP-PB neuron	is_a	neuprint_JRC	910787908	IbSpsP(PB17)_R3/4/5
 protocerebral bridge 18 glomeruli type 2 neuron	is_a	neuprint_JRC	910442723	Delta7(PB15)_L4R5_R
 protocerebral bridge 18 glomeruli type 2 neuron	is_a	neuprint_JRC	910783883	Delta7(PB15)_L8R1R9_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1503922566	PFNp_b(PB01b)_L4_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1503922566	PFNp_b(PB01b)_L4_C3
 medulla columnar neuron MC61	is_a	neuprint_JRC	985005781	MC61
 CCP-VMP-PB neuron	is_a	neuprint_JRC	5813041382	IbSpsP(PB17)_L4
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	911220331	PFNp_b(PB01b)_L4_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	911220331	PFNp_b(PB01b)_L4_C3
 lobula columnar neuron LC10	is_a	neuprint_JRC	1139835270	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	910878587	PFNp_a(PB01a)_L5_C4
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	910878587	PFNp_a(PB01a)_L5_C4
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	5813083651	KCg-d
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	880538997	PFNd(PB04)_L6_C6
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	725951521	EPG(PB08)_R5
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	880538997	PFNd(PB04)_L6_C6
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	725951521	EPG(PB08)_R5
 lobula columnar neuron LC10	is_a	neuprint_JRC	925017453	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	924689450	LC10
 pb-eb-no neuron	is_a	neuprint_JRC	539462336	PEN_b(PB06b)_L4
 vertical fiber system neuron	is_a	neuprint_JRC	850855138	PFL3(PB12c)_L3_C5
 lobula columnar neuron LC10	is_a	neuprint_JRC	956056543	LC10
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	909717461	KCg-d
-PB 1 glomerulus-FB layers 3 and 6-ventral gall neuron	is_a	neuprint_JRC	664943511	PFGs(PB10)_R1_C1
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	694985489	PFNp_b(PB01b)_L4_C3
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	478077561	PFNa(PB03)_L4_C3
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	848800082	PFNp_c(PB01c)_L5_C4
+PB 1 glomerulus-FB layers 3 and 6-ventral gall surround neuron	is_a	neuprint_JRC	664943511	PFGs(PB10)_R1_C1
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	694985489	PFNp_b(PB01b)_L4_C3
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	478077561	PFNa(PB03)_L4_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	848800082	PFNp_c(PB01c)_L5_C4
 pb-eb-no neuron	is_a	neuprint_JRC	849421763	PEN_b(PB06b)_R5
 vertical fiber system neuron	is_a	neuprint_JRC	1167282562	PFL2(PB12b)_R4_C2
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	757055403	PFNp_c(PB01c)_L4_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	757055403	PFNp_c(PB01c)_L4_C3
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	632915714	PFNm_a(PB02a)_L4_C3
 lobula columnar neuron LC10	is_a	neuprint_JRC	923998505	LC10
 protocerebral bridge 18 glomeruli type 2 neuron	is_a	neuprint_JRC	910796989	Delta7(PB15)_L5R4_L
 vertical fiber system neuron	is_a	neuprint_JRC	911134017	PFL3(PB12c)_R5_C3
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1350803100	PFNp_a(PB01a)_R5_C6
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	663558074	PFNa(PB03)_R5_C6
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1350803100	PFNp_a(PB01a)_R5_C6
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	663558074	PFNa(PB03)_R5_C6
 lobula columnar neuron LC10	is_a	neuprint_JRC	924335413	LC10
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	848817674	PFNa(PB03)_L6_C5
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	848817674	PFNa(PB03)_L6_C5
 protocerebral bridge 4 glomeruli neuron	is_a	neuprint_JRC	911919815	P6-8P9(PB14)_L
 lobula columnar neuron LC10	is_a	neuprint_JRC	924681085	LC10
 PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	976997968	PFR_a(PB11a)_R5_C5
 lobula columnar neuron LC10	is_a	neuprint_JRC	1692614515	LC10
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	5812979314	KCg-d
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	880526177	PFNp_a(PB01a)_L4_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	880526177	PFNp_a(PB01a)_L4_C3
 PB-FB-NO subunit 2 ventral domain neuron	is_a	neuprint_JRC	724267537	PFNv(PB05)_R5_C6
 lobula columnar neuron LC10	is_a	neuprint_JRC	1226084614	LC10
 protocerebral bridge 18 glomeruli type 2 neuron	is_a	neuprint_JRC	911574041	Delta7(PB15)_L2R7_R
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	1349114715	PFNm_a(PB02a)_L4_C3
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	786674282	PFNd(PB04)_R5_C6
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	911215499	PFNp_c(PB01c)_L4_C3
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	879442155	PFNa(PB03)_R5_C6
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	786674282	PFNd(PB04)_R5_C6
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	911215499	PFNp_c(PB01c)_L4_C3
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	879442155	PFNa(PB03)_R5_C6
 extrinsic ring neuron ExR1	is_a	neuprint_JRC	917647959	ExR1(ring)_L
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	910447220	PFNd(PB04)_R5_C6
-PBG1-9.s-EBc.b-D/V GA.b neuron	is_a	neuprint_JRC	881898734	PEG(PB07)_L6
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	912238927	PFNp_e(PB01a)_L4_C3
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	910447220	PFNd(PB04)_R5_C6
+PBG1-9.s-EBt.b-D/V GA.b neuron	is_a	neuprint_JRC	881898734	PEG(PB07)_L6
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	912238927	PFNp_e(PB01a)_L4_C3
 PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	1073504644	PFR_b(PB11b)_R5_C4
 fan-shaped neuron	is_a	neuprint_JRC	1040742857	FB6L^FB06q_L
 vertical fiber system neuron	is_a	neuprint_JRC	910787992	PFL1(PB12a)_R5_C4
@@ -3000,72 +3000,72 @@ lobula columnar neuron LC10	is_a	neuprint_JRC	923994365	LC10
 dopaminergic PAM neuron 4	is_a	neuprint_JRC	676616719	PAM04_a(B2)_L
 lobula columnar neuron LC10	is_a	neuprint_JRC	923994401	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	925017553	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	848800043	PFNp_c(PB01c)_L5_C4
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	848800043	PFNp_c(PB01c)_L5_C4
 lobula columnar neuron LC10	is_a	neuprint_JRC	5813058307	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	5813128240	PFNp_b(PB01b)_L5_C4
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1410813978	PFNp_b(PB01b)_L6_C5
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	849763224	PFNa(PB03)_R4_C7
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1441485942	PFNp_c(PB01c)_R4_C7
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	541870397	EPG(PB08)_L6
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	5813128240	PFNp_b(PB01b)_L5_C4
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1410813978	PFNp_b(PB01b)_L6_C5
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	849763224	PFNa(PB03)_R4_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1441485942	PFNp_c(PB01c)_R4_C7
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	541870397	EPG(PB08)_L6
 fan-shaped neuron	is_a	neuprint_JRC	1050024735	FB5V^FB04Ba_L
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	726024758	PFNm_b(PB02b)_L4_C3
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	788111826	PFNd(PB04)_L6_C6
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	788111826	PFNd(PB04)_L6_C6
 fan-shaped neuron	is_a	neuprint_JRC	1012112398	FB7D^FB07g_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	955020637	LC10
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	5813096528	KCg-d
 pb-eb-no neuron	is_a	neuprint_JRC	5813056953	PEN_a(PB06a)_R4
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	757413552	PFNd(PB04)_L6_C5
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	757413552	PFNd(PB04)_L6_C5
 lobula columnar neuron LC10	is_a	neuprint_JRC	924344128	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1629085008	PFNp_c(PB01c)_R5_C6
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1629085008	PFNp_c(PB01c)_R5_C6
 protocerebral bridge 18 glomeruli type 2 neuron	is_a	neuprint_JRC	911129339	Delta7(PB15)_L4R5_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	861574640	LC10
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	849421893	PFNm_b(PB02b)_R5_C6
 pb-eb-no neuron	is_a	neuprint_JRC	569775058	PEN_b(PB06b)_R4
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1380408540	PFNp_b(PB01b)_R7_C4
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	816682061	PFNp_b(PB01b)_R7_C4
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	663898692	PFNa(PB03)_R4_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1380408540	PFNp_b(PB01b)_R7_C4
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	816682061	PFNp_b(PB01b)_R7_C4
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	663898692	PFNa(PB03)_R4_C7
 pb-eb-no neuron	is_a	neuprint_JRC	663562172	PEN_b(PB06b)_R4
 CCP-VMP-PB neuron	is_a	neuprint_JRC	910783805	IbSpsP(PB17)_R5/6
 lobula columnar neuron LC10	is_a	neuprint_JRC	1471600919	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	786000969	PFNp_c(PB01c)_R5_C6
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	786679162	PFNp_e(PB01a)_R5_C6
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1473241269	PFNp_d(PB01a)_R5_C6
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	786000969	PFNp_c(PB01c)_R5_C6
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	786679162	PFNp_e(PB01a)_R5_C6
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1473241269	PFNp_d(PB01a)_R5_C6
 adult TuBu neuron	is_a	neuprint_JRC	5813014029	TuBu07_SBU_R
 fan-shaped neuron	is_a	neuprint_JRC	1293896697	FB4F_a^FB04f_L
 pb-eb-no neuron	is_a	neuprint_JRC	664650297	PEN_b(PB06b)_L6
 protocerebral bridge 18 glomeruli type 2 neuron	is_a	neuprint_JRC	911134009	Delta7(PB15)_L4R5_R
 vertical fiber system neuron	is_a	neuprint_JRC	1200053009	PFL2(PB12b)_R4_C1
 lobula columnar neuron LC10	is_a	neuprint_JRC	954342682	LC10
-PBG1-9.s-EBc.b-D/V GA.b neuron	is_a	neuprint_JRC	942173776	PEG(PB07)_R4
+PBG1-9.s-EBt.b-D/V GA.b neuron	is_a	neuprint_JRC	942173776	PEG(PB07)_R4
 fan-shaped neuron	is_a	neuprint_JRC	611814312	FB4F_a^FB04f_L
 lobula columnar neuron LC10	is_a	neuprint_JRC	955024729	LC10
 vertical fiber system neuron	is_a	neuprint_JRC	941939879	PFL3(PB12c)_L6_C8
 lobula columnar neuron LC10	is_a	neuprint_JRC	954692704	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	955365353	LC10
 CCP-VMP-PB neuron	is_a	neuprint_JRC	941831818	IbSpsP(PB17)_R3/4/5
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	664632485	PFNp_b(PB01b)_L4_C3
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1441503748	PFNp_c(PB01c)_L6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	664632485	PFNp_b(PB01b)_L4_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1441503748	PFNp_c(PB01c)_L6_C5
 lobula columnar neuron LC10	is_a	neuprint_JRC	1077792194	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1348769299	PFNp_b(PB01b)_L4_C3
-PB 1 glomerulus-FB layers 3 and 6-ventral gall neuron	is_a	neuprint_JRC	788461444	PFGs(PB10)_L6_C6
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1348769299	PFNp_b(PB01b)_L4_C3
+PB 1 glomerulus-FB layers 3 and 6-ventral gall surround neuron	is_a	neuprint_JRC	788461444	PFGs(PB10)_L6_C6
 lobula columnar neuron LC10	is_a	neuprint_JRC	5813035500	LC10
 PB-FB-NO subunit 2 ventral domain neuron	is_a	neuprint_JRC	417998204	PFNv(PB05)_R4_C7
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	1127604950	KCg-d
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	5812991632	PFNp_b(PB01b)_R5_C6
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	5812991632	PFNp_b(PB01b)_R5_C6
 lobula columnar neuron LC10	is_a	neuprint_JRC	954010798	LC10
 fan-shaped neuron	is_a	neuprint_JRC	916305728	FB6J^FB06m_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	910473088	PFNp_b(PB01b)_R5_C6
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	910473088	PFNp_b(PB01b)_R5_C6
 dopaminergic PAM neuron 7	is_a	neuprint_JRC	1204175835	PAM07(y4<y1y2)_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	955383212	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	956060773	LC10
 PB-FB-NO subunit 2 ventral domain neuron	is_a	neuprint_JRC	601120917	PFNv(PB05)_R6_C5
 protocerebral bridge 4 glomeruli neuron	is_a	neuprint_JRC	5813058389	P6-8P9(PB14)_R
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	695956656	EPG(PB08)_R4
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	695956656	EPG(PB08)_R4
 adult uniglomerular antennal lobe projection neuron lPN	is_a	neuprint_JRC	5813069447	VP2 lPN(olfactory PN)_R
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	664235541	PFNd(PB04)_R4_C7
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	912601268	EPG(PB08)_L6
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	664235541	PFNd(PB04)_R4_C7
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	912601268	EPG(PB08)_L6
 lobula columnar neuron LC10	is_a	neuprint_JRC	1018458715	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1472537557	PFNp_e(PB01a)_L6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1472537557	PFNp_e(PB01a)_L6_C5
 pb-eb-no neuron	is_a	neuprint_JRC	664645558	PEN_a(PB06a)_L6
 lobula columnar neuron LC10	is_a	neuprint_JRC	955715991	LC10
 vertical fiber system neuron	is_a	neuprint_JRC	911578483	PFL1(PB12a)_L6_C7
@@ -3073,46 +3073,46 @@ lobula columnar neuron LC10	is_a	neuprint_JRC	5813016661	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	5813050604	LC10
 vertical fiber system neuron	is_a	neuprint_JRC	881458145	PFL1(PB12a)_R4_C5
 SPS-PB neuron	is_a	neuprint_JRC	941469110	SpsP(PB16)_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	5813012311	PFNp_b(PB01b)_L6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	5813012311	PFNp_b(PB01b)_L6_C5
 extrinsic ring neuron ExR1	is_a	neuprint_JRC	948709216	ExR1(ring)_R
 fan-shaped neuron	is_a	neuprint_JRC	5813045216	FB3C^FB03c_R
 pb-eb-no neuron	is_a	neuprint_JRC	879183317	PEN_b(PB06b)_L6
 PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	1072503172	PFR_a(PB11a)_L6_C6
 PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	1070439674	PFR_b(PB11b)_L3_C4
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	633200987	PFNp_b(PB01b)_R4_C7
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	940791383	PFNd(PB04)_R6_C4
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	5813015434	(MBDLaxon1)
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	632259507	PFNp_b(PB01b)_L6_C5
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	541119189	PFNa(PB03)_R4_C7
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	694920753	EPG(PB08)_R5
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	1224936588	PFNa(PB03)_L6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	633200987	PFNp_b(PB01b)_R4_C7
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	940791383	PFNd(PB04)_R6_C4
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	5813015434	(MBDLaxon1)
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	632259507	PFNp_b(PB01b)_L6_C5
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	541119189	PFNa(PB03)_R4_C7
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	694920753	EPG(PB08)_R5
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	1224936588	PFNa(PB03)_L6_C5
 vertical fiber system neuron	is_a	neuprint_JRC	942172835	PFL3(PB12c)_R4_C4
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	5813040300	PFNp_b(PB01b)_R7_C4
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	634962055	EPG(PB08)_L4
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	5813040300	PFNp_b(PB01b)_R7_C4
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	634962055	EPG(PB08)_L4
 adult moonwalker descending neuron	is_a	neuprint_JRC	729742221	MDN(PDM13)_L
 vertical fiber system neuron	is_a	neuprint_JRC	481112669	PFL2(PB12b)_R1_C4
 fan-shaped neuron	is_a	neuprint_JRC	5813041705	FB6J^FB06n_R
 fan-shaped neuron	is_a	neuprint_JRC	891107336	FB5W^FB04Bb_L
 pb-eb-no neuron	is_a	neuprint_JRC	1380495496	PEN_a(PB06a)_L6
 fan-shaped neuron	is_a	neuprint_JRC	946649598	FB6J^FB06n_L
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	850104005	PFNd(PB04)_R4_C7
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	850104005	PFNd(PB04)_R4_C7
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	1174410293	KCg-d
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	941132270	PFNa(PB03)_R6_C5
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	941132270	PFNa(PB03)_R6_C5
 protocerebral bridge 4 glomeruli neuron	is_a	neuprint_JRC	972513129	P6-8P9(PB14)_R
 PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	1135907207	PFR_b(PB11b)_R6_C3
 PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	972965985	(PDM19)_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	848407278	PFNp_b(PB01b)_R5_C6
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	848407278	PFNp_b(PB01b)_R5_C6
 CCP-VMP-PB neuron	is_a	neuprint_JRC	942959557	IbSpsP(PB17)_L6/7
 protocerebral bridge 18 glomeruli type 2 neuron	is_a	neuprint_JRC	941814787	Delta7(PB15)_L6R3_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	632911211	PFNp_c(PB01c)_L4_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	632911211	PFNp_c(PB01c)_L4_C3
 fan-shaped neuron	is_a	neuprint_JRC	5812983538	FB4E^FB04e_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	956043578	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	880526292	PFNp_c(PB01c)_L4_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	880526292	PFNp_c(PB01c)_L4_C3
 fan-shaped neuron	is_a	neuprint_JRC	956212778	FB4E^FB04e_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1535298460	PFNp_b(PB01b)_R4_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1535298460	PFNp_b(PB01b)_R4_C7
 lobula columnar neuron LC10	is_a	neuprint_JRC	956060536	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	911224264	(PDM19)_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	942172462	PFNp_b(PB01b)_R4_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	942172462	PFNp_b(PB01b)_R4_C7
 pb-eb-no neuron	is_a	neuprint_JRC	1197993940	PEN_b(PB06b)_R6
 fan-shaped neuron	is_a	neuprint_JRC	1009759779	FB6J^FB06n_R
 PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	786989471	PFR_b(PB11b)_R4_C5
@@ -3120,12 +3120,12 @@ PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	974606303	PFR_a(P
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	1441481281	PFNm_a(PB02a)_R4_C7
 vertical fiber system neuron	is_a	neuprint_JRC	941123943	PFL1(PB12a)_R6_C3
 lobula columnar neuron LC10	is_a	neuprint_JRC	956397821	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	847712342	PFNp_b(PB01b)_R6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	847712342	PFNp_b(PB01b)_R6_C5
 fan-shaped neuron	is_a	neuprint_JRC	5813088712	FB4D^FB04d_L
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	5813081175	KCg-d
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1567020107	PFNp_b(PB01b)_R4_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1567020107	PFNp_b(PB01b)_R4_C7
 fan-shaped neuron	is_a	neuprint_JRC	1100801075	FB4M^FB04y(PPM3-FB3/4-NO-DAN)_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	785957618	PFNp_b(PB01b)_R6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	785957618	PFNp_b(PB01b)_R6_C5
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	662840966	PFNm_b(PB02b)_R6_C5
 PB-FB-NO subunit 2 ventral domain neuron	is_a	neuprint_JRC	601557317	PFNv(PB05)_L6_C5
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	5812982020	KCg-d
@@ -3134,152 +3134,152 @@ dopaminergic PAM neuron 8	is_a	neuprint_JRC	1141692008	PAM08_a(y4)_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	1078111105	LC10
 pb-eb-no neuron	is_a	neuprint_JRC	663190769	PEN_a(PB06a)_R6
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	1035955516	PFNm_b(PB02b)_R4_C7
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	788794171	EPG(PB08)_L6
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	1443579770	PFNa(PB03)_R4_C7
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	1255297613	PFNa(PB03)_R6_C5
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	788794171	EPG(PB08)_L6
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	1443579770	PFNa(PB03)_R4_C7
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	1255297613	PFNa(PB03)_R6_C5
 vertical fiber system neuron	is_a	neuprint_JRC	941132430	PFL3(PB12c)_R6_C2
 vertical fiber system neuron	is_a	neuprint_JRC	1129150692	(PDM17)_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	940791092	PFNp_b(PB01b)_R6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	940791092	PFNp_b(PB01b)_R6_C5
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	1410450949	PFNm_a(PB02a)_R6_C5
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	786989348	PFNd(PB04)_R6_C4
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	1411862814	PFNa(PB03)_R4_C7
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	786989348	PFNd(PB04)_R6_C4
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	1411862814	PFNa(PB03)_R4_C7
 lobula columnar neuron LC10	is_a	neuprint_JRC	955378609	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	955029299	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	633200861	PFNp_a(PB01a)_R4_C7
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	1255638782	PFNa(PB03)_L6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	633200861	PFNp_a(PB01a)_R4_C7
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	1255638782	PFNa(PB03)_L6_C5
 dopaminergic PAM neuron 8	is_a	neuprint_JRC	1172446050	PAM08_a(y4)_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1410450859	PFNp_a(PB01a)_R6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1410450859	PFNp_a(PB01a)_R6_C5
 extrinsic ring neuron	is_a	neuprint_JRC	5812987684	ExR7(ring)_L
 lobula columnar neuron LC10	is_a	neuprint_JRC	955374672	LC10
 adult uniglomerular antennal lobe projection neuron	is_a	neuprint_JRC	948834414	VL2a vPN(olfactory PN)_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	986758977	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	849832122	PFNp_b(PB01b)_L4_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	849832122	PFNp_b(PB01b)_L4_C3
 fan-shaped neuron	is_a	neuprint_JRC	5813091680	FB6J^FB06n_L
 lobula columnar neuron LC10	is_a	neuprint_JRC	985722839	LC10
 fan-shaped neuron	is_a	neuprint_JRC	977339122	FB5L^FB05m_R
 CCP-VMP-PB neuron	is_a	neuprint_JRC	941814244	IbSpsP(PB17)_R6
 mushroom body output neuron 9	is_a	neuprint_JRC	1016835041	MBON09(y3B'1)(AVM17)_L
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	942254554	PFNa(PB03)_L4_C3
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	942254554	PFNa(PB03)_L4_C3
 fan-shaped neuron	is_a	neuprint_JRC	921814579	FB2K^FB02v_L
 PB-FB-NO subunit 2 ventral domain neuron	is_a	neuprint_JRC	912894991	PFNv(PB05)_L3_C2
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1535298439	PFNp_b(PB01b)_R4_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1535298439	PFNp_b(PB01b)_R4_C7
 pb-eb-no neuron	is_a	neuprint_JRC	509410587	PEN_a(PB06a)_R4
 PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	1072844208	PFR_a(PB11a)_L6_C7
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	5813128416	PFNp_b(PB01b)_L6_C5_irreg
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	5813128416	PFNp_b(PB01b)_L6_C5_irreg
 fan-shaped neuron	is_a	neuprint_JRC	953414780	FB4H^FB04i_R
 pb-eb-no neuron	is_a	neuprint_JRC	847336755	PEN_a(PB06a)_R6
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1410118722	PFNp_b(PB01b)_R6_C5
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	941132434	EPG(PB08)_R6
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1410118722	PFNp_b(PB01b)_R6_C5
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	941132434	EPG(PB08)_R6
 dopaminergic PAM neuron 14	is_a	neuprint_JRC	954222134	PAM14(B'1m)_L
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	1224254476	PFNa(PB03)_R6_C5
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	1224254476	PFNa(PB03)_R6_C5
 PB-FB-NO subunit 2 ventral domain neuron	is_a	neuprint_JRC	572494993	PFNv(PB05)_R4_C7
 extrinsic ring neuron ExR1	is_a	neuprint_JRC	949710555	ExR1(ring)_R
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	1535652862	PFNm_a(PB02a)_R4_C7
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	5813128537	PFNm_b(PB02b)_L6_C5
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	5813070464	PFNp_b(PB01b)_R6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	5813070464	PFNp_b(PB01b)_R6_C5
 PB-FB-NO subunit 2 ventral domain neuron	is_a	neuprint_JRC	632155800	PFNv(PB05)_R6_C5
 adult TuBu neuron	is_a	neuprint_JRC	954679716	TuBu07_SBU_R
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	662845370	PFNm_b(PB02b)_R6_C5
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	911823931	PFNp_a(PB01a)_R4_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	911823931	PFNp_a(PB01a)_R4_C7
 dopaminergic PAM neuron 8	is_a	neuprint_JRC	1172796014	PAM08_a(y4)_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	816682053	PFNp_a(PB01a)_R6_C5
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	879844133	PFNp_d(PB01a)_L5_C4
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	816682053	PFNp_a(PB01a)_R6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	879844133	PFNp_d(PB01a)_L5_C4
 lobula columnar neuron LC10	is_a	neuprint_JRC	956082289	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	977736804	(PVM09)_L
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	1410450511	PFNm_b(PB02b)_R4_C7
 fan-shaped neuron	is_a	neuprint_JRC	1101142279	FB4P_a^FB04oc_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1410122892	PFNp_c(PB01c)_R6_C5
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1566333075	PFNp_b(PB01b)_R4_C7
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1410472719	PFNp_c(PB01c)_L6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1410122892	PFNp_c(PB01c)_R6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1566333075	PFNp_b(PB01b)_R4_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1410472719	PFNp_c(PB01c)_L6_C5
 PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	911802614	PFR_a(PB11a)_R6_C4
 lobula columnar neuron LC10	is_a	neuprint_JRC	955374862	LC10
 pb-eb-no neuron	is_a	neuprint_JRC	941123755	PEN_b(PB06b)_R6
 PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	5813016830	PFR_a(PB11a)_R6_C3
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	910438331	EPG(PB08)_R6
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	910438331	EPG(PB08)_R6
 lobula columnar neuron LC10	is_a	neuprint_JRC	1347470894	LC10
 mushroom body output neuron	is_a	neuprint_JRC	5813040205	MBON30(y1y2y3)(AVM07)_L
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	878380399	PFNd(PB04)_R6_C5
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	878380399	PFNd(PB04)_R6_C5
 lobula columnar neuron LC10	is_a	neuprint_JRC	1136740119	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	987116716	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1441486002	PFNp_e(PB01a)_R4_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1441486002	PFNp_e(PB01a)_R4_C7
 dopaminergic PAM neuron 8	is_a	neuprint_JRC	5812983827	PAM08_a(y4)_L
-PB 1 glomerulus-FB layers 3 and 6-ventral gall neuron	is_a	neuprint_JRC	912147871	PFGs(PB10)_R6_C4
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	724228740	PFNp_c(PB01c)_R6_C5
+PB 1 glomerulus-FB layers 3 and 6-ventral gall surround neuron	is_a	neuprint_JRC	912147871	PFGs(PB10)_R6_C4
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	724228740	PFNp_c(PB01c)_R6_C5
 fan-shaped neuron	is_a	neuprint_JRC	1012479733	FB4Z^FB04Bd_L
 lobula columnar neuron LC24	is_a	neuprint_JRC	1938174967	LC24
 PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	973954598	PFR_a(PB11a)_L3_C3
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1629426306	PFNp_a(PB01a)_R5_C6
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1441499171	PFNp_b(PB01b)_L6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1629426306	PFNp_a(PB01a)_R5_C6
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1441499171	PFNp_b(PB01b)_L6_C5
 PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	5812983764	PFR_a(PB11a)_R4_C6
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	1224249917	PFNa(PB03)_R6_C5
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	694666271	PFNp_a(PB01a)_L6_C5
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	974498428	(lVLPT8)_R
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	1286315568	PFNa(PB03)_R6_C5
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	878725581	PFNp_a(PB01a)_R6_C5
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	1224249917	PFNa(PB03)_R6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	694666271	PFNp_a(PB01a)_L6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	974498428	(lVLPT8)_R
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	1286315568	PFNa(PB03)_R6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	878725581	PFNp_a(PB01a)_R6_C5
 lobula columnar neuron LC10	is_a	neuprint_JRC	1107764430	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1410450514	PFNp_a(PB01a)_R6_C5
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	5813014859	PFNp_b(PB01b)_R6_C5
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1441485464	PFNp_e(PB01a)_R6_C5
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	972871918	PFNa(PB03)_R4_C7
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1380149683	PFNp_c(PB01c)_L6_C5
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1441499284	PFNp_b(PB01b)_L6_C5
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	879748663	PFNa(PB03)_R6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1410450514	PFNp_a(PB01a)_R6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	5813014859	PFNp_b(PB01b)_R6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1441485464	PFNp_e(PB01a)_R6_C5
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	972871918	PFNa(PB03)_R4_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1380149683	PFNp_c(PB01c)_L6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1441499284	PFNp_b(PB01b)_L6_C5
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	879748663	PFNa(PB03)_R6_C5
 lobula columnar neuron LC10	is_a	neuprint_JRC	987419663	LC10
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	786989395	PFNd(PB04)_R6_C4
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	849844855	PFNa(PB03)_L6_C5
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	786989395	PFNd(PB04)_R6_C4
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	849844855	PFNa(PB03)_L6_C5
 SPS-PB neuron	is_a	neuprint_JRC	941136727	SpsP(PB16)_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	985036637	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1410122843	PFNp_b(PB01b)_R6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1410122843	PFNp_b(PB01b)_R6_C5
 CCP-VMP-PB neuron	is_a	neuprint_JRC	940787029	IbSpsP(PB17)_R6
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	5812983199	KCg-d
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	819073675	PFNd(PB04)_R4_C7
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	819073675	PFNd(PB04)_R4_C7
 CCP-VMP-PB neuron	is_a	neuprint_JRC	973894912	IbSpsP(PB17)_R4
 fan-shaped neuron	is_a	neuprint_JRC	989228019	FB5V^FB04Ba_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	816682110	PFNp_a(PB01a)_R6_C5
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1380149563	PFNp_c(PB01c)_L6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	816682110	PFNp_a(PB01a)_R6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1380149563	PFNp_c(PB01c)_L6_C5
 fan-shaped neuron	is_a	neuprint_JRC	977343309	FB5S^FB05u_L
 fan-shaped neuron	is_a	neuprint_JRC	1193560469	FB3C^FB03c_R
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	416642425	EPG(PB08)_R4
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	5813017292	(ADM01)_L
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	416642425	EPG(PB08)_R4
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	5813017292	(ADM01)_L
 fan-shaped neuron	is_a	neuprint_JRC	1020280792	FB5V^FB04Ba_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1410122586	PFNp_c(PB01c)_R6_C5
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1503896377	PFNp_b(PB01b)_R5_C6
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	5813122799	PFNp_b(PB01b)_L6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1410122586	PFNp_c(PB01c)_R6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1503896377	PFNp_b(PB01b)_R5_C6
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	5813122799	PFNp_b(PB01b)_L6_C5
 fan-shaped neuron	is_a	neuprint_JRC	1015592525	FB4A^FB04a_L
 lobula columnar neuron LC10	is_a	neuprint_JRC	1661588290	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	955383233	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	694665957	PFNp_a(PB01a)_L6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	694665957	PFNp_a(PB01a)_L6_C5
 fan-shaped neuron	is_a	neuprint_JRC	946658448	FB6L^FB06q_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	940791093	PFNp_b(PB01b)_R6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	940791093	PFNp_b(PB01b)_R6_C5
 vertical fiber system neuron	is_a	neuprint_JRC	1258686925	PFL3(PB12c)_L2_C4
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	5812991545	PFNp_d(PB01a)_R4_C7
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	847712233	PFNp_b(PB01b)_R6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	5812991545	PFNp_d(PB01a)_R4_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	847712233	PFNp_b(PB01b)_R6_C5
 PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	1002999221	PFR_b(PB11b)_L6_C7
 PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	5813057267	LPTC
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	723508095	KCg-d
 extrinsic ring neuron	is_a	neuprint_JRC	1105882358	ExR7(ring)_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	985714517	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	880526398	PFNp_a(PB01a)_L4_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	880526398	PFNp_a(PB01a)_L4_C3
 dopaminergic PAM neuron 8	is_a	neuprint_JRC	1141342258	PAM08_a(y4)_R
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	1410122382	PFNm_a(PB02a)_R6_C5
 mushroom body medial lobe arborizing neuron 3	is_a	neuprint_JRC	1387583729	PAM03(B2B'2a)_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	697014740	PFNp_b(PB01b)_L3_C2
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	697014740	PFNp_b(PB01b)_L3_C2
 lobula columnar neuron LC10	is_a	neuprint_JRC	1016753670	LC10
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	942491983	EPG(PB08)_R6
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	942491983	EPG(PB08)_R6
 lobula columnar neuron LC10	is_a	neuprint_JRC	985731781	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	985386679	LC10
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	727371546	PFNm_b(PB02b)_L3_C2
 lobula columnar neuron LC10	is_a	neuprint_JRC	986396100	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	940791115	PFNp_b(PB01b)_R6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	940791115	PFNp_b(PB01b)_R6_C5
 vertical fiber system neuron	is_a	neuprint_JRC	916284630	PFL2(PB12b)_R2_C4
 dopaminergic PAM neuron 4	is_a	neuprint_JRC	1295225451	PAM04_b(B2)(ADM02)_L
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	695270840	PFNd(PB04)_R4_C7
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	695270840	PFNd(PB04)_R4_C7
 dopaminergic PAM neuron 8	is_a	neuprint_JRC	1173076392	PAM08_e(y4)_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	985377724	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	847712250	PFNp_e(PB01a)_R6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	847712250	PFNp_e(PB01a)_R6_C5
 vertical fiber system neuron	is_a	neuprint_JRC	1097718659	PFL3(PB12c)_R2_C6
 lobula columnar neuron LC10	is_a	neuprint_JRC	987091864	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	633541717	PFNp_a(PB01a)_R4_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	633541717	PFNp_a(PB01a)_R4_C7
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	632600726	PFNm_a(PB02a)_L6_C5
 fan-shaped neuron	is_a	neuprint_JRC	1076293806	FB4D^FB04d_L
 fan-shaped neuron	is_a	neuprint_JRC	1049674502	FB5V^FB04Ba_L
@@ -3288,59 +3288,59 @@ lobula columnar neuron LC10	is_a	neuprint_JRC	985722546	LC10
 CCP-VMP-PB neuron	is_a	neuprint_JRC	1003672833	IbSpsP(PB17)_L6/7
 fan-shaped neuron	is_a	neuprint_JRC	1074860632	FB4Z^FB04Bd_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	986767293	LC10
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	786013801	PFNd(PB04)_R3_C8
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	786013801	PFNd(PB04)_R3_C8
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	1410127581	PFNm_a(PB02a)_L6_C5
 lobula columnar neuron LC10	is_a	neuprint_JRC	1198468674	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	985369220	LC10
 fan-shaped neuron	is_a	neuprint_JRC	1226296238	FB4E^FB04e_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	697014777	PFNp_a(PB01a)_L3_C2
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	697014777	PFNp_a(PB01a)_L3_C2
 lobula columnar neuron LC10	is_a	neuprint_JRC	1047787967	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1256376704	PFNp_e(PB01a)_L6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1256376704	PFNp_e(PB01a)_L6_C5
 fan-shaped neuron	is_a	neuprint_JRC	5813022949	FB5L^FB05m_L
 dopaminergic PAM neuron 6	is_a	neuprint_JRC	1081767446	PAM06(B'2m)_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	819138027	PFNp_b(PB01b)_L4_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	819138027	PFNp_b(PB01b)_L4_C3
 lobula columnar neuron LC10	is_a	neuprint_JRC	985710145	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	817674780	PFNp_a(PB01a)_R6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	817674780	PFNp_a(PB01a)_R6_C5
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	631400288	KCg-d
 dopaminergic PAM neuron 8	is_a	neuprint_JRC	1142365351	PAM08_a(y4)_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	971817401	PFNp_a(PB01a)_R6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	971817401	PFNp_a(PB01a)_R6_C5
 lobula columnar neuron LC10	is_a	neuprint_JRC	1505727476	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	986396204	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1410451120	PFNp_c(PB01c)_R6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1410451120	PFNp_c(PB01c)_R6_C5
 PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	972858260	PFR_a(PB11a)_R5_C5
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	5812982877	KCg-d
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1410105306	PFNp_e(PB01a)_R4_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1410105306	PFNp_e(PB01a)_R4_C7
 dopaminergic PAM neuron 7	is_a	neuprint_JRC	5813124740	PAM07(y4<y1y2)_L
 lobula columnar neuron LC10	is_a	neuprint_JRC	986404884	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	5813016650	LC10
 fan-shaped neuron	is_a	neuprint_JRC	1012475364	FB5S^FB05u_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	758069781	PFNp_b(PB01b)_L3_C2
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	758069781	PFNp_b(PB01b)_L3_C2
 fan-shaped neuron	is_a	neuprint_JRC	1321430335	FB4Z^FB04Bd_R
 fan-shaped neuron	is_a	neuprint_JRC	1070810640	FB5S^FB05u_R
 fan-shaped neuron	is_a	neuprint_JRC	1132884644	FB5R^FB05t_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	1136399018	LC10
 vertical fiber system neuron	is_a	neuprint_JRC	882239837	PFL2(PB12b)_L3_C7
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	786013856	PFNd(PB04)_R3_C8
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	786013856	PFNd(PB04)_R3_C8
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	5813061888	KCg-d
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	694670373	PFNp_a(PB01a)_L6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	694670373	PFNp_a(PB01a)_L6_C5
 lobula columnar neuron LC10	is_a	neuprint_JRC	5813056280	LC10
 CCP-VMP-PB neuron	is_a	neuprint_JRC	973963898	IbSpsP(PB17)_L3/4
 pb-eb-no neuron	is_a	neuprint_JRC	5813070465	PEN_b(PB06b)_L3
 dopaminergic PAM neuron 7	is_a	neuprint_JRC	5812983522	PAM07(y4<y1y2)_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1380145201	PFNp_c(PB01c)_L6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1380145201	PFNp_c(PB01c)_L6_C5
 lobula columnar neuron LC10	is_a	neuprint_JRC	1597456370	LC10
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	881527223	PFNd(PB04)_L3_C2
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	881527223	PFNd(PB04)_L3_C2
 fan-shaped neuron	is_a	neuprint_JRC	1163190900	FB5V^FB04Ba_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1441498763	PFNp_b(PB01b)_L6_C5
-PB 1 glomerulus-FB layers 3 and 6-ventral gall neuron	is_a	neuprint_JRC	1040393594	PFGs(PB10)_L3_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1441498763	PFNp_b(PB01b)_L6_C5
+PB 1 glomerulus-FB layers 3 and 6-ventral gall surround neuron	is_a	neuprint_JRC	1040393594	PFGs(PB10)_L3_C3
 mushroom body medial lobe arborizing neuron 2	is_a	neuprint_JRC	983759126	PAM12(y3)_R
 mushroom body calyx-pedunculus arborizing neuron 1	is_a	neuprint_JRC	985131499	MBON22(calyx)(PVL06)_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1472546868	PFNp_a(PB01a)_L6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1472546868	PFNp_a(PB01a)_L6_C5
 lobula columnar neuron LC10	is_a	neuprint_JRC	986059699	LC10
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	1537634396	PFNa(PB03)_L3_C2
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	1537634396	PFNa(PB03)_L3_C2
 vertical fiber system neuron	is_a	neuprint_JRC	1292423935	PFL1(PB12a)_L3_C4
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	478375456	EPG(PB08)_R3
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1441503403	PFNp_b(PB01b)_L6_C5
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	478375456	EPG(PB08)_R3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1441503403	PFNp_b(PB01b)_L6_C5
 fan-shaped neuron	is_a	neuprint_JRC	1012112486	FB5S^FB05u_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	1047784012	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	987419139	LC10
@@ -3348,18 +3348,18 @@ pb-eb-no neuron	is_a	neuprint_JRC	1508334312	PEN_a(PB06a)_L3
 dopaminergic PAM neuron 7	is_a	neuprint_JRC	1142011140	PAM07(y4<y1y2)_R
 fan-shaped neuron	is_a	neuprint_JRC	988567837	FB4G^FB04h_R
 dopaminergic PAM neuron 13	is_a	neuprint_JRC	986828383	PAM13(B'1ap)(aSMP)_R
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	697355847	PFNd(PB04)_L3_C2
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	697355847	PFNd(PB04)_L3_C2
 fan-shaped neuron	is_a	neuprint_JRC	1012449420	FB6L^FB06q_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	664313308	PFNp_a(PB01a)_L6_C5
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1441485388	PFNp_a(PB01a)_R4_C7
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1286022311	(ADM01)_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	727035427	PFNp_b(PB01b)_L3_C2
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	5812982566	(lVLPT8)_R
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	664313308	PFNp_a(PB01a)_L6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1441485388	PFNp_a(PB01a)_R4_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1286022311	(ADM01)_L
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	727035427	PFNp_b(PB01b)_L3_C2
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	5812982566	(lVLPT8)_R
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	5812979196	KCg-d
 lobula columnar neuron LC10	is_a	neuprint_JRC	1599517714	LC10
 lobula columnar neuron LC24	is_a	neuprint_JRC	1660198276	LC24
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1069757725	PFNp_b(PB01b)_L6_C5
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1441144493	PFNp_c(PB01c)_R4_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1069757725	PFNp_b(PB01b)_L6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1441144493	PFNp_c(PB01c)_R4_C7
 lobula columnar neuron LC10	is_a	neuprint_JRC	986763451	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	1444006860	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	1198132022	LC10
@@ -3370,52 +3370,52 @@ lobula columnar neuron LC10	is_a	neuprint_JRC	987424042	LC10
 fan-shaped neuron	is_a	neuprint_JRC	977654923	FB4Z^FB04Bd_R
 fan-shaped neuron	is_a	neuprint_JRC	485926760	FB4E^FB04e_L
 fan-shaped neuron	is_a	neuprint_JRC	1051980223	FB4F_a^FB04f_R
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	974627674	PFNd(PB04)_L2_C1
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	5813014573	PFNp_a(PB01a)_L3_C2
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	633546217	EPG(PB08)_R4
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	974627674	PFNd(PB04)_L2_C1
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	5813014573	PFNp_a(PB01a)_L3_C2
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	633546217	EPG(PB08)_R4
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	5813022267	KCg-d
 vertical fiber system neuron	is_a	neuprint_JRC	1200032115	PFL3(PB12c)_R7_C1
-PBG1-9.s-EBc.b-D/V GA.b neuron	is_a	neuprint_JRC	974300015	PEG(PB07)_L3
+PBG1-9.s-EBt.b-D/V GA.b neuron	is_a	neuprint_JRC	974300015	PEG(PB07)_L3
 lobula columnar neuron LC10	is_a	neuprint_JRC	987419574	LC10
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	973816592	KCg-d
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	978630099	(PDM16)_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	758069811	PFNp_a(PB01a)_L3_C2
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	758069811	PFNp_a(PB01a)_L3_C2
 lobula columnar neuron LC10	is_a	neuprint_JRC	986422220	LC10
 dopaminergic PAM neuron 7	is_a	neuprint_JRC	988852391	PAM07(y4<y1y2)_R
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	1203783013	KCg-d
 PB-FB-NO subunit 2 ventral domain neuron	is_a	neuprint_JRC	971817711	PFNv(PB05)_R7_C3
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	723546819	PFNp_a(PB01a)_R7_C4
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	723546819	PFNp_a(PB01a)_R7_C4
 lobula columnar neuron LC10	is_a	neuprint_JRC	1047784113	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1660776511	PFNp_e(PB01a)_L3_C2
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	850492366	PFNp_c(PB01c)_L3_C2
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1660776511	PFNp_e(PB01a)_L3_C2
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	850492366	PFNp_c(PB01c)_L3_C2
 lobula columnar neuron LC10	is_a	neuprint_JRC	986059778	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1441485633	PFNp_c(PB01c)_R4_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1441485633	PFNp_c(PB01c)_R4_C7
 lobula columnar neuron LC10	is_a	neuprint_JRC	987424258	LC10
 extrinsic ring neuron ExR1	is_a	neuprint_JRC	918334668	ExR1(ring)_L
 extrinsic ring neuron ExR1	is_a	neuprint_JRC	1471532224	(ADM01)_L
 extrinsic ring neuron ExR1	is_a	neuprint_JRC	1348091560	(ADM01)_L
 pb-eb-no neuron	is_a	neuprint_JRC	973566036	PEN_b(PB06b)_R3
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	633200871	PFNp_b(PB01b)_R4_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	633200871	PFNp_b(PB01b)_R4_C7
 lobula columnar neuron LC10	is_a	neuprint_JRC	986759122	LC10
 adult TuBu neuron	is_a	neuprint_JRC	1015385741	TuBu03_IBU_R
 fan-shaped neuron	is_a	neuprint_JRC	1131822592	FB4I^FB04j_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	1347125913	LC10
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	974843892	KCg-d
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	449438847	EPG(PB08)_L3
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	449438847	EPG(PB08)_L3
 fan-shaped neuron	is_a	neuprint_JRC	1106857669	FB4B^FB04b(NO2)_R
 extrinsic ring neuron	is_a	neuprint_JRC	1005710800	ExR7(ring)_L
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	387364605	EPG(PB08)_L3
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	387364605	EPG(PB08)_L3
 lobula columnar neuron LC10	is_a	neuprint_JRC	1048125254	LC10
 fan-shaped neuron	is_a	neuprint_JRC	1070107554	FB5R^FB05t_L
 fan-shaped neuron	is_a	neuprint_JRC	948035783	FB5S^FB05u_L
 mushroom body medial lobe arborizing neuron 2	is_a	neuprint_JRC	5813020424	PAM12(y3)_L
 CCP-VMP-PB neuron	is_a	neuprint_JRC	1035640810	IbSpsP(PB17)_R2/3
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1410451151	PFNp_b(PB01b)_R6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1410451151	PFNp_b(PB01b)_R6_C5
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	5812982657	KCg-d
 fan-shaped neuron	is_a	neuprint_JRC	988909130	FB5V^FB04Ba_R
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	1661799601	PFNm_a(PB02a)_L3_C2
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	880526308	PFNp_d(PB01a)_L_C3_irreg
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	5812994149	PFNp_c(PB01c)_L3_C2
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	880526308	PFNp_d(PB01a)_L_C3_irreg
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	5812994149	PFNp_c(PB01c)_L3_C2
 PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	943955813	PFR_b(PB11b)_L3_C3
 fan-shaped neuron	is_a	neuprint_JRC	1012479469	FB5S^FB05u_L
 lobula columnar neuron LC10	is_a	neuprint_JRC	986063833	LC10
@@ -3423,39 +3423,39 @@ lobula columnar neuron LC24	is_a	neuprint_JRC	1346788757	LC24
 mushroom body medial lobe arborizing neuron 2	is_a	neuprint_JRC	1205090786	PAM12(y3)_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	1657516638	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	1046734991	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1536326457	PFNp_b(PB01b)_R4_C7
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	817346903	PFNd(PB04)_R7_C3
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	633201022	PFNp_b(PB01b)_R4_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1536326457	PFNp_b(PB01b)_R4_C7
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	817346903	PFNd(PB04)_R7_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	633201022	PFNp_b(PB01b)_R4_C7
 lobula columnar neuron LC10	is_a	neuprint_JRC	1018804242	LC10
 lobula columnar neuron LC24	is_a	neuprint_JRC	979567244	LC24
 lobula columnar neuron LC10	is_a	neuprint_JRC	987104744	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1472866173	PFNp_b(PB01b)_R7_C4
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1472866173	PFNp_b(PB01b)_R7_C4
 medulla columnar neuron MC63	is_a	neuprint_JRC	984018803	MC64
 lobula columnar neuron LC10	is_a	neuprint_JRC	986763734	LC10
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	633895972	PFNm_b(PB02b)_R3_C8
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	758419409	EPG(PB08)_L3
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	758419409	EPG(PB08)_L3
 vertical fiber system neuron	is_a	neuprint_JRC	979752365	PFL2(PB12b)_L3_C7
 fan-shaped neuron	is_a	neuprint_JRC	1008037566	FB5U^FB05w_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	851170296	PFNp_b(PB01b)_L3_C2
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1410801066	PFNp_d(PB01a)_R5_C6
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	789104870	PFNp_b(PB01b)_L3_C2
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	851170296	PFNp_b(PB01b)_L3_C2
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1410801066	PFNp_d(PB01a)_R5_C6
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	789104870	PFNp_b(PB01b)_L3_C2
 lobula columnar neuron LC10	is_a	neuprint_JRC	1563372679	LC10
 medulla columnar neuron MC61	is_a	neuprint_JRC	1047425857	MC61
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	1504924440	PFNm_a(PB02a)_R7_C4
 lobula columnar neuron LC10	is_a	neuprint_JRC	1228817231	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	1017797863	LC10
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	696336849	PFNa(PB03)_L3_C2
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	696336849	PFNa(PB03)_L3_C2
 lobula columnar neuron LC10	is_a	neuprint_JRC	1017793356	LC10
 medulla columnar neuron	is_a	neuprint_JRC	5813013769	MC65(lVLPT8)_R
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	723508086	KCg-d
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	1004514714	KCg-d
 fan-shaped neuron	is_a	neuprint_JRC	1112777131	FB4F_a^FB04f_L
 extrinsic ring neuron	is_a	neuprint_JRC	1259386264	ExR7(ring)_R
-PB 1 glomerulus-FB layers 3 and 6-ventral gall neuron	is_a	neuprint_JRC	5813048755	PFGs(PB10)_R3_C7
+PB 1 glomerulus-FB layers 3 and 6-ventral gall surround neuron	is_a	neuprint_JRC	5813048755	PFGs(PB10)_R3_C7
 lobula columnar neuron LC10	is_a	neuprint_JRC	1080519686	LC10
 pb-eb-no neuron	is_a	neuprint_JRC	1002507131	PEN_a(PB06a)_R7
 lobula columnar neuron LC10	is_a	neuprint_JRC	1017802759	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1472520245	PFNp_d(PB01a)_R4_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1472520245	PFNp_d(PB01a)_R4_C7
 fan-shaped neuron	is_a	neuprint_JRC	5813061541	FB4G^FB04h_L
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	5813070270	KCg-d
 mushroom body medial lobe arborizing neuron 2	is_a	neuprint_JRC	1141678665	PAM12(y3)_R
@@ -3465,7 +3465,7 @@ fan-shaped neuron	is_a	neuprint_JRC	988269593	FB4E^FB04f_L
 PB-FB-NO subunit 2 ventral domain neuron	is_a	neuprint_JRC	911504689	PFNv(PB05)_R3_C8
 fan-shaped neuron	is_a	neuprint_JRC	1074860678	FB4Z^FB04Bd_R
 extrinsic ring neuron	is_a	neuprint_JRC	541127846	ExR5(ring)_L
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	1002507159	EPG(PB08)_R7
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	1002507159	EPG(PB08)_R7
 lobula columnar neuron LC10	is_a	neuprint_JRC	5812986560	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	1017781118	LC10
 mushroom body output neuron 2	is_a	neuprint_JRC	5813022341	MBON02(B2B'2a)_L
@@ -3477,12 +3477,12 @@ dopaminergic PAM neuron 13	is_a	neuprint_JRC	987997896	PAM13(B'1ap)_L
 medulla columnar neuron MC63	is_a	neuprint_JRC	891927856	MC64
 fan-shaped neuron	is_a	neuprint_JRC	1287360108	FB2K^FB02v_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	5813016987	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	572166953	PFNp_b(PB01b)_R3_C8
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	572166953	PFNp_b(PB01b)_R3_C8
 pb-eb-no neuron	is_a	neuprint_JRC	570461892	PEN_a(PB06a)_R3
 lobula columnar neuron LC10	is_a	neuprint_JRC	1016403512	LC10
 adult moonwalker descending neuron	is_a	neuprint_JRC	5813021075	MDN_R
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	1002852791	EPG(PB08)_R7
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	1011728599	(MBDLaxon1)
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	1002852791	EPG(PB08)_R7
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	1011728599	(MBDLaxon1)
 fan-shaped neuron	is_a	neuprint_JRC	1043514011	FB4Z^FB04Bd_L
 lobula columnar neuron LC24	is_a	neuprint_JRC	1781295424	LC24
 lobula columnar neuron LC10	is_a	neuprint_JRC	1016749264	LC10
@@ -3502,10 +3502,10 @@ lobula columnar neuron LC10	is_a	neuprint_JRC	1047779784	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	1017094185	LC10
 fan-shaped neuron	is_a	neuprint_JRC	1111753990	FB5V^FB04Ba_L
 lobula columnar neuron LC10	is_a	neuprint_JRC	1017785388	LC10
-PBG1-9.s-EBc.b-D/V GA.b neuron	is_a	neuprint_JRC	974239375	PEG(PB07)_R3
+PBG1-9.s-EBt.b-D/V GA.b neuron	is_a	neuprint_JRC	974239375	PEG(PB07)_R3
 dopaminergic PAM neuron 8	is_a	neuprint_JRC	1173745330	PAM08_a(y4)_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	5813015200	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1410450576	PFNp_d(PB01a)_R6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1410450576	PFNp_d(PB01a)_R6_C5
 lobula columnar neuron LC10	is_a	neuprint_JRC	1017448980	LC10
 medulla columnar neuron	is_a	neuprint_JRC	1046087606	MC65(lVLPT8)_R
 dopaminergic PAM neuron 8	is_a	neuprint_JRC	1019347828	PAM08_a(y4)_L
@@ -3516,33 +3516,33 @@ lobula columnar neuron LC10	is_a	neuprint_JRC	1047119615	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	1167433990	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	1018462968	LC10
 mushroom body medial lobe arborizing neuron 2	is_a	neuprint_JRC	5812981895	PAM12(y3)_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1599436552	PFNp_c(PB01c)_R3_C8
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1599436552	PFNp_c(PB01c)_R3_C8
 lobula columnar neuron LC10	is_a	neuprint_JRC	5812996568	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	5813035545	LC10
 fan-shaped neuron	is_a	neuprint_JRC	1162862472	FB3C^FB03c_L
 vertical fiber system neuron	is_a	neuprint_JRC	912488890	PFL3(PB12c)_R3_C5
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	1004514584	KCg-d
 lobula columnar neuron LC10	is_a	neuprint_JRC	1017789715	LC10
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	5813050000	PFNa(PB03)_R3_C8
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	5813050000	PFNa(PB03)_R3_C8
 vertical fiber system neuron	is_a	neuprint_JRC	635234035	PFL2(PB12b)_R3_C3
 PB-FB-NO subunit 2 ventral domain neuron	is_a	neuprint_JRC	5813014505	PFNv(PB05)_L7_C7
 fan-shaped neuron	is_a	neuprint_JRC	1050935614	FB5V^FB04Ba_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1597722005	PFNp_d(PB01a)_R3_C8
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1597722005	PFNp_d(PB01a)_R3_C8
 lobula columnar neuron LC10	is_a	neuprint_JRC	1016408310	LC10
 PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	1167956458	PFR_a(PB11a)_R7_C3
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	943226223	PFNp_b(PB01b)_R3_C8
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	943226223	PFNp_b(PB01b)_R3_C8
 pb-eb-no neuron	is_a	neuprint_JRC	693755250	PEN_b(PB06b)_R7
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	817683388	PFNp_a(PB01a)_R7_C4
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	817683388	PFNp_a(PB01a)_R7_C4
 fan-shaped neuron	is_a	neuprint_JRC	5813053846	FB4H^FB04i_L
 fan-shaped neuron	is_a	neuprint_JRC	977995796	FB5U^FB05w_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	1079527389	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	756049717	PFNp_b(PB01b)_L7_C6
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	940791123	PFNp_b(PB01b)_R6_C5
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1628743785	PFNp_a(PB01a)_R3_C8
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	756049717	PFNp_b(PB01b)_L7_C6
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	940791123	PFNp_b(PB01b)_R6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1628743785	PFNp_a(PB01a)_R3_C8
 dopaminergic PAM neuron 7	is_a	neuprint_JRC	1019024473	PAM07(y4<y1y2)_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	758743604	PFNp_d(PB01a)_L3_C2
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1072231250	(ADM01)_L
-PB 1 glomerulus-FB layers 3 and 6-ventral gall neuron	is_a	neuprint_JRC	1033887446	PFGs(PB10)_R7_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	758743604	PFNp_d(PB01a)_L3_C2
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1072231250	(ADM01)_L
+PB 1 glomerulus-FB layers 3 and 6-ventral gall surround neuron	is_a	neuprint_JRC	1033887446	PFGs(PB10)_R7_C3
 vertical fiber system neuron	is_a	neuprint_JRC	1004700437	PFL3(PB12c)_L7_C9
 lobula columnar neuron LC10	is_a	neuprint_JRC	1018476201	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	1018472039	LC10
@@ -3550,33 +3550,33 @@ lobula columnar neuron LC10	is_a	neuprint_JRC	1876105544	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	1130731603	(PDM16)_L
 fan-shaped neuron	is_a	neuprint_JRC	1101806834	FB5Q^FB05s_L
 extrinsic ring neuron	is_a	neuprint_JRC	5813060726	ExR5(ring)_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1628744095	PFNp_e(PB01a)_R3_C8
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1628744095	PFNp_e(PB01a)_R3_C8
 adult fruitless aSP10 neuron	is_a	neuprint_JRC	1545029202	aSP10A_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	1376827225	LC10
 adult fruitless aSP10 neuron	is_a	neuprint_JRC	1323341985	aSP10A_R
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	5813080838	EPG(PB08)_R3
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	5813080838	EPG(PB08)_R3
 fan-shaped neuron	is_a	neuprint_JRC	1012112513	FB5U^FB05w_R
 medulla columnar neuron MC63	is_a	neuprint_JRC	1077765483	MC64
 lobula columnar neuron LC10	is_a	neuprint_JRC	1016408273	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	942535218	PFNp_b(PB01b)_R3_C8
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	942535218	PFNp_b(PB01b)_R3_C8
 vertical fiber system neuron	is_a	neuprint_JRC	1381484065	PFL2(PB12b)_L2_C6
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	541118908	EPG(PB08)_R3
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	541118908	EPG(PB08)_R3
 lobula columnar neuron LC10	is_a	neuprint_JRC	1282690130	LC10
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	971506655	PFNa(PB03)_R7_C4
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	971506655	PFNa(PB03)_R7_C4
 vertical fiber system neuron	is_a	neuprint_JRC	1002507170	PFL1(PB12a)_R7_C1
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	909877092	PFNd(PB04)_L7_C7
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	909877092	PFNd(PB04)_L7_C7
 dopaminergic PAM neuron 8	is_a	neuprint_JRC	1141678948	PAM08_e(y4)_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	940808800	PFNp_e(PB01a)_R7_C4
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	5812987043	(PDM16)_L
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	940808800	PFNp_e(PB01a)_R7_C4
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	5812987043	(PDM16)_L
 lobula columnar neuron LC10	is_a	neuprint_JRC	1017802884	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	5813015153	(ADM01)_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1441848753	PFNp_b(PB01b)_L6_C5
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	1003318634	PFNd(PB04)_L7_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1441848753	PFNp_b(PB01b)_L6_C5
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	1003318634	PFNd(PB04)_L7_C7
 lobula columnar neuron LC10	is_a	neuprint_JRC	1048837669	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1599431888	PFNp_c(PB01c)_R3_C8
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1599431888	PFNp_c(PB01c)_R3_C8
 lobula columnar neuron LC10	is_a	neuprint_JRC	1261902687	LC10
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	1002848124	PFNd(PB04)_R7_C3
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	909777910	PFNa(PB03)_R7_C4
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	1002848124	PFNd(PB04)_R7_C3
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	909777910	PFNa(PB03)_R7_C4
 CCP-VMP-PB neuron	is_a	neuprint_JRC	1128097470	IbSpsP(PB17)_L2/R2/4
 medulla columnar neuron	is_a	neuprint_JRC	1470980397	MC65(lVLPT8)_R
 medulla columnar neuron	is_a	neuprint_JRC	1347979791	(PDM16)_L
@@ -3589,19 +3589,19 @@ lobula columnar neuron LC10	is_a	neuprint_JRC	1048470473	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	5813016057	LC10
 adult fruitless aSP10 neuron	is_a	neuprint_JRC	1259986648	aSP10A_R
 fan-shaped neuron	is_a	neuprint_JRC	1317354662	FB2B_b^FB02c_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	877702431	PFNp_a(PB01a)_R7_C4
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	877702431	PFNp_a(PB01a)_R7_C4
 fan-shaped neuron	is_a	neuprint_JRC	5813058333	FB2K^FB02v_R
 fan-shaped neuron	is_a	neuprint_JRC	1074859771	FB5R^FB05t_R
 PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	1005261469	PFR_b(PB11b)_R3_C6
 lobula columnar neuron LC10	is_a	neuprint_JRC	1140547788	LC10
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	5813012006	EPG(PB08)_L7
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	5813012006	EPG(PB08)_L7
 lobula columnar neuron LC10	is_a	neuprint_JRC	1110885663	LC10
 PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	1102191192	PFR_b(PB11b)_R3_C7
 lobula columnar neuron LC10	is_a	neuprint_JRC	1048125065	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	1816754260	LC10
 adult fruitless aSP10 neuron	is_a	neuprint_JRC	1044075439	aSP10A_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	5813048880	LC10
-PBG1-9.s-EBc.b-D/V GA.b neuron	is_a	neuprint_JRC	1002848661	PEG(PB07)_R7
+PBG1-9.s-EBt.b-D/V GA.b neuron	is_a	neuprint_JRC	1002848661	PEG(PB07)_R7
 adult TuBu neuron	is_a	neuprint_JRC	1169576040	TuBu02_IBU_R
 medulla columnar neuron MC61	is_a	neuprint_JRC	1108450825	MC61
 lobula columnar neuron LC10	is_a	neuprint_JRC	1047780090	LC10
@@ -3609,8 +3609,8 @@ PB-FB-NO subunit 2 ventral domain neuron	is_a	neuprint_JRC	604242162	PFNv(PB05)_
 pb-eb-no neuron	is_a	neuprint_JRC	1318109929	PEN_b(PB06b)_L7
 fan-shaped neuron	is_a	neuprint_JRC	1081755066	FB4E^FB04e_L
 lobula columnar neuron LC10	is_a	neuprint_JRC	1048491559	LC10
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	1035045015	EPG(PB08)_L7
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	1038649779	(ADM01)_L
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	1035045015	EPG(PB08)_L7
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	1038649779	(ADM01)_L
 medulla columnar neuron MC63	is_a	neuprint_JRC	1046730226	MC64
 fan-shaped neuron	is_a	neuprint_JRC	1194246820	FB2D^FB02e_R
 adult TuBu neuron	is_a	neuprint_JRC	1298804357	TuBu03_IBU_R
@@ -3622,31 +3622,31 @@ medulla columnar neuron MC63	is_a	neuprint_JRC	1046730586	MC64
 lobula columnar neuron LC10	is_a	neuprint_JRC	1049506374	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	1079527169	LC10
 dopaminergic PAM neuron 7	is_a	neuprint_JRC	1051630846	PAM07(y4<y1y2)_R
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	692852666	PFNa(PB03)_R7_C4
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	570518166	PFNa(PB03)_L7_C6
-PBG1-9.s-EBc.b-D/V GA.b neuron	is_a	neuprint_JRC	1004014587	PEG(PB07)_L7
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	692852666	PFNa(PB03)_R7_C4
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	570518166	PFNa(PB03)_L7_C6
+PBG1-9.s-EBt.b-D/V GA.b neuron	is_a	neuprint_JRC	1004014587	PEG(PB07)_L7
 vertical fiber system neuron	is_a	neuprint_JRC	1003672766	PFL1(PB12a)_L7_C9
 adult multiglomerular antennal lobe projection neuron	is_a	neuprint_JRC	5901222731	VP1d + VP4 lPN(olfactory PN)_R
 PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	1064577636	PFR_b(PB11b)_R7_C2
 medulla columnar neuron MC61	is_a	neuprint_JRC	1046039966	MC61
-PB 1 glomerulus-FB layers 3 and 6-ventral gall neuron	is_a	neuprint_JRC	1136273393	PFGs(PB10)_L7_C7
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	5813056934	PFNa(PB03)_R3_C8
+PB 1 glomerulus-FB layers 3 and 6-ventral gall surround neuron	is_a	neuprint_JRC	1136273393	PFGs(PB10)_L7_C7
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	5813056934	PFNa(PB03)_R3_C8
 lobula columnar neuron LC24	is_a	neuprint_JRC	1811646824	LC24
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	1034219901	EPG(PB08)_R7
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1034703497	PFNp_b(PB01b)_L7_C6
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	1034219901	EPG(PB08)_R7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1034703497	PFNp_b(PB01b)_L7_C6
 medulla columnar neuron MC63	is_a	neuprint_JRC	5812990740	MC64
 lobula columnar neuron LC10	is_a	neuprint_JRC	1441590591	LC10
 medulla columnar neuron MC61	is_a	neuprint_JRC	1078097817	MC61
 lobula columnar neuron LC10	is_a	neuprint_JRC	1442293171	LC10
 medulla columnar neuron MC63	is_a	neuprint_JRC	1567452222	MC64
 medulla columnar neuron MC63	is_a	neuprint_JRC	1791391565	PDL18_pct_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	692857189	PFNp_c(PB01c)_R7_C4
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	692857189	PFNp_c(PB01c)_R7_C4
 adult TuBu neuron	is_a	neuprint_JRC	1108166986	TuBu02_IBU_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	1049510640	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	1136744598	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	572167413	PFNp_b(PB01b)_R3_C8
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	572167413	PFNp_b(PB01b)_R3_C8
 lobula columnar neuron LC10	is_a	neuprint_JRC	1079841570	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1380408769	PFNp_d(PB01a)_R7_C4
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1380408769	PFNp_d(PB01a)_R7_C4
 gamma dorsal Kenyon cell	is_a	neuprint_JRC	1203769862	KCg-d
 adult TuBu neuron	is_a	neuprint_JRC	1046735096	TuBu05_SBU_R
 medulla columnar neuron MC63	is_a	neuprint_JRC	1046726043	MC64
@@ -3656,13 +3656,13 @@ lobula columnar neuron LC10	is_a	neuprint_JRC	1048492504	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	1110885932	LC10
 fan-shaped neuron	is_a	neuprint_JRC	5813071020	FB5W^FB04Bb_R
 adult fruitless aSP10 neuron	is_a	neuprint_JRC	5813041394	aSP10A_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1504582746	PFNp_b(PB01b)_R7_C4
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	5813061071	SCL-AVLP_L
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	941244280	PFNa(PB03)_L7_C6
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	1284265034	(ADM01)_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	818119357	PFNp_c(PB01c)_L7_C6
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1504582746	PFNp_b(PB01b)_R7_C4
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	5813061071	SCL-AVLP_L
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	941244280	PFNa(PB03)_L7_C6
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	1284265034	(ADM01)_L
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	818119357	PFNp_c(PB01c)_L7_C6
 lobula columnar neuron LC10	is_a	neuprint_JRC	1049174217	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	943933727	PFNp_d(PB01a)_L3_C2
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	943933727	PFNp_d(PB01a)_L3_C2
 adult fruitless aSP10 neuron	is_a	neuprint_JRC	1230221035	aSP10A_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	1047080740	LC10
 mushroom body medial lobe arborizing neuron 2	is_a	neuprint_JRC	1081086613	PAM12(y3)_L
@@ -3675,7 +3675,7 @@ lobula columnar neuron LC10	is_a	neuprint_JRC	1049838815	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	1413986475	LC10
 medulla columnar neuron MC61	is_a	neuprint_JRC	5901224667	MC61
 lobula columnar neuron LC10	is_a	neuprint_JRC	1110894595	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1287411513	PFNp_d(PB01a)_R6_C5
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1287411513	PFNp_d(PB01a)_R6_C5
 lobula columnar neuron LC24	is_a	neuprint_JRC	1043005077	LC24
 fan-shaped neuron	is_a	neuprint_JRC	1074860306	FB4Z^FB04Bd_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	1047123862	LC10
@@ -3685,7 +3685,7 @@ lobula columnar neuron LC10	is_a	neuprint_JRC	5813041801	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	1049511270	LC10
 mushroom body output neuron 9	is_a	neuprint_JRC	1078693835	MBON09(y3B'1)_R
 lobula columnar neuron	is_a	neuprint_JRC	1996536055	LC28a
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	1004017998	EPG(PB08)_L7
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	1004017998	EPG(PB08)_L7
 medulla columnar neuron MC61	is_a	neuprint_JRC	1046726280	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1046385229	MC61
 medulla columnar neuron MC63	is_a	neuprint_JRC	1566769457	MC64
@@ -3698,16 +3698,16 @@ adult TuBu neuron	is_a	neuprint_JRC	1046726261	TuBu01_ABU_R
 CCP-VMP-PB neuron	is_a	neuprint_JRC	1095279301	IbSpsP(PB17)_R7/9
 medulla columnar neuron MC61	is_a	neuprint_JRC	1046385084	MC61
 medulla columnar neuron MC63	is_a	neuprint_JRC	1567456055	MC64
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	756062593	PFNp_d(PB01a)_L_C5_irreg
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	693651381	PFNp_c(PB01c)_L7_C6
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	756062593	PFNp_d(PB01a)_L_C5_irreg
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	693651381	PFNp_c(PB01c)_L7_C6
 lobula columnar neuron LC10	is_a	neuprint_JRC	1049511179	LC10
 adult TuBu neuron	is_a	neuprint_JRC	1047421689	TuBu06_SBU_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1034711992	PFNp_a(PB01a)_L7_C6
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1034711992	PFNp_a(PB01a)_L7_C6
 dopaminergic PAM neuron 8	is_a	neuprint_JRC	1141337605	PAM08_e(y4)_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	5813087952	LC10
-PBG1-9.s-EBc.b-D/V GA.b neuron	is_a	neuprint_JRC	5813059834	PEG(PB07)_R8
+PBG1-9.s-EBt.b-D/V GA.b neuron	is_a	neuprint_JRC	5813059834	PEG(PB07)_R8
 medulla columnar neuron MC61	is_a	neuprint_JRC	1047075623	MC61
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	5813056012	PFNp_b(PB01b)_L7_C6
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	5813056012	PFNp_b(PB01b)_L7_C6
 dopaminergic PAM neuron 8	is_a	neuprint_JRC	1171772286	PAM08_a(y4)_L
 fan-shaped neuron	is_a	neuprint_JRC	1050266721	FB5V^FB04Ba_R
 mushroom body output neuron 9	is_a	neuprint_JRC	1048215779	MBON09(y3B'1)(AVM17)_L
@@ -3718,7 +3718,7 @@ medulla columnar neuron MC63	is_a	neuprint_JRC	1047075964	MC64
 fan-shaped neuron	is_a	neuprint_JRC	1012479501	FB5R^FB05t_L
 lobula columnar neuron LC10	is_a	neuprint_JRC	1139153107	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	1049169888	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	911220325	PFNp_d(PB01a)_L4_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	911220325	PFNp_d(PB01a)_L4_C3
 medulla columnar neuron MC61	is_a	neuprint_JRC	1047080586	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1070189578	(ADM01)_L
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	1473202957	PFNm_a(PB02a)_R7_C4
@@ -3742,7 +3742,7 @@ adult uniglomerular antennal lobe projection neuron	is_a	neuprint_JRC	1889883818
 medulla columnar neuron MC63	is_a	neuprint_JRC	1879165918	MC64
 medulla columnar neuron MC63	is_a	neuprint_JRC	1534512909	(ADM01)_L
 fan-shaped neuron	is_a	neuprint_JRC	1100792636	FB4Y^FB0405b(EB/NO1)_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1598382541	PFNp_b(PB01b)_L7_C6
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1598382541	PFNp_b(PB01b)_L7_C6
 lobula columnar neuron LC10	is_a	neuprint_JRC	1080212848	LC10
 PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	5813062805	PFR_a(PB11a)_L7_C7
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	972624772	PFNm_a(PB02a)_L7_C6
@@ -3762,8 +3762,8 @@ medulla columnar neuron MC61	is_a	neuprint_JRC	1077084090	MC61
 lobula columnar neuron LC10	is_a	neuprint_JRC	1167092919	LC10
 medulla columnar neuron MC61	is_a	neuprint_JRC	1046730602	MC61
 lobula columnar neuron LC10	is_a	neuprint_JRC	1109194016	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1599772916	PFNp_b(PB01b)_R3_C8
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	693979726	PFNp_e(PB01a)_L7_C6
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1599772916	PFNp_b(PB01b)_R3_C8
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	693979726	PFNp_e(PB01a)_L7_C6
 fan-shaped neuron	is_a	neuprint_JRC	5813071255	FB4D^FB04d_L
 medulla columnar neuron MC61	is_a	neuprint_JRC	1077415919	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1109491902	MC61
@@ -3789,7 +3789,7 @@ medulla columnar neuron MC61	is_a	neuprint_JRC	5813040216	MC61
 medulla columnar neuron MC63	is_a	neuprint_JRC	1078106866	MC64
 lobula columnar neuron LC10	is_a	neuprint_JRC	1142257556	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	1191898195	(PDM19)_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1598067695	PFNp_a(PB01a)_R3_C8
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1598067695	PFNp_a(PB01a)_R3_C8
 lobula columnar neuron LC10	is_a	neuprint_JRC	1079859469	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	1110557531	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	1109841562	LC10
@@ -3817,7 +3817,7 @@ fan-shaped neuron	is_a	neuprint_JRC	1194562363	FB5V^FB04Ba_L
 medulla columnar neuron MC61	is_a	neuprint_JRC	5813076017	MC61
 lobula columnar neuron LC10	is_a	neuprint_JRC	5813044569	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	1079522281	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	571826184	PFNp_a(PB01a)_R3_C8
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	571826184	PFNp_a(PB01a)_R3_C8
 lobula columnar neuron LC10	is_a	neuprint_JRC	1535410628	LC10
 CCP-VMP-PB neuron	is_a	neuprint_JRC	1066748608	IbSpsP(PB17)_L8
 adult antennal lobe projection neuron lPN	is_a	neuprint_JRC	1883443112	VP3+ lPN(olfactory PN)_R
@@ -3865,12 +3865,12 @@ medulla columnar neuron MC61	is_a	neuprint_JRC	1046726193	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1078102267	MC61
 adult TuBu neuron	is_a	neuprint_JRC	5812986876	TuBu07_SBU_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	1141601145	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	5813037879	PFNp_d(PB01a)_L7_C6
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	5813037879	PFNp_d(PB01a)_L7_C6
 medulla columnar neuron MC61	is_a	neuprint_JRC	1078102468	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	5812987241	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1108800338	MC61
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	942539535	PFNp_d(PB01a)_R3_C8
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	5813077698	PFNp_b(PB01b)_L7_C6
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	942539535	PFNp_d(PB01a)_R3_C8
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	5813077698	PFNp_b(PB01b)_L7_C6
 medulla columnar neuron MC61	is_a	neuprint_JRC	1077752344	MC61
 fan-shaped neuron	is_a	neuprint_JRC	731192952	FB1E_a^FB01f_L
 medulla columnar neuron MC61	is_a	neuprint_JRC	1137767646	MC61
@@ -3881,7 +3881,7 @@ lobula columnar neuron LC10	is_a	neuprint_JRC	1439927802	LC10
 medulla columnar neuron MC63	is_a	neuprint_JRC	1108459326	MC64
 lobula columnar neuron LC10	is_a	neuprint_JRC	1080541849	LC10
 medulla columnar neuron MC61	is_a	neuprint_JRC	1078447707	MC61
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1473207713	PFNp_c(PB01c)_R7_C4
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1473207713	PFNp_c(PB01c)_R7_C4
 adult TuBu neuron	is_a	neuprint_JRC	1077778869	TuBu03_IBU_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	1080200318	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	5813016380	LC10
@@ -3894,7 +3894,7 @@ medulla columnar neuron MC63	is_a	neuprint_JRC	1108463484	MC64
 medulla columnar neuron MC61	is_a	neuprint_JRC	1077424349	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	5813016373	MC61
 adult TuBu neuron	is_a	neuprint_JRC	5812986870	TuBu05_SBU_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1003659595	PFNp_b(PB01b)_L7_C6
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1003659595	PFNp_b(PB01b)_L7_C6
 lobula columnar neuron LC10	is_a	neuprint_JRC	1110903093	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	1080541803	LC10
 medulla columnar neuron MC63	is_a	neuprint_JRC	1077783715	MC64
@@ -3905,7 +3905,7 @@ lobula columnar neuron LC10	is_a	neuprint_JRC	1079872487	LC10
 medulla columnar neuron MC61	is_a	neuprint_JRC	1077761540	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	5812986875	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1108100939	MC61
-PB 1 glomerulus-FB layers 3 and 6-ventral gall neuron	is_a	neuprint_JRC	419060083	PFGs(PB10)_L2_C2
+PB 1 glomerulus-FB layers 3 and 6-ventral gall surround neuron	is_a	neuprint_JRC	419060083	PFGs(PB10)_L2_C2
 medulla columnar neuron MC61	is_a	neuprint_JRC	1107764206	MC61
 adult TuBu neuron	is_a	neuprint_JRC	1109478369	TuBu09_SBU_R
 fan-shaped neuron	is_a	neuprint_JRC	5813062592	FB5V^FB04Ba_L
@@ -3926,22 +3926,22 @@ lobula columnar neuron LC10	is_a	neuprint_JRC	1167433954	LC10
 medulla columnar neuron MC63	is_a	neuprint_JRC	1691600238	MC64
 PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	634608015	PFR_a(PB11a)_L2_C2
 PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	5812988091	PFR_a(PB11a)_R2_C8
-PBG1-9.s-EBc.b-D/V GA.b neuron	is_a	neuprint_JRC	1190171884	PEG(PB07)_L2
+PBG1-9.s-EBt.b-D/V GA.b neuron	is_a	neuprint_JRC	1190171884	PEG(PB07)_L2
 medulla columnar neuron MC61	is_a	neuprint_JRC	1107423142	MC61
 medulla columnar neuron MC63	is_a	neuprint_JRC	1170175142	MC64
 lobula columnar neuron LC10	is_a	neuprint_JRC	1080537610	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	1141937695	LC10(PLBDL3)_R
 mushroom body medial lobe arborizing neuron 2	is_a	neuprint_JRC	5813082175	PAM12(y3)_L
 medulla columnar neuron MC61	is_a	neuprint_JRC	1109149659	MC61
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	912545106	EPG(PB08)_L2
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	912545106	EPG(PB08)_L2
 adult TuBu neuron	is_a	neuprint_JRC	1108485790	TuBu02_IBU_R
 dopaminergic PAM neuron 8	is_a	neuprint_JRC	5813061212	PAM08_e(y4)_L
 medulla columnar neuron MC63	is_a	neuprint_JRC	1139498548	MC64
 lobula columnar neuron LC10	is_a	neuprint_JRC	1080196056	LC10
 dopaminergic PAM neuron 7	is_a	neuprint_JRC	1202470836	PAM07(y4<y1y2)_L
 medulla columnar neuron MC61	is_a	neuprint_JRC	1078102400	MC61
-PBG1-9.s-EBc.b-D/V GA.b neuron	is_a	neuprint_JRC	972555509	PEG(PB07)_R2
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	943921248	PFNa(PB03)_L2_C1
+PBG1-9.s-EBt.b-D/V GA.b neuron	is_a	neuprint_JRC	972555509	PEG(PB07)_R2
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	943921248	PFNa(PB03)_L2_C1
 lobula columnar neuron LC10	is_a	neuprint_JRC	5813016381	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	1222022967	(LWF5)_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	1110903013	LC10
@@ -3954,27 +3954,27 @@ lobula columnar neuron LC24	is_a	neuprint_JRC	5812987748	LC24
 lobula columnar neuron LC10	is_a	neuprint_JRC	1198123389	LC10
 medulla columnar neuron MC61	is_a	neuprint_JRC	1077761532	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1107423154	MC61
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	756390536	PFNp_a(PB01a)_L7_C6
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	756390536	PFNp_a(PB01a)_L7_C6
 lobula columnar neuron LC10	is_a	neuprint_JRC	1111580845	LC10
 medulla columnar neuron MC63	is_a	neuprint_JRC	1475719629	MC64
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	632544268	EPG(PB08)_R2
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	695629525	EPG(PB08)_R2
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	632544268	EPG(PB08)_R2
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	695629525	EPG(PB08)_R2
 lobula columnar neuron LC10	is_a	neuprint_JRC	1110186452	LC10
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	1127471202	PFNd(PB04)_L8_C8
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	1127471202	PFNd(PB04)_L8_C8
 adult TuBu neuron	is_a	neuprint_JRC	1077459090	TuBu01_ABU_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1129456907	PFNp_a(PB01a)_L2_C1
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1129456907	PFNp_a(PB01a)_L2_C1
 vertical fiber system neuron	is_a	neuprint_JRC	1097718901	PFL1(PB12a)_R2_C7
 medulla columnar neuron MC61	is_a	neuprint_JRC	1109141617	MC61
 medulla columnar neuron MC63	is_a	neuprint_JRC	1691941760	MC64
 lobula columnar neuron LC10	is_a	neuprint_JRC	1111567676	LC10
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	1661458144	PFNa(PB03)_L2_C1
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	1661458144	PFNa(PB03)_L2_C1
 lobula columnar neuron LC10	is_a	neuprint_JRC	1200523569	LC10
 fan-shaped neuron	is_a	neuprint_JRC	1043518343	FB4Z^FB04Bd_L
 medulla columnar neuron MC61	is_a	neuprint_JRC	1108450770	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1108113869	MC61
 medulla columnar neuron MC63	is_a	neuprint_JRC	1721275233	MC64
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	786013842	PFNm_b(PB02b)_R2_C9
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1442556708	PFNp_d(PB01a)_L7_C6
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1442556708	PFNp_d(PB01a)_L7_C6
 medulla columnar neuron MC61	is_a	neuprint_JRC	1138449419	MC61
 lobula columnar neuron LC10	is_a	neuprint_JRC	1111243870	LC10
 medulla columnar neuron MC63	is_a	neuprint_JRC	1108805072	MC64
@@ -3984,7 +3984,7 @@ lobula columnar neuron LC10	is_a	neuprint_JRC	1138117141	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	1110906913	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	1110566303	LC10
 adult TuBu neuron	is_a	neuprint_JRC	1108152508	TuBu04_IBU_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	5813016167	PFNp_b(PB01b)_R2_C9
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	5813016167	PFNp_b(PB01b)_R2_C9
 medulla columnar neuron MC61	is_a	neuprint_JRC	1108109684	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1108100980	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1077079340	MC61
@@ -3996,7 +3996,7 @@ medulla columnar neuron MC63	is_a	neuprint_JRC	1138803610	MC64
 fan-shaped neuron	is_a	neuprint_JRC	1163228703	FB4F_a^FB04f_L
 lobula columnar neuron LC10	is_a	neuprint_JRC	1532699530	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	1111244201	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	850829248	PFNp_c(PB01c)_L2_C1
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	850829248	PFNp_c(PB01c)_L2_C1
 medulla columnar neuron MC63	is_a	neuprint_JRC	1109495366	MC64
 medulla columnar neuron MC61	is_a	neuprint_JRC	1137767724	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1138453852	MC61
@@ -4021,7 +4021,7 @@ lobula columnar neuron LC10	is_a	neuprint_JRC	1111244083	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	1110566098	LC10
 mushroom body medial lobe arborizing neuron 2	is_a	neuprint_JRC	1266478519	PAM12(y3)_L
 lobula columnar neuron LC10	is_a	neuprint_JRC	1109167269	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	912894972	PFNp_a(PB01a)_L2_C1
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	912894972	PFNp_a(PB01a)_L2_C1
 medulla columnar neuron MC61	is_a	neuprint_JRC	1077424267	MC61
 lobula columnar neuron LC10	is_a	neuprint_JRC	1139153136	LC10
 medulla columnar neuron MC63	is_a	neuprint_JRC	1564024593	MC64
@@ -4030,34 +4030,34 @@ medulla columnar neuron MC61	is_a	neuprint_JRC	1108101004	MC61
 medulla columnar neuron MC63	is_a	neuprint_JRC	1108813935	MC64
 medulla columnar neuron MC61	is_a	neuprint_JRC	1108105485	MC61
 lobula columnar neuron LC10	is_a	neuprint_JRC	1111243796	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	881868311	PFNp_a(PB01a)_L2_C1
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1128576876	(LWF5)_R
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	881868311	PFNp_a(PB01a)_L2_C1
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1128576876	(LWF5)_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	1110535962	LC10
 medulla columnar neuron MC63	is_a	neuprint_JRC	1108468602	MC64
 CCP-VMP-PB neuron	is_a	neuprint_JRC	1095271087	IbSpsP(PB17)_R7/8
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1160833169	PFNp_b(PB01b)_L2_C1
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	5813061251	EPG(PB08)_R8
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	724276536	PFNp_c(PB01c)_R2_C9
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1160833169	PFNp_b(PB01b)_L2_C1
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	5813061251	EPG(PB08)_R8
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	724276536	PFNp_c(PB01c)_R2_C9
 medulla columnar neuron MC61	is_a	neuprint_JRC	1138799226	MC61
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	697001770	EPG(PB08)_L2
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	759084486	PFNa(PB03)_L2_C1
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	798317797	(ADM01)_L
-PB 1 glomerulus-FB layers 3 and 6-ventral gall neuron	is_a	neuprint_JRC	1103810192	PFGs(PB10)_R8_C2
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	697001770	EPG(PB08)_L2
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	759084486	PFNa(PB03)_L2_C1
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	798317797	(ADM01)_L
+PB 1 glomerulus-FB layers 3 and 6-ventral gall surround neuron	is_a	neuprint_JRC	1103810192	PFGs(PB10)_R8_C2
 ring neuron R2	is_a	neuprint_JRC	1105834722	R2_c(ring)_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	1110566383	LC10
 adult TuBu neuron	is_a	neuprint_JRC	1110173824	TuBu09_SBU_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	913235746	PFNp_e(PB01a)_L2_C1
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	913235746	PFNp_e(PB01a)_L2_C1
 lobula columnar neuron LC10	is_a	neuprint_JRC	5813031359	LC10
 medulla columnar neuron MC61	is_a	neuprint_JRC	1108109580	MC61
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	1472205673	PFNa(PB03)_R2_C9
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	1472205673	PFNa(PB03)_R2_C9
 fan-shaped neuron	is_a	neuprint_JRC	1224591262	FB2K^FB02v_R
 medulla columnar neuron MC63	is_a	neuprint_JRC	1346477190	MC64
 medulla columnar neuron MC61	is_a	neuprint_JRC	1108796249	MC61
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	911504643	PFNd(PB04)_R2_C9
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	911504643	PFNd(PB04)_R2_C9
 medulla columnar neuron MC61	is_a	neuprint_JRC	1108109641	MC61
 medulla columnar neuron MC63	is_a	neuprint_JRC	1108473279	MC64
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	759084183	PFNm_b(PB02b)_L2_C1
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	818063189	PFNa(PB03)_R2_C9
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	818063189	PFNa(PB03)_R2_C9
 adult TuBu neuron	is_a	neuprint_JRC	1110164795	TuBu09_SBU_R
 medulla columnar neuron MC61	is_a	neuprint_JRC	5812986565	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1109133043	MC61
@@ -4081,7 +4081,7 @@ lobula columnar neuron LC10	is_a	neuprint_JRC	1231213221	LC10
 adult TuBu neuron	is_a	neuprint_JRC	5812987236	TuBu08_SBU_R
 medulla columnar neuron MC61	is_a	neuprint_JRC	1108113892	MC61
 lobula columnar neuron LC10	is_a	neuprint_JRC	1137085385	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	943592738	PFNp_b(PB01b)_L2_C1
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	943592738	PFNp_b(PB01b)_L2_C1
 medulla columnar neuron MC63	is_a	neuprint_JRC	1109158791	MC64
 medulla columnar neuron MC63	is_a	neuprint_JRC	2064713562	MC64
 extrinsic ring neuron ExR2	is_a	neuprint_JRC	1449247522	ExR2(PPM3-EB-DAN/ring)_R
@@ -4089,18 +4089,18 @@ medulla columnar neuron MC61	is_a	neuprint_JRC	1109474158	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1107768772	MC61
 dopaminergic PAM neuron 7	is_a	neuprint_JRC	1081434698	PAM07(y4<y1y2)_L
 dopaminergic PAM neuron 7	is_a	neuprint_JRC	5812987022	(lVLPT8)_R
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	1094934199	PFNd(PB04)_R8_C2
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	1094934199	PFNd(PB04)_R8_C2
 vertical fiber system neuron	is_a	neuprint_JRC	666994301	PFL3(PB12c)_R2_C1_irreg
 lobula columnar neuron LC24	is_a	neuprint_JRC	2247202730	LC24
-PB 1 glomerulus-FB layers 3 and 6-ventral gall neuron	is_a	neuprint_JRC	879468563	PFGs(PB10)_R2_C8
+PB 1 glomerulus-FB layers 3 and 6-ventral gall surround neuron	is_a	neuprint_JRC	879468563	PFGs(PB10)_R2_C8
 medulla columnar neuron MC63	is_a	neuprint_JRC	1200178237	MC64
 adult fruitless aSP10 neuron	is_a	neuprint_JRC	1510285409	aSP10C_b(aSP10c)_R
 adult fruitless aSP10 neuron	is_a	neuprint_JRC	1605065523	aSP10C_a_R
 medulla columnar neuron MC61	is_a	neuprint_JRC	1077424204	MC61
 lobula columnar neuron LC24	is_a	neuprint_JRC	2029573063	LC24
 medulla columnar neuron MC61	is_a	neuprint_JRC	1171548392	MC61
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1534616361	PFNp_b(PB01b)_R2_C9
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1414617465	PFNp_d(PB01a)_R_C8_irreg
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1534616361	PFNp_b(PB01b)_R2_C9
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1414617465	PFNp_d(PB01a)_R_C8_irreg
 lobula columnar neuron LC10	is_a	neuprint_JRC	1692278031	LC10
 medulla columnar neuron MC61	is_a	neuprint_JRC	1107423040	MC61
 adult fruitless aSP10 neuron	is_a	neuprint_JRC	1385053807	aSP10C_a(aSP10c)_R
@@ -4108,11 +4108,11 @@ CCP-VMP-PB neuron	is_a	neuprint_JRC	1097407853	IbSpsP(PB17)_L2
 fan-shaped neuron	is_a	neuprint_JRC	1105886434	FB4Z^FB04Bd_R
 medulla columnar neuron MC61	is_a	neuprint_JRC	1138795086	MC61
 adult TuBu neuron	is_a	neuprint_JRC	1201961255	TuBu10_SBU_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	912558136	PFNp_b(PB01b)_L2_C1
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	912558136	PFNp_b(PB01b)_L2_C1
 fan-shaped neuron	is_a	neuprint_JRC	1131836336	FB4R^FB04oe_L
 medulla columnar neuron MC61	is_a	neuprint_JRC	1139831143	MC61
 fan-shaped neuron	is_a	neuprint_JRC	1112090340	FB4E^FB04e_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	757699264	PFNp_b(PB01b)_R2_C9
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	757699264	PFNp_b(PB01b)_R2_C9
 medulla columnar neuron MC61	is_a	neuprint_JRC	1138798959	MC61
 adult TuBu neuron	is_a	neuprint_JRC	1109158650	TuBu04_IBU_R
 lobula columnar neuron LC24	is_a	neuprint_JRC	2031960555	LC24
@@ -4143,7 +4143,7 @@ medulla columnar neuron MC61	is_a	neuprint_JRC	1199491747	MC61
 fan-shaped neuron	is_a	neuprint_JRC	5812987457	FB4Z^FB04Bd_R
 medulla columnar neuron MC63	is_a	neuprint_JRC	5812987747	MC64
 lobula columnar neuron LC10	is_a	neuprint_JRC	2088971332	LC10
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	572870540	EPG(PB08)_L1
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	572870540	EPG(PB08)_L1
 dopaminergic PAM neuron 8	is_a	neuprint_JRC	1140750938	PAM08_e(y4)_L
 medulla columnar neuron MC63	is_a	neuprint_JRC	1109500146	MC64
 lobula columnar neuron LC10	is_a	neuprint_JRC	1472996209	LC10
@@ -4155,7 +4155,7 @@ medulla columnar neuron MC63	is_a	neuprint_JRC	5812986257	MC64
 adult multiglomerular antennal lobe projection neuron	is_a	neuprint_JRC	2100010400	VP5 + VP2 lPN(olfactory PN)_R
 fan-shaped neuron	is_a	neuprint_JRC	1100796921	FB4M^FB04y(PPM3-FB3/4-NO-DAN)_L
 dopaminergic PAM neuron 8	is_a	neuprint_JRC	1141009503	PAM08_b(y4)_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1503581412	PFNp_b(PB01b)_R2_C9
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1503581412	PFNp_b(PB01b)_R2_C9
 vertical fiber system neuron	is_a	neuprint_JRC	1258073453	PFL3(PB12c)_L1_C8_irreg
 pb-eb-no neuron	is_a	neuprint_JRC	1062526223	PEN_b(PB06b)_R8
 pb-eb-no neuron	is_a	neuprint_JRC	1125964630	PEN_a(PB06a)_R8
@@ -4165,18 +4165,18 @@ PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	1128434325	PFR_a(
 PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	5812989367	(PDM19)_L
 lobula columnar neuron LC24	is_a	neuprint_JRC	2187515326	LC24
 ring neuron R2	is_a	neuprint_JRC	1106180107	R2_a(ring)_R
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	758065781	PFNd(PB04)_L2_C1
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	1126647624	EPG(PB08)_R8
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	758065781	PFNd(PB04)_L2_C1
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	1126647624	EPG(PB08)_R8
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	1597683387	PFNm_a(PB02a)_R8_C3
 extrinsic ring neuron ExR2	is_a	neuprint_JRC	787762461	ExR2(PPM3-EB-DAN/ring)_L
 ring neuron R1	is_a	neuprint_JRC	1294414279	R1_a(ring)_R
 medulla columnar neuron MC63	is_a	neuprint_JRC	1140189290	MC64
 lobula columnar neuron LC10	is_a	neuprint_JRC	1172623224	LC10(PLBDL3)_R
 medulla columnar neuron MC63	is_a	neuprint_JRC	1750605638	MC64
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	1167995070	EPG(PB08)_L8
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	1283392486	(PLBDL9)_R
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	1167995070	EPG(PB08)_L8
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	1283392486	(PLBDL9)_R
 medulla columnar neuron MC61	is_a	neuprint_JRC	1167088413	MC61
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	1447576662	EPG(PB08)_L1
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	1447576662	EPG(PB08)_L1
 medulla columnar neuron MC61	is_a	neuprint_JRC	1138795022	MC61
 medulla columnar neuron MC63	is_a	neuprint_JRC	1167097291	MC64
 ring neuron R2	is_a	neuprint_JRC	1137210821	R2_c(ring)_R
@@ -4184,23 +4184,23 @@ medulla columnar neuron MC61	is_a	neuprint_JRC	1139831160	MC61
 fan-shaped neuron	is_a	neuprint_JRC	1163570493	FB5V^FB04Ba_L
 medulla columnar neuron MC63	is_a	neuprint_JRC	1139848472	MC64
 PB-FB-NO subunit 2 ventral domain neuron	is_a	neuprint_JRC	5813044670	PFNv(PB05)_L8_C7
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1126305687	PFNp_a(PB01a)_R8_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1126305687	PFNp_a(PB01a)_R8_C3
 medulla columnar neuron MC63	is_a	neuprint_JRC	1231899588	MC64
 adult TuBu neuron	is_a	neuprint_JRC	1139515440	TuBu04_IBU_R
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	1126306451	PFNd(PB04)_R8_C2
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1631486122	PFNp_a(PB01a)_R2_C9
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	1126306451	PFNd(PB04)_R8_C2
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1631486122	PFNp_a(PB01a)_R2_C9
 medulla columnar neuron MC61	is_a	neuprint_JRC	1139835387	MC61
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	5813015999	PFNa(PB03)_L8_C8
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	5813015999	PFNa(PB03)_L8_C8
 medulla columnar neuron MC61	is_a	neuprint_JRC	1138799127	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1168457108	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1110173882	MC61
 medulla columnar neuron MC63	is_a	neuprint_JRC	1139148919	MC64
-PBG1-9.s-EBc.b-D/V GA.b neuron	is_a	neuprint_JRC	1128088594	PEG(PB07)_L1
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	1126301255	PFNa(PB03)_R8_C3
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	1065410141	EPG(PB08)_L8
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	5813040233	EPG(PB08)_R8
+PBG1-9.s-EBt.b-D/V GA.b neuron	is_a	neuprint_JRC	1128088594	PEG(PB07)_L1
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	1126301255	PFNa(PB03)_R8_C3
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	1065410141	EPG(PB08)_L8
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	5813040233	EPG(PB08)_R8
 medulla columnar neuron MC61	is_a	neuprint_JRC	1171219829	MC61
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	1412238418	PFNa(PB03)_L8_C7
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	1412238418	PFNa(PB03)_L8_C7
 medulla columnar neuron MC61	is_a	neuprint_JRC	1140188914	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1140188920	MC61
 lobula columnar neuron LC10	is_a	neuprint_JRC	1657517242	LC10
@@ -4210,26 +4210,26 @@ PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	1168314368	PFR_a(
 PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	1254340597	(PDM19)_L
 adult fruitless aSP10 neuron	is_a	neuprint_JRC	5813083922	aSP10C_a(aSP10c)_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	1142266328	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1126301622	PFNp_c(PB01c)_R8_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1126301622	PFNp_c(PB01c)_R8_C3
 adult TuBu neuron	is_a	neuprint_JRC	5813016915	TuBu08_SBU_R
 fan-shaped neuron	is_a	neuprint_JRC	1225588506	FB4Z^FB04Bd_L
-PB 1 glomerulus-FB layers 3 and 6-ventral gall neuron	is_a	neuprint_JRC	1189891402	PFGs(PB10)_L8_C8
+PB 1 glomerulus-FB layers 3 and 6-ventral gall surround neuron	is_a	neuprint_JRC	1189891402	PFGs(PB10)_L8_C8
 PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	666312288	PFR_b(PB11b)_L1_C2
 lobula columnar neuron LC24	is_a	neuprint_JRC	1192739907	LC24
-PBG1-9.s-EBc.b-D/V GA.b neuron	is_a	neuprint_JRC	1065409934	PEG(PB07)_L8
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	850829072	PFNp_b(PB01b)_L2_C1
+PBG1-9.s-EBt.b-D/V GA.b neuron	is_a	neuprint_JRC	1065409934	PEG(PB07)_L8
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	850829072	PFNp_b(PB01b)_L2_C1
 ring neuron R2	is_a	neuprint_JRC	5813047647	R2_c(ring)_R
 medulla columnar neuron MC61	is_a	neuprint_JRC	1107768789	MC61
 fan-shaped neuron	is_a	neuprint_JRC	1163898298	FB5V^FB04Ba_R
 medulla columnar neuron MC61	is_a	neuprint_JRC	1139831106	MC61
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	1128495875	PFNd(PB04)_L8_C8
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	1128495875	PFNd(PB04)_L8_C8
 dopaminergic PAM neuron 7	is_a	neuprint_JRC	1172446164	PAM07(y4<y1y2)_L
 CCP-VMP-PB neuron	is_a	neuprint_JRC	1125969140	IbSpsP(PB17)_R8
 medulla columnar neuron MC61	is_a	neuprint_JRC	1137426370	MC61
 adult TuBu neuron	is_a	neuprint_JRC	1140517447	TuBu10_SBU_R
 fan-shaped neuron	is_a	neuprint_JRC	1131831990	FB4E^FB04e_R
 medulla columnar neuron MC61	is_a	neuprint_JRC	5812986562	MC61
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	5813014062	PFNd(PB04)_R2_C9
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	5813014062	PFNd(PB04)_R2_C9
 medulla columnar neuron MC61	is_a	neuprint_JRC	5812987252	MC61
 fan-shaped neuron	is_a	neuprint_JRC	1131836121	FB4L^FB04w(PPM3-FB3/4-DAN)_L
 lobula columnar neuron LC10	is_a	neuprint_JRC	1141259920	LC10
@@ -4239,7 +4239,7 @@ medulla columnar neuron MC61	is_a	neuprint_JRC	1140176410	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1139835080	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1128572873	(LWF5)_R
 vertical fiber system neuron	is_a	neuprint_JRC	1134253374	PFL3(PB12c)_R1_C7
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1320799646	PFNp_a(PB01a)_L8_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1320799646	PFNp_a(PB01a)_L8_C7
 ring neuron R6	is_a	neuprint_JRC	1324430237	R6(ring)_R
 ring neuron R6	is_a	neuprint_JRC	5812983721	(LWF5)_R
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	5813095667	PFNm_a(PB02a)_L8_C7
@@ -4248,15 +4248,15 @@ lobula columnar neuron LC24	is_a	neuprint_JRC	1131011511	LC24
 medulla columnar neuron MC61	is_a	neuprint_JRC	1171548212	MC61
 pb-eb-no neuron	is_a	neuprint_JRC	1127471692	PEN_a(PB06a)_L8
 medulla columnar neuron MC61	is_a	neuprint_JRC	1139831315	MC61
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	5813041556	PFNp_c(PB01c)_L2_C1
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1130545249	(PDM19)_L
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	5813041556	PFNp_c(PB01c)_L2_C1
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1130545249	(PDM19)_L
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	1599069164	PFNm_a(PB02a)_L8_C7
 medulla columnar neuron MC61	is_a	neuprint_JRC	1140172174	MC61
 PB-FB-NO subunit 2 ventral domain neuron	is_a	neuprint_JRC	1125964651	PFNv(PB05)_R8_C3
 medulla columnar neuron MC61	is_a	neuprint_JRC	1140168071	MC61
 adult TuBu neuron	is_a	neuprint_JRC	1139516013	TuBu02_IBU_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	2154767014	LC10
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	1126310776	PFNa(PB03)_R8_C2
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	1126310776	PFNa(PB03)_R8_C2
 fan-shaped neuron	is_a	neuprint_JRC	1131831822	FB3A^FB03a(FB3-NO-DAN?)_R
 medulla columnar neuron MC61	is_a	neuprint_JRC	1139831308	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1138453934	MC61
@@ -4271,15 +4271,15 @@ medulla columnar neuron MC63	is_a	neuprint_JRC	1139148900	MC64
 medulla columnar neuron MC61	is_a	neuprint_JRC	1138453962	MC61
 vertical fiber system neuron	is_a	neuprint_JRC	1128092885	PFL1(PB12a)_L1_C8
 medulla columnar neuron MC61	is_a	neuprint_JRC	5812987715	MC61
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1156999846	PFNp_a(PB01a)_R8_C3
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1221482612	(PDM16)_L
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1156999846	PFNp_a(PB01a)_R8_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1221482612	(PDM16)_L
 medulla columnar neuron MC62	is_a	neuprint_JRC	1159607159	MC62(LWF5)_R
 medulla columnar neuron MC62	is_a	neuprint_JRC	5813016501	(PVM02)_L
 adult TuBu neuron	is_a	neuprint_JRC	1140534972	TuBu03_IBU_R
 PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	1159123802	PFR_b(PB11b)_L1_C9
 medulla columnar neuron MC61	is_a	neuprint_JRC	1167433978	MC61
 adult TuBu neuron	is_a	neuprint_JRC	1141213129	TuBu07_SBU_R
-PB 1 glomerulus-FB layers 3 and 6-ventral gall neuron	is_a	neuprint_JRC	1136204852	PFGs(PB10)_R9_C1
+PB 1 glomerulus-FB layers 3 and 6-ventral gall surround neuron	is_a	neuprint_JRC	1136204852	PFGs(PB10)_R9_C1
 medulla columnar neuron MC63	is_a	neuprint_JRC	1139507266	MC64
 medulla columnar neuron MC63	is_a	neuprint_JRC	1282806606	(PLBDL9)_R
 medulla columnar neuron MC63	is_a	neuprint_JRC	1169838185	MC64
@@ -4288,8 +4288,8 @@ gamma dorsal Kenyon cell	is_a	neuprint_JRC	601725569	KCg-d
 medulla columnar neuron MC61	is_a	neuprint_JRC	1167433982	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1138458236	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1140517287	MC61
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	1127476096	EPG(PB08)_L8
-PBG1-9.s-EBc.b-D/V GA.b neuron	is_a	neuprint_JRC	1125969082	PEG(PB07)_R9
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	1127476096	EPG(PB08)_L8
+PBG1-9.s-EBt.b-D/V GA.b neuron	is_a	neuprint_JRC	1125969082	PEG(PB07)_R9
 lobula columnar neuron LC10	is_a	neuprint_JRC	1141251402	LC10
 PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	5813081494	PFR_b(PB11b)_R1_C8
 vertical fiber system neuron	is_a	neuprint_JRC	882533209	PFL1(PB12a)_R1_C2
@@ -4300,25 +4300,25 @@ medulla columnar neuron MC63	is_a	neuprint_JRC	1139852825	MC64
 medulla columnar neuron MC63	is_a	neuprint_JRC	1378673241	(PDM16)_L
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	1536006733	PFNm_b(PB02b)_L8_C7
 medulla columnar neuron MC61	is_a	neuprint_JRC	5812986579	MC61
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	1168664495	EPG(PB08)_L8
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	1161247854	(PDM16)_L
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	1125964814	EPG(PB08)_R8
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	1168664495	EPG(PB08)_L8
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	1161247854	(PDM16)_L
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	1125964814	EPG(PB08)_R8
 medulla columnar neuron MC61	is_a	neuprint_JRC	1140172133	MC61
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1126310716	PFNp_e(PB01a)_R8_C3
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1126310807	PFNp_a(PB01a)_R8_C3
-PB 1 glomerulus-FB layers 3 and 6-ventral gall neuron	is_a	neuprint_JRC	1198749960	PFGs(PB10)_L1_C9
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1126310716	PFNp_e(PB01a)_R8_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1126310807	PFNp_a(PB01a)_R8_C3
+PB 1 glomerulus-FB layers 3 and 6-ventral gall surround neuron	is_a	neuprint_JRC	1198749960	PFGs(PB10)_L1_C9
 adult TuBu neuron	is_a	neuprint_JRC	1141195327	TuBu09_SBU_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	5812992408	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1125964899	PFNp_b(PB01b)_R8_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1125964899	PFNp_b(PB01b)_R8_C3
 medulla columnar neuron MC61	is_a	neuprint_JRC	1139494179	MC61
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	5812987321	PFNp_b(PB01b)_R8_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	5812987321	PFNp_b(PB01b)_R8_C3
 medulla columnar neuron MC61	is_a	neuprint_JRC	1167429704	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1167429753	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1137771829	MC61
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	1566644645	PFNa(PB03)_R8_C3
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	1566644645	PFNa(PB03)_R8_C3
 medulla columnar neuron MC61	is_a	neuprint_JRC	1138462526	MC61
 CCP-VMP-PB neuron	is_a	neuprint_JRC	5813087532	IbSpsP(PB17)_R9
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	5813081686	PFNa(PB03)_L8_C7
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	5813081686	PFNa(PB03)_L8_C7
 medulla columnar neuron MC61	is_a	neuprint_JRC	1231903775	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1139157979	MC61
 adult TuBu neuron	is_a	neuprint_JRC	1140189329	TuBu02_IBU_R
@@ -4328,20 +4328,20 @@ pb-eb-no neuron	is_a	neuprint_JRC	1353544607	PEN_b(PB06b)_L8
 fan-shaped neuron	is_a	neuprint_JRC	1143129698	FB5V^FB04Ba_L
 medulla columnar neuron MC61	is_a	neuprint_JRC	1138462517	MC61
 PB 1 glomerulus-FB layers 3-5-IDFP RB neuron	is_a	neuprint_JRC	1259097611	PFR_a(PB11a)_L8_C8
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1599410380	PFNp_c(PB01c)_L8_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1599410380	PFNp_c(PB01c)_L8_C7
 medulla columnar neuron MC61	is_a	neuprint_JRC	1199837219	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1171548200	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1138462564	MC61
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	5813014873	EPG(PB08)_R1
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	5813014873	EPG(PB08)_R1
 ring neuron R2	is_a	neuprint_JRC	1137219365	R2_a(ring)_R
 medulla columnar neuron MC61	is_a	neuprint_JRC	1076738914	MC61
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	1443268440	PFNa(PB03)_L8_C7
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	1443268440	PFNa(PB03)_L8_C7
 fan-shaped neuron	is_a	neuprint_JRC	1169739559	FB2K^FB02v_L
 medulla columnar neuron MC61	is_a	neuprint_JRC	1199491728	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1140509130	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1168461253	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1137771796	MC61
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1125964879	PFNp_b(PB01b)_R8_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1125964879	PFNp_b(PB01b)_R8_C3
 medulla columnar neuron MC61	is_a	neuprint_JRC	1139148877	MC61
 lobula columnar neuron LC10	is_a	neuprint_JRC	1167433991	LC10
 ring neuron R4d	is_a	neuprint_JRC	1167300194	R4d(ring)_R
@@ -4353,25 +4353,25 @@ fan-shaped neuron	is_a	neuprint_JRC	1162862710	FB4F_a^FB04f_R
 medulla columnar neuron MC61	is_a	neuprint_JRC	1138458221	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1138462578	MC61
 medulla columnar neuron MC63	is_a	neuprint_JRC	1139857380	MC64
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1094722478	PFNp_c(PB01c)_L8_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1094722478	PFNp_c(PB01c)_L8_C7
 medulla columnar neuron MC62	is_a	neuprint_JRC	1159611828	MC62(LWF5)_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	1719237849	LC10
-PB 1 glomerulus-FB layers 3 and 6-ventral gall neuron	is_a	neuprint_JRC	1200027441	PFGs(PB10)_L9_C9
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1157000178	PFNp_e(PB01a)_R8_C3
+PB 1 glomerulus-FB layers 3 and 6-ventral gall surround neuron	is_a	neuprint_JRC	1200027441	PFGs(PB10)_L9_C9
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1157000178	PFNp_e(PB01a)_R8_C3
 medulla columnar neuron MC63	is_a	neuprint_JRC	1201568401	MC64
 medulla columnar neuron MC63	is_a	neuprint_JRC	1132228894	(PVM01)_L
 medulla columnar neuron MC61	is_a	neuprint_JRC	1139822602	MC61
 fan-shaped neuron	is_a	neuprint_JRC	1197972213	FB4Z^FB04Bd_L
 fan-shaped neuron	is_a	neuprint_JRC	5813021492	(LWF5)_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	1719591388	LC10
-PB 1 glomerulus-EB core-IDFP DSB neuron	is_a	neuprint_JRC	5813077544	EPG(PB08)_R1
+PB 1 glomerulus-EB canal-GA neuron	is_a	neuprint_JRC	5813077544	EPG(PB08)_R1
 ring neuron R2	is_a	neuprint_JRC	1168059800	R2_c(ring)(AVM07)_L
 medulla columnar neuron MC61	is_a	neuprint_JRC	1200174183	MC61
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	1126310969	PFNa(PB03)_R8_C3
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	1126310969	PFNa(PB03)_R8_C3
 medulla columnar neuron MC61	is_a	neuprint_JRC	1137771848	MC61
 fan-shaped neuron	is_a	neuprint_JRC	1163194940	FB4I^FB04j_L
 medulla columnar neuron MC61	is_a	neuprint_JRC	1138466987	MC61
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1126310841	PFNp_b(PB01b)_R8_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1126310841	PFNp_b(PB01b)_R8_C3
 medulla columnar neuron MC61	is_a	neuprint_JRC	1200178228	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1172242848	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1137085624	MC61
@@ -4380,7 +4380,7 @@ medulla columnar neuron MC61	is_a	neuprint_JRC	1140863129	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	5813082120	(LWF3)_R
 medulla columnar neuron MC61	is_a	neuprint_JRC	1140176382	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1138458189	MC61
-PBG1-9.s-EBc.b-D/V GA.b neuron	is_a	neuprint_JRC	848761388	PEG(PB07)_R1
+PBG1-9.s-EBt.b-D/V GA.b neuron	is_a	neuprint_JRC	848761388	PEG(PB07)_R1
 medulla columnar neuron MC63	is_a	neuprint_JRC	1139498577	MC64
 lobula columnar neuron LC24	is_a	neuprint_JRC	1254801742	LC24
 medulla columnar neuron MC63	is_a	neuprint_JRC	1139498553	MC64
@@ -4392,7 +4392,7 @@ medulla columnar neuron MC61	is_a	neuprint_JRC	1138807902	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1138803664	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1170866180	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	5812980688	(LWF5)_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1188371481	PFNp_b(PB01b)_R8_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1188371481	PFNp_b(PB01b)_R8_C3
 medulla columnar neuron MC61	is_a	neuprint_JRC	1170515990	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1139490055	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1138807923	MC61
@@ -4401,7 +4401,7 @@ medulla columnar neuron MC61	is_a	neuprint_JRC	1139490024	MC61
 adult TuBu neuron	is_a	neuprint_JRC	1171902272	TuBu09_SBU_R
 medulla columnar neuron MC62	is_a	neuprint_JRC	1159611751	MC62(LWF5)_R
 medulla columnar neuron MC61	is_a	neuprint_JRC	1138112831	MC61
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	1662166202	PFNa(PB03)_R2_C9
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	1662166202	PFNa(PB03)_R2_C9
 medulla columnar neuron MC61	is_a	neuprint_JRC	1168120382	MC61
 adult TuBu neuron	is_a	neuprint_JRC	1170857299	TuBu08_SBU_R
 medulla columnar neuron MC61	is_a	neuprint_JRC	1138807914	MC61
@@ -4419,9 +4419,9 @@ adult TuBu neuron	is_a	neuprint_JRC	1171910380	TuBu03_IBU_R
 lobula columnar neuron LC24	is_a	neuprint_JRC	1282693736	LC24
 medulla columnar neuron MC61	is_a	neuprint_JRC	1138807874	MC61
 adult TuBu neuron	is_a	neuprint_JRC	5812979232	TuBu10_SBU_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	5812987327	PFNp_c(PB01c)_R8_C3
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	5813127581	PFNp_a(PB01a)_L8_C7
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1716387782	(PDM28)_L
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	5812987327	PFNp_c(PB01c)_R8_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	5813127581	PFNp_a(PB01a)_L8_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1716387782	(PDM28)_L
 ring neuron R4d	is_a	neuprint_JRC	1167891559	R4d(ring)_R
 medulla columnar neuron MC61	is_a	neuprint_JRC	5812986882	MC61
 ring neuron R2	is_a	neuprint_JRC	1168241257	R2_c(ring)_R
@@ -4429,13 +4429,13 @@ ring neuron R4d	is_a	neuprint_JRC	5812979222	R4d(ring)_R
 adult TuBu neuron	is_a	neuprint_JRC	1232979445	TuBu10_SBU_R
 medulla columnar neuron MC61	is_a	neuprint_JRC	1169834028	MC61
 adult TuBu neuron	is_a	neuprint_JRC	1170865953	TuBu06_SBU_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1127808629	PFNp_b(PB01b)_L8_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1127808629	PFNp_b(PB01b)_L8_C7
 lobula columnar neuron LC24	is_a	neuprint_JRC	1165085220	LC24
 ring neuron R2	is_a	neuprint_JRC	1168064774	R2_c(ring)(AVM07)_L
 ring neuron R4d	is_a	neuprint_JRC	1167632513	R4d(ring)_R
 lobula columnar neuron LC24	is_a	neuprint_JRC	1811306906	LC24
 lobula columnar neuron LC10	is_a	neuprint_JRC	5812997245	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1629093706	PFNp_e(PB01a)_R2_C9
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1629093706	PFNp_e(PB01a)_R2_C9
 medulla columnar neuron MC63	is_a	neuprint_JRC	1438546731	MC64
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	1156663078	PFNm_b(PB02b)_R8_C3
 medulla columnar neuron MC61	is_a	neuprint_JRC	1564758330	MC61
@@ -4449,18 +4449,18 @@ adult TuBu neuron	is_a	neuprint_JRC	1140872223	TuBu05_SBU_R
 lobula columnar neuron LC10	is_a	neuprint_JRC	1312368829	LC10
 lobula columnar neuron LC10	is_a	neuprint_JRC	5813082649	(LWF2)_R
 adult TuBu neuron	is_a	neuprint_JRC	5813013678	TuBu07_SBU_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1158507458	PFNp_e(PB01a)_L8_C7
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1442931758	PFNp_d(PB01a)_L8_C7
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	5812987339	PFNp_a(PB01a)_R8_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1158507458	PFNp_e(PB01a)_L8_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1442931758	PFNp_d(PB01a)_L8_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	5812987339	PFNp_a(PB01a)_R8_C3
 medulla columnar neuron MC61	is_a	neuprint_JRC	5901196917	MC61
 ring neuron R2	is_a	neuprint_JRC	1168249921	R2_d(ring)_R
 medulla columnar neuron MC61	is_a	neuprint_JRC	1170179364	MC61
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	5812987334	PFNp_b(PB01b)_R8_C3
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1661121263	PFNp_b(PB01b)_L8_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	5812987334	PFNp_b(PB01b)_R8_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1661121263	PFNp_b(PB01b)_L8_C7
 medulla columnar neuron MC62	is_a	neuprint_JRC	1159952969	MC62(LWF5)_R
 medulla columnar neuron MC61	is_a	neuprint_JRC	1171211215	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1169829963	MC61
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	5813026993	PFNp_a(PB01a)_R2_C9
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	5813026993	PFNp_a(PB01a)_R2_C9
 fan-shaped neuron	is_a	neuprint_JRC	1224945409	FB2B_b^FB02c_L
 fan-shaped neuron	is_a	neuprint_JRC	1106944058	(PDM12)_L
 ring neuron R2	is_a	neuprint_JRC	1167904437	R2_c(ring)_R
@@ -4517,11 +4517,11 @@ lobula columnar neuron LC10	is_a	neuprint_JRC	1719250390	LC10
 lobula columnar neuron	is_a	neuprint_JRC	1167783359	LC32(PLBDL3)_R
 ring neuron R2	is_a	neuprint_JRC	5813048896	R2_c(ring)_R
 ring neuron R4d	is_a	neuprint_JRC	1167295853	R4d(ring)(AVM07)_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1159530101	PFNp_c(PB01c)_L8_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1159530101	PFNp_c(PB01c)_L8_C7
 medulla columnar neuron MC63	is_a	neuprint_JRC	1137426492	MC64
 ring neuron R2	is_a	neuprint_JRC	1167563121	R2_a(ring)_R
 medulla columnar neuron MC61	is_a	neuprint_JRC	1140176456	MC61
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1534616158	PFNp_d(PB01a)_R2_C9
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1534616158	PFNp_d(PB01a)_R2_C9
 medulla columnar neuron MC63	is_a	neuprint_JRC	1230531193	MC64
 medulla columnar neuron MC63	is_a	neuprint_JRC	5812987413	(LWF5)_R
 adult TuBu neuron	is_a	neuprint_JRC	1202241942	TuBu08_SBU_R
@@ -4531,15 +4531,15 @@ ring neuron R4d	is_a	neuprint_JRC	1167295856	R4d(ring)(AVM07)_L
 ring neuron R4d	is_a	neuprint_JRC	1416900410	R4d(ring)(AVM07)_L
 medulla columnar neuron MC63	is_a	neuprint_JRC	1258833307	MC64
 lobula columnar neuron Lcn4	is_a	neuprint_JRC	5813075607	LC4
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	943592989	PFNp_b(PB01b)_L2_C1
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	912898873	PFNp_d(PB01a)_L2_C1
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	943592989	PFNp_b(PB01b)_L2_C1
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	912898873	PFNp_d(PB01a)_L2_C1
 medulla columnar neuron MC62	is_a	neuprint_JRC	5812983703	MC62
 lobula columnar neuron LC9	is_a	neuprint_JRC	5812988099	LC9(PLBDL3)_R
 adult TuBu neuron	is_a	neuprint_JRC	1110868515	TuBu07_SBU_R
 ring neuron R4d	is_a	neuprint_JRC	1229965474	R4d(ring)_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1188716311	PFNp_b(PB01b)_R8_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1188716311	PFNp_b(PB01b)_R8_C3
 medulla columnar neuron MC61	is_a	neuprint_JRC	1169842672	MC61
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	572167406	PFNp_a(PB01a)_R2_C9
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	572167406	PFNp_a(PB01a)_R2_C9
 lobula columnar neuron LC10	is_a	neuprint_JRC	2058932928	LC10
 lobula columnar neuron LC14	is_a	neuprint_JRC	1158191887	LC14_R
 lobula columnar neuron LC14	is_a	neuprint_JRC	1249940263	LC14
@@ -4561,7 +4561,7 @@ lobula tangential neuron	is_a	neuprint_JRC	1444351896	LT51_R
 lobula columnar neuron LC14	is_a	neuprint_JRC	1191273014	LC14_R
 lobula columnar neuron LC9	is_a	neuprint_JRC	1318956632	LC9(PLBDL3)_R
 lobula columnar neuron Lcn6	is_a	neuprint_JRC	1167438288	LC6
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1660789784	PFNp_d(PB01a)_L8_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1660789784	PFNp_d(PB01a)_L8_C7
 ring neuron R4d	is_a	neuprint_JRC	1167304403	R4d(ring)_R
 ring neuron R4d	is_a	neuprint_JRC	1167300154	R4d(ring)_R
 ring neuron R4m	is_a	neuprint_JRC	1167641412	R4m(ring)(AVM07)_L
@@ -4582,7 +4582,7 @@ lobula columnar neuron LC13	is_a	neuprint_JRC	1531676892	LC13(LWF1)_R
 medulla columnar neuron MC61	is_a	neuprint_JRC	1231554116	MC61
 lobula columnar neuron Lcn6	is_a	neuprint_JRC	1199504502	LC6
 lobula columnar neuron Lcn6	is_a	neuprint_JRC	1192123051	(ADM01)_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1164597572	PFNp_b(PB01b)_L8_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1164597572	PFNp_b(PB01b)_L8_C7
 medulla columnar neuron MC63	is_a	neuprint_JRC	1201214429	MC64
 lobula columnar neuron LC18	is_a	neuprint_JRC	1158536635	LC18(PLBDL4)_R
 ring neuron R2	is_a	neuprint_JRC	1198667367	R2_c(ring)(AVM07)_L
@@ -4590,7 +4590,7 @@ lobula tangential neuron Lt1	is_a	neuprint_JRC	1189230639	LT1_R
 lobula columnar neuron LC17	is_a	neuprint_JRC	1158877783	LC17
 ring neuron R3w	is_a	neuprint_JRC	1168392003	R3w(ring)(AVM07)_L
 adult TuBu neuron	is_a	neuprint_JRC	1171613286	TuBu09_SBU_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	911500529	PFNp_c(PB01c)_R2_C9
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	911500529	PFNp_c(PB01c)_R2_C9
 medulla columnar neuron MC61	is_a	neuprint_JRC	1200873417	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1167092971	MC61
 ring neuron R4m	is_a	neuprint_JRC	1167977970	R4m(ring)(AVM07)_L
@@ -4631,7 +4631,7 @@ medulla columnar neuron MC63	is_a	neuprint_JRC	1533040541	MC64
 medulla columnar neuron MC63	is_a	neuprint_JRC	1250946399	(PVF4)_R
 lobula columnar neuron LC12	is_a	neuprint_JRC	1626140980	LC12
 lobula tangential neuron Lt1	is_a	neuprint_JRC	1188889654	LT1_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1158507467	PFNp_b(PB01b)_L8_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1158507467	PFNp_b(PB01b)_L8_C7
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	1155302782	PFNm_a(PB02a)_R8_C3
 medulla columnar neuron MC61	is_a	neuprint_JRC	1200864690	MC61
 lobula columnar neuron LC12	is_a	neuprint_JRC	1657184761	LC12
@@ -4721,7 +4721,7 @@ ring neuron R2	is_a	neuprint_JRC	1198671672	R2_c(ring)(AVM07)_L
 medulla columnar neuron MC61	is_a	neuprint_JRC	1198809646	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1199150719	MC61
 lobula columnar neuron LC10	is_a	neuprint_JRC	1533040839	LC10
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1189887646	PFNp_b(PB01b)_L8_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1189887646	PFNp_b(PB01b)_L8_C7
 lobula columnar neuron Lcn6	is_a	neuprint_JRC	1168815348	LC6(PLBDL7)_R
 ring neuron R4m	is_a	neuprint_JRC	5813053866	R4m(ring)_R
 ring neuron R3w	is_a	neuprint_JRC	1199431561	R3w(ring)(AVM07)_L
@@ -4734,7 +4734,7 @@ lobula columnar neuron LC9	is_a	neuprint_JRC	1262654129	LC9(PLBDL3)_R
 lobula columnar neuron LC14	is_a	neuprint_JRC	1190254555	LC14_R
 ring neuron R2	is_a	neuprint_JRC	1198680426	R2_d(ring)(AVM07)_L
 medulla columnar neuron MC63	is_a	neuprint_JRC	1657180902	MC64
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1187693355	PFNp_b(PB01b)_R8_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1187693355	PFNp_b(PB01b)_R8_C3
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	1189549476	PFNm_b(PB02b)_L9_C9
 medulla columnar neuron MC61	is_a	neuprint_JRC	1199837228	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1189566974	(PVF4)_R
@@ -4748,8 +4748,8 @@ medulla columnar neuron MC61	is_a	neuprint_JRC	1200527901	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1199154817	MC61
 lobula columnar neuron LC9	is_a	neuprint_JRC	1563393904	LC9(PLBDL3)_R
 medulla columnar neuron MC61	is_a	neuprint_JRC	1198809663	MC61
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1567028669	PFNp_b(PB01b)_L8_C7
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1188043606	PFNp_d(PB01a)_R8_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1567028669	PFNp_b(PB01b)_L8_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1188043606	PFNp_d(PB01a)_R8_C3
 medulla columnar neuron MC63	is_a	neuprint_JRC	2340992769	MC64
 medulla columnar neuron MC61	is_a	neuprint_JRC	1200182533	MC61
 lobula columnar neuron LC9	is_a	neuprint_JRC	1201231700	LC9
@@ -4788,7 +4788,7 @@ medulla columnar neuron MC63	is_a	neuprint_JRC	1503141967	(ADM01)_L
 lobula columnar neuron	is_a	neuprint_JRC	1257245650	LC32
 lobula columnar neuron LC9	is_a	neuprint_JRC	1136744477	LC9(PLBDL3)_R
 lobula columnar neuron LC9	is_a	neuprint_JRC	1413753838	LC9(PLBDL3)_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1189882785	PFNp_b(PB01b)_L8_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1189882785	PFNp_b(PB01b)_L8_C7
 medulla columnar neuron MC63	is_a	neuprint_JRC	1934124660	MC64
 ring neuron R2	is_a	neuprint_JRC	1198680441	R2_d(ring)(AVM07)_L
 medulla columnar neuron MC61	is_a	neuprint_JRC	1228135037	MC61
@@ -4825,7 +4825,7 @@ lobula columnar neuron LC9	is_a	neuprint_JRC	1294366310	LC9(PLBDL3)_R
 lobula columnar neuron LC9	is_a	neuprint_JRC	1294362000	LC9(PLBDL3)_R
 lobula columnar neuron LC9	is_a	neuprint_JRC	1200541165	LC9
 adult TuBu neuron	is_a	neuprint_JRC	1171954356	TuBu09_SBU_R
-PBG1-9.s-EBc.b-D/V GA.b neuron	is_a	neuprint_JRC	1199677638	PEG(PB07)_L9
+PBG1-9.s-EBt.b-D/V GA.b neuron	is_a	neuprint_JRC	1199677638	PEG(PB07)_L9
 lobula columnar neuron LC11	is_a	neuprint_JRC	1189227147	LC11(PLBDL4)_R
 ring neuron R3w	is_a	neuprint_JRC	1199427845	R3w(ring)(AVM07)_L
 lobula columnar neuron LC9	is_a	neuprint_JRC	1201231826	LC9(PLBDL3)_R
@@ -4848,7 +4848,7 @@ lobula columnar neuron LC10	is_a	neuprint_JRC	1622740353	LC10
 medulla columnar neuron MC62	is_a	neuprint_JRC	1190646900	MC62(LWF5)_R
 lobula columnar neuron LC9	is_a	neuprint_JRC	1293006629	LC9
 lobula columnar neuron LC24	is_a	neuprint_JRC	1906116138	LC24
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1567382512	PFNp_a(PB01a)_L8_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1567382512	PFNp_a(PB01a)_L8_C7
 medulla columnar neuron MC63	is_a	neuprint_JRC	1259510931	MC64
 medulla columnar neuron MC61	is_a	neuprint_JRC	1230526667	MC61
 lobula tangential neuron Lt11	is_a	neuprint_JRC	1290209390	LT11_R
@@ -4863,7 +4863,7 @@ medulla columnar neuron MC63	is_a	neuprint_JRC	1200536428	MC64
 lobula columnar neuron LC12	is_a	neuprint_JRC	1688892924	LC12
 medulla columnar neuron MC61	is_a	neuprint_JRC	1228821333	MC61
 lobula columnar neuron LC21	is_a	neuprint_JRC	1535462901	LC21
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	1218732781	PFNd(PB04)_R9_C1
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	1218732781	PFNd(PB04)_R9_C1
 lobula columnar neuron LC9	is_a	neuprint_JRC	1229507904	LC9
 lobula columnar neuron LC9	is_a	neuprint_JRC	1200195649	LC9
 medulla columnar neuron MC61	is_a	neuprint_JRC	1199837236	MC61
@@ -4874,7 +4874,7 @@ medulla columnar neuron MC61	is_a	neuprint_JRC	1229848754	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1137780695	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	1199504729	MC61
 medulla columnar neuron MC63	is_a	neuprint_JRC	1202259458	MC64
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1567728102	PFNp_a(PB01a)_L8_C7
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1567728102	PFNp_a(PB01a)_L8_C7
 lobula columnar neuron LC20	is_a	neuprint_JRC	1316158839	LC20
 lobula columnar neuron LC20	is_a	neuprint_JRC	1251443404	(PLBDL9)_R
 medulla columnar neuron MC61	is_a	neuprint_JRC	1202250779	MC61
@@ -4891,8 +4891,8 @@ lobula columnar neuron LC9	is_a	neuprint_JRC	1201231760	LC9
 lobula columnar neuron LC9	is_a	neuprint_JRC	1232266394	LC9(PLBDL3)_R
 lobula columnar neuron LC11	is_a	neuprint_JRC	5812987890	LC11(PLBDL4)_R
 medulla columnar neuron MC61	is_a	neuprint_JRC	1228480354	MC61
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1217372569	PFNp_a(PB01a)_R9_C2
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1503581177	PFNp_b(PB01b)_R2_C9
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1217372569	PFNp_a(PB01a)_R9_C2
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1503581177	PFNp_b(PB01b)_R2_C9
 lobula columnar neuron LC20	is_a	neuprint_JRC	1222022960	LC20
 medulla columnar neuron MC61	is_a	neuprint_JRC	1228817202	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	5812989057	MC61
@@ -4908,7 +4908,7 @@ lobula columnar neuron LC9	is_a	neuprint_JRC	1200536439	LC9
 lobula columnar neuron LC9	is_a	neuprint_JRC	1501664753	LC9(PLBDL3)_R
 lobula columnar neuron LC20	is_a	neuprint_JRC	1254793503	LC20
 medulla columnar neuron MC63	is_a	neuprint_JRC	297572076	MC64
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	1218732931	PFNd(PB04)_R9_C1
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	1218732931	PFNd(PB04)_R9_C1
 lobula columnar neuron LC9	is_a	neuprint_JRC	1540280212	LC9(PLBDL3)_R
 ring neuron R2	is_a	neuprint_JRC	5813077556	R2_b(ring)_R
 ring neuron R5	is_a	neuprint_JRC	1200057627	R5(ring)(AVM07)_L
@@ -4944,7 +4944,7 @@ ring neuron R5	is_a	neuprint_JRC	1230742431	R5(ring)(AVM07)_L
 medulla columnar neuron MC61	is_a	neuprint_JRC	1229162371	MC61
 medulla columnar neuron MC61	is_a	neuprint_JRC	5812982243	(LWF5)_R
 medulla columnar neuron MC61	is_a	neuprint_JRC	1594087100	(PVF4)_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1125411720	PFNp_c(PB01c)_L9_C9
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1125411720	PFNp_c(PB01c)_L9_C9
 lobula columnar neuron LC9	is_a	neuprint_JRC	1263327214	LC9
 lobula columnar neuron LC9	is_a	neuprint_JRC	5813038238	LC9
 medulla columnar neuron MC61	is_a	neuprint_JRC	1232939935	MC61
@@ -4995,10 +4995,10 @@ ring neuron R5	is_a	neuprint_JRC	1230738118	R5(ring)(AVM07)_L
 medulla columnar neuron MC61	is_a	neuprint_JRC	1228476093	MC61
 extrinsic ring neuron	is_a	neuprint_JRC	1259718093	ExR8(ring)_R
 lobula columnar neuron LC21	is_a	neuprint_JRC	1504423575	LC21
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1219756158	PFNp_a(PB01a)_R9_C2
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1219756158	PFNp_a(PB01a)_R9_C2
 ring neuron R5	is_a	neuprint_JRC	1230742552	R5(ring)_R
 medulla columnar neuron MC61	is_a	neuprint_JRC	1229158221	MC61
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1220581302	PFNp_a(PB01a)_L9_C8
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1220581302	PFNp_a(PB01a)_L9_C8
 lobula columnar neuron LC9	is_a	neuprint_JRC	1198818551	LC9(PLBDL4)_R
 lobula columnar neuron LC9	is_a	neuprint_JRC	1654120086	LC9(PLBDL3)_R
 ring neuron R3a	is_a	neuprint_JRC	1231675708	R3a_b(ring)_R
@@ -5027,7 +5027,7 @@ medulla columnar neuron MC61	is_a	neuprint_JRC	1232940086	MC61
 lobula columnar neuron	is_a	neuprint_JRC	2061316365	LC27
 medulla columnar neuron MC61	is_a	neuprint_JRC	5812989051	MC61
 lobula columnar neuron	is_a	neuprint_JRC	5812992898	LC27(lVLPT3)_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1218728463	PFNp_b(PB01b)_R9_C1
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1218728463	PFNp_b(PB01b)_R9_C1
 pb-eb-no neuron	is_a	neuprint_JRC	1220584946	PEN_b(PB06b)_L9
 lobula columnar neuron Lcn6	is_a	neuprint_JRC	5812986572	LC6
 lobula columnar neuron LC9	is_a	neuprint_JRC	5812988109	LC9
@@ -5044,8 +5044,8 @@ lobula columnar neuron LC9	is_a	neuprint_JRC	1232266616	LC9
 EB slice 8-GA-PB slice 9 neuron	is_a	neuprint_JRC	1168660239	EPGt(PB09)_L9
 EB slice 8-GA-PB slice 9 neuron	is_a	neuprint_JRC	1253058351	(LWF5)_R
 fan-shaped neuron	is_a	neuprint_JRC	5813057963	FB3B^FB03b(EB)_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1250113288	PFNp_e(PB01a)_R9_C2
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	1217385533	PFNa(PB03)_R9_C1
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1250113288	PFNp_e(PB01a)_R9_C2
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	1217385533	PFNa(PB03)_R9_C1
 lobula columnar neuron	is_a	neuprint_JRC	1504700834	LC27
 ring neuron R3w	is_a	neuprint_JRC	1230125720	R3w(ring)(AVM07)_L
 lobula columnar neuron LC9	is_a	neuprint_JRC	5813062009	LC9
@@ -5056,12 +5056,12 @@ lobula columnar neuron LC18	is_a	neuprint_JRC	1501323994	LC18(PLBDL4)_R
 lobula columnar neuron LC9	is_a	neuprint_JRC	1263668551	LC9
 medulla columnar neuron MC61	is_a	neuprint_JRC	1501341367	MC61
 lobula columnar neuron Lcn6	is_a	neuprint_JRC	1231955849	LC6
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1218728544	PFNp_b(PB01b)_R9_C1
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1218728544	PFNp_b(PB01b)_R9_C1
 lobula columnar neuron	is_a	neuprint_JRC	5813023480	LC31
 lobula columnar neuron LC15	is_a	neuprint_JRC	1222302866	LC15
 ring neuron R5	is_a	neuprint_JRC	1230738247	R5(ring)_R
 pb-eb-no neuron	is_a	neuprint_JRC	1600083889	PEN_b(PB06b)_L9
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	1188181261	PFNd(PB04)_L9_C9
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	1188181261	PFNd(PB04)_L9_C9
 lobula columnar neuron LC24	is_a	neuprint_JRC	1502318251	LC24
 extrinsic ring neuron	is_a	neuprint_JRC	1290416713	ExR8(ring)_L
 lobula columnar neuron LC9	is_a	neuprint_JRC	1231217536	LC9
@@ -5073,8 +5073,8 @@ medulla columnar neuron MC61	is_a	neuprint_JRC	1259852024	MC61
 ring neuron R5	is_a	neuprint_JRC	1230742517	R5(ring)_R
 ring neuron R5	is_a	neuprint_JRC	1230712894	R5(ring)_R
 lobula columnar neuron LC9	is_a	neuprint_JRC	5813016578	LC9
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	1032643905	PFNa(PB03)_L9_C9
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1282300415	PFNp_a(PB01a)_L9_C8
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	1032643905	PFNa(PB03)_L9_C9
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1282300415	PFNp_a(PB01a)_L9_C8
 ring neuron R5	is_a	neuprint_JRC	1230738237	R5(ring)_R
 pb-eb-no neuron	is_a	neuprint_JRC	1220576923	PEN_a(PB06a)_L9
 lobula columnar neuron LC9	is_a	neuprint_JRC	1380331849	LC9(PLBDL3)_R
@@ -5089,20 +5089,20 @@ lobula columnar neuron LC9	is_a	neuprint_JRC	5813038232	LC9
 extrinsic ring neuron	is_a	neuprint_JRC	1228692168	ExR6(ring)_L
 fan-shaped neuron	is_a	neuprint_JRC	1224595289	FB2D^FB02e_L
 fan-shaped neuron	is_a	neuprint_JRC	5812982242	(LWF5)_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	5812988707	PFNp_b(PB01b)_R9_C1
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	5812988707	PFNp_b(PB01b)_R9_C1
 ring neuron R3a	is_a	neuprint_JRC	1261768644	R3a_c(ring)_R
 lobula columnar neuron LC9	is_a	neuprint_JRC	5813038294	LC9
 lobula columnar neuron LC9	is_a	neuprint_JRC	1230535525	LC9
 lobula columnar neuron LC9	is_a	neuprint_JRC	849162741	(PDM19)_L
 ring neuron R3a	is_a	neuprint_JRC	1230738163	R3a_c(ring)(AVM07)_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1249763220	PFNp_c(PB01c)_R9_C1
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1219069788	PFNp_a(PB01a)_R9_C2
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1249763220	PFNp_c(PB01c)_R9_C1
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1219069788	PFNp_a(PB01a)_R9_C2
 lobula complex columnar neuron LPLC1	is_a	neuprint_JRC	1220257051	LPLC1_R
-PB-FB-NO subunit 2 dorsal domain neuron	is_a	neuprint_JRC	1187844616	PFNd(PB04)_L9_C9
+PB-FB-NO2 dorsal domain neuron	is_a	neuprint_JRC	1187844616	PFNd(PB04)_L9_C9
 lobula columnar neuron LC20	is_a	neuprint_JRC	1223758589	LC20
 lobula columnar neuron LC24	is_a	neuprint_JRC	1906789614	LC24
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	1251275120	PFNa(PB03)_L9_C9
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	1873086710	LO intrinsic
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	1251275120	PFNa(PB03)_L9_C9
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	1873086710	LO intrinsic
 ring neuron R3p	is_a	neuprint_JRC	5813020568	R3p_a(ring)_R
 fan-shaped neuron	is_a	neuprint_JRC	1224258912	FB2A^FB02a(PPM3-FB2-NO-DAN)_L
 lobula columnar neuron Lcn6	is_a	neuprint_JRC	1232249314	LC6
@@ -5111,13 +5111,13 @@ pb-eb-no neuron	is_a	neuprint_JRC	1218732640	PEN_a(PB06a)_R9
 pb-eb-no neuron	is_a	neuprint_JRC	5813100695	(LWF5)_R
 lobula columnar neuron LC18	is_a	neuprint_JRC	1220607239	LC18(PLBDL4)_R
 ring neuron R5	is_a	neuprint_JRC	1231066662	R5(ring)_R
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	1218728541	PFNa(PB03)_R9_C1
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	1218728541	PFNa(PB03)_R9_C1
 lobula complex columnar neuron LPLC2	is_a	neuprint_JRC	1221971218	LPLC2_R
 lobula columnar neuron LC9	is_a	neuprint_JRC	1263996477	LC9
 lobula columnar neuron LC9	is_a	neuprint_JRC	1232266414	LC9(PLBDL3)_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1219410844	PFNp_a(PB01a)_R9_C2
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1219410844	PFNp_a(PB01a)_R9_C2
 lobula columnar neuron LC9	is_a	neuprint_JRC	5812989120	LC9
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1249102842	PFNp_d(PB01a)_R8_C3
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1249102842	PFNp_d(PB01a)_R8_C3
 ring neuron R6	is_a	neuprint_JRC	5812983734	R6(ring)_R
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	1188163963	PFNm_a(PB02a)_L9_C9
 lobula columnar neuron Lcn6	is_a	neuprint_JRC	1627509034	LC6
@@ -5129,16 +5129,16 @@ lobula tangential neuron	is_a	neuprint_JRC	1449225711	LT51(aSP29a)_R
 lobula columnar neuron LC9	is_a	neuprint_JRC	5813067943	LC9
 lobula columnar neuron	is_a	neuprint_JRC	1718227906	LC27(lVLPT3)_R
 pb-eb-no neuron	is_a	neuprint_JRC	1601771527	PEN_b(PB06b)_R9
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1250113157	PFNp_b(PB01b)_R9_C1
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1250113157	PFNp_b(PB01b)_R9_C1
 lobula columnar neuron	is_a	neuprint_JRC	1473997538	LC27
 ring neuron R3p	is_a	neuprint_JRC	1229288307	R3p_a(ring)_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1218728588	PFNp_a(PB01a)_R9_C2
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1218728588	PFNp_a(PB01a)_R9_C2
 lobula columnar neuron LC20	is_a	neuprint_JRC	1722954501	LC20
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1599747200	PFNp_c(PB01c)_L9_C9
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1599747200	PFNp_c(PB01c)_L9_C9
 EB slice 8-GA-PB slice 9 neuron	is_a	neuprint_JRC	1168664447	EPGt(PB09)_L9
 ring neuron R3a	is_a	neuprint_JRC	1261773104	R3a_d(ring)(AVM07)_L
 ring neuron R3w	is_a	neuprint_JRC	1230324385	R3w(ring)_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1630765418	PFNp_b(PB01b)_R9_C1
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1630765418	PFNp_b(PB01b)_R9_C1
 ring neuron R3a	is_a	neuprint_JRC	1261768832	R3a_c(ring)(AVM07)_L
 ring neuron R3a	is_a	neuprint_JRC	1343403608	LO intrinsic
 ring neuron R3a	is_a	neuprint_JRC	1470560768	(PDM19)_L
@@ -5148,10 +5148,10 @@ extrinsic ring neuron	is_a	neuprint_JRC	1228683492	ExR8(ring)_L
 ring neuron R5	is_a	neuprint_JRC	5813049931	R5(ring)(AVM07)_L
 medulla columnar neuron MC62	is_a	neuprint_JRC	5812987415	MC62(LWF5)_R
 lobula columnar neuron LC24	is_a	neuprint_JRC	1225455907	LC24
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1251952397	PFNp_a(PB01a)_L9_C8
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1251952397	PFNp_a(PB01a)_L9_C8
 ring neuron R6	is_a	neuprint_JRC	1259377221	R6(ring)(AVM07)_L
 ring neuron R5	is_a	neuprint_JRC	1231066732	R5(ring)_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1251269930	PFNp_e(PB01a)_L9_C8
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1251269930	PFNp_e(PB01a)_L9_C8
 ring neuron R2	is_a	neuprint_JRC	1260422110	R2_b(ring)(AVM07)_L
 ring neuron R3w	is_a	neuprint_JRC	5813053983	R3w(ring)_R
 ring neuron R3w	is_a	neuprint_JRC	1230121634	R3w(ring)(AVM07)_L
@@ -5165,18 +5165,18 @@ medulla columnar neuron MC61	is_a	neuprint_JRC	1259510945	MC61
 PB-FB-NO subunit 3 medial domain neuron	is_a	neuprint_JRC	5812994148	PFNm_a(PB02a)_L9_C9
 lobula columnar neuron LC24	is_a	neuprint_JRC	2372697700	LC24
 lobula columnar neuron Lcn6	is_a	neuprint_JRC	1232262131	LC6
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1218733141	PFNp_b(PB01b)_R9_C2
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1218733141	PFNp_b(PB01b)_R9_C2
 ring neuron R3a	is_a	neuprint_JRC	5813080269	R3a_a(ring)(AVM07)_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1248424794	PFNp_b(PB01b)_R9_C1
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	1187831582	PFNa(PB03)_L9_C9
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1248424794	PFNp_b(PB01b)_R9_C1
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	1187831582	PFNa(PB03)_L9_C9
 lobula columnar neuron LC9	is_a	neuprint_JRC	1263646370	LC9
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	5813023615	PFNp_b(PB01b)_R9_C1
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	5813048720	(PDM26)_L
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	5813023615	PFNp_b(PB01b)_R9_C1
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	5813048720	(PDM26)_L
 ring neuron R3a	is_a	neuprint_JRC	1261772956	R3a_b(ring)_R
 ring neuron R3a	is_a	neuprint_JRC	1261760489	R3a_d(ring)(AVM07)_L
 medulla columnar neuron MC62	is_a	neuprint_JRC	5812982573	MC62(LWF5)_R
 lobula columnar neuron LC24	is_a	neuprint_JRC	1808949598	LC24
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1599773239	PFNp_b(PB01b)_L9_C9
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1599773239	PFNp_b(PB01b)_L9_C9
 lobula columnar neuron Lcn6	is_a	neuprint_JRC	1261565726	LC6
 lobula columnar neuron LC17	is_a	neuprint_JRC	1250277991	LC17
 lobula columnar neuron LC24	is_a	neuprint_JRC	5813045027	LC24
@@ -5184,18 +5184,18 @@ lobula columnar neuron LC9	is_a	neuprint_JRC	5812988514	LC9(PLBDL3)_R
 lobula columnar neuron Lcn6	is_a	neuprint_JRC	5812989090	LC6
 ring neuron R3a	is_a	neuprint_JRC	1261773006	R3a_b(ring)(AVM07)_L
 ring neuron R5	is_a	neuprint_JRC	1231079482	R5(ring)(AVM07)_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1630462217	PFNp_b(PB01b)_L9_C9
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1630462217	PFNp_b(PB01b)_L9_C9
 lobula columnar neuron LC12	is_a	neuprint_JRC	1656157224	LC12
 lobula columnar neuron LC12	is_a	neuprint_JRC	1467405173	(PVM10)_R
 lobula columnar neuron LC24	is_a	neuprint_JRC	5813000058	LC24
-PB-FB-NO subunit 3 anterior domain neuron	is_a	neuprint_JRC	1155652503	PFNa(PB03)_R9_C1
+PB-FB-NO3 anterior domain neuron	is_a	neuprint_JRC	1155652503	PFNa(PB03)_R9_C1
 extrinsic ring neuron	is_a	neuprint_JRC	1601715638	ExR8(ring)_R
 lobula columnar neuron LC20	is_a	neuprint_JRC	1222368547	LC20
 lobula columnar neuron LC20	is_a	neuprint_JRC	5813067929	(PVF5)_R
 lobula columnar neuron LC9	is_a	neuprint_JRC	5812988098	LC9(PLBDL3)_R
 ring neuron R3d	is_a	neuprint_JRC	1261436508	R3d_a(ring)_R
 lobula columnar neuron LC24	is_a	neuprint_JRC	1471269906	LC24
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1249098248	PFNp_c(PB01c)_R9_C1
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1249098248	PFNp_c(PB01c)_R9_C1
 lobula columnar neuron LC24	is_a	neuprint_JRC	1877152860	LC24
 lobula columnar neuron Lcn6	is_a	neuprint_JRC	1260879601	LC6
 lobula complex columnar neuron LPLC2	is_a	neuprint_JRC	5812987894	LPLC2_R
@@ -5207,14 +5207,14 @@ lobula columnar neuron LC21	is_a	neuprint_JRC	1311669538	(LWF3)_R
 ring neuron R3d	is_a	neuprint_JRC	1261086755	R3d_a(ring)(AVM07)_L
 lobula columnar neuron LC16	is_a	neuprint_JRC	1256830582	LC16
 ring neuron R3d	is_a	neuprint_JRC	1261427857	R3d_a(ring)(AVM07)_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1345056477	PFNp_b(PB01b)_L9_C8
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1345056477	PFNp_b(PB01b)_L9_C8
 ring neuron R3d	is_a	neuprint_JRC	1261091124	R3d_a(ring)(AVM07)_L
 ring neuron R3d	is_a	neuprint_JRC	1261756007	R3d_a(ring)_R
 lobula columnar neuron LC24	is_a	neuprint_JRC	1257163007	LC24
 lobula columnar neuron LC24	is_a	neuprint_JRC	1716082078	(PVM02)_L
 ring neuron R3d	is_a	neuprint_JRC	1292113218	R3d_a(ring)(AVM07)_L
 lobula columnar neuron LC24	is_a	neuprint_JRC	1256826061	LC24(LWF6)_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1219889738	PFNp_c(PB01c)_L9_C9
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1219889738	PFNp_c(PB01c)_L9_C9
 lobula columnar neuron LC12	is_a	neuprint_JRC	1656839128	LC12
 lobula columnar neuron LC24	is_a	neuprint_JRC	1256490709	LC24
 lobula columnar neuron Lcn6	is_a	neuprint_JRC	1230190149	LC6
@@ -5231,9 +5231,9 @@ lobula tangential neuron	is_a	neuprint_JRC	1259856448	LT51(aSP29a)_R
 lobula tangential neuron	is_a	neuprint_JRC	5813048742	(PDM26)_L
 lobula columnar neuron LC20	is_a	neuprint_JRC	1378587904	LC20
 lobula columnar neuron Lcn6	is_a	neuprint_JRC	1563389824	LC6
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1248770299	PFNp_c(PB01c)_R9_C1
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1248770299	PFNp_c(PB01c)_R9_C1
 lobula columnar neuron LC9	is_a	neuprint_JRC	1260879515	LC9
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1661458883	PFNp_c(PB01c)_L9_C9
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1661458883	PFNp_c(PB01c)_L9_C9
 ring neuron R3d	is_a	neuprint_JRC	1261432076	R3d_b(ring)(AVM07)_L
 ring neuron R3d	is_a	neuprint_JRC	1261423444	R3d_c(ring)_R
 lobula columnar neuron LC11	is_a	neuprint_JRC	1251969396	LC11
@@ -5268,12 +5268,12 @@ lobula columnar neuron Lcn6	is_a	neuprint_JRC	1200541130	LC6
 lobula columnar neuron LC24	is_a	neuprint_JRC	1750247044	LC24
 ring neuron R3d	is_a	neuprint_JRC	1261086823	R3d_c(ring)(AVM07)_L
 ring neuron R3a	is_a	neuprint_JRC	1355810793	R3a_a(ring)_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1251265590	PFNp_b(PB01b)_L9_C8
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1251265590	PFNp_b(PB01b)_L9_C8
 lobula columnar neuron LC24	is_a	neuprint_JRC	1658502349	LC24
 ring neuron R3a	is_a	neuprint_JRC	1261760448	R3a_a(ring)(AVM07)_L
 ring neuron R3m	is_a	neuprint_JRC	1262105552	R3m(ring)(AVM07)_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1251265778	PFNp_b(PB01b)_L9_C9
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	2339953253	(LWF6)_R
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1251265778	PFNp_b(PB01b)_L9_C9
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	2339953253	(LWF6)_R
 adult fruitless aSP10 neuron	is_a	neuprint_JRC	1260577951	aSP10B_R
 medulla columnar neuron MC62	is_a	neuprint_JRC	1283760457	MC62(LWF5)_R
 ring neuron R3d	is_a	neuprint_JRC	1261427765	R3d_c(ring)_R
@@ -5328,11 +5328,11 @@ lobula columnar neuron LC9	is_a	neuprint_JRC	1232266303	LC9
 ring neuron R3w	is_a	neuprint_JRC	5812979230	R3w(ring)_R
 ring neuron R3a	is_a	neuprint_JRC	1261773330	R3a_d(ring)(AVM07)_L
 ring neuron R3d	is_a	neuprint_JRC	1261768880	R3d_b(ring)_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1282646571	PFNp_b(PB01b)_L9_C9
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1282646571	PFNp_b(PB01b)_L9_C9
 lobula complex columnar neuron LPLC4	is_a	neuprint_JRC	5812990157	LPLC4_R
 ring neuron R3m	is_a	neuprint_JRC	1261768913	R3m(ring)_R
 ring neuron R3d	is_a	neuprint_JRC	1261086863	R3d_a(ring)(AVM07)_L
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1249763369	PFNp_d(PB01a)_R9_C2
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1249763369	PFNp_d(PB01a)_R9_C2
 lobula columnar neuron LC24	is_a	neuprint_JRC	1257508477	LC24
 ring neuron R3m	is_a	neuprint_JRC	1292816565	R3m(ring)_R
 ring neuron R3a	is_a	neuprint_JRC	1262105575	R3a_a(ring)_R
@@ -5342,7 +5342,7 @@ ring neuron R3a	is_a	neuprint_JRC	5812984024	R3a_a(ring)_R
 lobula columnar neuron LC14	is_a	neuprint_JRC	1535718264	LC14_R
 ring neuron R3d	is_a	neuprint_JRC	1261086734	R3d_a(ring)_R
 ring neuron R3a	is_a	neuprint_JRC	1261773286	R3a_d(ring)_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1570806389	PFNp_d(PB01a)_R2_C9
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1570806389	PFNp_d(PB01a)_R2_C9
 lobula columnar neuron LC24	is_a	neuprint_JRC	1287865184	LC24
 lobula columnar neuron LC24	is_a	neuprint_JRC	5812994949	(PVM01)_L
 ring neuron R3a	is_a	neuprint_JRC	1261764527	R3a_a(ring)(AVM07)_L
@@ -5405,7 +5405,7 @@ lobula tangential neuron	is_a	neuprint_JRC	5813069020	LT51_R
 lobula columnar neuron LC16	is_a	neuprint_JRC	1288893591	LC16
 lobula columnar neuron LC14	is_a	neuprint_JRC	1280980178	LC14_R
 ring neuron R3p	is_a	neuprint_JRC	1291366237	R3p_b(ring)_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1282991279	PFNp_b(PB01b)_L9_C8
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1282991279	PFNp_b(PB01b)_L9_C8
 lobula columnar neuron LC11	is_a	neuprint_JRC	1410235604	LC11(PLBDL4)_R
 lobula columnar neuron LC16	is_a	neuprint_JRC	5813133779	LC16
 medulla columnar neuron MC62	is_a	neuprint_JRC	5813032755	MC62(LWF5)_R
@@ -5434,7 +5434,7 @@ lobula tangential neuron	is_a	neuprint_JRC	1261229600	LT51(aSP29a)_R
 ring neuron R3p	is_a	neuprint_JRC	1261169514	R3p_a(ring)(AVM07)_L
 ring neuron R3d	is_a	neuprint_JRC	1292121433	R3d_d(ring)_R
 lobula columnar neuron LC16	is_a	neuprint_JRC	1289229572	LC16
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1248765883	PFNp_d(PB01a)_R9_C2
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1248765883	PFNp_d(PB01a)_R9_C2
 lobula columnar neuron LC16	is_a	neuprint_JRC	1289233656	LC16
 lobula columnar neuron LC16	is_a	neuprint_JRC	1289233760	LC16
 medulla columnar neuron MC62	is_a	neuprint_JRC	1282741736	MC62(LWF5)_R
@@ -5459,7 +5459,7 @@ lobula columnar neuron LC16	is_a	neuprint_JRC	1288893672	LC16(LWF2)_R
 lobula columnar neuron LC12	is_a	neuprint_JRC	1656834679	LC12
 ring neuron R1	is_a	neuprint_JRC	1291094742	R1_b(ring)(AVM07)_L
 lobula columnar neuron LC16	is_a	neuprint_JRC	1289238970	LC16
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1312308001	PFNp_d(PB01a)_L9_C8
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1312308001	PFNp_d(PB01a)_L9_C8
 lobula columnar neuron LC16	is_a	neuprint_JRC	1288893503	LC16
 ring neuron R1	is_a	neuprint_JRC	1352823209	R1_a(ring)(AVM07)_L
 lobula columnar neuron LC16	is_a	neuprint_JRC	1289233864	LC16
@@ -5542,7 +5542,7 @@ lobula columnar neuron LC16	is_a	neuprint_JRC	1320263998	LC16
 lobula columnar neuron LC16	is_a	neuprint_JRC	1314449941	(LWF5)_R
 lobula columnar neuron LC16	is_a	neuprint_JRC	1319587380	LC16
 lobula columnar neuron LC12	is_a	neuprint_JRC	1686518948	LC12(lVLPT7)_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1282305753	PFNp_b(PB01b)_L9_C9
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1282305753	PFNp_b(PB01b)_L9_C9
 lobula columnar neuron LC11	is_a	neuprint_JRC	1593784995	LC11
 medulla columnar neuron MC62	is_a	neuprint_JRC	1873091171	MC62(LWF5)_R
 lobula columnar neuron LC12	is_a	neuprint_JRC	1688893211	LC12
@@ -5641,7 +5641,7 @@ lobula columnar neuron LC25	is_a	neuprint_JRC	1498582584	LC25
 lobula columnar neuron LC26	is_a	neuprint_JRC	1347905926	LC26
 lobula columnar neuron LC14	is_a	neuprint_JRC	5812990447	LC14
 lobula columnar neuron LC20	is_a	neuprint_JRC	1407853195	LC20
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	1442931671	PFNp_d(PB01a)_L_C7_irreg
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	1442931671	PFNp_d(PB01a)_L_C7_irreg
 lobula columnar neuron LC20	is_a	neuprint_JRC	1597494148	LC20(lVLPT3)_R
 lobula columnar neuron LC11	is_a	neuprint_JRC	5812990470	LC11
 lobula columnar neuron LC16	is_a	neuprint_JRC	1350937208	LC16
@@ -5975,7 +5975,7 @@ lobula columnar neuron LC13	is_a	neuprint_JRC	1468998393	LC13
 lobula columnar neuron LC13	is_a	neuprint_JRC	1933433614	LC13(LWF7)_R
 lobula columnar neuron LC13	is_a	neuprint_JRC	1560661080	LC13(LWF2)_R
 lobula columnar neuron LC13	is_a	neuprint_JRC	1499683287	LC13(LWF1)_R
-PB-FB-NO subunit 3 posterior domain neuron	is_a	neuprint_JRC	5813127522	PFNp_d(PB01a)_L9_C8
+PB-FB-NO3 posterior domain neuron	is_a	neuprint_JRC	5813127522	PFNp_d(PB01a)_L9_C8
 lobula columnar neuron LC13	is_a	neuprint_JRC	1560311044	LC13(LWF7)_R
 lobula columnar neuron LC13	is_a	neuprint_JRC	5812989441	(AVM09)_L
 lobula columnar neuron LC12	is_a	neuprint_JRC	1690266485	LC12(lVLPT7)_R
