@@ -1,5 +1,6 @@
 # Curation [![Build Status](https://travis-ci.org/VirtualFlyBrain/curation.svg?branch=dosumis_curation)](https://travis-ci.org/VirtualFlyBrain/curation?branch=dosumis_curation)
 
+
 A repository of records specifying curation into the VFB Knowledge Base and code that parses and checks them.
 
 ## Curation manual

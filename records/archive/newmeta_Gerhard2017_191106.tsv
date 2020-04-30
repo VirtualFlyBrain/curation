@@ -1,0 +1,31 @@
+subject_external_db	subject_external_id	subject_name	relation	object
+catmaid_l1em	7964684	TePn19 classIV-related projection B left	is_a	larval TePn19 neuron
+catmaid_l1em	18981220	TePn05 classIV-related projection C left	is_a	larval TePn05 neuron
+catmaid_l1em	14899172	A08n classIV-related projection A right	is_a	larval A08n neuron
+catmaid_l1em	14795310	A09e_a3l	is_a	larval abdominal 3 A09e neuron
+catmaid_l1em	14795007	TePn19 classIV-related projection B right	is_a	larval TePn19 neuron
+catmaid_l1em	14728550	A09e_a3r	is_a	larval abdominal 3 A09e neuron
+catmaid_l1em	12767923	A10a_a2r Chair-1	is_a	larval abdominal 2 A10a neuron
+catmaid_l1em	12468812	A09l_a1l Down-and-back-1	is_a	larval abdominal 1 down and back neuron
+catmaid_l1em	10053642	A09l_t3r Down-and-back-1	is_a	larval metathoracic down and back neuron
+catmaid_l1em	17693220	A09l_a2r Down-and-back-1	is_a	larval abdominal 2 down and back neuron
+catmaid_l1em	7124056	A09l_t3l Down-and-back-1	is_a	larval metathoracic down and back neuron
+catmaid_l1em	6062423	T10a t3r Chair-1	is_a	larval metathoracic T10a neuron
+catmaid_l1em	183502	A09e_a4l	is_a	larval abdominal 4 A09e neuron
+catmaid_l1em	627858	A09e_a4r	is_a	larval abdominal 4 A09e neuron
+catmaid_l1em	734837	A09q_a7r classIV-related projection D right	is_a	larval A09q neuron
+catmaid_l1em	1362085	A09q_a7l classIV-related projection D left	is_a	larval A09q neuron
+catmaid_l1em	1716788	A09o_a3l	is_a	larval abdominal 3 A09o neuron
+catmaid_l1em	1927577	A08n classIV-related projection A left	is_a	larval A08n neuron
+catmaid_l1em	2370290	A09e_a5r	is_a	larval abdominal 5 A09e neuron
+catmaid_l1em	2558717	TePn05 classIV-related projection C right	is_a	larval TePn05 neuron
+catmaid_l1em	2583770	A10a_a2l Chair-1	is_a	larval abdominal 2 A10a neuron
+catmaid_l1em	1370785	A09e_a5l	is_a	larval abdominal 5 A09e neuron
+catmaid_l1em	3056163	A09a_a2l Basin-2	is_a	larval abdominal 2 Basin-2 neuron
+catmaid_l1em	3281615	A09l_a2l Down-and-back-1	is_a	larval abdominal 2 down and back neuron
+catmaid_l1em	4102844	A09l_a1r Down-and-back-_JMpair 1 A08s upstream	is_a	larval abdominal 1 down and back neuron
+catmaid_l1em	4262125	T10a t3l Chair-1	is_a	larval metathoracic T10a neuron
+catmaid_l1em	4589092	A02o_a2l Wave-1	is_a	larval abdominal 2 Wave neuron
+catmaid_l1em	4717261	A02o_a2r Wave-1	is_a	larval abdominal 2 Wave neuron
+catmaid_l1em	5114804	A09a_a2r Basin-2	is_a	larval abdominal 2 Basin-2 neuron
+catmaid_l1em	2693651	A09o_a3r	is_a	larval abdominal 3 A09o neuron

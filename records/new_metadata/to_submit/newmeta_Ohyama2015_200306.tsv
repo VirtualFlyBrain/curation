@@ -1,0 +1,4 @@
+subject_external_db	subject_external_id	subject_name	relation	object
+catmaid_l1em	3546835	A02n_a1l Pseudolooper-4	is_a	larval abdominal 1 A02n neuron
+catmaid_l1em	1339400	A00c_a3l	is_a	larval A00c-a3 neuron
+catmaid_l1em	4262162	A00c_a3r	is_a	larval A00c-a3 neuron
