@@ -1,0 +1,5 @@
+object	relation	subject_external_db	subject_external_id	subject_name
+MB-alpha\' neuron of the dopaminergic PPL1 cluster	is_a	neuprint_JRC	517514142	PPL104(a'3)_R
+mushroom body vertical lobe arborizing neuron 2 alpha\' middle	is_a	neuprint_JRC	5812981264	MBON17(a'3m)_R
+MB-alpha\' neuron of the dopaminergic PPL1 cluster	is_a	neuprint_JRC	5813019976	PPL104(a'3)(PDL05)_L
+mushroom body vertical lobe arborizing neuron 2 alpha\' anterior-posterior	is_a	neuprint_JRC	673366098	MBON16(a'3ap)_R

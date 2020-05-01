@@ -1111,7 +1111,6 @@ fan-shaped neuron	is_a	neuprint_JRC	483193732	FB8C^FB08e_L
 fan-shaped neuron	is_a	neuprint_JRC	1220800405	FB6M^FB06r_R
 fan-shaped neuron	is_a	neuprint_JRC	979052812	FB7E^FB07j_L
 alpha/beta posterior Kenyon cell	is_a	neuprint_JRC	1418273110	KCab-p
-MB-alpha\' neuron of the dopaminergic PPL1 cluster	is_a	neuprint_JRC	517514142	PPL104(a'3)_R
 dopaminergic PAM neuron 1	is_a	neuprint_JRC	487899562	PAM01_a(y5)_R
 alpha/beta posterior Kenyon cell	is_a	neuprint_JRC	549571627	KCab-p
 alpha/beta posterior Kenyon cell	is_a	neuprint_JRC	1064891781	KCab-p
@@ -1244,7 +1243,6 @@ dopaminergic PAM neuron 4	is_a	neuprint_JRC	546641044	(MBDLaxon1)
 mushroom body vertical lobe arborizing neuron 2 alpha	is_a	neuprint_JRC	5813020828	MBON18(a2sc)_R
 fan-shaped neuron	is_a	neuprint_JRC	486842208	FB5C^FB05c_R
 fan-shaped neuron	is_a	neuprint_JRC	578008551	(MBDLaxon1)
-mushroom body vertical lobe arborizing neuron 2 alpha\' middle	is_a	neuprint_JRC	5812981264	MBON17(a'3m)_R
 dopaminergic PAM neuron 1	is_a	neuprint_JRC	1233773217	PAM01_a(y5)_R
 dopaminergic PAM neuron 4	is_a	neuprint_JRC	484735678	PAM04_a(B2)_R
 alpha/beta Kenyon cell	is_a	neuprint_JRC	767502667	KCab-c
@@ -1264,9 +1262,7 @@ fan-shaped neuron	is_a	neuprint_JRC	452401246	FB2G_b^FB02u_R
 fan-shaped neuron	is_a	neuprint_JRC	575319031	FB7C^FB07e_L
 gamma main Kenyon cell	is_a	neuprint_JRC	508599211	KCg-m
 mushroom body pedunculus-medial lobe arborizing neuron 1	is_a	neuprint_JRC	1196854070	PPL101(y1pedc)(PDL05)_L
-MB-alpha\' neuron of the dopaminergic PPL1 cluster	is_a	neuprint_JRC	5813019976	PPL104(a'3)(PDL05)_L
 dopaminergic PAM neuron 4	is_a	neuprint_JRC	1141329053	PAM04_a(B2)_R
-mushroom body vertical lobe arborizing neuron 2 alpha\' anterior-posterior	is_a	neuprint_JRC	673366098	MBON16(a'3ap)_R
 dopaminergic PAM neuron 2	is_a	neuprint_JRC	1172372655	PAM02(B'2a)_R
 gamma main Kenyon cell	is_a	neuprint_JRC	508599276	KCg-m
 dopaminergic PAM neuron 1	is_a	neuprint_JRC	1202125326	PAM01_b(y5)_L
