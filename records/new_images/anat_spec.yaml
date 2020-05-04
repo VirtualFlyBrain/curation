@@ -6,6 +6,10 @@ is_a:
   uniq: False
   type: object_label
   multiple: False
+  restriction:
+    field: short_form
+    regex: ".+"  # Hard to work out how we might enforce restrictions here...  Maybe enumerate IDPs?
+    labels: ['Class']
 
 classification_reference:
   compulsory: True
