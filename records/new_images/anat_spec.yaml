@@ -2,18 +2,20 @@ is_a:
   compulsory: True
   description: > 
      Classification(s) of the entity depicted in the image, e.g. a neuron type from FBbt.
-     Use ontology term labels. Multiple entries should be separated by a '|'
+     Use ontology term labels.
   uniq: False
-  type: String
-  multiple: True
+  type: object_label
+  multiple: False
 
 classification_reference:
   compulsory: True
-  description: > 
+  description: >
      FBrf or DOI (for preprint) of reference that specifies classification(s) 
   uniq: False
   type: String
   multiple: True
+  pattern_arg: type_edge_annotations
+  pattern_dict_key: pub
 
 classification_comment:
   compulsory: True
@@ -22,6 +24,8 @@ classification_comment:
   uniq: True
   type: String
   multiple: False
+  pattern_arg: type_edge_annotations
+  pattern_dict_key: pub
 
 expresses_id:
   compulsory: False
@@ -45,3 +49,4 @@ index:
   compulsory: False
   description: "Index number for an annotation layer.  This is required for painted domains."
   type: Integer
+  pattern_arg: index
