@@ -94,6 +94,7 @@ class Record:
         cur_recs = tuple of CurFile objects (tsv, potentially plus paired yaml)
          Attributes:
              self.spec: Curation spec for curation record type
+             self.rel_spec: Spec with relations valid for curation & their ranges.
              self.tsv pandas.DataFrame of curation record - includes YAML curation file content as additional columns.
              self.cr = curRec object (curation file name breakdown)
              self.type = record type (from curRec - for convenience)
@@ -102,6 +103,9 @@ class Record:
              self.stat: False if any checks have failed.  Use this to control
              exceptions in wrapper scripts
              """
+
+        # This code is much messier than it needs to be!
+
         self.stat = True
         self.y = False
         with open(spec_path + '/' + cur_recs[0].type + '_spec.yaml', 'r') as type_spec_file:
@@ -115,7 +119,7 @@ class Record:
         for cr in cur_recs:
             if cr.ext == 'tsv':
                 self.tsv = pd.read_csv(cr.path, sep="\t")
-                self.tsv.fillna('')
+                # self.tsv.fillna('', inplace=True)
                 self.cr = cr
                 self.type = self.cr.type
                 self.gross_type = self.cr.gross_type
@@ -124,13 +128,24 @@ class Record:
                 self.y = ruamel_yaml.safe_load(y_file.read())
             else:
                 logging.warning("Unknown file type %s" % cr.extended_name)
-                stat = False
-        # Each test fail should warn and set record stat to False.
+                self.stat = False
         if self.y:
             self._proc_yaml()
             self.check_DataSet()
         self._check_headers()
         self.check_uniqueness()
+        if self.stat:
+            self.strip_unused_spec()
+
+        # strip unused spec:
+        #  for k in self.spec.keys()
+
+    def strip_unused_spec(self):
+        """Remove spec that doesn't correspond to any column header"""
+        unused_spec = [k for k in self.spec.keys()
+                       if k not in self.tsv.columns]
+        for k in unused_spec:
+            del self.spec[k]
 
     def _fail(self, test_name):
         logging.warning("%s failed test: %s" % (self.cr.path, test_name))

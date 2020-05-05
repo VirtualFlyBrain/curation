@@ -109,8 +109,8 @@ class CurationWriter:
     def generate_object_lookups(self):
         cl = self._generate_lookups(self._gen_lookup_config_by_header())
         rl = self._generate_lookups(self._gen_lookup_config_by_rel())
-        cl['rel_object'] = rl  # Might be better to have these as separate lookups?
-        return cl
+        cl.update(rl)  # Might be better to have these as separate lookups?
+        return cl  # return not being used?
 
 
     def _gen_lookup_config_by_rel(self):
@@ -124,7 +124,7 @@ class CurationWriter:
         return {k: [LConf(field=v['restriction']['field'],
                    regex=v['restriction']['regex'],
                    labels=v['restriction']['labels'])]
-                for k, v in self.record.rel_spec.items()
+                for k, v in self.record.spec.items()
                 if 'restriction' in v.keys()}
 
     def generate_relation_lookup(self):
@@ -160,12 +160,12 @@ class CurationWriter:
 
     def extend_lookup_from_flybase(self, features, key='expresses'):
 
-        fu = "['"+"', ".join(features) + "']"
+        fu = "('"+"', '".join(features) + "')"
         ## Notes - use uniq'd IDs from features columns for lookup.
         query = "SELECT f.uniquename AS short_form, f.name AS label" \
-                " FROM feature WHERE f.name IN %s" % fu
+                " FROM feature f WHERE f.name IN %s" % fu
         dc = self.feature_mover.query_fb(query)  # What does this return on fail?
-        self.lookups[key] = {escape_string_for_neo(d['label']): d['short_form'] for d in dc}
+        self.object_lookup[key] = {escape_string_for_neo(d['label']): d['short_form'] for d in dc}
 
 
 class NewMetaDataWriter(CurationWriter):
@@ -313,35 +313,85 @@ class NewImageWriter(CurationWriter):
 
     def __init__(self, *args, **kwargs):
         super(NewImageWriter, self).__init__(*args, **kwargs)
-        # some extensions here
+        self.set_flybase_lookups()
 
-    def load_new_image_table(self,
-                             dataset,
-                             imaging_type,
-                             label,
-                             start,
-                             template,
-                             anatomical_type,
-                             classification_reference='',
-                             classification_comment='',
-                             part_of='',
-                             expresses='',
-                             index=False,
-                             center=(),
-                             anatomy_attributes=None,
-                             dbxrefs=None,
-                             dbxref_strings=None,
-                             image_filename='',
-                             match_on='short_form',
-                             orcid='',
-                             name_id_sub_via_lookup=False,
-                             hard_fail=False):
 
-        """Method for loading new image curation tables.
-        Spec: https://github.com/VirtualFlyBrain/curation/blob/test_curation/records/new_images/anatomy_spec.yaml
-        All ontology fields use labels"""
+    def set_flybase_lookups(self):
+        # If any columns are spec'd as FB features - return a uniq'd list of all content of all these columns,
+        # Otherwise return and empty list
+        fb_feat_columns = [k for k, v in self.record.rel_spec.items()
+                                   if 'flybase_feature' in v.keys()
+                                   and v['flybase_feature']
+                                   and k in self.record.tsv.columns]
 
-        # Strategies for rdfs:label matching
+        for c in fb_feat_columns:
+            features = set(self.record.tsv[c].dropna())
+            self.extend_lookup_from_flybase(features, key=c)
+
+    def gen_pw_args(self, row, start):
+        row.fillna('', inplace=True)
+        out = {}
+        out['start'] = start
+        for k, v in self.record.spec.items():
+            if ('pattern_arg' in v.keys()) and ('pattern_dict_key' in v.keys()):
+                out[v['pattern_arg']] = {}
+
+        out['anon_anatomical_types'] = []
+
+        # What's the flag for relation?  => lookup - in rel_spec
+
+        # part of
+
+        # Need to deal with argument cardinality (value type) - perhaps better to have an object on pattern_arg ?
+
+        for k, v in self.record.spec.items():
+            # Note - spec should already be stripped down to that used
+            if not row[k]:
+                continue
+            if 'multiple' in v.keys() and v['multiple']:
+                value = row[k].split('|')
+                multiple = True
+            else:
+                value = [row[k]]
+                multiple = False
+            if 'restriction' in v.keys():
+                value = [self.object_lookup[k][obj] for obj in value]
+                if k in self.record.rel_spec.keys():
+                    # Not keen on hard wired args here:
+                    if k == 'is_a':
+                        out['anatomical_type'] = value[0]
+                    else:
+                        for val in value:
+                            out['anon_anatomical_types'].append((self.relation_lookup[k],
+                                                                 val))
+            if 'pattern_arg' in v.keys():
+                if 'pattern_dict_key' in v.keys():
+                    out[v['pattern_arg']][v['pattern_dict_key']] = value
+                else:
+                    if multiple:
+                        out[v['pattern_arg']] = value
+                    else:
+                        out[v['pattern_arg']] = value[0]
+        return out
+
+
+
+    def write_row(self, row):
+        kwargs = self.gen_pw_args(row, 100000)  # added for testing
+        self.pattern_writer.add_anatomy_image_set(**kwargs)
+
+    def write_rows(self):
+        for i, row in self.record.tsv.iterrows():
+            # Assumes all empty cells in DataFrame replaced with empty string.
+            self.write_row(row)
+        self.stat = self.pattern_writer.commit()  # Could set chunk length.
+
+
+
+
+
+
+# Strategies for rdfs:label matching
 
         # 1. use match_on = label - some risk of choosing term from wrong ontology. This could potentially be managed in KB
         # via enforced label uniquenes.  This would require some clean up! We already have 7 pairs of :Class nodes with
@@ -363,10 +413,3 @@ class NewImageWriter(CurationWriter):
         # part_of: FBbt only
         # expresses: iri filter for FlyBase?
         # kwargs be on KB_pattern_writer __init__ so lookups only need to be rolled once.
-
-        args = locals()
-        for k, v in args.items():
-            if k in self.lookups.keys():
-                args[k] = self.lookups[k][v]
-        self.pattern_writer.add_anatomy_image_set(**args)  # Surely possible to do this on the original method!
-
