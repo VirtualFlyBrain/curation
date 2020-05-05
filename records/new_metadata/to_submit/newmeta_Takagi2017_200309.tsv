@@ -1,7 +1,0 @@
-subject_external_db	subject_external_id	subject_name	relation	object
-catmaid_l1em	5904833	A03a5_a1l	is_a	larval abdominal 1 A03a5 neuron
-catmaid_l1em	5297998	A03a5_a1r	is_a	larval abdominal 1 A03a5 neuron
-catmaid_l1em	19111930	MN13 ISN MN-VL2_a1l 	is_a	abdominal 1 VL2 motor neuron
-catmaid_l1em	14194703	MN13 ISN MN-VL2_a1r	is_a	abdominal 1 VL2 motor neuron
-catmaid_l1em	16264802	MN6/7 RP3_a2l	is_a	abdominal 2 VL3/4 motor neuron
-catmaid_l1em	4791651	MN6/7 RP3_a2r	is_a	abdominal 2 VL3/4 motor neuron
