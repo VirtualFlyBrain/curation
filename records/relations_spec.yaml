@@ -2,7 +2,7 @@ is_a:
   description: Classification of entity depicted in image.
   restriction:
     field: short_form
-    regex: ".+"  # Hard to work out how we might enforce restrictions here...  Maybe enumerate IDs?
+    regex: ".+"  # Hard to work out how we might enforce restrictions here...  Maybe enumerate IDPs?
     labels: ['Class']
 
 part_of:
@@ -80,4 +80,7 @@ has_soma_location:
     field: short_form
     regex: "FBbt_.+"
     labels: ['Class']
+
+
+
 

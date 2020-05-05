@@ -7,3 +7,8 @@ Curator:
   description: A list of orcids of curators.
   compulsory: True
   yaml: True
+
+notes:
+  description: "Column for curator notes (notes will not be checked or loaded)."
+  compulsory: False
+  yaml: False
