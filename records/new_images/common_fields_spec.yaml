@@ -2,6 +2,7 @@ Imaging_type:
   compulsory: True
   yaml: True
   description: "The label of an imaging type from FBbi."
+  pattern_arg: imaging_type
 
 Template:
   compulsory: True
@@ -9,11 +10,17 @@ Template:
     The name (label) of a template in the KB to which the image is registered,
     or 'Self', indicating that the image being added is a template.
   yaml: True
+  pattern_arg: template
+  restriction:
+    field: short_form
+    regex: "VFBc_.+"
+    labels: ["Template", "Individual"]
 
 DataSet:
   description: "The name (label) of a DataSet in the KB"
   compulsory: True
   yaml: True
+  pattern_arg: dataset
 
 Site:
   description: "The name (label) of a Site in the KB"
@@ -24,6 +31,11 @@ Curator:
   description: A list of orcids of curators.
   compulsory: True
   yaml: True
+  pattern_arg: orcid
+  restriction:
+    field: short_form
+    regex: ".+_.+_.+_.+" # Needs updating once KB fixed.
+    labels: ["Person"]
 
 filename:
   compulsory: True
@@ -31,15 +43,16 @@ filename:
   uniq: True
   type: String
   multiple: False
+  pattern_arg: image_filename
 
 label:
   compulsory: True
   description: >
     The primary label for the entity in the KB and displayed on VFB.
-    Multiple entries should be separated by a '|'
   uniq: True
   type: String
   multiple: False
+  pattern_arg: label
 
 synonyms:
   compulsory: False
@@ -47,6 +60,8 @@ synonyms:
   uniq: False
   type: String
   multiple: True
+  pattern_arg: anatomy_attributes
+  pattern_dict_key: synonyms
 
 part_of:
   compulsory: True
@@ -71,6 +86,7 @@ dbxrefs:
   uniq: True
   type: String
   multiple: True
+  pattern_arg: dbxref_strings
 
 comment:
   compulsory: False
@@ -79,6 +95,8 @@ comment:
   uniq: False
   type: String
   multiple: False
+  pattern_arg: anatomy_attributes
+  pattern_dict_key: comment
 
 centre_point:
   compulsory: False
@@ -87,6 +105,7 @@ centre_point:
       Co-ordinates refer to the stack to which the entity is registered.
   uniq: False
   type: String
+  pattern_arg: center
 
 voxel_volume:
   compulsory: False
