@@ -12,7 +12,7 @@ is_a:
     labels: ['Class']
 
 classification_reference:
-  compulsory: True
+  compulsory: False
   description: >
      FBrf or DOI (for preprint) of reference that specifies classification(s) 
   uniq: False
@@ -22,7 +22,7 @@ classification_reference:
   pattern_dict_key: pub
 
 classification_comment:
-  compulsory: True
+  compulsory: False
   description: > 
      Free text comment on classification(s) 
   uniq: True
