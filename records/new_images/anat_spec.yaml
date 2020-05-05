@@ -2,26 +2,34 @@ is_a:
   compulsory: True
   description: > 
      Classification(s) of the entity depicted in the image, e.g. a neuron type from FBbt.
-     Use ontology term labels. Multiple entries should be separated by a '|'
+     Use ontology term labels.
   uniq: False
-  type: String
-  multiple: True
+  type: object_label
+  multiple: False
+  restriction:
+    field: short_form
+    regex: ".+"  # Hard to work out how we might enforce restrictions here...  Maybe enumerate IDPs?
+    labels: ['Class']
 
 classification_reference:
-  compulsory: True
-  description: > 
+  compulsory: False
+  description: >
      FBrf or DOI (for preprint) of reference that specifies classification(s) 
   uniq: False
   type: String
   multiple: True
+  pattern_arg: type_edge_annotations
+  pattern_dict_key: pub
 
 classification_comment:
-  compulsory: True
+  compulsory: False
   description: > 
      Free text comment on classification(s) 
   uniq: True
   type: String
   multiple: False
+  pattern_arg: type_edge_annotations
+  pattern_dict_key: pub
 
 expresses_id:
   compulsory: False
@@ -32,7 +40,7 @@ expresses_id:
   type: String
   multiple: True
 
-expresses_name:
+expresses:
   compulsory: False
   description: >
      Names(s) of FlyBase features whose expression is used to mark the depicted entity (e.g. GAL4 driver).
@@ -45,3 +53,4 @@ index:
   compulsory: False
   description: "Index number for an annotation layer.  This is required for painted domains."
   type: Integer
+  pattern_arg: index
