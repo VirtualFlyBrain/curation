@@ -228,7 +228,7 @@ class NewMetaDataWriter(CurationWriter):
                       message="Not attempting to write row due to"
                               " invalid relation '%s'." % r)
             return False
-        if not (o in self.object_lookup['rel_object'][r].keys()):
+        if not (o in self.object_lookup[r].keys()):
             self.warn(context_name="row", context=dict(row),
                       message="Not attempting to write row due to"
                               " invalid object '%s'." % o)
@@ -236,7 +236,7 @@ class NewMetaDataWriter(CurationWriter):
         if edge_annotations is None:
             edge_annotations = {}
         subject_id = self.get_subject_id(s)
-        object_id = self.object_lookup['rel_object'][r][o]
+        object_id = self.object_lookup[r][o]
         if subject_id and object_id:
             if r == 'is_a':
                 self.ew.add_named_type_ax(s=subject_id,
