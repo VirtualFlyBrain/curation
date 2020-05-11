@@ -25,7 +25,7 @@ classification_comment:
   compulsory: False
   description: > 
      Free text comment on classification(s) 
-  uniq: True
+  uniq: False
   type: String
   multiple: False
   pattern_arg: type_edge_annotations
@@ -36,7 +36,7 @@ expresses_id:
   description: > 
      FBid(s) of FlyBase features whose expression is used to mark the depicted entity (e.g. GAL4 driver).
      Multiple entries should be separated by a '|'.
-  uniq: True
+  uniq: False
   type: String
   multiple: True
 
@@ -45,7 +45,7 @@ expresses:
   description: >
      Names(s) of FlyBase features whose expression is used to mark the depicted entity (e.g. GAL4 driver).
      Multiple entries should be separated by a '|'.
-  uniq: True
+  uniq: False
   type: String
   multiple: True
   
@@ -54,3 +54,4 @@ index:
   description: "Index number for an annotation layer.  This is required for painted domains."
   type: Integer
   pattern_arg: index
+  uniq: True
