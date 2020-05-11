@@ -29,7 +29,7 @@ install:
 
 script:
   - cd src
-  - if [ ! "$BUILD_TYPE" == "curation" ]; then python -m vfb.curation.test.test_peevish; fi;
-  # Run against [test] records
-  - python run_peevish.py --test_mode --base_path=$BASEPATH http://localhost:7474 neo4j neo4j
+  - python -m vfb.curation.test.test_peevish
+  - if [ ! "$BUILD_TYPE" == "curation" ]; then python run_peevish.py --test_mode --base_path=$BASEPATH http://localhost:7474 neo4j neo4j; fi ;
+  - python run_peevish.py --base_path=$BASEPATH http://localhost:7474 neo4j neo4j
 
