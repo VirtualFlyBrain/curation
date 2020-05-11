@@ -329,6 +329,8 @@ class NewImageWriter(CurationWriter):
             self.extend_lookup_from_flybase(features, key=c)
 
     def gen_pw_args(self, row, start):
+        stat = True
+
         row.fillna('', inplace=True)
         out = {}
         out['start'] = start
@@ -354,8 +356,22 @@ class NewImageWriter(CurationWriter):
             else:
                 value = [row[k]]
                 multiple = False
+            # Does this actually check and warn yet?!
+
             if 'restriction' in v.keys():
-                value = [self.object_lookup[k][obj] for obj in value]
+                obj = []
+                for o in value:
+                    if o in self.object_lookup[k].keys():
+                        obj.append(self.object_lookup[k][o])
+                    else:
+                        self.warn(context_name="row", context=dict(row),
+                                  message="Not attempting to write row due to"
+                                          " invalid object '%s'." % o)
+                        stat = False
+                if not obj:
+                    continue
+                else:
+                    value = obj
                 if k in self.record.rel_spec.keys():
                     # Not keen on hard wired args here:
                     if k == 'is_a':
@@ -372,19 +388,25 @@ class NewImageWriter(CurationWriter):
                         out[v['pattern_arg']] = value
                     else:
                         out[v['pattern_arg']] = value[0]
-        return out
+        if stat:
+            return out
+        else:
+            self.stat = False
+            return False
 
 
 
     def write_row(self, row):
         kwargs = self.gen_pw_args(row, 100000)  # added for testing
-        self.pattern_writer.add_anatomy_image_set(**kwargs)
+        if kwargs:
+            self.pattern_writer.add_anatomy_image_set(**kwargs)
 
     def write_rows(self):
         for i, row in self.record.tsv.iterrows():
             # Assumes all empty cells in DataFrame replaced with empty string.
             self.write_row(row)
-        self.stat = self.pattern_writer.commit()  # Could set chunk length.
+        if not self.pattern_writer.commit():  # Could set chunk length
+            self.stat = False
 
 
 
