@@ -21,6 +21,37 @@ CurFile = namedtuple('CurFile', ['path', 'loc', 'extended_name',
                                  'name', 'ext', 'type', 'gross_type',
                                  'dataset', 'date'])
 
+def merge_spec(spec1_name: str, spec1 : dict,
+               spec2_name: str, spec2: dict, merge_types=['objectProperty']):
+    """Takes two dicts of dicts as input + names for those dicts (to use in error reporting)
+    Returns a merged spec dict.
+    Where a key is in both dict, the value dicts are merged in the return dict, irrespective of type
+    Where the value dicts share keys, and exception is thrown.
+    In addition, all key value pairs in spec2 with a type value specified in merge types arg
+    are also merged into the returned dict. Note `type` is a spec subkey with value string.
+    """
+
+    out = spec1.copy()
+    d2 = spec2.copy()
+    for k, v in out.items():
+        if k in d2.keys():
+            # If there are any keys in  common between value dicts
+            common_vkeys = set(v.keys()).intersection(set(d2[k].keys()))
+            if common_vkeys:
+                raise EnvironmentError("%s and %s contain the common key, "
+                                       "%s, with clashing values %s" % (spec1_name,
+                                                                        spec2_name,
+                                                                        k,
+                                                                        str(common_vkeys)))
+            else:
+                v.update(d2[k])
+    for k in set(d2.keys()) - set(out.keys()):
+        if 'type' in d2[k].keys() and d2[k]['type'] in merge_types:
+            out[k]=d2[k]
+    return out
+
+
+
 def process_file_path(file_path):
     path = [fp for fp in file_path.split('/') if fp]  # list comp removes empty path components (//)
     extended_name = path[-1]
@@ -129,6 +160,9 @@ class Record:
             else:
                 logging.warning("Unknown file type %s" % cr.extended_name)
                 self.stat = False
+        if self.gross_type == 'new_images':
+            self.spec = merge_spec('column_spec', self.spec, 'rel_spec', self.rel_spec)
+            self.spec.update(self.rel_spec)
         if self.y:
             self._proc_yaml()
             self.check_DataSet()
