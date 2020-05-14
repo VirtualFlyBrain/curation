@@ -162,7 +162,6 @@ class Record:
                 self.stat = False
         if self.gross_type == 'new_images':
             self.spec = merge_spec('column_spec', self.spec, 'rel_spec', self.rel_spec)
-            self.spec.update(self.rel_spec)
         if self.y:
             self._proc_yaml()
             self.check_DataSet()
