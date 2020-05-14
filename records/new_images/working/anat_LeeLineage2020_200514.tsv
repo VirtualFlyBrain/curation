@@ -1,4 +1,4 @@
-filename	Label	is_a	part_of	develops_from
+filename	label	is_a	part_of	develops_from
 ALv1_P01(SEZ)_0_2018U	ALv1_P01(SEZ)_0_2018U	neuron	adult brain	neuroblast ALv1
 ALv1_P02(DA1)_0_2018U	ALv1_P02(DA1)_0_2018U	adult antennal lobe projection neuron DA1 vPN	adult brain	neuroblast ALv1
 ALv1_P03(VL1)_0_2018U	ALv1_P03(VL1)_0_2018U	adult antennal lobe projection neuron VL1 vPN	adult brain	neuroblast ALv1
