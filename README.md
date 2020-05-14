@@ -3,7 +3,7 @@
 A repository of records specifying curation into the VFB Knowledge Base and code that parses and checks them.
 
 ## Curation manual
-To  learn about curation, please see our [Curation manual](https://github.com/VirtualFlyBrain/curation/wiki/Curation--Manual-Wiki) and the links to spec files within it
+To  learn about curation, please see our [Curation manual](https://github.com/VirtualFlyBrain/curation/wiki/Curation--Manual-Wiki) and the links to spec files within it.
 
 ## Git workflow 
 

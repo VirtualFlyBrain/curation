@@ -1,0 +1,4 @@
+Template: JRC2018Unisex_c
+Imaging_type: confocal microscopy
+DataSet: Yu2013 # Wrong dataset - using for loading
+Curator: DOS
