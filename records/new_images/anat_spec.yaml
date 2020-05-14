@@ -1,15 +1,7 @@
 is_a:
   compulsory: True
-  description: > 
-     Classification(s) of the entity depicted in the image, e.g. a neuron type from FBbt.
-     Use ontology term labels.
   uniq: False
-  type: object_label
   multiple: False
-  restriction:
-    field: short_form
-    regex: ".+"  # Hard to work out how we might enforce restrictions here...  Maybe enumerate IDPs?
-    labels: ['Class']
 
 classification_reference:
   compulsory: False
@@ -42,11 +34,7 @@ expresses_id:
 
 expresses:
   compulsory: False
-  description: >
-     Names(s) of FlyBase features whose expression is used to mark the depicted entity (e.g. GAL4 driver).
-     Multiple entries should be separated by a '|'.
   uniq: False
-  type: String
   multiple: True
   
 index:
