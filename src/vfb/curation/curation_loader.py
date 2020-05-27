@@ -24,7 +24,8 @@ def load_recs(path_to_specs, path_to_recs, endpoint, usr, pwd):
                 # load rows
                 if not niw.stat: stat = False
             elif r.type == 'split':
-                print()  # Do stuff
+                niw.write_rows()
+                if not niw.stat: stat = False
                 # Attempt to add split classes
                 # load rows
                 if not niw.stat: stat = False
