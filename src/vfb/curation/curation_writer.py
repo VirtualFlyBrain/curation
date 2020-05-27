@@ -316,10 +316,12 @@ class NewImageWriter(CurationWriter):
         self.set_flybase_lookups()
 
 
+
+
     def set_flybase_lookups(self):
         # If any columns are spec'd as FB features - return a uniq'd list of all content of all these columns,
         # Otherwise return and empty list
-        fb_feat_columns = [k for k, v in self.record.rel_spec.items()
+        fb_feat_columns = [k for k, v in self.record.spec.items()
                                    if 'flybase_feature' in v.keys()
                                    and v['flybase_feature']
                                    and k in self.record.tsv.columns]
@@ -345,6 +347,27 @@ class NewImageWriter(CurationWriter):
         # part of
 
         # Need to deal with argument cardinality (value type) - perhaps better to have an object on pattern_arg ?
+        # Might  want to handle this switch outside?
+        if self.record.type == 'split':
+            if row['DBD'] in self.object_lookup['DBD'].keys():
+                dbd_id = self.object_lookup['DBD'][row['DBD']]
+            else:
+                self.warn(context_name="row", context=dict(row),
+                          message="Not attempting to write row due to"
+                                  " invalid object '%s'." % row['DBD'])
+                stat = False
+            if row['AD'] in self.object_lookup['AD'].keys():
+                ad_id = self.object_lookup['AD'][row['AD']]
+            else:
+                self.warn(context_name="row", context=dict(row),
+                          message="Not attempting to write row due to"
+                                  " invalid object '%s'." % row['AD'])
+                stat = False
+            if not stat:
+                return False
+            else:
+                out['anatomical_type'] = 'VFBexp_' + dbd_id + ad_id
+
 
         for k, v in self.record.spec.items():
             # Note - spec should already be stripped down to that used
