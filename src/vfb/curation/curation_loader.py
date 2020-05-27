@@ -15,26 +15,7 @@ def load_recs(path_to_specs, path_to_recs, endpoint, usr, pwd):
         print("Test loading %s" % r.cr.path)
         if r.gross_type == 'new_images':
             niw = NewImageWriter(endpoint, usr, pwd, r)  # niw rolls appropriate dicts
-            # roll lookups (from configs)
-            print()  # Do stuff
-            # Could potentially simplify from here and embed in CurationWriter...
-            if r.type == 'ep':
-                print()  # Do stuff
-                # Attempt to add split classes
-                # load rows
-                if not niw.stat: stat = False
-            elif r.type == 'split':
-                print()  # Do stuff
-                # Attempt to add split classes
-                # load rows
-                if not niw.stat: stat = False
-            elif r.type == 'anat':
-                # Check FlyBase (from configs) & add types if poss
-                # load rows
-                niw.write_rows()
-                if not niw.stat: stat = False
-            else:
-                warnings.warn("Unknown record type: %s" % r.type)
+            if not niw.stat:
                 stat = False
         elif r.gross_type == 'new_metadata':
             print()  # Do stuff
