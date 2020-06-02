@@ -368,6 +368,17 @@ class NewImageWriter(CurationWriter):
             else:
                 out['anatomical_type'] = 'VFBexp_' + dbd_id + ad_id
 
+        elif self.record.type == 'ep':
+            # Would be more efficient to add in bulk
+            if row['driver'] in self.object_lookup['driver'].keys():
+                driver_id = self.object_lookup['driver'][row['driver']]
+                self.feature_mover.generate_expression_patterns(driver_id)
+                out['anatomical_type'] = 'VFBexp_' + driver_id
+            else:
+                self.warn(context_name="row", context=dict(row),
+                          message="Not attempting to write row due to"
+                                  " invalid object '%s'." % row['driver'])
+                return False
 
         for k, v in self.record.spec.items():
             # Note - spec should already be stripped down to that used
@@ -416,7 +427,6 @@ class NewImageWriter(CurationWriter):
         else:
             self.stat = False
             return False
-
 
 
     def write_row(self, row):
