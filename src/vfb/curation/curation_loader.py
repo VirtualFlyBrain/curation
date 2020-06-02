@@ -15,8 +15,9 @@ def load_recs(path_to_specs, path_to_recs, endpoint, usr, pwd):
         print("Test loading %s" % r.cr.path)
         if r.gross_type == 'new_images':
             niw = NewImageWriter(endpoint, usr, pwd, r)  # niw rolls appropriate dicts
+            niw.write_rows()
             if not niw.stat:
-                stat = False
+                    stat = False
         elif r.gross_type == 'new_metadata':
             print()  # Do stuff
             nmw = NewMetaDataWriter(endpoint, usr, pwd, r)  # nmw rolls appropriate dicts
