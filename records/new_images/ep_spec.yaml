@@ -1,5 +1,5 @@
 driver_id:
-  compulsory: True
+  compulsory: False
   description: > 
      The FBid of the feature corresponding to the driver or gene whose expression pattern is depicted in the image.
      Please use transposon rather than insertion.
@@ -7,14 +7,14 @@ driver_id:
   type: Feature
   multiple: False
 
-driver_name:
-  compulsory: False
-    description: >
-      The name of the feature corresponding to the driver or gene whose expression pattern is depicted in the image.
-      Please use transposon rather than insertion.
-    uniq: False
-    type: Feature
-    multiple: False
+driver:
+  compulsory: True
+  description: >
+      The name of the feature corresponding to the driver or gene whose expression pattern is depicted in the image. Please use transposon rather than insertion.
+  uniq: False
+  type: Feature
+  multiple: False
+  flybase_feature: true
   
 effector_id:
   compulsory: False
