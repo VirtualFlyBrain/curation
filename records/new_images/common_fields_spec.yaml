@@ -34,7 +34,7 @@ Curator:
   pattern_arg: orcid
   restriction:
     field: short_form
-    regex: ".+_.+_.+_.+" # Needs updating once KB fixed.
+    regex: "[0-9]+(_|-)[0-9]+(_|-)[0-9]+(_|-)[0-9]+"
     labels: ["Person"]
 
 filename:
