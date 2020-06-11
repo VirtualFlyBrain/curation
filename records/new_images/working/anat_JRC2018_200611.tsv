@@ -1,2 +1,2 @@
-filename	label	is_a
-JRC2018_VNC_UNISEX_4iso	JRC2018_VNC_UNISEX_4iso	thoracico-abdominal ganglion
+filename	label	is_a	part_of	Template	DataSet	Curator	Imaging_type
+JRC2018_VNC_UNISEX_4iso	JRC2018_VNC_UNISEX_4iso	thoracico-abdominal ganglion	adult CNS	Self	JRC2018	adm71	'confocal microscopy'
