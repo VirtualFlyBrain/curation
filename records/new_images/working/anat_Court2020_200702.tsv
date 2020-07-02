@@ -17,6 +17,6 @@ index	filename	synonyms	label	is_a	part_of	classification_reference
 16	MesoNM	MesoNM|T2	adult mesothoracic neuromere on adult VNC, JRC2018VU	adult mesothoracic neuromere	thoracico-abdominal ganglion	doi:10.1101/122952
 17	METANM	MetaNM|T3	adult metathoracic neuromere on adult VNC, JRC2018VU	adult metathoracic neuromere	thoracico-abdominal ganglion	doi:10.1101/122952
 18	mVAC	mVAC	medial ventral association center on adult VNC, JRC2018VU	medial ventral association center	thoracico-abdominal ganglion	doi:10.1101/122952
-19	neck_tectulum	NTct	neck tectulum	neck tectulum on adult VNC, JRC2018VU	synaptic neuropil domain	thoracico-abdominal ganglion	doi:10.1101/122952
+19	neck_tectulum	NTct	neck tectulum on adult VNC, JRC2018VU	synaptic neuropil domain	thoracico-abdominal ganglion	doi:10.1101/122952
 20	PRONM	ProNM|T1	adult prothoracic neuromere on adult VNC, JRC2018VU	adult prothoracic neuromere	thoracico-abdominal ganglion	doi:10.1101/122952
 21	wing_tectulum	WTct|Flight Neuropil	wing tectulum on adult VNC, JRC2018VU	wing neuropil	thoracico-abdominal ganglion	doi:10.1101/122952
