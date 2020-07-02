@@ -1,6 +1,6 @@
 filename	label	is_a	part_of
 Tract_DLT	dorsal lateral tract on adult VNC, JRC2018VU	FBbt_00047533	thoracico-abdominal ganglion
-Tract_DLV	dorsal lateral tract of ventral cervical fasciculus on adult VNC, JRC2018VU FBbt_00047541	thoracico-abdominal ganglion
+Tract_DLV	dorsal lateral tract of ventral cervical fasciculus on adult VNC, JRC2018VU	FBbt_00047541	thoracico-abdominal ganglion
 Tract_DMT	dorsal median tract on adult VNC, JRC2018VU FBbt_00047535	thoracico-abdominal ganglion
 Tract_MDT	median dorsal abdominal tract on adult VNC, JRC2018VU	FBbt_00047544	thoracico-abdominal ganglion
 Tract_VLT	ventral lateral tract on adult VNC, JRC2018VU	FBbt_00047543	thoracico-abdominal ganglion
