@@ -1,22 +1,22 @@
-index	filename	label	is_a	part_of
-1	Tract_DLT	dorsal lateral tract on adult VNC, JRC2018VU	dorsal lateral tract of the dorsal cervical fascicle	thoracico-abdominal ganglion
-2	Tract_DLV	dorsal lateral tract of ventral cervical fasciculus on adult VNC, JRC2018VU	dorsal lateral tract of the ventral cervical fascicle	thoracico-abdominal ganglion
-3	Tract_DMT	dorsal median tract on adult VNC, JRC2018VU	dorsal medial tract	thoracico-abdominal ganglion
-4	Tract_MDT	median dorsal abdominal tract on adult VNC, JRC2018VU	median dorsal abdominal tract	thoracico-abdominal ganglion
-5	Tract_VLT	ventral lateral tract on adult VNC, JRC2018VU	ventral lateral tract of the ventral cervical fascicle	thoracico-abdominal ganglion
-6	Tract_all_ITD_combined	intermediate tract of dorsal cervical fasciculus on adult VNC, JRC2018VU	intermediate tract of the dorsal cervical fascicle	thoracico-abdominal ganglion
-7	Tract_ITD_CFF	commissure of Fine Fibers of the ITD on adult VNC, JRC2018VU	chiasma of fine fibers of the ITD	thoracico-abdominal ganglion
-8	Tract_ITD_HC	ITD haltere chiasma on adult VNC, JRC2018VU	haltere chiasma	thoracico-abdominal ganglion
-9	Tract_ITD_HT	ITD haltere tract on adult VNC, JRC2018VU	dorsal metathoracic nerve	thoracico-abdominal ganglion
-10	Tract_VTV	ventral median tract of ventral cervical fasciculus on adult VNC, JRC2018VU	ventral median tract of the ventral cervical fascicle	thoracico-abdominal ganglion
-11	ABDNM	adult abdominal neuromere on adult VNC, JRC2018VU	adult abdominal neuromere	thoracico-abdominal ganglion
-12	AMNP	adult accessory mesothoracic neuromere on adult VNC, JRC2018VU	adult accessory mesothoracic neuromere	thoracico-abdominal ganglion
-13	haltere_tectulum_only	haltere tectulum on adult VNC, JRC2018VU	haltere tectulum	thoracico-abdominal ganglion
-14	intermediate_tectulum	intermediate tectulum on adult VNC, JRC2018VU	intermediate tectulum	thoracico-abdominal ganglion
-15	lower_tectulum	lower tectulum	lower tectulum on adult VNC, JRC2018VU	thoracico-abdominal ganglion
-16	MesoNM	adult mesothoracic neuromere on adult VNC, JRC2018VU	adult mesothoracic neuromere	thoracico-abdominal ganglion
-17	METANM	adult metathoracic neuromere on adult VNC, JRC2018VU	adult metathoracic neuromere	thoracico-abdominal ganglion
-18	mVAC	medial ventral association center on adult VNC, JRC2018VU	medial ventral association center	thoracico-abdominal ganglion
-19	neck_tectulum	neck tectulum	neck tectulum on adult VNC, JRC2018VU	thoracico-abdominal ganglion
-20	PRONM	adult prothoracic neuromere on adult VNC, JRC2018VU	adult prothoracic neuromere	thoracico-abdominal ganglion
-21	wing_tectulum	wing tectulum on adult VNC, JRC2018VU	wing tectulum	thoracico-abdominal ganglion
+index	filename	label	is_a	part_of	classification_reference
+1	Tract_DLT	dorsal lateral tract on adult VNC, JRC2018VU	dorsal lateral tract of the dorsal cervical fascicle	thoracico-abdominal ganglion	doi:10.1101/122952
+2	Tract_DLV	dorsal lateral tract of ventral cervical fasciculus on adult VNC, JRC2018VU	dorsal lateral tract of the ventral cervical fascicle	thoracico-abdominal ganglion	doi:10.1101/122952
+3	Tract_DMT	dorsal median tract on adult VNC, JRC2018VU	dorsal medial tract	thoracico-abdominal ganglion	doi:10.1101/122952
+4	Tract_MDT	median dorsal abdominal tract on adult VNC, JRC2018VU	median dorsal abdominal tract	thoracico-abdominal ganglion	doi:10.1101/122952
+5	Tract_VLT	ventral lateral tract on adult VNC, JRC2018VU	ventral lateral tract of the ventral cervical fascicle	thoracico-abdominal ganglion	doi:10.1101/122952
+6	Tract_all_ITD_combined	intermediate tract of dorsal cervical fasciculus on adult VNC, JRC2018VU	intermediate tract of the dorsal cervical fascicle	thoracico-abdominal ganglion	doi:10.1101/122952
+7	Tract_ITD_CFF	commissure of Fine Fibers of the ITD on adult VNC, JRC2018VU	chiasma of fine fibers of the ITD	thoracico-abdominal ganglion	doi:10.1101/122952
+8	Tract_ITD_HC	ITD haltere chiasma on adult VNC, JRC2018VU	haltere chiasma	thoracico-abdominal ganglion	doi:10.1101/122952
+9	Tract_ITD_HT	ITD haltere tract on adult VNC, JRC2018VU	dorsal metathoracic nerve	thoracico-abdominal ganglion	doi:10.1101/122952
+10	Tract_VTV	ventral median tract of ventral cervical fasciculus on adult VNC, JRC2018VU	ventral median tract of the ventral cervical fascicle	thoracico-abdominal ganglion	doi:10.1101/122952
+11	ABDNM	adult abdominal neuromere on adult VNC, JRC2018VU	adult abdominal neuromere	thoracico-abdominal ganglion	doi:10.1101/122952
+12	AMNP	adult accessory mesothoracic neuromere on adult VNC, JRC2018VU	adult accessory mesothoracic neuromere	thoracico-abdominal ganglion	doi:10.1101/122952
+13	haltere_tectulum_only	haltere tectulum on adult VNC, JRC2018VU	haltere tectulum	thoracico-abdominal ganglion	doi:10.1101/122952
+14	intermediate_tectulum	intermediate tectulum on adult VNC, JRC2018VU	intermediate tectulum	thoracico-abdominal ganglion	doi:10.1101/122952
+15	lower_tectulum	lower tectulum	lower tectulum on adult VNC, JRC2018VU	thoracico-abdominal ganglion	doi:10.1101/122952
+16	MesoNM	adult mesothoracic neuromere on adult VNC, JRC2018VU	adult mesothoracic neuromere	thoracico-abdominal ganglion	doi:10.1101/122952
+17	METANM	adult metathoracic neuromere on adult VNC, JRC2018VU	adult metathoracic neuromere	thoracico-abdominal ganglion	doi:10.1101/122952
+18	mVAC	medial ventral association center on adult VNC, JRC2018VU	medial ventral association center	thoracico-abdominal ganglion	doi:10.1101/122952
+19	neck_tectulum	neck tectulum	neck tectulum on adult VNC, JRC2018VU	thoracico-abdominal ganglion	doi:10.1101/122952
+20	PRONM	adult prothoracic neuromere on adult VNC, JRC2018VU	adult prothoracic neuromere	thoracico-abdominal ganglion	doi:10.1101/122952
+21	wing_tectulum	wing tectulum on adult VNC, JRC2018VU	wing tectulum	thoracico-abdominal ganglion	doi:10.1101/122952
