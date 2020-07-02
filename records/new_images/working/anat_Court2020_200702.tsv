@@ -11,12 +11,12 @@ index	filename	synonyms	label	is_a	part_of	classification_reference
 10	Tract_VTV	VTV	ventral median tract of ventral cervical fasciculus on adult VNC, JRC2018VU	ventral median tract of the ventral cervical fascicle	thoracico-abdominal ganglion	doi:10.1101/122952
 11	ABDNM	ABDNM	adult abdominal neuromere on adult VNC, JRC2018VU	adult abdominal neuromere	thoracico-abdominal ganglion	doi:10.1101/122952
 12	AMNP	AMNP	adult accessory mesothoracic neuromere on adult VNC, JRC2018VU	adult accessory mesothoracic neuromere	thoracico-abdominal ganglion	doi:10.1101/122952
-13	haltere_tectulum_only		haltere tectulum on adult VNC, JRC2018VU	haltere tectulum	thoracico-abdominal ganglion	doi:10.1101/122952
-14	intermediate_tectulum		intermediate tectulum on adult VNC, JRC2018VU	intermediate tectulum	thoracico-abdominal ganglion	doi:10.1101/122952
-15	lower_tectulum		lower tectulum	lower tectulum on adult VNC, JRC2018VU	thoracico-abdominal ganglion	doi:10.1101/122952
+13	haltere_tectulum_only	HTct	haltere tectulum on adult VNC, JRC2018VU	haltere tectulum	thoracico-abdominal ganglion	doi:10.1101/122952
+14	intermediate_tectulum	IntTct	intermediate tectulum on adult VNC, JRC2018VU	intermediate tectulum	thoracico-abdominal ganglion	doi:10.1101/122952
+15	lower_tectulum	LTct	lower tectulum	lower tectulum on adult VNC, JRC2018VU	thoracico-abdominal ganglion	doi:10.1101/122952
 16	MesoNM	MesoNM|T2	adult mesothoracic neuromere on adult VNC, JRC2018VU	adult mesothoracic neuromere	thoracico-abdominal ganglion	doi:10.1101/122952
 17	METANM	MetaNM|T1	adult metathoracic neuromere on adult VNC, JRC2018VU	adult metathoracic neuromere	thoracico-abdominal ganglion	doi:10.1101/122952
 18	mVAC	mVAC	medial ventral association center on adult VNC, JRC2018VU	medial ventral association center	thoracico-abdominal ganglion	doi:10.1101/122952
-19	neck_tectulum		neck tectulum	neck tectulum on adult VNC, JRC2018VU	thoracico-abdominal ganglion	doi:10.1101/122952
+19	neck_tectulum	NTct	neck tectulum	neck tectulum on adult VNC, JRC2018VU	thoracico-abdominal ganglion	doi:10.1101/122952
 20	PRONM	ProNM|T3	adult prothoracic neuromere on adult VNC, JRC2018VU	adult prothoracic neuromere	thoracico-abdominal ganglion	doi:10.1101/122952
-21	wing_tectulum	Wing Neuropil	wing tectulum on adult VNC, JRC2018VU	wing tectulum	thoracico-abdominal ganglion	doi:10.1101/122952
+21	wing_tectulum	WTct|Flight Neuropil	wing tectulum on adult VNC, JRC2018VU	wing tectulum	thoracico-abdominal ganglion	doi:10.1101/122952
