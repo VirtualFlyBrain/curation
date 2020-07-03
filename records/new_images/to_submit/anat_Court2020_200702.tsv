@@ -1,7 +1,7 @@
 index	filename	synonyms	label	is_a	part_of	classification_reference
 1	Tract_DLT	DLT	dorsal lateral tract on adult VNC, JRC2018VU	dorsal lateral tract of the dorsal cervical fascicle	adult ventral nervous system	doi_10_1101__122952
 2	Tract_DLV	DLV	dorsal lateral tract of ventral cervical fasciculus on adult VNC, JRC2018VU	dorsal lateral tract of the ventral cervical fascicle	adult ventral nervous system	doi_10_1101__122952
-3	Tract_DMT	DMT	dorsal median tract on adult VNC, JRC2018VU	dorsal medial tract	adult ventral nervous system	doi_10_1101__122952
+3	Tract_DMT	DMT	dorsal median tract on adult VNC, JRC2018VU	dorsal-medial tract	adult ventral nervous system	doi_10_1101__122952
 4	Tract_MDT	MDT	median dorsal abdominal tract on adult VNC, JRC2018VU	median dorsal abdominal tract	adult ventral nervous system	doi_10_1101__122952
 5	Tract_VLT	VLT	ventral lateral tract on adult VNC, JRC2018VU	ventral lateral tract of the ventral cervical fascicle	adult ventral nervous system	doi_10_1101__122952
 6	Tract_all_ITD_combined	ITD	intermediate tract of dorsal cervical fasciculus on adult VNC, JRC2018VU	intermediate tract of the dorsal cervical fascicle	adult ventral nervous system	doi_10_1101__122952
