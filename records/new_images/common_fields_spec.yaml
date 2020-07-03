@@ -34,7 +34,7 @@ Curator:
   pattern_arg: orcid
   restriction:
     field: short_form
-    regex: ".+_.+_.+_.+" # Needs updating once KB fixed.
+    regex: ".+" # label restriction is sufficient, but code expects some regex
     labels: ["Person"]
 
 filename:
