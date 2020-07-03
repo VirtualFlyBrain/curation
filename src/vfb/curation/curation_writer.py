@@ -163,7 +163,8 @@ class CurationWriter:
         fu = "('"+"', '".join(features) + "')"
         ## Notes - use uniq'd IDs from features columns for lookup.
         query = "SELECT f.uniquename AS short_form, f.name AS label" \
-                " FROM feature f WHERE f.name IN %s" % fu
+                " FROM feature f WHERE f.name IN %s" \
+                " AND f.is_obsolete is FALSE"% fu
         dc = self.feature_mover.query_fb(query)  # What does this return on fail?
         self.object_lookup[key] = {escape_string_for_neo(d['label']): d['short_form'] for d in dc}
 
