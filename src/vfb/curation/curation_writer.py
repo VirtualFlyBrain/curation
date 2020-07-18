@@ -10,7 +10,8 @@ import numpy
 import logging
 import warnings
 import re
-
+import time
+from datetime import datetime, timedelta
 
 
 
@@ -93,8 +94,8 @@ class CurationWriter:
         self.relation_lookup = self.generate_relation_lookup()
         self.stat = True
 
-    def commit(self):
-        r = self.ew.commit()
+    def commit(self, chunk_length=1000, verbose=False):
+        r = self.ew.commit(chunk_length=chunk_length, verbose=verbose)
         if not r:
             self.stat = False
         return r
@@ -168,6 +169,31 @@ class CurationWriter:
         dc = self.feature_mover.query_fb(query)  # What does this return on fail?
         self.object_lookup[key] = {escape_string_for_neo(d['label']): d['short_form'] for d in dc}
 
+    def _time(self, start_time, tot, i, final=False):
+            t = time.time() - start_time
+            if not final:
+                print("On row %d of %d at %s"
+                      "" % (i, tot, timedelta(seconds=t)))
+            else:
+                print("*** Completed checks and buffer loading on %d rows after %s"
+                      "" % (tot, str(timedelta(t - start_time))))
+
+    def write_rows(self, verbose=False, start=None):
+        start_time = time.time()
+        tot = len(self.record.tsv)
+        # Assumes all empty cells in DataFrame replaced with empty string.
+        for i, row in self.record.tsv.iterrows():
+            if start:
+                self.write_row(row, start=start)
+            else:
+                self.write_row(row)
+            if verbose:
+                if not i % 1000:
+                    self._time(start_time, tot, i)
+
+    def write_row(self, row, start=None):
+        return False
+
 
 class NewMetaDataWriter(CurationWriter):
 
@@ -188,11 +214,6 @@ class NewMetaDataWriter(CurationWriter):
                               "if you need new relations." % str(unknown_rels))
             self.stat = False
         return list(set(rels)-unknown_rels)
-
-    def write_rows(self):
-        for i, row in self.record.tsv.iterrows():
-            # Assumes all empty cells in DataFrame replaced with empty string.
-            self.write_row(row)
 
     def _generate_edge_annotations(self, r):
         """Generates edge annotation dict from pandas table row, using config as a lookup for edge annotation rows."""
@@ -429,21 +450,17 @@ class NewImageWriter(CurationWriter):
             self.stat = False
             return False
 
-
-    def write_row(self, row):
-        kwargs = self.gen_pw_args(row, 100000)  # added for testing
+    def write_row(self, row, start):
+        kwargs = self.gen_pw_args(row, start=start)  # added for testing
         if kwargs:
             self.pattern_writer.add_anatomy_image_set(**kwargs)
 
-    def write_rows(self):
-        for i, row in self.record.tsv.iterrows():
-            # Assumes all empty cells in DataFrame replaced with empty string.
-            self.write_row(row)
-        if not self.pattern_writer.commit():  # Could set chunk length
+
+    def commit(self, ew_chunk_length=1500, ni_chunk_length=1500, verbose=False):
+        if not self.pattern_writer.commit(ew_chunk_length=ew_chunk_length,
+                                          ni_chunk_length=ni_chunk_length,
+                                          verbose=verbose):
             self.stat = False
-
-
-
 
 
 
