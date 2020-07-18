@@ -110,3 +110,9 @@ notes:
   compulsory: False
   yaml: False
 
+Start:
+  description: >
+      A string corresponding to a base 36 number less than zzzzzzzz,
+       that is the lowest number accession in the ID range to be added.
+  compulsory: False
+  yaml: True
