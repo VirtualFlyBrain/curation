@@ -15,8 +15,10 @@ def load_recs(path_to_specs, path_to_recs, endpoint, usr, pwd, commit=False, ver
         print("Test loading %s" % r.cr.path)
         if r.gross_type == 'new_images':
             niw = NewImageWriter(endpoint, usr, pwd, r)  # niw rolls appropriate dicts
-            if 'start' in r.spec.keys():
-                niw.write_rows(start=r['spec']['start'], verbose=verbose)
+            if 'Start' in r.y.keys():
+                niw.write_rows(start=r.y['Start'], verbose=verbose)
+            else:
+                niw.write_rows(verbose=verbose)
             if commit:
                 niw.commit(verbose=verbose)
             if not niw.stat:

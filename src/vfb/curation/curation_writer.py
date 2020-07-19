@@ -85,7 +85,7 @@ class CurationWriter:
 
         # TBD: how to deal with FB features.  Maybe needs to be outside of this by adding to
         # KB first?
-        self.pattern_writer = KB_pattern_writer(endpoint, usr, pwd)  # maybe limit this to NewImageWriter
+        self.pattern_writer = KB_pattern_writer(endpoint, usr, pwd, use_base36=True) # maybe limit this to NewImageWriter
         self.feature_mover = FeatureMover(endpoint, usr, pwd)
         self.pub_mover = pubMover(endpoint, usr, pwd)
         self.ew = self.feature_mover.ew
@@ -170,13 +170,13 @@ class CurationWriter:
         self.object_lookup[key] = {escape_string_for_neo(d['label']): d['short_form'] for d in dc}
 
     def _time(self, start_time, tot, i, final=False):
-            t = time.time() - start_time
+            t = round(time.time() - start_time, 3)
             if not final:
                 print("On row %d of %d at %s"
                       "" % (i, tot, timedelta(seconds=t)))
             else:
                 print("*** Completed checks and buffer loading on %d rows after %s"
-                      "" % (tot, str(timedelta(t - start_time))))
+                      "" % (tot, str(timedelta(seconds=t))))
 
     def write_rows(self, verbose=False, start=None):
         start_time = time.time()
@@ -188,8 +188,11 @@ class CurationWriter:
             else:
                 self.write_row(row)
             if verbose:
-                if not i % 1000:
+                if not i % 2500:
                     self._time(start_time, tot, i)
+        if verbose:
+            self._time(start_time, tot, i=0, final=True)
+
 
     def write_row(self, row, start=None):
         return False
