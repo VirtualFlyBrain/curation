@@ -25,6 +25,8 @@ parser.add_argument("pwd",
                     help="password")
 parser.add_argument("--base_path", help="Optional", default="../")
 parser.add_argument("--test_mode", help="Optional", action='store_true', default=False)
+parser.add_argument("--commit",  help="Optional", action='store_true', default=False)
+parser.add_argument("--verbose",  help="Optional", action='store_true', default=False)
 args = parser.parse_args()
 
 
@@ -46,7 +48,7 @@ def check_records(path, check_dir = "working"):
 
 def load_records(path, load_dir = "to_submit"):
     rec_path = '/'.join([args.base_path, path, load_dir]) + '/'
-    stat = load_recs("../records/" + path, rec_path, args.endpoint, args.usr, args.pwd)
+    stat = load_recs("../records/" + path, rec_path, args.endpoint, args.usr, args.pwd, commit=args.commit, verbose=args.verbose)
     return stat
 
 

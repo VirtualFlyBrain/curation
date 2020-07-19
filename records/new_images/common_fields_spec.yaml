@@ -1,7 +1,12 @@
 Imaging_type:
   compulsory: True
   yaml: True
-  description: "The label of an imaging type from FBbi."
+  description: >
+    The label of an imaging type from FBbi. imaging_type: One of: 'confocal microscopy', TEM, 'SB-SEM', 'computer graphic'.
+       - SB-SEM = serial block face scanning EM (use for FIB-SEM data)
+       - TEM = transmission electron microscopy (TEM) (use for CATMAID data)
+       - 'computer graphic' is used for painted domains.
+    If your image does not fit into these types, please post a ticket to request the list of supported types be extended.
   pattern_arg: imaging_type
 
 Template:
@@ -110,3 +115,9 @@ notes:
   compulsory: False
   yaml: False
 
+Start:
+  description: >
+      A string corresponding to a base 36 number less than zzzzzzzz,
+       that is the lowest number accession in the ID range to be added.
+  compulsory: False
+  yaml: True

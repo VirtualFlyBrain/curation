@@ -10,7 +10,8 @@ import numpy
 import logging
 import warnings
 import re
-
+import time
+from datetime import datetime, timedelta
 
 
 
@@ -84,7 +85,7 @@ class CurationWriter:
 
         # TBD: how to deal with FB features.  Maybe needs to be outside of this by adding to
         # KB first?
-        self.pattern_writer = KB_pattern_writer(endpoint, usr, pwd)  # maybe limit this to NewImageWriter
+        self.pattern_writer = KB_pattern_writer(endpoint, usr, pwd, use_base36=True) # maybe limit this to NewImageWriter
         self.feature_mover = FeatureMover(endpoint, usr, pwd)
         self.pub_mover = pubMover(endpoint, usr, pwd)
         self.ew = self.feature_mover.ew
@@ -93,8 +94,8 @@ class CurationWriter:
         self.relation_lookup = self.generate_relation_lookup()
         self.stat = True
 
-    def commit(self):
-        r = self.ew.commit()
+    def commit(self, chunk_length=1000, verbose=False):
+        r = self.ew.commit(chunk_length=chunk_length, verbose=verbose)
         if not r:
             self.stat = False
         return r
@@ -168,6 +169,32 @@ class CurationWriter:
         dc = self.feature_mover.query_fb(query)  # What does this return on fail?
         self.object_lookup[key] = {escape_string_for_neo(d['label']): d['short_form'] for d in dc}
 
+    def _time(self, start_time, tot, i, final=False):
+            t = round(time.time() - start_time, 3)
+            if not final:
+                print("On row %d of %d at %s"
+                      "" % (i, tot, timedelta(seconds=t)))
+            else:
+                print("*** Completed checks and buffer loading on %d rows after %s"
+                      "" % (tot, str(timedelta(seconds=t))))
+
+    def write_rows(self, verbose=False, start='100000'):
+        start_time = time.time()
+        tot = len(self.record.tsv)
+        # Assumes all empty cells in DataFrame replaced with empty string.
+        for i, row in self.record.tsv.iterrows():
+            self.write_row(row, start=start)
+            if verbose:
+                if not i % 2500:
+                    self._time(start_time, tot, i)
+        if verbose:
+            self._time(start_time, tot, i=0, final=True)
+
+
+    def write_row(self, row, start=None):
+        # start as kwarg for consistent interface.  Feels a bit hacky.
+        return False
+
 
 class NewMetaDataWriter(CurationWriter):
 
@@ -189,11 +216,6 @@ class NewMetaDataWriter(CurationWriter):
             self.stat = False
         return list(set(rels)-unknown_rels)
 
-    def write_rows(self):
-        for i, row in self.record.tsv.iterrows():
-            # Assumes all empty cells in DataFrame replaced with empty string.
-            self.write_row(row)
-
     def _generate_edge_annotations(self, r):
         """Generates edge annotation dict from pandas table row, using config as a lookup for edge annotation rows."""
         # TODO - add lookup instead of relying on column header names matching AP names!
@@ -206,11 +228,11 @@ class NewMetaDataWriter(CurationWriter):
         return edge_annotations
 
 
-    def write_row(self, row):
-        """s = subject individual. Type: VFB_ind
-           r = relation label
-           o = object label
-           edge_annotations: Optionally annotate edge"""
+    def write_row(self, row, start=None):
+        # Start kwarg is not used - added for interface consistency
+        # with dummy method on parent (meta) class
+        # I'm sure this isn't good practice, but it makes for efficient
+        # (non redundant) specification of write_rows method.
         def kwarg_proc(rw):
             mapping = {'xref_db': 'subject_external_db',
                        'xref_acc': 'subject_external_id',
@@ -256,7 +278,7 @@ class NewMetaDataWriter(CurationWriter):
             else:
                 warnings.warn("The relation name provided is not one of "
                               "the list allowed for curation: %s"
-                              "" % str(self.lookups['relations'].keys()))
+                              "" % str(self.relation_lookup.keys()))
                 return False
         else:
             return False
@@ -294,8 +316,10 @@ class NewMetaDataWriter(CurationWriter):
                     self.stat = False
 
         elif s.label:
-            if s.label in self.lookups['subject']:
-                id = self.lookups['subject'][s.label]
+            # subject label used to double-check against DB when ID provided.
+            # Is this the behavior we want?
+            if s.label in self.object_lookup['subject'].keys():
+                id = self.object_lookup['subject'][s.label]
                 if id == s.id:
                     return s.id
                 else:
@@ -429,21 +453,18 @@ class NewImageWriter(CurationWriter):
             self.stat = False
             return False
 
-
-    def write_row(self, row):
-        kwargs = self.gen_pw_args(row, 100000)  # added for testing
+    def write_row(self, row, start='100000'):
+        # Hard wired default start feels wrong here!
+        kwargs = self.gen_pw_args(row, start=start)  # added for testing
         if kwargs:
             self.pattern_writer.add_anatomy_image_set(**kwargs)
 
-    def write_rows(self):
-        for i, row in self.record.tsv.iterrows():
-            # Assumes all empty cells in DataFrame replaced with empty string.
-            self.write_row(row)
-        if not self.pattern_writer.commit():  # Could set chunk length
+
+    def commit(self, ew_chunk_length=1500, ni_chunk_length=1500, verbose=False):
+        if not self.pattern_writer.commit(ew_chunk_length=ew_chunk_length,
+                                          ni_chunk_length=ni_chunk_length,
+                                          verbose=verbose):
             self.stat = False
-
-
-
 
 
 

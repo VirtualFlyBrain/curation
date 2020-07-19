@@ -1,8 +1,8 @@
-from .peevish import Record, get_recs
-from .curation_writer import CurationWriter, NewImageWriter, NewMetaDataWriter
+from .peevish import get_recs
+from .curation_writer import NewImageWriter, NewMetaDataWriter
 import warnings
 
-def load_recs(path_to_specs, path_to_recs, endpoint, usr, pwd):
+def load_recs(path_to_specs, path_to_recs, endpoint, usr, pwd, commit=False, verbose=False):
     records = [r for r in get_recs(path_to_recs=path_to_recs,
                                    spec_path=path_to_specs) if r]
     stat = True
@@ -15,14 +15,20 @@ def load_recs(path_to_specs, path_to_recs, endpoint, usr, pwd):
         print("Test loading %s" % r.cr.path)
         if r.gross_type == 'new_images':
             niw = NewImageWriter(endpoint, usr, pwd, r)  # niw rolls appropriate dicts
-            niw.write_rows()
+            if 'Start' in r.y.keys():
+                niw.write_rows(start=r.y['Start'], verbose=verbose)
+            else:
+                niw.write_rows(verbose=verbose)
+            if commit:
+                niw.commit(verbose=verbose)
             if not niw.stat:
                     stat = False
+
         elif r.gross_type == 'new_metadata':
-            print()  # Do stuff
             nmw = NewMetaDataWriter(endpoint, usr, pwd, r)  # nmw rolls appropriate dicts
-            nmw.write_rows()
-            nmw.commit()
+            nmw.write_rows(verbose=verbose)
+            if commit:
+                nmw.commit(verbose=verbose)
             # check relations !!!
             # roll lookups (from configs)
             # Check FlyBase (from configs)
