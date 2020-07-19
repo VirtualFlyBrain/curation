@@ -178,15 +178,12 @@ class CurationWriter:
                 print("*** Completed checks and buffer loading on %d rows after %s"
                       "" % (tot, str(timedelta(seconds=t))))
 
-    def write_rows(self, verbose=False, start=None):
+    def write_rows(self, verbose=False, start='100000'):
         start_time = time.time()
         tot = len(self.record.tsv)
         # Assumes all empty cells in DataFrame replaced with empty string.
         for i, row in self.record.tsv.iterrows():
-            if start:
-                self.write_row(row, start=start)
-            else:
-                self.write_row(row)
+            self.write_row(row, start=start)
             if verbose:
                 if not i % 2500:
                     self._time(start_time, tot, i)
@@ -195,6 +192,7 @@ class CurationWriter:
 
 
     def write_row(self, row, start=None):
+        # start as kwarg for consistent interface.  Feels a bit hacky.
         return False
 
 
@@ -230,11 +228,11 @@ class NewMetaDataWriter(CurationWriter):
         return edge_annotations
 
 
-    def write_row(self, row):
-        """s = subject individual. Type: VFB_ind
-           r = relation label
-           o = object label
-           edge_annotations: Optionally annotate edge"""
+    def write_row(self, row, start=None):
+        # Start kwarg is not used - added for interface consistency
+        # with dummy method on parent (meta) class
+        # I'm sure this isn't good practice, but it makes for efficient
+        # (non redundant) specification of write_rows method.
         def kwarg_proc(rw):
             mapping = {'xref_db': 'subject_external_db',
                        'xref_acc': 'subject_external_id',
@@ -280,7 +278,7 @@ class NewMetaDataWriter(CurationWriter):
             else:
                 warnings.warn("The relation name provided is not one of "
                               "the list allowed for curation: %s"
-                              "" % str(self.lookups['relations'].keys()))
+                              "" % str(self.relation_lookup.keys()))
                 return False
         else:
             return False
@@ -318,8 +316,10 @@ class NewMetaDataWriter(CurationWriter):
                     self.stat = False
 
         elif s.label:
-            if s.label in self.lookups['subject']:
-                id = self.lookups['subject'][s.label]
+            # subject label used to double-check against DB when ID provided.
+            # Is this the behavior we want?
+            if s.label in self.object_lookup['subject'].keys():
+                id = self.object_lookup['subject'][s.label]
                 if id == s.id:
                     return s.id
                 else:
@@ -453,7 +453,8 @@ class NewImageWriter(CurationWriter):
             self.stat = False
             return False
 
-    def write_row(self, row, start):
+    def write_row(self, row, start='100000'):
+        # Hard wired default start feels wrong here!
         kwargs = self.gen_pw_args(row, start=start)  # added for testing
         if kwargs:
             self.pattern_writer.add_anatomy_image_set(**kwargs)
