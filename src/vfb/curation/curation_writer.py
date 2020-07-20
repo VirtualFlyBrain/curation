@@ -251,10 +251,11 @@ class NewMetaDataWriter(CurationWriter):
                       message="Not attempting to write row due to"
                               " invalid relation '%s'." % r)
             return False
+        o = escape_string_for_neo(o)
         if not (o in self.object_lookup[r].keys()):
             self.warn(context_name="row", context=dict(row),
                       message="Not attempting to write row due to"
-                              " invalid object '%s'." % o)
+                              " invalid object '%s'." % row['object'])
             return False
         if edge_annotations is None:
             edge_annotations = {}
