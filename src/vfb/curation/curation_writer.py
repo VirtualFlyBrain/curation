@@ -94,12 +94,6 @@ class CurationWriter:
         self.relation_lookup = self.generate_relation_lookup()
         self.stat = True
 
-    def commit(self, chunk_length=1000, verbose=False):
-        r = self.ew.commit(chunk_length=chunk_length, verbose=verbose)
-        if not r:
-            self.stat = False
-        return r
-
     def warn(self, context_name, context, message, stat=False):
         logging.warning("Error in record %s, %s\n %s\n:"
                         "" % (self.record.cr.name, context_name,
@@ -205,6 +199,12 @@ class NewMetaDataWriter(CurationWriter):
         super(NewMetaDataWriter, self).__init__(*args, **kwargs)
         self.rels = self.get_rels()  # May not need attribute
 
+    def commit(self, chunk_length=1000, verbose=False):
+        r = self.ew.commit(chunk_length=chunk_length, verbose=verbose)
+        if False in r:  # Doesn't really follow convention!
+            self.stat = False
+        return r
+
     def get_rels(self):
         rels = self.record.tsv['relation']
         unknown_rels = set(rels) - set(self.record.rel_spec.keys())
@@ -221,6 +221,8 @@ class NewMetaDataWriter(CurationWriter):
         # TODO - add lookup instead of relying on column header names matching AP names!
         edge_annotations = {}
         for k, v in r.items():
+            if not v:
+                continue
             if v and (k in self.record.spec.keys()) \
                     and 'edge_annotation' in self.record.spec[k].keys() \
                     and self.record.spec[k]['edge_annotation']:
