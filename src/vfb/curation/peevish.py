@@ -150,7 +150,7 @@ class Record:
         for cr in cur_recs:
             if cr.ext == 'tsv':
                 self.tsv = pd.read_csv(cr.path, sep="\t")
-                # self.tsv.fillna('', inplace=True)
+                self.tsv.fillna('', inplace=True)
                 self.cr = cr
                 self.type = self.cr.type
                 self.gross_type = self.cr.gross_type
