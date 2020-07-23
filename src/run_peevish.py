@@ -23,6 +23,8 @@ parser.add_argument("usr",
                     help="username")
 parser.add_argument("pwd",
                     help="password")
+parser.add_argument("--import_filepath",
+                    help="path to file usable for writing to DB via tsv", default='')
 parser.add_argument("--base_path", help="Optional", default="../")
 parser.add_argument("--test_mode", help="Optional", action='store_true', default=False)
 parser.add_argument("--commit",  help="Optional", action='store_true', default=False)
@@ -48,7 +50,9 @@ def check_records(path, check_dir = "working"):
 
 def load_records(path, load_dir = "to_submit"):
     rec_path = '/'.join([args.base_path, path, load_dir]) + '/'
-    stat = load_recs("../records/" + path, rec_path, args.endpoint, args.usr, args.pwd, commit=args.commit, verbose=args.verbose)
+    stat = load_recs("../records/" + path, rec_path,
+                     args.endpoint, args.usr, args.pwd, import_filepath=args.import_filepath,
+                     commit=args.commit, verbose=args.verbose)
     return stat
 
 
