@@ -58,17 +58,17 @@ pub:
   edge_annotation: true
 
 upstream:
-  description: Number of postsynaptic densities on a neuron in a specific region. Use this to annotate has_presynaptic_terminal_in relationships.
+  description: Number of postsynaptic densities annotated on a neuron in some specified region. Use this to annotate has_postsynaptic_terminal_in relationships.
   type: int
   edge_annotation: true
 
 downstream:
-  description: Number of downstream synaptic connections (PSDs postsynaptic to the neuron T-bars) on a neuron in some specified region.  Use this to annotate 'has_postynaptic_terminal_in' relationships.
+  description: Number of downstream synaptic connections (PSDs postsynaptic to the neuron's T-bars) annotated on a neuron in some specified region.  Use this to annotate 'has_presynaptic_terminal_in' relationships.
   type: int
   edge_annotation: true
 
 Tbars:
-  description: Number of Tbars that a neuron has in some specified region. Use this to annotate 'has_postynaptic_terminal_in' relationships.
+  description: Number of T-bars annotated on a neuron in some specified region. Use this to annotate 'has_presynaptic_terminal_in' relationships.
   type: int
   edge_annotation: true
 
