@@ -18,13 +18,12 @@ before_install:
   - echo -e "travis_fold:start:Checking_local_KB_connection" || true
   - Test () { export http_status=$(curl -s -i $LANDING_PAGE | grep HTTP/1.1 | awk {'print $2'}); echo "Returned status \"$http_status\""; if [ "$http_status" != "200" ]; then echo "Waiting for neo4j to finish loading..."; iterations=$((iterations+1)); if [ "$iterations" != "100" ]; then sleep 1; Test; fi; else echo "$(date) - connected successfully"; fi; }
   - Test
-  - if curl --head --silent --fail -u neo4j:neo4j $LANDING_PAGE 2> /dev/null;
-    then
-      echo "NEO4J is running."
+  - if curl --head --silent --fail -u neo4j:neo4j $LANDING_PAGE 2> /dev/null; then
+      echo "NEO4J is running.";
     else
-      echo -e "Server failed to start!\n\nLog:\n"
-      docker logs kb
-    fi
+      echo -e "Server failed to start!\n\nLog:\n";
+      docker logs kb;
+    fi;
   - echo -e "travis_fold:end:Checking_local_KB_connection" || true
   - git clone https://github.com/VirtualFlyBrain/VFB_neo4j.git
   - export PYTHONPATH=$PYTHONPATH:$TRAVIS_BUILD_DIR/VFB_neo4j/src/
