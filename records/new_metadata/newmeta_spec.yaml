@@ -27,7 +27,7 @@ subject_id:
   compulsory: False
   description: > 
   uniq: False
-  type: Ind_id
+  type: Ind
   multiple: False
   
 relation:  
@@ -41,7 +41,7 @@ object:
   compulsory: True
   description: > 
   uniq: False
-  type: Class
+  type: Entity
   multiple: False
 
 comment:
@@ -56,6 +56,23 @@ pub:
     An identifier for a supporting publication - either a DOI (for preprints) or a FlyBase FBrf.
   type: pub
   edge_annotation: true
+
+upstream:
+  description: Number of postsynaptic densities annotated on a neuron in some specified region. Use this to annotate has_postsynaptic_terminal_in relationships.
+  type: int
+  edge_annotation: true
+
+downstream:
+  description: Number of downstream synaptic connections (PSDs postsynaptic to the neuron's T-bars) annotated on a neuron in some specified region.  Use this to annotate 'has_presynaptic_terminal_in' relationships.
+  type: int
+  edge_annotation: true
+
+Tbars:
+  description: Number of T-bars annotated on a neuron in some specified region. Use this to annotate 'has_presynaptic_terminal_in' relationships.
+  type: int
+  edge_annotation: true
+
+
 
 
 
