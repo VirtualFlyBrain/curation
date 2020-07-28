@@ -1,0 +1,846 @@
+filename	label	is_a	part_of	dbxrefs
+3021394	DPMl12 ant s 7 Right	neuron	embryonic/larval nervous system	catmaid_l1em:3021394
+3054794	DPLal1-3 s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:3054794
+3384681	BLP34 a s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:3384681
+3755622	DPMpm1 s left	neuron	embryonic/larval nervous system	catmaid_l1em:3755622
+4126720	BLP34 a s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:4126720
+4126726	BLP34 a s 7 Right	neuron	embryonic/larval nervous system	catmaid_l1em:4126726
+4127963	BLP34 b s 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:4127963
+4127975	BLP34 b s 6 Right	neuron	embryonic/larval nervous system	catmaid_l1em:4127975
+4127978	BLP34 b s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:4127978
+4127984	BLP34 b s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:4127984
+4127987	BLP34 b s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:4127987
+4127993	BLP34 b s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:4127993
+4204737	DALcm12 v s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:4204737
+4211235	DALcm12 v s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:4211235
+4224044	BLAd OL s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:4224044
+4332495	BLAd OL s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:4332495
+4662552	BLAd OL s 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:4662552
+4662725	BLAd OL s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:4662725
+4663219	BLAd OL s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:4663219
+4663662	BLAd OL s 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:4663662
+4663668	BLAd OL s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:4663668
+4990529	neuron  s 4990530	neuron	embryonic/larval nervous system	catmaid_l1em:4990529
+5166338	BAmv12 ven s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:5166338
+5517913	BAla12 s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:5517913
+5593689	BAmas12 dor s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:5593689
+5594467	BAmas12 dor s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:5594467
+5731448	BAmv12 int s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:5731448
+5757817	BLVp2 s 7 Right ; telegoro-like	neuron	embryonic/larval nervous system	catmaid_l1em:5757817
+5759393	BLVp2 s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:5759393
+5770448	BLVp2 s 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:5770448
+5818143	DALcm12 v s 6 Right	neuron	embryonic/larval nervous system	catmaid_l1em:5818143
+5904499	DALcl12 d s 11 Left	neuron	embryonic/larval nervous system	catmaid_l1em:5904499
+5999941	DPMpm2 s loSM 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:5999941
+6046598	DPMpm2 s loSM 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:6046598
+6047538	DPMpm2 s loSM 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:6047538
+6152239	CM4 s MEFcom 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:6152239
+6156597	DALd s 6 Right	neuron	embryonic/larval nervous system	catmaid_l1em:6156597
+6192490	DALcl12 d s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:6192490
+7005152	CPd s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:7005152
+7005160	CPd s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:7005160
+7005168	CPd s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:7005168
+7005176	CPd s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:7005176
+7371869	BAmd1 d s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:7371869
+7372611	BAmd1 d s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:7372611
+7373095	BAmd1 d s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:7373095
+7693659	CPb s 4 Right CP2/3d obPl 13	neuron	embryonic/larval nervous system	catmaid_l1em:7693659
+8066171	BLVa34 a s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:8066171
+8138520	DPLc post med s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:8138520
+8208038	BLVa34 a s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:8208038
+8368854	BLP34 b s 6 Left	neuron	embryonic/larval nervous system	catmaid_l1em:8368854
+8426335	BAlp4 s 2 Left 	neuron	embryonic/larval nervous system	catmaid_l1em:8426335
+8555954	BLP34 a s 8 Right	neuron	embryonic/larval nervous system	catmaid_l1em:8555954
+8573240	DPMm1 ppFB s 6 Right	neuron	embryonic/larval nervous system	catmaid_l1em:8573240
+8574334	DPMm1 upp comm s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:8574334
+8575183	DPMm1 s 4	neuron	embryonic/larval nervous system	catmaid_l1em:8575183
+8706074	BLAd OL s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:8706074
+8805521	BLAl s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:8805521
+8814452	BAmv12 int s 6 Left	neuron	embryonic/larval nervous system	catmaid_l1em:8814452
+8893368	BLP34 a s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:8893368
+8943031	BLVa34 a s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:8943031
+8943298	BLVa34 a s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:8943298
+9235768	DPLc post med s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:9235768
+9236353	DPLc post med s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:9236353
+9289231	DPLm1 s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:9289231
+9318513	CP23 v s 6 Left	neuron	embryonic/larval nervous system	catmaid_l1em:9318513
+9345728	DALcl12 d s 6 Right	neuron	embryonic/larval nervous system	catmaid_l1em:9345728
+9347019	DALcl12 d s 9 Right	neuron	embryonic/larval nervous system	catmaid_l1em:9347019
+9689371	CM13 lat s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:9689371
+9696888	CM4 s MEFcom 6 Left	neuron	embryonic/larval nervous system	catmaid_l1em:9696888
+9698215	CM4 s MEFcom 2 Left 	neuron	embryonic/larval nervous system	catmaid_l1em:9698215
+9816042	CPf s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:9816042
+9844278	CM4 s MEFcom 3 Left 	neuron	embryonic/larval nervous system	catmaid_l1em:9844278
+9856467	CM4 s MEFcom 4 Left 	neuron	embryonic/larval nervous system	catmaid_l1em:9856467
+9864387	CM4 s dor pos com 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:9864387
+9864461	CM4 s dor pos com 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:9864461
+9864536	CM4 s dor pos MEF 2 Left 	neuron	embryonic/larval nervous system	catmaid_l1em:9864536
+9947504	CM4 s short pos 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:9947504
+9947805	CM4 s dor pos MEF 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:9947805
+9947921	CM4 s ppFB 6 Left	neuron	embryonic/larval nervous system	catmaid_l1em:9947921
+9948629	DPMm1 ppFB s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:9948629
+9949160	Close to DPM SU Left	neuron	embryonic/larval nervous system	catmaid_l1em:9949160
+9949223	DPMm1 ppFB s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:9949223
+9949264	DPMm1 ppFB s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:9949264
+9950404	DPMm1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:9950404
+9950816	DPMm1 upp comm s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:9950816
+9951197	DPMm1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:9951197
+9951607	DPMpm2 s NB 2 Left 	neuron	embryonic/larval nervous system	catmaid_l1em:9951607
+9951753	DPMpm1 s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:9951753
+9951917	DPMpm1 s 6 Left	neuron	embryonic/larval nervous system	catmaid_l1em:9951917
+9954202	CM4 s short pos 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:9954202
+9954298	CM4 s ven 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:9954298
+9954421	CM4 s MEFcom 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:9954421
+9954547	CM4 s dor pos com 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:9954547
+10011972	CM4 s loSM 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:10011972
+10014485	CM4 s loSM 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:10014485
+10015661	CM4 s MEFcom 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:10015661
+10017669	CM4 s short pos 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:10017669
+10017683	CM4 s dor pos MEF 6 Left	neuron	embryonic/larval nervous system	catmaid_l1em:10017683
+10017968	CM4 s ven 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:10017968
+10138514	DALcl12 v s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:10138514
+10269309	DPMm1 ppFB s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:10269309
+10282203	DPMm1 s Left	neuron	embryonic/larval nervous system	catmaid_l1em:10282203
+10284042	DPMm1 desc s med 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:10284042
+10297957	DPMm1 ppFB s 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:10297957
+10300139	DPMm1 s NB 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:10300139
+10302790	BLAd ven lat s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:10302790
+10303172	BLAd ven lat s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:10303172
+10381874	CM4 s GC 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:10381874
+10414455	CM4 s loSM 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:10414455
+10425159	DALcl12 v s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:10425159
+10425567	DALcl12 d s 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:10425567
+10425974	DALcl12 d s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:10425974
+10426321	DALcl12 d s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:10426321
+10466429	DPMpm2 s loSM 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:10466429
+10533010	BLP34 b s 8 Left	neuron	embryonic/larval nervous system	catmaid_l1em:10533010
+10577349	DPMm1 upp comm s 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:10577349
+10711658	DPMpm2 s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:10711658
+10712085	DPMpm2 ppFB 4 - Left	neuron	embryonic/larval nervous system	catmaid_l1em:10712085
+10714438	DPMpm2 ppFB 2 - Left	neuron	embryonic/larval nervous system	catmaid_l1em:10714438
+10763235	DPMm1 s NB Left	neuron	embryonic/larval nervous system	catmaid_l1em:10763235
+10764796	DPMm1 s Left	neuron	embryonic/larval nervous system	catmaid_l1em:10764796
+10794801	DPMpm1 ppFB 5 - Right	neuron	embryonic/larval nervous system	catmaid_l1em:10794801
+10888799	CM4 s loSM 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:10888799
+10891371	CM4 s dor pos MEF 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:10891371
+10903519	DPMpm2 s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:10903519
+10919351	DPMpm2 s loSM 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:10919351
+10920017	DPMpm2 s NB 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:10920017
+10924217	DPMm1 s Left	neuron	embryonic/larval nervous system	catmaid_l1em:10924217
+10939614	non-neuron? 10939615	neuron	embryonic/larval nervous system	catmaid_l1em:10939614
+10945119	BLVp2 s 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:10945119
+10961772	DPMm2 ppFB ant dor s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:10961772
+10974309	DPMpm1 s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:10974309
+10993782	DPMm1 upp comm s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:10993782
+10993787	DPMm1 upp comm s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:10993787
+10994942	DPMm1 upp comm s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:10994942
+10995187	DPMm1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:10995187
+11022929	DPMpm2 s loSM 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:11022929
+11030926	DPMpm2 s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:11030926
+11032107	SU neuron s 11032108 left	neuron	embryonic/larval nervous system	catmaid_l1em:11032107
+11085317	CM4 s GC 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:11085317
+11095260	CM4 s loSM 6 Left	neuron	embryonic/larval nervous system	catmaid_l1em:11095260
+11126336	DPMm1 ppFB s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:11126336
+11179035	BLVa12 b s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:11179035
+11190385	BLP34 a s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:11190385
+11190781	BLVp2 s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:11190781
+11190809	BLP34 b s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:11190809
+11215773	BLVa12 b s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:11215773
+11311591	DPMm1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:11311591
+11313556	DPMm1 desc s lat 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:11313556
+11463379	CM4 s ven 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:11463379
+11509597	DPMpm1 s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:11509597
+11509767	DPMpm1 s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:11509767
+12032517	DPMl12 ant s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12032517
+12204694	DPMpm1 ppFB 1 - Right	neuron	embryonic/larval nervous system	catmaid_l1em:12204694
+12205963	DPMpm1 ppFB 2 - Right	neuron	embryonic/larval nervous system	catmaid_l1em:12205963
+12206139	DPMm2 ppFB ant dor s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12206139
+12207291	DPMpm1 ppFB 3 - Right	neuron	embryonic/larval nervous system	catmaid_l1em:12207291
+12207495	DPMm2 ppFB ant dor s 2 Right 	neuron	embryonic/larval nervous system	catmaid_l1em:12207495
+12208050	DPMpm1 ppFB 4 - Right	neuron	embryonic/larval nervous system	catmaid_l1em:12208050
+12208798	DPMpm1 ppFB 6 - Right	neuron	embryonic/larval nervous system	catmaid_l1em:12208798
+12256567	DPMm1 ppFB s 7 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12256567
+12262871	CM4 s ppFB 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12262871
+12283795	CM4 s ppFB 6 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12283795
+12289177	CM4 s ven 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12289177
+12290287	CM4 s ppFB 7 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12290287
+12343219	DPMpm2 ppFB 5 - Right	neuron	embryonic/larval nervous system	catmaid_l1em:12343219
+12345237	DPMpm2 s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12345237
+12345792	CM4 s ppFB 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12345792
+12346676	CM4 s ppFB 2 Right 	neuron	embryonic/larval nervous system	catmaid_l1em:12346676
+12347886	CM4 s ppFB 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12347886
+12361947	DPMm1 ppFB s 6 Left	neuron	embryonic/larval nervous system	catmaid_l1em:12361947
+12362682	CP23 ppFB s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12362682
+12365683	BLVa t s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:12365683
+12367292	CM4 s ppFB 8 Right - ends before 601 	neuron	embryonic/larval nervous system	catmaid_l1em:12367292
+12367466	CM4 s dor pos MEF 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12367466
+12372419	BLVa t s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:12372419
+12385468	BLVa t s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:12385468
+12445523	CM4 s ppFB 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:12445523
+12446997	CP23 ppFB s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:12446997
+12449484	DPMpm2 ppFB 3 - Left	neuron	embryonic/larval nervous system	catmaid_l1em:12449484
+12474032	DPMpm1 ppFB 7 - Right	neuron	embryonic/larval nervous system	catmaid_l1em:12474032
+12477165	BAlc post s 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:12477165
+12488233	DPMm1 ppFB s 7 Left	neuron	embryonic/larval nervous system	catmaid_l1em:12488233
+12494383	CM4 s ppFB 7 Left	neuron	embryonic/larval nervous system	catmaid_l1em:12494383
+12498192	DPMm2 ppFB ant dor s 2 Left 	neuron	embryonic/larval nervous system	catmaid_l1em:12498192
+12530013	CM4 s ppFB 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:12530013
+12532127	DPMm1 ppFB s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12532127
+12532152	DPMm1 ppFB s 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12532152
+12546782	DPLal-13 s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12546782
+12549053	DPLal1-3 s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12549053
+12549257	DPLal1-3 s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12549257
+12570095	DPLam s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12570095
+12570525	DALl1 s 6 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12570525
+12615701	BLAl s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12615701
+12618333	BLAl s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12618333
+12701593	DPLc ant lat s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12701593
+12702367	DPLc ant lat s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12702367
+12702656	DPLd s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12702656
+12703528	DPLd s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12703528
+12704599	DPLd s 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12704599
+12727225	BAla12 s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:12727225
+12745233	DPLl a s 1	neuron	embryonic/larval nervous system	catmaid_l1em:12745233
+12747607	DPLl p s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12747607
+12749099	DPLl i s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12749099
+12751130	DPLl i s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12751130
+12755280	DPLl i s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12755280
+12845026	DPLc post lat s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12845026
+12846265	DPLc post lat s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12846265
+12847167	DPLc post lat s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12847167
+12877880	BLDc s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12877880
+12880792	BLDc s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12880792
+12927136	BAmd2 v s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:12927136
+12978829	DPLc ant lat s 6 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12978829
+12979804	DPLc ant lat s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12979804
+12981110	DPLc ant lat s 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12981110
+12982435	DPLd s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12982435
+12984739	DPLd s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12984739
+12985971	DPMl34 ant s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12985971
+12986939	DPMl34 ant s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12986939
+12988149	DPMl34 ant s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12988149
+12991032	DPLc post lat s 6 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12991032
+12992011	DPLc post lat s 7 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12992011
+12993051	DPLc post lat s 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12993051
+12995472	DPMl34 pos s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12995472
+12996024	DPMl34 pos s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:12996024
+13202894	DPLam s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:13202894
+13216296	DPMl12 pos s 7 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13216296
+13217452	DPMl12 pos s 6 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13217452
+13217639	DPMl12 pos s 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13217639
+13217922	DPMl12 pos s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13217922
+13218289	DPMl12 pos s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13218289
+13220541	DPMl ant dor nb 1_TODO	neuron	embryonic/larval nervous system	catmaid_l1em:13220541
+13234578	DPMm1 s Right	neuron	embryonic/larval nervous system	catmaid_l1em:13234578
+13234841	DPMm1 s Right	neuron	embryonic/larval nervous system	catmaid_l1em:13234841
+13235092	DPMm1 s Right	neuron	embryonic/larval nervous system	catmaid_l1em:13235092
+13235454	DPMm1 upp comm s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13235454
+13237321	DPMm1 upp comm s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13237321
+13238159	DPMm1 s 3	neuron	embryonic/larval nervous system	catmaid_l1em:13238159
+13239550	DPMm1 upp comm s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13239550
+13241784	DPMm1 s 1	neuron	embryonic/larval nervous system	catmaid_l1em:13241784
+13340343	DPMm1 upp comm s 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13340343
+13341065	DPMm1 ant comm s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13341065
+13341456	DPMm1 s right	neuron	embryonic/larval nervous system	catmaid_l1em:13341456
+13345002	DPMpm1 s 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13345002
+13362478	DPMm1 s longit 1	neuron	embryonic/larval nervous system	catmaid_l1em:13362478
+13364562	DPMpm1 s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13364562
+13389208	DPLc post lat ant s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13389208
+13407007	DPMm1 s longit med 2	neuron	embryonic/larval nervous system	catmaid_l1em:13407007
+13410103	DPMm1 s longit med 1	neuron	embryonic/larval nervous system	catmaid_l1em:13410103
+13410891	DPMm1 desc s med 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13410891
+13411388	DPMm1 s longit 2	neuron	embryonic/larval nervous system	catmaid_l1em:13411388
+13411400	DPMm1 s desc med 1	neuron	embryonic/larval nervous system	catmaid_l1em:13411400
+13451589	DPMm1 ant comm s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13451589
+13454509	DPMm1 s 2	neuron	embryonic/larval nervous system	catmaid_l1em:13454509
+13556524	DPMm1 desc s lat 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13556524
+13726190	BAla34 s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13726190
+13729664	BAmv12 dor s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13729664
+13730666	BAmv12 int s 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13730666
+13731104	BAmv12 int s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13731104
+13732551	BAmv12 dor s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13732551
+13733436	BAmv12 dor s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13733436
+13733768	BAmv12 dor s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13733768
+13734146	BAmv12 dor s 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13734146
+13734435	BAmv12 dor s 6 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13734435
+13734645	BAmv12 int s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13734645
+13734815	BAmv12 dor s 7 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13734815
+13734996	BAmv12 dor s 8 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13734996
+13735199	BAmv12 dor s 9 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13735199
+13756873	BAmd2 d s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13756873
+13758977	BAmd2 v s 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13758977
+13759971	BAmd2 v s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13759971
+13760269	BAmd2 v s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13760269
+13760579	BAmd2 v s 6 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13760579
+13836912	BAmd2 v s 1 Right 	neuron	embryonic/larval nervous system	catmaid_l1em:13836912
+13838330	BAmd2 v s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13838330
+13840191	BAmd2 v s 8 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13840191
+13841014	BAmd2 v s 7 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13841014
+13950873	DAMd23 s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13950873
+13950952	DAMd23 s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13950952
+13965334	BAmas12 ven s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13965334
+13966425	BAmas12 ven s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13966425
+13967121	BAmas12 ven s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13967121
+13967587	BAmas12 ven s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13967587
+13974142	TR BAlv s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:13974142
+14265548	CM13 med s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14265548
+14265559	CM13 med s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14265559
+14265600	CPf s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14265600
+14266277	CM13 med s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14266277
+14266284	CM13 med s 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14266284
+14266304	CM13 med s 6 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14266304
+14266386	CM13 med s 9 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14266386
+14266395	CM13 med s 7 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14266395
+14266400	DPLc5 s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14266400
+14266405	DPLc5 s 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14266405
+14266415	CM4 s GC 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14266415
+14266430	CM4 s ppFB 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14266430
+14266446	CM4 s ven 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14266446
+14266451	CM4 s dor pos MEF 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14266451
+14266471	CM4 s short pos 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14266471
+14266481	CM4 s ppFB 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14266481
+14266486	CM4 s ven 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14266486
+14266491	CM4 s ppFB 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14266491
+14266512	DPMpl3 s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14266512
+14266559	DPMpm2 s loSM 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14266559
+14266565	CM4 s GC 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14266565
+14266761	DPMl12 ant s 8 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14266761
+14266964	DPMm1 ant comm s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14266964
+14267037	DAMd1 s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14267037
+14267091	DPMm1 ant comm s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14267091
+14267149	DAMd23 s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14267149
+14267160	DAMd23 s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14267160
+14267170	BAmd2 v s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14267170
+14267175	BAmd1 d s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14267175
+14271622	CM13 med s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14271622
+14403560	DPMpm2 ppFB 1 - Left	neuron	embryonic/larval nervous system	catmaid_l1em:14403560
+14423343	CPf s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14423343
+14423348	CPc s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14423348
+14423369	CPf s 6 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14423369
+14423394	CPf s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14423394
+14423404	CPf s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14423404
+14423438	DPMpl3 s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14423438
+14423489	s Left	neuron	embryonic/larval nervous system	catmaid_l1em:14423489
+14423494	DAMd23 s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14423494
+14448530	CPf s 7 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14448530
+14448535	CP23 v 5 s Left	neuron	embryonic/larval nervous system	catmaid_l1em:14448535
+14448540	BLP34 a s 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14448540
+14448545	BLVp2 s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14448545
+14504024	BLP34 b s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14504024
+14504029	CP23 v s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14504029
+14504039	BLP12 b s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14504039
+14504044	BLP34 a s 6 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14504044
+14504049	BLP12 b s 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14504049
+14504060	BLP34 a s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14504060
+14504065	BLP34 a s 2 Left 	neuron	embryonic/larval nervous system	catmaid_l1em:14504065
+14504070	BLP34 b s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14504070
+14504075	BLVp2 s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14504075
+14546463	DAMd23 s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14546463
+14546516	DALcm12 m s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14546516
+14546549	DPMl12 ant s 6 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14546549
+14546554	DPMl12 ant s 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14546554
+14546579	DPMl12 ant s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14546579
+14546609	DPMl12 ant s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14546609
+14546614	DPMl12 ant s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14546614
+14546624	DPMpm1 s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14546624
+14546664	DPMl12 pos s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14546664
+14546674	DPMpl12 s NB 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14546674
+14546704	DPMpm2 s NB 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14546704
+14546714	DPMpm2 s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14546714
+14546724	DPMpm2 s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14546724
+14546734	CM4 s MEFcom 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14546734
+14546749	CM4 s ven 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14546749
+14546774	CM4 s short pos 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14546774
+14546779	DPMpl12 s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14546779
+14546809	CM4 s loSM 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14546809
+14546829	CM4 s loSM 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14546829
+14546834	CM4 s MEFcom 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14546834
+14546854	CM4 s short pos 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14546854
+14546864	DPMpl3 s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14546864
+14546874	CM4 s loSM 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14546874
+14546879	CM4 s ven 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14546879
+14546885	DPMpl3 s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14546885
+14546895	CM4 s ven 6 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14546895
+14546910	CM4 s MEFcom 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14546910
+14546926	CM4 s dor pos MEF 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14546926
+14546936	CM4 s loSM 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14546936
+14546951	DPLc s 9	neuron	embryonic/larval nervous system	catmaid_l1em:14546951
+14546956	CM4 s ven 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14546956
+14546986	CM4 s GC 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14546986
+14547001	CM4 s GC 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547001
+14547006	DPMpl3 s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547006
+14547041	CM4 s dor pos MEF 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547041
+14547046	CM4 s short pos 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547046
+14547066	CM4 s ven 7 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547066
+14547081	CM4 s loSM 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547081
+14547086	CM4 s loSM 6 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547086
+14547091	CM4 s loSM 7 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547091
+14547101	CM4 s dor pos com 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547101
+14547147	CM4 s loSM 8 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547147
+14547152	CM4 s dor pos com 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547152
+14547157	CM4 s GC 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547157
+14547167	DPLc5 s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547167
+14547173	CM4 s loSM 9 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547173
+14547178	CM4 s dor pos com 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547178
+14547189	CM4 s loSM 10 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547189
+14547214	CM4 s MEFcom 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547214
+14547219	DPLc5 s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547219
+14547234	CM4 s dor pos MEF 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547234
+14547239	CM13 med s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547239
+14547254	CM13 med s 9 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547254
+14547291	CM13 med s 8 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547291
+14547296	CM13 lat s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547296
+14547301	CM13 lat s 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547301
+14547306	CPf s 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547306
+14547311	CM13 med s 7 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547311
+14547316	CM13 med s 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547316
+14547336	CM13 med s 10 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547336
+14547376	CM13 med s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547376
+14547381	CM13 med s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547381
+14547391	CM13 lat s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547391
+14547396	CP23 v s 6 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547396
+14547401	CPf s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547401
+14547406	CPd s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547406
+14547411	CPd s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547411
+14547416	CM13 med s 6 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547416
+14547432	CM13 lat s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547432
+14547437	CPd s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547437
+14547442	CPe s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547442
+14547447	CPf s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14547447
+14628429	CM4 s ppFB 9 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14628429
+14630189	CM4 s dor pos MEF 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14630189
+14630424	CM4 s MEFcom 6 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14630424
+14630736	CM4 s dor pos MEF 6 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14630736
+14632529	CM4 s GC 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14632529
+14644884	CM4 s dor pos com 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14644884
+14684577	CM13 med s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14684577
+14720288	CPa s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14720288
+14720293	CPf s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14720293
+14720300	CPd s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14720300
+14724804	DALv23 s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14724804
+14727248	DALl1 s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14727248
+14749848	DALl1 s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14749848
+14751048	DALl1 s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14751048
+14751624	DALl1 s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14751624
+14761692	DALl1 10 d SU 	neuron	embryonic/larval nervous system	catmaid_l1em:14761692
+14786448	DALcl12 d s 8 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14786448
+14786951	DALcl12 d s 11 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14786951
+14787518	DALcl12 d s 10 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14787518
+14788579	DALcl12 d s 7 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14788579
+14797204	DALcl12 d s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14797204
+14819319	DALcm12 v s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14819319
+14821704	DALcm12 v s 7 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14821704
+14822335	DALcm12 v s 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14822335
+14822830	DALcm12 m s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14822830
+14847176	DALcm12 v s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14847176
+14848137	BAmd1 v s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14848137
+14849956	BAmd1 v s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14849956
+14851773	BAmd1 v s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14851773
+14877179	DAMd1 s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14877179
+14914072	CP23 v s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14914072
+14914087	CP23 v s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14914087
+14914097	BLP12 b s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14914097
+14914102	BLP34 b s 7 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14914102
+14914112	BLP34 a s 9 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14914112
+14914117	CP23 v s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14914117
+14914127	CPb s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14914127
+14914137	CPb s 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14914137
+14914142	CP23 v s 7 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14914142
+14914152	CPb s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14914152
+14914157	CPb s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:14914157
+14914162	CPc s 1 Right -  Lose at gap	neuron	embryonic/larval nervous system	catmaid_l1em:14914162
+14973282	DPMl34 ant s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14973282
+14973287	DPMl34 ant s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14973287
+14973297	DPMl12 ant s 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14973297
+14973302	DPMl12 pos s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14973302
+14973307	DPLc ant lat s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14973307
+14973312	DPLc ant lat s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14973312
+14973317	DPLc ant lat s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14973317
+14973453	DPMl34 pos s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14973453
+14976461	DPLc ant lat s 6 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14976461
+14976953	DPLc ant lat s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14976953
+14977871	DPMl12 ant s 7 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14977871
+14977878	DPMl12 ant s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14977878
+14977890	DPMl12 ant s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14977890
+14979933	DPLc ant lat s 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14979933
+14981042	DPMl12 pos s 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14981042
+14981280	DPLc s Left	neuron	embryonic/larval nervous system	catmaid_l1em:14981280
+14981285	DPLc post med s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:14981285
+15077059	DPMl12 ant s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:15077059
+15078580	DALd s 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:15078580
+15078585	DALd s 6 Left	neuron	embryonic/larval nervous system	catmaid_l1em:15078585
+15078590	DALcl12 d s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:15078590
+15078595	DALcl12 d s 9 Left	neuron	embryonic/larval nervous system	catmaid_l1em:15078595
+15078600	DALcm12 v s 7 Left	neuron	embryonic/larval nervous system	catmaid_l1em:15078600
+15078624	DALcm12 v s Left	neuron	embryonic/larval nervous system	catmaid_l1em:15078624
+15078629	DALcm12 v s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:15078629
+15078634	DALcm12 v s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:15078634
+15078639	BAmd1 d s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:15078639
+15078644	DALcm12 v s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:15078644
+15078649	DALcm12 v s 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:15078649
+15078654	DALcm12 v s 7 Left	neuron	embryonic/larval nervous system	catmaid_l1em:15078654
+15078659	DALcm12 v s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:15078659
+15078682	BAmd1 v s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:15078682
+15078687	BAmd1 v s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:15078687
+15078692	BAmv12 dor s 1 Left 	neuron	embryonic/larval nervous system	catmaid_l1em:15078692
+15078697	BAmv12 dor s 6 Left	neuron	embryonic/larval nervous system	catmaid_l1em:15078697
+15078705	DALcm12 v s 6 Left	neuron	embryonic/larval nervous system	catmaid_l1em:15078705
+15079785	CPb s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:15079785
+15119833	DALd s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:15119833
+15130939	BLDd s 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:15130939
+15131659	BLDd s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:15131659
+15139341	BAmd1 d s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:15139341
+15139746	BAmv12 dor s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:15139746
+15140015	BAmv12 dor s 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:15140015
+15140301	BAmv12 dor s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:15140301
+15152956	DALd s 7 Right	neuron	embryonic/larval nervous system	catmaid_l1em:15152956
+15153709	DALd s 8 Right	neuron	embryonic/larval nervous system	catmaid_l1em:15153709
+15387603	CPe s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:15387603
+15541956	BAmd1 d s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:15541956
+15582537	CPe s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:15582537
+15583282	CPe s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:15583282
+15674294	BAlp4 s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:15674294
+15732515	BAmv12 ven s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:15732515
+15732533	BAmv12 int s 6 Right	neuron	embryonic/larval nervous system	catmaid_l1em:15732533
+15825481	DPLc post lat ant s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:15825481
+15825924	DPLc post lat s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:15825924
+15867651	DPLc post lat ant s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:15867651
+15868439	DPLc post lat ant s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:15868439
+16014372	BLD x 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:16014372
+16046580	BLVa12 b s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:16046580
+16318947	BAmas12 ven s 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:16318947
+16461910	BAlc post s 6 Left	neuron	embryonic/larval nervous system	catmaid_l1em:16461910
+16491111	DPLc5 s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:16491111
+16544689	BAmv12 int s 7 Left	neuron	embryonic/larval nervous system	catmaid_l1em:16544689
+16544695	BAmv12 int s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:16544695
+16544705	BAmv12 ven s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:16544705
+16547306	BAmv12 ven s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:16547306
+16645923	DPLl p s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:16645923
+16698702	BLAv12 pos s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:16698702
+16698716	BLAv12 pos s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:16698716
+16698830	BLAv12 pos s 1 right	neuron	embryonic/larval nervous system	catmaid_l1em:16698830
+16784307	CP23 v s 8 Right	neuron	embryonic/larval nervous system	catmaid_l1em:16784307
+16938723	CM4 s ppFB 8 Left	neuron	embryonic/larval nervous system	catmaid_l1em:16938723
+16950391	DALd s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:16950391
+16950404	DALd s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:16950404
+16950736	DALd s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:16950736
+16952654	DALd s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:16952654
+17022787	DALd s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17022787
+17048093	Neuron 17048094 immature	neuron	embryonic/larval nervous system	catmaid_l1em:17048093
+17048338	SU neuron s 17048339	neuron	embryonic/larval nervous system	catmaid_l1em:17048338
+17102148	DALcl12 d s 8 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17102148
+17102418	DALcl12 d s 7 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17102418
+17102547	DALcl12 d s 6 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17102547
+17102618	DALcl12 d s 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17102618
+17102687	DALcl12 d s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17102687
+17102750	DALcl12 d s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17102750
+17102765	DALcl12 v s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17102765
+17102874	DALcl12 v s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17102874
+17102940	DALcl12 d s 10 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17102940
+17102996	DALcl12 d s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17102996
+17110221	DALcl12 v s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17110221
+17114027	BLVa12 a s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17114027
+17192980	CP1v a s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17192980
+17193070	CP1v a s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17193070
+17343664	CM13 med s 8 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17343664
+17352424	BLP12 a s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17352424
+17352429	BLP12 a s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17352429
+17352444	BLP12 a s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17352444
+17352452	BLP12 b s 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17352452
+17352476	DPMpl12 s 2 loSM Right	neuron	embryonic/larval nervous system	catmaid_l1em:17352476
+17354423	DPMl12 ant s 6 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17354423
+17355495	CPb s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17355495
+17355884	BAla34 s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17355884
+17355888	BAla34 s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17355888
+17356020	BAla34 s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17356020
+17360026	DPLal1-3 s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17360026
+17361570	BLAv12 ant s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17361570
+17370898	BLP12 b s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17370898
+17371133	BLP12 b s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17371133
+17371213	BLP12 b s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17371213
+17371245	BLP12 a s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17371245
+17371295	BLP12 a s 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17371295
+17371351	BLP12 a s 6 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17371351
+17371530	BLP12 a s 10 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17371530
+17371651	BLP12 a s 8 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17371651
+17371662	BLP12 a s 9 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17371662
+17372181	BLP12 a s 7 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17372181
+17372894	BLP34 a s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17372894
+17376806	TR BAlv s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17376806
+17376829	TR BAlv s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17376829
+17376835	TR BAlv s 6 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17376835
+17376845	TR BAlv s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17376845
+17376857	TR BAlv s 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17376857
+17377722	DALl1 s 7 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17377722
+17377891	BLVa12 a s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17377891
+17378469	DPLal1-3 s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17378469
+17378530	BLVa34 b s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17378530
+17378636	DPMl12 pos s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17378636
+17378746	DPLc ant lat s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17378746
+17379121	BLAv12 ant s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17379121
+17379283	CM4-dm Tiny a right; CM4 dor med_r; CM4 dor ant 5	neuron	embryonic/larval nervous system	catmaid_l1em:17379283
+17380013	BLVp2 s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17380013
+17380192	BLVp2 s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17380192
+17380214	BLVp2 s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17380214
+17380245	BLVp2 s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17380245
+17380305	CP23 v s 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17380305
+17383068	BLP34 a s 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17383068
+17390677	BLVa t s 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17390677
+17390746	BLVa t s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17390746
+17390766	BLVa t s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17390766
+17390827	BLVa t s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17390827
+17390884	BLVa t s 3 Right (Lost to Gap)	neuron	embryonic/larval nervous system	catmaid_l1em:17390884
+17436919	CP23 v s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17436919
+17437048	CPc s 2 Right- Lost at Gap	neuron	embryonic/larval nervous system	catmaid_l1em:17437048
+17470004	DPMpm1 s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17470004
+17472091	CPe s NB 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17472091
+17472365	BAmd1 v s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17472365
+17475177	DPMm1 s Left	neuron	embryonic/larval nervous system	catmaid_l1em:17475177
+17486011	DALcm12 m s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17486011
+17519292	BLDd s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17519292
+17519416	BLDd s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17519416
+17519537	BLDd s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17519537
+17523403	DPLl p s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17523403
+17544220	BLAvm ant s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17544220
+17544238	BLAvm ant s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17544238
+17544280	BLAvm ant s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17544280
+17544312	BLAvm ant s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17544312
+17544330	BLAvm ant s 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17544330
+17545164	BAlp post s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17545164
+17545179	BAlp post s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17545179
+17545195	BAlp post s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17545195
+17545203	BAlp ant s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17545203
+17545221	BAlp ant s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17545221
+17545234	BAlp ant s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17545234
+17545271	BAlp ant s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17545271
+17545296	BAlp ant s 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17545296
+17545744	BAlc post s 6 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17545744
+17545755	BAlc post s 8 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17545755
+17545766	BAlc post s 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17545766
+17545782	BAlc post s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17545782
+17545795	BAlc post s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17545795
+17545806	BAlc post s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17545806
+17545868	BAlc post s 7 Right (sp)	neuron	embryonic/larval nervous system	catmaid_l1em:17545868
+17545878	BAlc post s NB 1 Right 	neuron	embryonic/larval nervous system	catmaid_l1em:17545878
+17545905	BAlc post s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17545905
+17546995	BAla34 s 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17546995
+17547011	BAla34 s 6 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17547011
+17555058	BAmv12 int s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17555058
+17557183	DPLd s 7 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17557183
+17557234	DPLd s 6 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17557234
+17560205	DPLc5 s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17560205
+17560221	DPLc5 s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17560221
+17560864	DPLc post med s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17560864
+17560904	DPLc post med s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17560904
+17562001	DPLc post lat ant s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17562001
+17562037	DPLc post lat ant s 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17562037
+17562074	DPLc post lat ant s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17562074
+17562098	DPLc post lat ant s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17562098
+17562172	BLAd dor med nb 1	neuron	embryonic/larval nervous system	catmaid_l1em:17562172
+17583465	BLAl s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17583465
+17588631	DPLc post med s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17588631
+17629147	BAlp ant s 6 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17629147
+17629156	BAlp ant s 7 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17629156
+17629170	BAlp ant s 8 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17629170
+17634397	BAlv s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17634397
+17634407	BAlv s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17634407
+17634436	TR BAlv s 7 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17634436
+17653988	DALv23 s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17653988
+17654911	BLDc s 5 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17654911
+17654921	BLDc s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17654921
+17654936	BLDc s 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17654936
+17658634	BLVp2 s 6 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17658634
+17658643	BLVp2 s 8 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17658643
+17658847	BLV x 1 s Right	neuron	embryonic/larval nervous system	catmaid_l1em:17658847
+17679315	DPLc post lat s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17679315
+17728546	BAla12 s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17728546
+17728556	BAla34 s 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17728556
+17728561	BAla34 s 6 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17728561
+17728566	BAla34 s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17728566
+17728581	BAla34 s 4 Left 	neuron	embryonic/larval nervous system	catmaid_l1em:17728581
+17728586	BAla34 s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17728586
+17728622	BAlc post s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17728622
+17728627	BAlc post s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17728627
+17728637	BAlc post s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17728637
+17728642	BAlc post s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17728642
+17728647	BAlp ant s 2  Left 	neuron	embryonic/larval nervous system	catmaid_l1em:17728647
+17728657	BAlp int s 3 Left 	neuron	embryonic/larval nervous system	catmaid_l1em:17728657
+17728662	BAlp int s 6 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17728662
+17728667	BAlp int s 2 Left 	neuron	embryonic/larval nervous system	catmaid_l1em:17728667
+17728672	BAlp int s 4 Left 	neuron	embryonic/larval nervous system	catmaid_l1em:17728672
+17728677	BAlp post s 1 Left 	neuron	embryonic/larval nervous system	catmaid_l1em:17728677
+17728682	BAlp post s 2 Left 	neuron	embryonic/larval nervous system	catmaid_l1em:17728682
+17728690	BAlp int s 1 Left 	neuron	embryonic/larval nervous system	catmaid_l1em:17728690
+17728707	BAlp ant int s 1 Left 	neuron	embryonic/larval nervous system	catmaid_l1em:17728707
+17728718	BAlp int s 5 Left 	neuron	embryonic/larval nervous system	catmaid_l1em:17728718
+17728737	BAlp ant s 3 Left 	neuron	embryonic/larval nervous system	catmaid_l1em:17728737
+17728747	BAlp ant s 5 Left 	neuron	embryonic/larval nervous system	catmaid_l1em:17728747
+17728756	BAlp ant s 7 Left 	neuron	embryonic/larval nervous system	catmaid_l1em:17728756
+17728761	BAlp ant s 6 Left 	neuron	embryonic/larval nervous system	catmaid_l1em:17728761
+17728766	BAlp ant s 8 Left 	neuron	embryonic/larval nervous system	catmaid_l1em:17728766
+17728771	BAlp ant s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17728771
+17728776	BAlp4 s 1 Left  	neuron	embryonic/larval nervous system	catmaid_l1em:17728776
+17728793	BLD x 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17728793
+17728798	BLD x 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17728798
+17728803	BLD x 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17728803
+17728809	BLD x 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17728809
+17728852	BLAd OL s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17728852
+17728857	BLAd OL s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17728857
+17728879	BLAd ven lat s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17728879
+17728902	BLAv12 ant s 1 Left - GAP!	neuron	embryonic/larval nervous system	catmaid_l1em:17728902
+17728907	BLAv12 ant s 2Left - Gap	neuron	embryonic/larval nervous system	catmaid_l1em:17728907
+17728927	Close to BLVa s Left	neuron	embryonic/larval nervous system	catmaid_l1em:17728927
+17728933	Close to BLVa s Left	neuron	embryonic/larval nervous system	catmaid_l1em:17728933
+17728939	Close to BLVa s Left	neuron	embryonic/larval nervous system	catmaid_l1em:17728939
+17728944	BLD x 1 s Left	neuron	embryonic/larval nervous system	catmaid_l1em:17728944
+17728950	BLD x 1 s Left	neuron	embryonic/larval nervous system	catmaid_l1em:17728950
+17728954	BLD x 1 s Left	neuron	embryonic/larval nervous system	catmaid_l1em:17728954
+17728982	SU Left - BL Lineage ?	neuron	embryonic/larval nervous system	catmaid_l1em:17728982
+17728986	BLD x 1 s Left - Gap!	neuron	embryonic/larval nervous system	catmaid_l1em:17728986
+17728991	BLAvm ant s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17728991
+17728998	BLAvm ant s 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17728998
+17729005	BLAvm ant s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729005
+17729056	BLAv12 pos s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729056
+17729062	BLAv12 pos s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729062
+17729073	BLAv12 pos s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729073
+17729078	BLAv12 pos s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729078
+17729105	BLAvm ant s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729105
+17729116	BLAvm ant s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729116
+17729126	BLDd s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729126
+17729131	BLDd s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729131
+17729136	BLDd s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729136
+17729141	BLDc s 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729141
+17729146	BLDc s 6 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729146
+17729151	BLDc s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729151
+17729156	BLDc s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729156
+17729178	BLDc s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729178
+17729190	BLDc s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729190
+17729206	BLP12 a s 8 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729206
+17729211	BLP12 a s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729211
+17729216	BLP12 a s 9 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729216
+17729223	BLP12 a s 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729223
+17729228	BLP12 a s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729228
+17729233	BLP12 a s 7 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729233
+17729239	BLP12 a s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729239
+17729244	BLP12 a s 6 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729244
+17729249	BLP34 b s LEFT REVIEW	neuron	embryonic/larval nervous system	catmaid_l1em:17729249
+17729311	BLP34 b s 7 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729311
+17729316	BLP12 a s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729316
+17729341	BLP12 b s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729341
+17729357	BLP12 b s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729357
+17729370	BLP34 a s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729370
+17729381	BLP34 b s 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729381
+17729387	BLP34 b s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729387
+17729394	BLVa12 a s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729394
+17729431	BLVa34 a s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729431
+17729436	BLVa34 a s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729436
+17729441	BLVa34 a s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729441
+17729458	BLVa34 b s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729458
+17729814	BLVa t s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729814
+17729822	CPa s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17729822
+17730092	CPb s 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17730092
+17730108	CP23 v s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17730108
+17730115	CPb s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17730115
+17730121	CPb s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17730121
+17730159	CP23 v s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17730159
+17731941	DALl1 s 5 Left; NB?	neuron	embryonic/larval nervous system	catmaid_l1em:17731941
+17731951	DALl1 s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17731951
+17731956	DALl1 s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17731956
+17731961	DALl1 s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17731961
+17731977	DPLal1-3 s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17731977
+17731982	DPLal1-3 s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17731982
+17732203	DPLl i s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17732203
+17732214	DPLl p s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17732214
+17732223	DPLl p s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17732223
+17732231	DPLl p s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17732231
+17732251	DPLl i s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17732251
+17732486	DPMl12 pos s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17732486
+17732589	DPMl12 pos s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17732589
+17732661	DPMl12 pos s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17732661
+17732858	BAmas12 ven s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17732858
+17732864	BAmas12 ven s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17732864
+17732880	BAmas12 ven s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17732880
+17732900	BAmas12 dor s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17732900
+17732966	BAmas12 dor s 2 Left 	neuron	embryonic/larval nervous system	catmaid_l1em:17732966
+17733126	TR BAlv s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17733126
+17733134	TR Balv s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17733134
+17733148	TR BAlv s 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17733148
+17733164	TR BAlv s 7 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17733164
+17733172	TR BAlv s 6 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17733172
+17733182	TR Balv s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17733182
+17733190	TR Balv s 8 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17733190
+17733478	TR Balv s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17733478
+17733517	BAmas12 ven s 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17733517
+17733525	BAmas12 ven s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17733525
+17736450	BAla34 s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17736450
+17744059	BLDd s 4 Right	neuron	embryonic/larval nervous system	catmaid_l1em:17744059
+17777052	DPLp s Left	neuron	embryonic/larval nervous system	catmaid_l1em:17777052
+17882830	DALl1 s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:17882830
+18059683	BLAd ven lat s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:18059683
+18059690	BLAv12 lat s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:18059690
+18134183	DALcm12 m s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:18134183
+18853138	CM4 s short pos 3 Right	neuron	embryonic/larval nervous system	catmaid_l1em:18853138
+18925103	BAlp post s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:18925103
+19139824	DPMpm1 ppFB 4 - Left	neuron	embryonic/larval nervous system	catmaid_l1em:19139824
+19193066	neuron 19193067	neuron	embryonic/larval nervous system	catmaid_l1em:19193066
+19352379	BLAl s 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19352379
+19352392	DPLc post lat s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19352392
+19352399	DPLc post lat s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19352399
+19352403	DPLc post lat s 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19352403
+19352411	DPLc post lat s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19352411
+19357994	BAmas12 dor s 3 Left (possible ven)	neuron	embryonic/larval nervous system	catmaid_l1em:19357994
+19359257	BAlv s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19359257
+19359287	BAlv s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19359287
+19361208	DPLc5 s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19361208
+19361212	DPLc5 s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19361212
+19362116	BLD x 1 s Left	neuron	embryonic/larval nervous system	catmaid_l1em:19362116
+19375019	CM4 s ppFB 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:19375019
+19375103	DPMm1 ppFB s 1 Right	neuron	embryonic/larval nervous system	catmaid_l1em:19375103
+19375118	DPMm1 ppFB s 2 Right	neuron	embryonic/larval nervous system	catmaid_l1em:19375118
+19375183	DPMpm2 ppFB 3 - Right	neuron	embryonic/larval nervous system	catmaid_l1em:19375183
+19375188	DPMpm2 ppFB 2 - Right	neuron	embryonic/larval nervous system	catmaid_l1em:19375188
+19375193	DPMpm2 ppFB 4 - Right	neuron	embryonic/larval nervous system	catmaid_l1em:19375193
+19376548	DPMpm1 ppFB 2 - Left	neuron	embryonic/larval nervous system	catmaid_l1em:19376548
+19376559	DPMpm1 ppFB 6 - Left	neuron	embryonic/larval nervous system	catmaid_l1em:19376559
+19376564	DPMpm1 ppFB 7 - Left	neuron	embryonic/larval nervous system	catmaid_l1em:19376564
+19376569	DPMpm1 ppFB 3 - Left	neuron	embryonic/larval nervous system	catmaid_l1em:19376569
+19376581	DPMpm1 ppFB 1 - Left	neuron	embryonic/larval nervous system	catmaid_l1em:19376581
+19376664	DPMpm2 ppFB 1 - Right	neuron	embryonic/larval nervous system	catmaid_l1em:19376664
+19389324	DPLd s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19389324
+19389329	DPLd s 6 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19389329
+19389333	DPLd s 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19389333
+19389343	DPLd s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19389343
+19389347	DPLd s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19389347
+19389353	DPLd s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19389353
+19393720	BAmd2 v s 7 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19393720
+19393736	BAmd2 v s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19393736
+19393740	BAmd2 v s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19393740
+19393744	BAmd2 v s 8 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19393744
+19393756	BAmd2 v s 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19393756
+19395562	BAmd2 d s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19395562
+19395651	BAmv12 int s 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19395651
+19395656	BAmv12 dor s 9 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19395656
+19395698	BAmd2 s left	neuron	embryonic/larval nervous system	catmaid_l1em:19395698
+19395704	BAmd2 v s 6 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19395704
+19396494	BAmv12 dor s 7 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19396494
+19396502	BAmv12 int s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19396502
+19396510	BAmv12 int s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19396510
+19396517	BAmv12 int s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19396517
+19402002	BAmv12 dor s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19402002
+19402006	BAmv12 dor s 8 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19402006
+19402010	BAmv12 ven s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19402010
+19404939	BAmd1 v s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19404939
+19422319	BLP12 b s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19422319
+19428881	DPLc post lat ant s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19428881
+19433138	DPMl34 ant s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19433138
+19437152	DPLm2 s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19437152
+19437159	DPLm1 s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19437159
+19538646	BLAl s 4 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19538646
+19539229	DPLc post med s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19539229
+19539248	DPLc post lat s 6 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19539248
+19560124	DPMl34 pos s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19560124
+19701236	BLAl s 3 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19701236
+19806024	BLAl s 1 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19806024
+19806028	BLAl s 2 Left	neuron	embryonic/larval nervous system	catmaid_l1em:19806028
+19851505	BAlp ant s 9 Right	neuron	embryonic/larval nervous system	catmaid_l1em:19851505
+20443342	BLP3/4 b s RIGHT SU Neuron* NEW	neuron	embryonic/larval nervous system	catmaid_l1em:20443342
