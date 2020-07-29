@@ -1,0 +1,9 @@
+subject_external_id	subject_name	object	pub	comment	subject_external_db	relation
+5813020864	DNd01	descending neuron of the anterior brain DNd01			neuprint_JRC_Hemibrain_1point1	is_a
+5813077405	DNd01	descending neuron of the anterior brain DNd01			neuprint_JRC_Hemibrain_1point1	is_a
+5813012529	DNd01	descending neuron of the anterior brain DNd01			neuprint_JRC_Hemibrain_1point1	is_a
+5813026404	DNd01	descending neuron of the anterior brain DNd01			neuprint_JRC_Hemibrain_1point1	is_a
+1449247522	ExR2	EB neuron of the dopaminergic PPM3 cluster			neuprint_JRC_Hemibrain_1point1	is_a
+787762461	ExR2	EB neuron of the dopaminergic PPM3 cluster			neuprint_JRC_Hemibrain_1point1	is_a
+1136865339	ExR2	EB neuron of the dopaminergic PPM3 cluster			neuprint_JRC_Hemibrain_1point1	is_a
+1198330286	ExR2	EB neuron of the dopaminergic PPM3 cluster			neuprint_JRC_Hemibrain_1point1	is_a
