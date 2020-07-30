@@ -1,0 +1,17 @@
+subject_external_db	subject_external_id	relation	object
+catmaid_fafb	42	is_a	adult antennal lobe projection neuron VA6 adPN
+catmaid_fafb	9578	is_a	gamma Kenyon cell
+catmaid_fafb	3104789	is_a	gamma Kenyon cell
+catmaid_fafb	3445525	is_a	gamma Kenyon cell
+catmaid_fafb	13018	is_a	alpha/beta Kenyon cell
+catmaid_fafb	205947	is_a	alpha/beta Kenyon cell
+catmaid_fafb	424295	is_a	alpha/beta Kenyon cell
+catmaid_fafb	424379	is_a	alpha/beta Kenyon cell
+catmaid_fafb	515387	is_a	alpha/beta Kenyon cell
+catmaid_fafb	1746412	is_a	alpha/beta Kenyon cell
+catmaid_fafb	7286	is_a	alpha'/beta' Kenyon cell
+catmaid_fafb	7646	is_a	alpha'/beta' Kenyon cell
+catmaid_fafb	11742	is_a	alpha'/beta' Kenyon cell
+catmaid_fafb	12874	is_a	alpha'/beta' Kenyon cell
+catmaid_fafb	16406	is_a	alpha'/beta' Kenyon cell
+catmaid_fafb	175032	is_a	alpha'/beta' Kenyon cell
