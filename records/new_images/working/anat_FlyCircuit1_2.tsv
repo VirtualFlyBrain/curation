@@ -1,4 +1,4 @@
-label	is_a	part_of	xref	filename	expresses	comment
+label	is_a	part_of	dbxrefs	filename	expresses	comment
 104198-F-000000	neuron	female organism|adult brain	FlyCircuit:104198-F-000000	104198-F-000000	P{GawB}Sxl[NP2426]	OutAge: Adult 5~15 days
 104198-F-000001	neuron	female organism|adult brain	FlyCircuit:104198-F-000001	104198-F-000001	P{GawB}Sxl[NP2426]	OutAge: Adult 5~15 days
 104198-F-000002	neuron	female organism|adult brain	FlyCircuit:104198-F-000002	104198-F-000002	P{GawB}Sxl[NP2426]	OutAge: Adult 5~15 days
