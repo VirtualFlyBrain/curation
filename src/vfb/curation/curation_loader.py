@@ -2,7 +2,7 @@ from .peevish import get_recs
 from .curation_writer import NewImageWriter, NewMetaDataWriter
 import warnings
 
-def load_recs(path_to_specs, path_to_recs, endpoint, usr, pwd, commit=False, verbose=False):
+def load_recs(path_to_specs, path_to_recs, endpoint, usr, pwd, commit=False, verbose=False, import_filepath = ''):
     records = [r for r in get_recs(path_to_recs=path_to_recs,
                                    spec_path=path_to_specs)]
     if False in records:
@@ -19,7 +19,7 @@ def load_recs(path_to_specs, path_to_recs, endpoint, usr, pwd, commit=False, ver
             continue
         print("Test loading %s" % r.cr.path)
         if r.gross_type == 'new_images':
-            niw = NewImageWriter(endpoint, usr, pwd, r)  # niw rolls appropriate dicts
+            niw = NewImageWriter(endpoint, usr, pwd, r, import_file_path=import_filepath)  # niw rolls appropriate dicts
             if 'Start' in r.y.keys():
                 niw.write_rows(start=r.y['Start'], verbose=verbose)
             else:
