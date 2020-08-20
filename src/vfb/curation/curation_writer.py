@@ -77,7 +77,7 @@ class LConf:
 class CurationWriter:
     """A wrapper class for loading annotation curation tables to VFB KB"""
 
-    def __init__(self, endpoint, usr, pwd, record: Record):
+    def __init__(self, endpoint, usr, pwd, record: Record, import_file_path=''):
         """KB connection: endpoint, usr, pwd
         lookup_config: a dict of lists of LookupConf keyed on column name or relation name.
         relation_lookup: name: short_form dictionary for valid relations"
@@ -86,7 +86,7 @@ class CurationWriter:
         # TBD: how to deal with FB features.  Maybe needs to be outside of this by adding to
         # KB first?
         self.pattern_writer = KB_pattern_writer(endpoint, usr, pwd, use_base36=True) # maybe limit this to NewImageWriter
-        self.feature_mover = FeatureMover(endpoint, usr, pwd)
+        self.feature_mover = FeatureMover(endpoint, usr, pwd, file_path=import_file_path)
         self.pub_mover = pubMover(endpoint, usr, pwd)
         self.ew = self.feature_mover.ew
         self.record = record
@@ -342,8 +342,6 @@ class NewImageWriter(CurationWriter):
     def __init__(self, *args, **kwargs):
         super(NewImageWriter, self).__init__(*args, **kwargs)
         self.set_flybase_lookups()
-
-
 
 
     def set_flybase_lookups(self):
