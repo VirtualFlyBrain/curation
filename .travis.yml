@@ -38,7 +38,7 @@ install:
 
 script:
   - cd src
-  - python -m vfb.curation.test.test_peevish
-  - if [ ! "$BUILD_TYPE" == "curation" ]; then python run_peevish.py --test_mode --base_path=$BASEPATH --import_filepath=$TRAVIS_BUILD_DIR/src/ http://localhost:7474 neo4j neo4j; fi ;
-  - python run_peevish.py --base_path=$BASEPATH http://localhost:7474 neo4j neo4j --verbose --import_filepath=$TRAVIS_BUILD_DIR/src/
+  - travis_wait 70 python -m vfb.curation.test.test_peevish
+  - travis_wait 70 if [ ! "$BUILD_TYPE" == "curation" ]; then python run_peevish.py --test_mode --base_path=$BASEPATH --import_filepath=$TRAVIS_BUILD_DIR/src/ http://localhost:7474 neo4j neo4j; fi ;
+  - travis_wait 70 python run_peevish.py --base_path=$BASEPATH http://localhost:7474 neo4j neo4j --verbose --import_filepath=$TRAVIS_BUILD_DIR/src/
 
