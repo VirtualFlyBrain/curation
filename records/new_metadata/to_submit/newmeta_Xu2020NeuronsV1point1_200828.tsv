@@ -1,2 +1,2 @@
-Tbars	downstream	relation	object	subject_name	upstream	subject_external_id	subject_external_db
-		has_postsynaptic_terminal_in	nodulus 2	NO2(L	16	1290416713	neuprint_JRC_Hemibrain_1point1
+Tbars	downstream	relation	object	subject_id	upstream
+		has_postsynaptic_terminal_in	nodulus 2	VFB_00101553	16
