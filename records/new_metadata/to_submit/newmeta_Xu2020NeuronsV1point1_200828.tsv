@@ -1,2 +1,2 @@
-Tbars	downstream	relation	object	subject_external_id	subject_external_db	upstream
-		has_postsynaptic_terminal_in	adult brain template JFRC2	1324365879	neuprint_JRC_Hemibrain_1point1	16
+Tbars	downstream	has_postsynaptic_terminal_in	subject_external_id	subject_external_db	upstream
+		VFB_00101553	1324365879	neuprint_JRC_Hemibrain_1point1	16
