@@ -1,0 +1,381 @@
+subject_external_db	subject_external_id	subject_name	relation	object	pub
+catmaid_l1em	15769596	AN-L-motor-05	is_a	larval antennal-pharyngeal nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	15769490	AN-L-motor-06	is_a	larval antennal-pharyngeal nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	17369376	AN-L-motor-07	is_a	larval antennal-pharyngeal nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	407869	AN-L-motor-08	is_a	larval antennal-pharyngeal nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	15995360	AN-L-motor-09	is_a	larval antennal-pharyngeal nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	15982951	AN-L-motor-10	is_a	larval antennal-pharyngeal nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	17415321	AN-L-motor-11	is_a	larval antennal-pharyngeal nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	17500791	AN-L-motor-12	is_a	larval antennal-pharyngeal nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	17405603	AN-L-motor-13	is_a	larval antennal-pharyngeal nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	15995394	AN-L-motor-14	is_a	larval antennal-pharyngeal nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	15770521	AN-L-motor-15	is_a	larval antennal-pharyngeal nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	15770867	AN-L-motor-16	is_a	larval antennal-pharyngeal nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	15995368	AN-L-motor-17	is_a	larval antennal-pharyngeal nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	15997068	AN-L-motor-18	is_a	larval antennal-pharyngeal nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	1392771	AN-L-Sens-B1-ACa-06	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	1400725	AN-L-Sens-B1-ACa-12	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	1391179	AN-L-Sens-B1-ACa-15	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	1432836	AN-L-Sens-B1-AVa-18	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15984797	AN-L-Sens-B1-AVa-23	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15770945	AN-L-Sens-B1-AVa-25	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	1415168	AN-L-Sens-B1-AVa-26	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	1431256	AN-L-Sens-B1-AVa-27	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15982306	AN-L-Sens-B1-AVa-28	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	9820270	AN-L-Sens-B1-AVa-29	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	7424178	AN-L-Sens-B1-AVa-30	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	1419315	AN-L-Sens-B1-AVa-31	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	1427012	AN-L-Sens-B1-AVa-32	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	17380936	AN-L-Sens-B1-AVa-33	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15983225	AN-L-Sens-B1-AVa-34	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15984231	AN-L-Sens-B1-AVa-35	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15994926	AN-L-Sens-B1-AVa-36	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15995327	AN-L-Sens-B1-AVa-37	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15766999	AN-L-Sens-B1-AVa-38	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15983156	AN-L-Sens-B1-AVa-39	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	1351125	AN-L-Sens-B1-AVa-40	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	1011675	AN-L-Sens-B2-ACp-02	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	7439909	AN-L-Sens-B2-ACp-03	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15998782	AN-L-Sens-B2-ACp-04	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15998469	AN-L-Sens-B2-ACp-05	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15997983	AN-L-Sens-B2-ACp-06	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15590761	AN-L-Sens-B2-ACp-07	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15998218	AN-L-Sens-B2-ACp-08	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15998768	AN-L-Sens-B2-ACp-09	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15998307	AN-L-Sens-B2-ACp-10	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15996518	AN-L-Sens-B2-ACp-11	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15998817	AN-L-Sens-B2-ACp-12	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15998100	AN-L-Sens-B2-ACp-13	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15997645	AN-L-Sens-B2-ACp-14	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15998261	AN-L-Sens-B2-ACp-15	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15997807	AN-L-Sens-B2-ACp-16	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	1715990	AN-L-Sens-B2-ACp-17	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15997692	AN-L-Sens-B2-ACp-18	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	11671564	AN-L-Sens-B2-ACp-21	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15995404	AN-L-Sens-B2-ACp-22	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15997929	AN-L-Sens-B2-ACp-23	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	1709802	AN-L-Sens-B2-AVa-24 (PPS mechano)	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	1347886	AN-L-Sens-B2-AVp-01	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15998899	AN-L-Sens-B2-AVp-02	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15996160	AN-L-Sens-B2-AVp-03	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15998913	AN-L-Sens-B2-VM-04	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15998319	AN-L-Sens-B2-VM-05	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15996271	AN-L-Sens-B2-VM-06	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	17608754	AN-L-Sens-B2-VM-07	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15995861	AN-L-Sens-B2-VM-08	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	3608397	AN-L-Sens-B3-ACal-01 (temp sensing left neuron alone)	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	3639968	AN-L-Sens-B3-ACal-02 (temp sensing left neuron together 2)	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	3609202	AN-L-Sens-B3-ACal-03 (temp sensing left neuron together 1)	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	5093516	AN-L-Sens-B3-ACal-04 (Non-ORN 2)	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	2610744	AN-L-Sens-B3-ACal-05 (Non-ORN 1)	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	5116147	AN-L-Sens-B3-ACal-06 (degraded alone temperature partner neuron)	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	3586984	AN-L-Sens-B3-ACal-07 (upstream of Multig. Olfactory PN 3) 	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	3652587	AN-L-Sens-B3-ACp-08	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	5186461	AN-L-Sens-B3-ACp-09 (gustatory pheromone neuron)	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	5088293	AN-L-Sens-B3-ACpl-10	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	5057916	AN-L-Sens-B3-VM-11	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	5120097	AN-L-Sens-B3-VM-12	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	5120990	AN-L-Sens-B3-VM-13	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	5095269	AN-L-Sens-B3-VM-14	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	5116861	AN-L-Sens-B3-VM-15	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	17248923	AN-R-motor-05	is_a	larval antennal-pharyngeal nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	882339	AN-R-motor-06	is_a	larval antennal-pharyngeal nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	15567384	AN-R-motor-07	is_a	larval antennal-pharyngeal nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	1218587	AN-R-motor-08	is_a	larval antennal-pharyngeal nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	875613	AN-R-motor-09	is_a	larval antennal-pharyngeal nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	3340561	AN-R-motor-10	is_a	larval antennal-pharyngeal nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	910064	AN-R-motor-11	is_a	larval antennal-pharyngeal nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	12901662	AN-R-motor-12	is_a	larval antennal-pharyngeal nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	873148	AN-R-motor-13	is_a	larval antennal-pharyngeal nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	855719	AN-R-motor-14	is_a	larval antennal-pharyngeal nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	853526	AN-R-motor-15	is_a	larval antennal-pharyngeal nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	873782	AN-R-motor-16	is_a	larval antennal-pharyngeal nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	865801	AN-R-motor-17	is_a	larval antennal-pharyngeal nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	937332	AN-R-motor-18	is_a	larval antennal-pharyngeal nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	3556191	AN-R-Sens-B1-ACa-03	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15559195	AN-R-Sens-B1-ACa-04	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15563553	AN-R-Sens-B1-ACa-05	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15574199	AN-R-Sens-B1-ACa-06	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15548694	AN-R-Sens-B1-ACa-10	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15586536	AN-R-Sens-B1-ACa-11	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15573381	AN-R-Sens-B1-ACa-12	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15561413	AN-R-Sens-B1-ACa-13	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15548107	AN-R-Sens-B1-ACa-17	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15564911	AN-R-Sens-B1-AVa-27	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15569561	AN-R-Sens-B1-AVa-28	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15564661	AN-R-Sens-B1-AVa-29	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15546924	AN-R-Sens-B1-AVa-30	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15543394	AN-R-Sens-B1-AVa-31	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	17951153	AN-R-Sens-B1-AVa-32	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15547732	AN-R-Sens-B1-AVa-33	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15574941	AN-R-Sens-B1-AVa-34	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15575232	AN-R-Sens-B1-AVa-35	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15575052	AN-R-Sens-B1-AVa-36	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15564882	AN-R-Sens-B1-AVa-37	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15574508	AN-R-Sens-B1-AVa-38	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15587166	AN-R-Sens-B1-AVa-39	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15576194	AN-R-Sens-B1-AVa-40	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15567466	AN-R-Sens-B1-AVa-41	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15542354	AN-R-Sens-B1-AVa-42	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15748726	AN-R-Sens-B1-AVa-43	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	945309	AN-R-Sens-B1-AVa-44	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	18231999	AN-R-Sens-B1-AVa-45	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15542199	AN-R-Sens-B2-?-00	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15508735	AN-R-Sens-B2-ACp-01	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15531033	AN-R-Sens-B2-ACp-03	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15531916	AN-R-Sens-B2-ACp-04	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	16341507	AN-R-Sens-B2-ACp-05	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15434200	AN-R-Sens-B2-ACp-06	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	16341966	AN-R-Sens-B2-ACp-07	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15409328	AN-R-Sens-B2-ACp-08	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15451084	AN-R-Sens-B2-ACp-09	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15458316	AN-R-Sens-B2-ACp-10	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15592696	AN-R-Sens-B2-ACp-11	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	3795498	AN-R-Sens-B2-ACp-12	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15573283	AN-R-Sens-B2-ACp-13	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15525858	AN-R-Sens-B2-ACp-14	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15530882	AN-R-Sens-B2-ACp-15	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15573331	AN-R-Sens-B2-ACp-16	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15398807	AN-R-Sens-B2-ACp-17	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15507888	AN-R-Sens-B2-ACp-20	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15522777	AN-R-Sens-B2-ACp-21	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15461769	AN-R-Sens-B2-ACp-22	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	18620885	AN-R-Sens-B2-ACp-23	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	7160160	AN-R-Sens-B2-AVp-01	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15533421	AN-R-Sens-B2-AVp-02	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15605657	AN-R-Sens-B2-AVp-03	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15505837	AN-R-Sens-B2-AVp-06	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15508475	AN-R-Sens-B2-VM-04	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15594038	AN-R-Sens-B2-VM-05	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	16362243	AN-R-Sens-B2-VM-07	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15445198	AN-R-Sens-B2-VM-08	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	3650600	AN-R-Sens-B3-ACal-01 (temp sensing right neuron alone)	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	18630153	AN-R-Sens-B3-ACal-02 (temp sensing right neuron together 2)	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	3487306	AN-R-Sens-B3-ACal-03 (temp sensing right neuron together 1)	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	4023881	AN-R-Sens-B3-ACal-04 (Non-ORN 2)	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	3985829	AN-R-Sens-B3-ACal-05 (Non-ORN 1)	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	4017089	AN-R-Sens-B3-ACal-06 (Degraded? Temp?)	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	3966683	AN-R-Sens-B3-ACal-07 (upstream of Multig. Olfactory PN 3) right	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	3822523	AN-R-Sens-B3-ACp-08	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	9853425	AN-R-Sens-B3-ACp-09 (gustatory pheromone neuron)	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	4097554	AN-R-Sens-B3-ACpl-10	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	16115501	AN-R-Sens-B3-VM-11	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	4096703	AN-R-Sens-B3-VM-12	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	4044654	AN-R-Sens-B3-VM-13	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	4030526	AN-R-Sens-B3-VM-14	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	4059758	AN-R-Sens-B3-VM-15	is_a	larval antennal-pharyngeal nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	17147698	MBE11a left	is_a	mushroom body extrinsic neuron	
+catmaid_l1em	8094859	MBE11a right	is_a	mushroom body extrinsic neuron	
+catmaid_l1em	8922644	MBE16 left	is_a	mushroom body extrinsic neuron	
+catmaid_l1em	8297018	MBE16 right	is_a	mushroom body extrinsic neuron	
+catmaid_l1em	16223537	MBE18 left	is_a	mushroom body extrinsic neuron	
+catmaid_l1em	15398730	MBE23 left	is_a	mushroom body extrinsic neuron	
+catmaid_l1em	6703240	MBE23 right	is_a	mushroom body extrinsic neuron	
+catmaid_l1em	16868923	MBE24b left	is_a	mushroom body extrinsic neuron	
+catmaid_l1em	17013073	MBE24b right	is_a	mushroom body extrinsic neuron	
+catmaid_l1em	15421363	MBE2a left	is_a	mushroom body extrinsic neuron	
+catmaid_l1em	15253921	MBE34 left	is_a	mushroom body extrinsic neuron	
+catmaid_l1em	4598109	MBE34 right	is_a	mushroom body extrinsic neuron	
+catmaid_l1em	9109799	MBE35 left	is_a	mushroom body extrinsic neuron	
+catmaid_l1em	9074101	MBE35 right	is_a	mushroom body extrinsic neuron	
+catmaid_l1em	16846805	MBE5b left	is_a	mushroom body extrinsic neuron	
+catmaid_l1em	18028397	MBE5b right	is_a	mushroom body extrinsic neuron	
+catmaid_l1em	14082322	MBE9b left	is_a	mushroom body extrinsic neuron	
+catmaid_l1em	7840791	MBE9b right	is_a	mushroom body extrinsic neuron	
+catmaid_l1em	8055671	MN-L-Sens-B1-ACpl-01	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15698623	MN-L-Sens-B1-VM-02	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15714330	MN-L-Sens-B1-VM-03	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15700147	MN-L-Sens-B1-VM-04	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15714173	MN-L-Sens-B1-VM-05	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	4338596	MN-L-Sens-B2-ACp-01	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15716701	MN-L-Sens-B2-ACp-02	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15716309	MN-L-Sens-B2-ACp-03	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15715643	MN-L-Sens-B2-ACp-04	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15716094	MN-L-Sens-B2-ACp-05	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	12260696	MN-L-Sens-B2-ACp-06	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	11745381	MN-L-Sens-B2-ACp-07	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15938337	MN-L-Sens-B2-ACp-08	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15690093	MN-L-Sens-B2-ACp-09	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15679577	MN-L-Sens-B2-ACp-10	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15674262	MN-L-Sens-B2-ACp-11 (Olfactory Gustatory connector 2)	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15689373	MN-L-Sens-B2-ACp-12	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15716127	MN-L-Sens-B2-ACp-13	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15686512	MN-L-Sens-B2-ACp-14	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	11736972	MN-L-Sens-B2-ACp-15	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	12073881	MN-L-Sens-B2-ACp-16	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	18934019	MN-L-Sens-B2-ACp-17	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15677323	MN-L-Sens-B2-ACp-18	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15680093	MN-L-Sens-B2-ACp-19	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15688358	MN-L-Sens-B2-ACp-20	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15681740	MN-L-Sens-B2-ACp-21	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15673867	MN-L-Sens-B2-ACp-22	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15714639	MN-L-Sens-B2-ACpl-01 (Awesome MN sensory 2)	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15716934	MN-L-Sens-B2-ACpl-02 (Awesome MN sensory 1)	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15673925	MN-L-Sens-B2-ACpl-03	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	9808022	MN-L-Sens-B2-AVp-01	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15717426	MN-L-Sens-B2-AVp-02	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15715151	MN-L-Sens-B2-VM-01	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15674083	MN-L-Sens-B2-VM-02	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15680710	MN-L-Sens-B2-VM-03	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15715796	MN-L-Sens-B2-VM-04	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15677030	MN-L-Sens-B2-VM-05	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15690955	MN-L-Sens-B2-VM-06	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15711222	MN-L-Sens-B2-VM-07	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15679484	MN-L-Sens-B2-VM-08	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15678441	MN-L-Sens-B2-VM-09	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15714845	MN-L-Sens-B2-VM-10	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15690392	MN-L-Sens-B2-VM-11	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15678849	MN-L-Sens-B2-VM-12	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15712024	MN-L-Sens-B2-VM-13	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15690711	MN-L-Sens-B2-VM-14	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15717229	MN-L-Sens-B2-VM-15	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15711289	MN-L-Sens-B2-VM-16	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15713374	MN-L-Sens-B2-VM-17	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15713206	MN-L-Sens-B2-VM-18	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	3267019	MN-L-Sens-B2-VM-19	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15730680	MN-L-Sens-B2-VM-20	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15678833	MN-L-Sens-B2-VM-21	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15675901	MN-L-Sens-B2-VM-22	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15699715	MN-L-Sens-B2-VM-23	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	19180425	MN-L-Sens-B2-VM-24	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15723727	MN-L-Sens-B3-ACp-01	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	16288872	MN-L-Sens-B3-ACp-02	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	7556564	MN-L-Sens-B3-ACp-03	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	3054101	MN-L-Sens-B3-ACp-04	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15717736	MN-L-Sens-B3-ACp-05	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15718275	MN-L-Sens-B3-ACp-06 (J Neuron)	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15717935	MN-L-Sens-B3-ACpl-07	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15724385	MN-L-Sens-B3-AVp-01	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15723479	MN-L-Sens-B3-AVp-02	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	3032520	MN-L-Sens-B3-AVp-03	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15727304	MN-L-Sens-B3-VM-04	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15730645	MN-L-Sens-B3-VM-05	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15724520	MN-L-Sens-B3-VM-06	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15725673	MN-L-Sens-B3-VM-07	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15724636	MN-L-Sens-B3-VM-08	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15725545	MN-L-Sens-B3-VM-09	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15725127	MN-L-Sens-B3-VM-10	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15724175	MN-L-Sens-B3-VM-11	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	3036249	MN-L-Sens-B3-VM-12	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15728017	MN-L-Sens-B3-VM-13	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	3050645	MN-L-Sens-B3-VM-14	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	5448622	MN-R-Sens-B1-ACpl-01	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15594123	MN-R-Sens-B1-VM-02	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15638742	MN-R-Sens-B1-VM-03	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15743905	MN-R-Sens-B1-VM-04	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15671481	MN-R-Sens-B1-VM-05	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15609427	MN-R-Sens-B2-?-00	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15652529	MN-R-Sens-B2-ACp-01	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15556868	MN-R-Sens-B2-ACp-02	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15736147	MN-R-Sens-B2-ACp-03	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	16341399	MN-R-Sens-B2-ACp-04	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15615589	MN-R-Sens-B2-ACp-05	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15589362	MN-R-Sens-B2-ACp-06	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15653432	MN-R-Sens-B2-ACp-07	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15595607	MN-R-Sens-B2-ACp-08	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15615042	MN-R-Sens-B2-ACp-09	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	18625446	MN-R-Sens-B2-ACp-10	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15556081	MN-R-Sens-B2-ACp-11	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15588691	MN-R-Sens-B2-ACp-12	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	3071301	MN-R-Sens-B2-ACp-13	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	12253020	MN-R-Sens-B2-ACp-14	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15595823	MN-R-Sens-B2-ACp-15	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15615081	MN-R-Sens-B2-ACp-16	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15609885	MN-R-Sens-B2-ACp-17	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	10934438	MN-R-Sens-B2-ACp-18	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15653288	MN-R-Sens-B2-ACp-19	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15588800	MN-R-Sens-B2-ACp-20	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15589411	MN-R-Sens-B2-ACp-21	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15651438	MN-R-Sens-B2-ACp-22	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15595950	MN-R-Sens-B2-ACpl-01 (Awesome MN sensory 2)	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15746421	MN-R-Sens-B2-ACpl-02 (Awesome MN sensory 1)	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15615776	MN-R-Sens-B2-ACpl-03	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15658013	MN-R-Sens-B2-AVp-01	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	8810739	MN-R-Sens-B2-AVp-02	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15653927	MN-R-Sens-B2-VM-01	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15611791	MN-R-Sens-B2-VM-02	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15629355	MN-R-Sens-B2-VM-03	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15606918	MN-R-Sens-B2-VM-04	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15656435	MN-R-Sens-B2-VM-05	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15617459	MN-R-Sens-B2-VM-06	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15607180	MN-R-Sens-B2-VM-07	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15610387	MN-R-Sens-B2-VM-08	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15611642	MN-R-Sens-B2-VM-09	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15615475	MN-R-Sens-B2-VM-10	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15615305	MN-R-Sens-B2-VM-11	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15618976	MN-R-Sens-B2-VM-12	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15620606	MN-R-Sens-B2-VM-13	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15762568	MN-R-Sens-B2-VM-14	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15629241	MN-R-Sens-B2-VM-15	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	18679889	MN-R-Sens-B2-VM-16	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15620432	MN-R-Sens-B2-VM-17	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15629888	MN-R-Sens-B2-VM-18	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15612241	MN-R-Sens-B2-VM-19	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15618756	MN-R-Sens-B2-VM-20	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	3562954	MN-R-Sens-B2-VM-21	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15615877	MN-R-Sens-B2-VM-22	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	18833414	MN-R-Sens-B2-VM-23	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	8199012	MN-R-Sens-B3-?-00	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15641926	MN-R-Sens-B3-ACp-01	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15639171	MN-R-Sens-B3-ACp-02	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15640893	MN-R-Sens-B3-ACp-03	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15639020	MN-R-Sens-B3-ACp-04	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	3199456	MN-R-Sens-B3-ACp-05	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15645825	MN-R-Sens-B3-ACp-06	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	3123905	MN-R-Sens-B3-ACpl-07	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15638968	MN-R-Sens-B3-AVp-01	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15640548	MN-R-Sens-B3-AVp-02	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15640425	MN-R-Sens-B3-AVp-03	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15672153	MN-R-Sens-B3-VM-04	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15637893	MN-R-Sens-B3-VM-05	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15638520	MN-R-Sens-B3-VM-06	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	18785124	MN-R-Sens-B3-VM-07	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15639275	MN-R-Sens-B3-VM-08	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15671848	MN-R-Sens-B3-VM-09	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15639548	MN-R-Sens-B3-VM-10	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15640724	MN-R-Sens-B3-VM-11	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15672957	MN-R-Sens-B3-VM-12	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15640567	MN-R-Sens-B3-VM-13	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15914721	MN-R-Sens-B3-VM-14	is_a	larval maxillary-labial nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	8208555	MxN-L-motor-01 - SGDO	is_a	larval maxillary-labial nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	8105236	MxN-L-motor-02 - LR-A	is_a	larval maxillary-labial nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	8092228	MxN-L-motor-03 - LR-B	is_a	larval maxillary-labial nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	5453143	MxN-L-motor-04 - MHE-A	is_a	larval maxillary-labial nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	5450669	MxN-L-motor-05 - MHE-B	is_a	larval maxillary-labial nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	5452286	MxN-L-motor-06 - MHE-C	is_a	larval maxillary-labial nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	8061047	MxN-L-motor-07 - MHD-A	is_a	larval maxillary-labial nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	8084863	MxN-L-motor-08 - MHD-B	is_a	larval maxillary-labial nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	8435311	MxN-L-motor-09 - MHD-C	is_a	larval maxillary-labial nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	8149490	MxN-R-motor-01 - SGDO	is_a	larval maxillary-labial nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	8167773	MxN-R-motor-02 - LR-A	is_a	larval maxillary-labial nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	8177700	MxN-R-motor-03 - LR-B	is_a	larval maxillary-labial nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	5435750	MxN-R-motor-04 - MHE-A	is_a	larval maxillary-labial nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	5434746	MxN-R-motor-05 - MHE-B	is_a	larval maxillary-labial nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	5437704	MxN-R-motor-06 - MHE-C	is_a	larval maxillary-labial nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	8134938	MxN-R-motor-07 - MHD-A	is_a	larval maxillary-labial nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	5440613	MxN-R-motor-08 - MHD-B	is_a	larval maxillary-labial nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	5439602	MxN-R-motor-09 - MHD-C	is_a	larval maxillary-labial nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	2391092	PaN-L-motor-01	is_a	larval prothoracic accessory nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	38147	PaN-L-motor-02	is_a	larval prothoracic accessory nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	2495308	PaN-L-Sens-B1-VM-01	is_a	larval prothoracic accessory nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	2668719	PaN-L-Sens-B1-VM-02	is_a	larval prothoracic accessory nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	2669832	PaN-L-Sens-B1-VM-03	is_a	larval prothoracic accessory nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	2505675	PaN-L-Sens-B1-VM-04	is_a	larval prothoracic accessory nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	2799380	PaN-L-Sens-B2-VM-01	is_a	larval prothoracic accessory nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	2524026	PaN-L-Sens-B2-VM-02	is_a	larval prothoracic accessory nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	2220573	PaN-R-motor-01	is_a	larval prothoracic accessory nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	8574714	PaN-R-motor-02	is_a	larval prothoracic accessory nerve motor neuron	FlyBase:FBrf0240975
+catmaid_l1em	2305234	PaN-R-Sens-B1-VM-01	is_a	larval prothoracic accessory nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	2268281	PaN-R-Sens-B1-VM-02	is_a	larval prothoracic accessory nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	16123983	PaN-R-Sens-B1-VM-03	is_a	larval prothoracic accessory nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	16124048	PaN-R-Sens-B1-VM-04	is_a	larval prothoracic accessory nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	16124082	PaN-R-Sens-B1-VM-05	is_a	larval prothoracic accessory nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	2302816	PaN-R-Sens-B2-VM-01	is_a	larval prothoracic accessory nerve sensory neuron	FlyBase:FBrf0240975
+catmaid_l1em	15995012	SE0 L1	is_a	larval serotonergic SE0 neuron	FlyBase:FBrf0240975
+catmaid_l1em	15769638	SE0 L2	is_a	larval serotonergic SE0 neuron	FlyBase:FBrf0240975
+catmaid_l1em	15983118	SE0 L3	is_a	larval serotonergic SE0 neuron	FlyBase:FBrf0240975
+catmaid_l1em	15995309	SE0 L4	is_a	larval serotonergic SE0 neuron	FlyBase:FBrf0240975
+catmaid_l1em	896562	SE0 R1	is_a	larval serotonergic SE0 neuron	FlyBase:FBrf0240975
+catmaid_l1em	887905	SE0 R2	is_a	larval serotonergic SE0 neuron	FlyBase:FBrf0240975
+catmaid_l1em	15564695	SE0 R3	is_a	larval serotonergic SE0 neuron	FlyBase:FBrf0240975
+catmaid_l1em	15573428	SE0 R4	is_a	larval serotonergic SE0 neuron	FlyBase:FBrf0240975
