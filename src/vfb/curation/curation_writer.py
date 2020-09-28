@@ -235,35 +235,50 @@ class NewMetaDataWriter(CurationWriter):
         # with dummy method on parent (meta) class
         # I'm sure this isn't good practice, but it makes for efficient
         # (non redundant) specification of write_rows method.
-        def kwarg_proc(rw):
-            mapping = {'xref_db': 'subject_external_db',
-                       'xref_acc': 'subject_external_id',
-                       'id': 'subject_id',
-                       'label': 'subject_name'}
+        def kwarg_proc(rw, typ):
+            if not (typ in ['object', 'subject']):
+                # Throw exception
+                warnings.warn('')
+            mapping = {'xref_db': typ+'_external_db',
+                       'xref_acc': typ+'_external_id',
+                       'id': typ+'_id',
+                       'label': typ+'_name'}
             return {k: rw[v] for k, v in mapping.items() if v in list(rw.keys())}
 
-        s = VfbInd(**kwarg_proc(row))
+        s = VfbInd(**kwarg_proc(row, 'subject'))
         edge_annotations = self._generate_edge_annotations(row)
         # TODO: Refactor this to work from config
         r = row['relation']
-        o = row['object']
+
+        if ('object_external_id' in row.keys()) and ('object_external_db') in row.keys():
+            ind = VfbInd(**kwarg_proc(row, 'object'))
+            object_id = self.get_ind_id(ind)
+        elif 'object' in row.keys():
+            o = escape_string_for_neo(row['object'])
+            if not (o in self.object_lookup[r].keys()):
+                self.warn(context_name="row", context=dict(row),
+                          message="Not attempting to write row due to"
+                                  " invalid object '%s'." % row['object'])
+                return False
+            else:
+                object_id = self.object_lookup[r][o]
+        else:
+            warnings.warn('')
+            # Log exception
+            return False
         edge_annotations = edge_annotations
         if r not in self.rels:
             self.warn(context_name="row", context=dict(row),
                       message="Not attempting to write row due to"
                               " invalid relation '%s'." % r)
             return False
-        o = escape_string_for_neo(o)
-        if not (o in self.object_lookup[r].keys()):
-            self.warn(context_name="row", context=dict(row),
-                      message="Not attempting to write row due to"
-                              " invalid object '%s'." % row['object'])
-            return False
+
         if edge_annotations is None:
             edge_annotations = {}
-        subject_id = self.get_subject_id(s)
-        object_id = self.object_lookup[r][o]
+        subject_id = self.get_ind_id(s)
         if subject_id and object_id:
+            # It should be illegal to add is_a between inds.
+            # This is prevented by ew ...
             if r == 'is_a':
                 self.ew.add_named_type_ax(s=subject_id,
                                           o=object_id,
@@ -286,7 +301,7 @@ class NewMetaDataWriter(CurationWriter):
         else:
             return False
 
-    def get_subject_id(self, s: VfbInd):
+    def get_ind_id(self, s: VfbInd):
         if s.xref_db and s.xref_acc:
             # query to find id
             query = "MATCH (s:Site)<-[r:hasDbXref]-(i:Individual) " \

@@ -16,6 +16,14 @@ subject_external_id:
   compulsory: False
   description: Identifier in external DB (specified in subject_external_db field).
 
+object_external_db:
+  compulsory: False
+  description: VFB DataBase ID for external DB
+
+oject_external_id:
+  compulsory: False
+  description: Identifier in external DB (specified in subject_external_db field).
+
 subject_name:
   compulsory: False
   description: > 
