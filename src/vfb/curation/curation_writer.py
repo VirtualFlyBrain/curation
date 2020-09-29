@@ -32,6 +32,7 @@ class VfbInd:
     _stat: bool = True
 
     def __post_init__(self):
+        if type(self.xref_acc) is float: self.xref_acc = int(self.xref_acc)
         self.validate()
 
     def validate(self):
@@ -235,24 +236,30 @@ class NewMetaDataWriter(CurationWriter):
         # with dummy method on parent (meta) class
         # I'm sure this isn't good practice, but it makes for efficient
         # (non redundant) specification of write_rows method.
-        def kwarg_proc(rw, typ):
-            if not (typ in ['object', 'subject']):
-                # Throw exception
-                warnings.warn('')
-            mapping = {'xref_db': typ+'_external_db',
-                       'xref_acc': typ+'_external_id',
-                       'id': typ+'_id',
-                       'label': typ+'_name'}
+        def subject_kwarg_proc(rw):
+            mapping = {'xref_db': 'subject_external_db',
+                       'xref_acc': 'subject_external_id',
+                       'id': 'subject_id',
+                       'label': 'subject_name'}
             return {k: rw[v] for k, v in mapping.items() if v in list(rw.keys())}
-
-        s = VfbInd(**kwarg_proc(row, 'subject'))
+        def object_kwarg_proc(rw):
+            mapping = {'xref_db': 'object_external_db',
+                       'xref_acc': 'object_external_id',
+                       'id': 'ind_object_id',
+                       'label': 'object'}
+            return {k: rw[v] for k, v in mapping.items() if v in list(rw.keys())}
+        s = VfbInd(**subject_kwarg_proc(row))
         edge_annotations = self._generate_edge_annotations(row)
         # TODO: Refactor this to work from config
         r = row['relation']
-
+        o_is_ind = False
         if ('object_external_id' in row.keys()) and ('object_external_db') in row.keys():
-            ind = VfbInd(**kwarg_proc(row, 'object'))
-            object_id = self.get_ind_id(ind)
+            ind = VfbInd(**object_kwarg_proc(row))
+            object_id = self.get_ind_id(ind, 'object')
+            o_is_ind = True
+        elif 'ind_object_id' in row.keys():
+            object_id = row['ind_object_id']
+            o_is_ind = True
         elif 'object' in row.keys():
             o = escape_string_for_neo(row['object'])
             if not (o in self.object_lookup[r].keys()):
@@ -263,8 +270,8 @@ class NewMetaDataWriter(CurationWriter):
             else:
                 object_id = self.object_lookup[r][o]
         else:
-            warnings.warn('')
-            # Log exception
+            warnings.warn("Don't know how to process %s" % str(row))
+            #TODO - properly log exception
             return False
         edge_annotations = edge_annotations
         if r not in self.rels:
@@ -275,19 +282,33 @@ class NewMetaDataWriter(CurationWriter):
 
         if edge_annotations is None:
             edge_annotations = {}
-        subject_id = self.get_ind_id(s)
+        subject_id = self.get_ind_id(s, 'subject')
         if subject_id and object_id:
-            # It should be illegal to add is_a between inds.
-            # This is prevented by ew ...
+            # Need to know OWL ENTITY TYPES TO CHOOSE APPROPRIATE METHOD!
+            # Also - disturbing that this fails silently.
+
             if r == 'is_a':
-                self.ew.add_named_type_ax(s=subject_id,
+                if o_is_ind:
+                    self.warn(context_name="object",
+                              context=o,
+                              message="You can't classify an individual with an individual")  # Better make exception ?
+                    self.stat = False  # Better try except here?
+                else:
+                    self.ew.add_named_type_ax(s=subject_id,
                                           o=object_id,
                                           edge_annotations=edge_annotations,
                                           match_on='short_form')
                 return True
             elif r in self.relation_lookup.keys():
                 relation_id = self.relation_lookup[r]
-                self.ew.add_anon_type_ax(s=subject_id,
+                if o_is_ind:
+                    self.ew.add_fact(s=subject_id,
+                                     r=relation_id,
+                                     o=object_id,
+                                     edge_annotations=edge_annotations,
+                                     match_on='short_form')
+                else:
+                    self.ew.add_anon_type_ax(s=subject_id,
                                          r=relation_id,
                                          o=object_id,
                                          edge_annotations=edge_annotations,
@@ -301,56 +322,76 @@ class NewMetaDataWriter(CurationWriter):
         else:
             return False
 
-    def get_ind_id(self, s: VfbInd):
-        if s.xref_db and s.xref_acc:
+    def get_ind_id(self, i: VfbInd, context):
+        if i.xref_db and i.xref_acc:
             # query to find id
             query = "MATCH (s:Site)<-[r:hasDbXref]-(i:Individual) " \
                     "WHERE s.short_form = '%s' " \
                     "AND r.accession = '%s'" \
-                    "RETURN i.short_form as subject_id" % (s.xref_db, s.xref_acc)
+                    "RETURN i.short_form as vfb_id" % (i.xref_db, i.xref_acc)
             q = self.ew.nc.commit_list([query])
             if not q:
-                self.warn(context_name="Subject individual",
-                          context=s,
+                self.warn(context_name="%s individual" % context,
+                          context=i,
                           message="VFB subject query fail") # Better make exception ?
                 self.stat = False  # Better try except here?
             else:
                 r = results_2_dict_list(q)
                 if len(r) == 1:
-                    return r[0]['subject_id']
+                    return r[0]['vfb_id']
                 elif not r:
-                    self.warn(context_name='Subject_individual',
-                              context=s,
+                    self.warn(context_name='%s_individual' % context,
+                              context=i,
                               message="Unknown xref: %s:%s"
-                                      "" % (s.xref_db, s.xref_acc))
+                                      "" % (i.xref_db, i.xref_acc))
                     self.stat = False
                 else:
-                    self.warn(context_name='Subject_individual',
-                              context=s,
+                    self.warn(context_name='%s_individual' % context,
+                              context=i,
                               message='Multiple matches for xref: %s:%s - %s'
-                                      '' % (s.xref_db,
-                                            s.xref_acc,
-                                            str([x['subject_id'] for x in r])))
+                                      '' % (i.xref_db,
+                                            i.xref_acc,
+                                            str([x['vfb_id'] for x in r])))
                     self.stat = False
 
-        elif s.label:
+        elif i.id:
+            if i.label:
             # subject label used to double-check against DB when ID provided.
             # Is this the behavior we want?
-            if s.label in self.object_lookup['subject'].keys():
-                id = self.object_lookup['subject'][s.label]
-                if id == s.id:
-                    return s.id
+            # TODO - Fix for new object schema
+                query = """MATCH (i:Individual { short_form: '%s'})
+                           RETURN i.label as name""" % i.id
+                q = self.ew.nc.commit_list([query])
+                if not q:
+                    self.warn(context_name="%s individual" % context,
+                                context=i,
+                                message="VFB %s query fail" % context)  # Better make exception ?
+                    self.stat = False
                 else:
-                    warnings.warn("You provided label: (%s) and ID: (%s), "
-                                  "but in the KB this label matches %s"
-                                  "" % (s.label, s.id, id))
-                    return False
+                    r = results_2_dict_list(q)
+                    if len(r) == 1:
+                        name = r[0]['name']
+                    elif not r:
+                        self.warn(context_name='%s_individual' % context,
+                                  context=i,
+                                  message="Unknown individual: %s"
+                                          "" % i.id)
+                        self.stat = False
+                        return False
+                    if name == i.label:
+                        return i.id
+                    else:
+                        self.warn(context_name="%s individual" % context,
+                                  context=i,
+                                  message="You provided label: (%s) and ID: (%s), " \
+                                          "but in the KB this IS matches %s " \
+                                          "" % (i.label, i.id, r[0]['name']))
+                        self.stat = False
             else:
-                warnings.warn("Unknown label (%s) provided id (%s)"
-                              "" % (s.label, s.id))
-        else:
-            # Allows for bare IDs. But should we?
-            return s.id
+                self.warn(context_name="%s individual" % context,
+                          context=i,
+                          message="No name provided, so adding relationship to individual without name/ID crosscheck")
+                return i.id
 
 class NewImageWriter(CurationWriter):
 

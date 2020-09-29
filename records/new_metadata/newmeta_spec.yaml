@@ -16,14 +16,6 @@ subject_external_id:
   compulsory: False
   description: Identifier in external DB (specified in subject_external_db field).
 
-object_external_db:
-  compulsory: False
-  description: VFB DataBase ID for external DB
-
-oject_external_id:
-  compulsory: False
-  description: Identifier in external DB (specified in subject_external_db field).
-
 subject_name:
   compulsory: False
   description: > 
@@ -46,37 +38,69 @@ relation:
   multiple: False
   
 object:  
-  compulsory: True
-  description: > 
+  compulsory: False
+  description: The name of a *class* that is the object of the relationship being added.
   uniq: False
   type: Entity
   multiple: False
 
+ind_object_id:
+  compulsory: False
+  description: >
+      A valid short_form identifier for an object, where that object is an individual. These are typically VFB IDs.
+  uniq: False
+  type: Entity
+  multiple: False
+
+ind_object_name:
+  compulsory: False
+  description: >
+      A valid name for the object of the relationship being addded, where that object is an individual.
+      This is used in conjunction with 'ind_object_id' to cross-check the term being added.
+      It cannot be used on its own to to refer to an object to be added.
+  uniq: False
+  type: Entity
+  multiple: False
+
+object_external_db:
+  compulsory: False
+  description: VFB DataBase ID for external DB
+
+object_external_id:
+  compulsory: False
+  description: Identifier in external DB (specified in subject_external_db field).
+
 comment:
   description: >
-    Free text comment on asserted relationship.  Typically used to describe evidence for assertion.
+      Free text comment on asserted relationship.  Typically used to describe evidence for assertion.
   edge_annotation: true
   uniq: False
   multiple: False
 
 pub:
   description: >
-    An identifier for a supporting publication - either a DOI (for preprints) or a FlyBase FBrf.
+      An identifier for a supporting publication - either a DOI (for preprints) or a FlyBase FBrf.
   type: pub
   edge_annotation: true
 
 upstream:
-  description: Number of postsynaptic densities annotated on a neuron in some specified region. Use this to annotate has_postsynaptic_terminal_in relationships.
+  description: >
+     Number of postsynaptic densities annotated on a neuron in some specified region.
+     Use this to annotate has_postsynaptic_terminal_in relationships.
   type: int
   edge_annotation: true
 
 downstream:
-  description: Number of downstream synaptic connections (PSDs postsynaptic to the neuron's T-bars) annotated on a neuron in some specified region.  Use this to annotate 'has_presynaptic_terminal_in' relationships.
+  description: >
+     Number of downstream synaptic connections (PSDs postsynaptic to the neuron's T-bars)
+     annotated on a neuron in some specified region.  Use this to annotate 'has_presynaptic_terminal_in' relationships.
   type: int
   edge_annotation: true
 
 Tbars:
-  description: Number of T-bars annotated on a neuron in some specified region. Use this to annotate 'has_presynaptic_terminal_in' relationships.
+  description: >
+     Number of T-bars annotated on a neuron in some specified region.
+     Use this to annotate 'has_presynaptic_terminal_in' relationships.
   type: int
   edge_annotation: true
 
