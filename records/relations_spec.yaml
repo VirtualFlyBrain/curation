@@ -90,6 +90,12 @@ has_soma_location:
     regex: "FBbt_.+"
     labels: ['Class']
 
+synapsed_to:
+  description: >
+    Subject and object must be neurons. Use this relation to record synaptic connectivity between individual neurons
+    from data.
+  short_form: RO_0002120
+  type: objectProperty
 
 
 
