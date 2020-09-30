@@ -20,10 +20,18 @@ def load_recs(path_to_specs, path_to_recs, endpoint, usr, pwd, commit=False, ver
         print("Test loading %s" % r.cr.path)
         if r.gross_type == 'new_images':
             niw = NewImageWriter(endpoint, usr, pwd, r, import_file_path=import_filepath)  # niw rolls appropriate dicts
+            if not niw.stat:
+                stat = False
+                # switch this to logging
+                warnings.warn("%s is not a valid record, not attempting to write" % str(r.cr))
+                continue
             if 'Start' in r.y.keys():
                 niw.write_rows(start=r.y['Start'], verbose=verbose)
             else:
                 niw.write_rows(verbose=verbose)
+            if not niw.stat:
+                stat = False
+                continue
             if commit:
                 niw.commit(verbose=verbose)
             if not niw.stat:
@@ -31,14 +39,19 @@ def load_recs(path_to_specs, path_to_recs, endpoint, usr, pwd, commit=False, ver
 
         elif r.gross_type == 'new_metadata':
             nmw = NewMetaDataWriter(endpoint, usr, pwd, r)  # nmw rolls appropriate dicts
+            if not nmw.stat:
+                stat = False
+                # switch this to logging
+                warnings.warn("%s is not a valid record, not attempting to write" % str(r.cr))
+                continue
             nmw.write_rows(verbose=verbose)
+            if not nmw.stat:
+                stat = False
+                continue
             if commit:
                 nmw.commit(verbose=verbose)
-            # check relations !!!
-            # roll lookups (from configs)
-            # Check FlyBase (from configs)
-            # load rows (wrap rolling VfbInd)
-            if not nmw.stat: stat = False
+            if not nmw.stat:
+                stat = False
 
         elif r.gross_type == 'new_dataset':
             print()  # Do stuff # STUB
