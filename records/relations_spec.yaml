@@ -13,7 +13,7 @@ part_of:
   type: objectProperty
   restriction:
     field: short_form
-    regex: "FBbt_.+"
+    regex: "(FBbt|VFB)_.+"
     labels: ['Class']
 
 expresses:
@@ -31,7 +31,7 @@ overlaps:
   short_form: RO_0002131
   restriction:
     field: short_form
-    regex: "FBbt_.+"
+    regex: "(FBbt|VFB)_.+"
     labels: ['Class']
 
 has_synaptic_terminal_in:
@@ -42,7 +42,7 @@ has_synaptic_terminal_in:
   short_form: RO_0002130
   restriction:
     field: short_form
-    regex: "FBbt_.+"
+    regex: "(FBbt|VFB)_.+"
     labels: ['Class']
 
 has_postsynaptic_terminal_in:
@@ -54,7 +54,7 @@ has_postsynaptic_terminal_in:
   type: objectProperty
   restriction:
     field: short_form
-    regex: "FBbt_.+"
+    regex: "(FBbt|VFB)_.+"
     labels: ['Class']
 
 has_presynaptic_terminal_in:
@@ -66,7 +66,7 @@ has_presynaptic_terminal_in:
   type: objectProperty
   restriction:
     field: short_form
-    regex: "FBbt_.+"
+    regex: "(FBbt|VFB)_.+"
     labels: ['Class']
 
 develops_from:
@@ -90,6 +90,12 @@ has_soma_location:
     regex: "FBbt_.+"
     labels: ['Class']
 
+synapsed_to:
+  description: >
+    Subject and object must be neurons. Use this relation to record synaptic connectivity between individual neurons
+    from data.
+  short_form: RO_0002120
+  type: objectProperty
 
 
 
