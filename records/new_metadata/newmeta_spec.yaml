@@ -104,13 +104,13 @@ Tbars:
   type: int
   edge_annotation: true
  
-wheight:
+weight:
   description: >
      Use this to annotate synapsed_to relationships with the number of downstream PSDs.
   type: int
   edge_annotation: true
   
-wheight_per_roi:
+weight_per_roi:
   description: >
      Use this to annotate synapsed_to relationships with list of JSON blobs recording the number of downstream PSDs per ROI.
      JSON should have the structure: { "ROI": <fu>, "weight": <int> }
