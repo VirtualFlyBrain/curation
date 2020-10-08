@@ -1,4 +1,9 @@
 filename	synonyms	is_a	part_of	label
+a\'1(R)	a\'1(R)	mushroom body alpha\' lobe slice 1	adult brain	a\'1(R) on JRC_FlyEM_Hemibrain
+a\'2(R)	a\'2(R)	mushroom body alpha\' lobe slice 2	adult brain	a\'2(R) on JRC_FlyEM_Hemibrain
+b\'1(R)	b\'1(R)	mushroom body beta\' lobe slice 1	adult brain	b\'1(R) on JRC_FlyEM_Hemibrain
+b\'2(R)	b\'2(R)	mushroom body beta\' lobe slice 2	adult brain	b\'2(R) on JRC_FlyEM_Hemibrain
+a\'3(R)	a\'3(R)	mushroom body alpha\' lobe slice 3	adult brain	a\'3(R) on JRC_FlyEM_Hemibrain
 NO	NO	nodulus	adult brain	NO on JRC_FlyEM_Hemibrain
 NO(L)	NO(L)	nodulus	adult brain	NO(L) on JRC_FlyEM_Hemibrain
 NO(R)	NO(R)	nodulus	adult brain	NO(R) on JRC_FlyEM_Hemibrain
