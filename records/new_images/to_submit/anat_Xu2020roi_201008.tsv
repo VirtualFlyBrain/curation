@@ -2,11 +2,11 @@ filename	label	is_a	part_of	Curator	DataSet	Template	Imaging_type	synonyms
 NO	NO	nodulus	adult brain	adm71	Xu2020roi	JRC_FlyEM_Hemibrain_c	computer graphic	NO on JRC_FlyEM_Hemibrain
 NO(L)	NO(L)	nodulus	adult brain	adm71	Xu2020roi	JRC_FlyEM_Hemibrain_c	computer graphic	NO(L) on JRC_FlyEM_Hemibrain
 NO(R)	NO(R)	nodulus	adult brain	adm71	Xu2020roi	JRC_FlyEM_Hemibrain_c	computer graphic	NO(R) on JRC_FlyEM_Hemibrain
-a'1(R)	a'1(R)	mushroom body alpha\' lobe slice 1	adult brain	adm71	Xu2020roi	JRC_FlyEM_Hemibrain_c	computer graphic	a'1(R) on JRC_FlyEM_Hemibrain
-a'2(R)	a'2(R)	mushroom body alpha\' lobe slice 2	adult brain	adm71	Xu2020roi	JRC_FlyEM_Hemibrain_c	computer graphic	a'2(R) on JRC_FlyEM_Hemibrain
-a'3(R)	a'3(R)	mushroom body alpha\' lobe slice 3	adult brain	adm71	Xu2020roi	JRC_FlyEM_Hemibrain_c	computer graphic	a'3(R) on JRC_FlyEM_Hemibrain
-a'L(L)	a'L(L)	adult mushroom body alpha\'-lobe	adult brain	adm71	Xu2020roi	JRC_FlyEM_Hemibrain_c	computer graphic	a'L(L) on JRC_FlyEM_Hemibrain
-a'L(R)	a'L(R)	adult mushroom body alpha\'-lobe	adult brain	adm71	Xu2020roi	JRC_FlyEM_Hemibrain_c	computer graphic	a'L(R) on JRC_FlyEM_Hemibrain
+a\'1(R)	a\'1(R)	mushroom body alpha\' lobe slice 1	adult brain	adm71	Xu2020roi	JRC_FlyEM_Hemibrain_c	computer graphic	a'1(R) on JRC_FlyEM_Hemibrain
+a\'2(R)	a\'2(R)	mushroom body alpha\' lobe slice 2	adult brain	adm71	Xu2020roi	JRC_FlyEM_Hemibrain_c	computer graphic	a'2(R) on JRC_FlyEM_Hemibrain
+a\'3(R)	a\'3(R)	mushroom body alpha\' lobe slice 3	adult brain	adm71	Xu2020roi	JRC_FlyEM_Hemibrain_c	computer graphic	a'3(R) on JRC_FlyEM_Hemibrain
+a\'L(L)	a\'L(L)	adult mushroom body alpha\'-lobe	adult brain	adm71	Xu2020roi	JRC_FlyEM_Hemibrain_c	computer graphic	a'L(L) on JRC_FlyEM_Hemibrain
+a\'L(R)	a\'L(R)	adult mushroom body alpha\'-lobe	adult brain	adm71	Xu2020roi	JRC_FlyEM_Hemibrain_c	computer graphic	a'L(R) on JRC_FlyEM_Hemibrain
 a1(R)	a1(R)	mushroom body alpha lobe slice 1	adult brain	adm71	Xu2020roi	JRC_FlyEM_Hemibrain_c	computer graphic	a1(R) on JRC_FlyEM_Hemibrain
 a2(R)	a2(R)	mushroom body alpha lobe slice 2	adult brain	adm71	Xu2020roi	JRC_FlyEM_Hemibrain_c	computer graphic	a2(R) on JRC_FlyEM_Hemibrain
 a3(R)	a3(R)	mushroom body alpha lobe slice 3	adult brain	adm71	Xu2020roi	JRC_FlyEM_Hemibrain_c	computer graphic	a3(R) on JRC_FlyEM_Hemibrain
@@ -87,10 +87,10 @@ AL-VP2(R)	AL-VP2(R)	antennal lobe glomerulus VP2	adult brain	adm71	Xu2020roi	JRC
 AL-VP3(R)	AL-VP3(R)	antennal lobe glomerulus VP3	adult brain	adm71	Xu2020roi	JRC_FlyEM_Hemibrain_c	computer graphic	AL-VP3(R) on JRC_FlyEM_Hemibrain
 AL-VP4(R)	AL-VP4(R)	antennal lobe glomerulus VP4	adult brain	adm71	Xu2020roi	JRC_FlyEM_Hemibrain_c	computer graphic	AL-VP4(R) on JRC_FlyEM_Hemibrain
 AL-VP5(R)	AL-VP5(R)	antennal lobe glomerulus VP5	adult brain	adm71	Xu2020roi	JRC_FlyEM_Hemibrain_c	computer graphic	AL-VP5(R) on JRC_FlyEM_Hemibrain
-b'1(R)	b'1(R)	mushroom body beta\' lobe slice 1	adult brain	adm71	Xu2020roi	JRC_FlyEM_Hemibrain_c	computer graphic	b'1(R) on JRC_FlyEM_Hemibrain
-b'2(R)	b'2(R)	mushroom body beta\' lobe slice 2	adult brain	adm71	Xu2020roi	JRC_FlyEM_Hemibrain_c	computer graphic	b'2(R) on JRC_FlyEM_Hemibrain
-b'L(L)	b'L(L)	adult mushroom body beta\'-lobe	adult brain	adm71	Xu2020roi	JRC_FlyEM_Hemibrain_c	computer graphic	b'L(L) on JRC_FlyEM_Hemibrain
-b'L(R)	b'L(R)	adult mushroom body beta\'-lobe	adult brain	adm71	Xu2020roi	JRC_FlyEM_Hemibrain_c	computer graphic	b'L(R) on JRC_FlyEM_Hemibrain
+b\'1(R)	b\'1(R)	mushroom body beta\' lobe slice 1	adult brain	adm71	Xu2020roi	JRC_FlyEM_Hemibrain_c	computer graphic	b'1(R) on JRC_FlyEM_Hemibrain
+b\'2(R)	b\'2(R)	mushroom body beta\' lobe slice 2	adult brain	adm71	Xu2020roi	JRC_FlyEM_Hemibrain_c	computer graphic	b'2(R) on JRC_FlyEM_Hemibrain
+b\'L(L)	b\'L(L)	adult mushroom body beta\'-lobe	adult brain	adm71	Xu2020roi	JRC_FlyEM_Hemibrain_c	computer graphic	b'L(L) on JRC_FlyEM_Hemibrain
+b\'L(R)	b\'L(R)	adult mushroom body beta\'-lobe	adult brain	adm71	Xu2020roi	JRC_FlyEM_Hemibrain_c	computer graphic	b'L(R) on JRC_FlyEM_Hemibrain
 b1(R)	b1(R)	mushroom body beta lobe slice 1	adult brain	adm71	Xu2020roi	JRC_FlyEM_Hemibrain_c	computer graphic	b1(R) on JRC_FlyEM_Hemibrain
 b2(R)	b2(R)	mushroom body beta lobe slice 2	adult brain	adm71	Xu2020roi	JRC_FlyEM_Hemibrain_c	computer graphic	b2(R) on JRC_FlyEM_Hemibrain
 CX	CX	adult central complex	adult brain	adm71	Xu2020roi	JRC_FlyEM_Hemibrain_c	computer graphic	CX on JRC_FlyEM_Hemibrain
