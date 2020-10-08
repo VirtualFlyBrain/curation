@@ -1,4 +1,4 @@
-filename	label	is_a	part_of	synonyms
+filename	synonyms	is_a	part_of	label
 NO	NO	nodulus	adult brain	NO on JRC_FlyEM_Hemibrain
 NO(L)	NO(L)	nodulus	adult brain	NO(L) on JRC_FlyEM_Hemibrain
 NO(R)	NO(R)	nodulus	adult brain	NO(R) on JRC_FlyEM_Hemibrain
