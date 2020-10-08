@@ -1,3 +1,3 @@
-label	is_a	part_of	index	filename
-L-EPA	epaulette	adult brain	1	synapse_thresh_PAINT_rev3-domain0001
-L-AB	asymmetrical body	adult brain	2	synapse_thresh_PAINT_rev3-domain0002
+label	is_a	part_of	index	filename	Dataset
+L-EPA	epaulette	adult brain	1	synapse_thresh_PAINT_rev3-domain0001	Xu2020roi
+L-AB	asymmetrical body	adult brain	2	synapse_thresh_PAINT_rev3-domain0002	Xu2020roi
