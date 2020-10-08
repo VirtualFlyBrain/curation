@@ -1,2 +1,2 @@
-filename	label	is_a	part_of	Curator	DataSet	Template	Imaging_type	synonyms
-NO	NO	nodulus	adult brain	adm71	Xu2020roi	JRC_FlyEM_Hemibrain_c	computer graphic	NO on JRC_FlyEM_Hemibrain
+index	filename	label	is_a	part_of	Curator	DataSet	Template	Imaging_type	synonyms
+1	NO	NO	nodulus	adult brain	adm71	Xu2020roi	JRC_FlyEM_Hemibrain_c	computer graphic	NO on JRC_FlyEM_Hemibrain
