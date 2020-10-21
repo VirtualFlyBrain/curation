@@ -1,0 +1,1001 @@
+ind_object_name	ind_object_id	Tbars	downstream	relation	upstream	subject_external_id	subject_external_db
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	101	288	has_presynaptic_terminal_in		669325882	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	52	669325882	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	46	333	has_presynaptic_terminal_in		1734696656	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	59	1734696656	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	64	479	has_presynaptic_terminal_in		1734705201	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	106	1734705201	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	13	693927941	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	16	704699661	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	55	294	has_presynaptic_terminal_in		1826121523	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	585	1826121523	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	20	191	has_presynaptic_terminal_in		1036504644	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	6	1036504644	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	16	140	has_presynaptic_terminal_in		735091236	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	735091236	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	48	1497973422	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	13	5813070019	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	13	has_presynaptic_terminal_in		1603054747	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	11	1603054747	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	3	19	has_presynaptic_terminal_in		1378574332	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	14	1378574332	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	27	176	has_presynaptic_terminal_in		5812983094	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	86	5812983094	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	3	9	has_presynaptic_terminal_in		917527702	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	15	917527702	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	4	13	has_presynaptic_terminal_in		796733296	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	142	796733296	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	18	85	has_presynaptic_terminal_in		1103076052	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	43	1103076052	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	8	47	has_presynaptic_terminal_in		891914014	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	68	891914014	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	4	766410696	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	127	1074	has_presynaptic_terminal_in		950928506	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	53	950928506	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	42	430	has_presynaptic_terminal_in		950233506	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	27	950233506	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	43	455	has_presynaptic_terminal_in		764339062	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	4	764339062	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	28	300	has_presynaptic_terminal_in		796061060	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	5	796061060	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	44	368	has_presynaptic_terminal_in		891577717	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	24	891577717	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	38	372	has_presynaptic_terminal_in		977201905	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	24	977201905	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	54	456	has_presynaptic_terminal_in		891577867	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	47	891577867	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	58	495	has_presynaptic_terminal_in		1012298719	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	50	1012298719	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	20	110	has_presynaptic_terminal_in		981194127	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	25	981194127	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	4	1573336031	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	8	has_presynaptic_terminal_in		1417810944	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	2	1417810944	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	5813090649	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	11	74	has_presynaptic_terminal_in		573090850	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	79	573090850	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	85	590	has_presynaptic_terminal_in		5813070613	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	35	5813070613	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	55	377	has_presynaptic_terminal_in		1230902952	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	26	1230902952	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	35	189	has_presynaptic_terminal_in		5813023015	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	17	5813023015	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	30	174	has_presynaptic_terminal_in		1635729066	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	50	1635729066	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	31	173	has_presynaptic_terminal_in		1728479593	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	20	1728479593	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	1386780716	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	10	35	has_presynaptic_terminal_in		1820561194	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	16	1820561194	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	1074480375	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	6	has_presynaptic_terminal_in		1074476096	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	3	1074476096	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	7	has_presynaptic_terminal_in		1819905958	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	2	1819905958	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	609855276	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	1912306658	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	5	has_presynaptic_terminal_in		2251662029	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	7	has_presynaptic_terminal_in		5813055019	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	6	5813055019	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	9	has_presynaptic_terminal_in		1663354321	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	1663354321	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	120	912	has_presynaptic_terminal_in		671574812	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	638	671574812	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	5813067916	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	6	1352335144	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	6	1446100318	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	5	5813054376	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	4	has_presynaptic_terminal_in		1753116740	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	3	1753116740	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	50	356	has_presynaptic_terminal_in		1226789202	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	36	1226789202	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	76	499	has_presynaptic_terminal_in		1383016399	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	69	1383016399	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	16	123	has_presynaptic_terminal_in		1289213295	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	10	1289213295	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	45	311	has_presynaptic_terminal_in		1380979698	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	44	1380979698	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	20	103	has_presynaptic_terminal_in		1352315133	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	37	1352315133	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	17	102	has_presynaptic_terminal_in		2376180863	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	42	2376180863	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	8	42	has_presynaptic_terminal_in		1226793835	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	22	1226793835	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	11	55	has_presynaptic_terminal_in		1166778367	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	27	1166778367	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	8	45	has_presynaptic_terminal_in		5901219320	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	44	5901219320	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	11	51	has_presynaptic_terminal_in		5813069489	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	54	5813069489	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	14	94	has_presynaptic_terminal_in		5813056622	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	44	5813056622	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	24	115	has_presynaptic_terminal_in		1383379730	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	61	1383379730	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	2	5813082781	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	5	1260949492	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	7	28	has_presynaptic_terminal_in		1976090538	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	1976090538	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	6	23	has_presynaptic_terminal_in		2068863008	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	7	2068863008	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	4	has_presynaptic_terminal_in		2099889449	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	6	2099889449	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	8	32	has_presynaptic_terminal_in		1882639614	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	2	1916080175	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	18	138	has_presynaptic_terminal_in		1474087416	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	120	1474087416	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	26	177	has_presynaptic_terminal_in		1446101389	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	98	1446101389	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	3	1882316655	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	6	has_presynaptic_terminal_in		1448173578	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	9	5813027278	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	9	has_presynaptic_terminal_in		951934183	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	10	951934183	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	3	18	has_presynaptic_terminal_in		764727525	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	76	764727525	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	14	761325477	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	62	431	has_presynaptic_terminal_in		1445379615	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	50	1445379615	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	6	has_presynaptic_terminal_in		1633686836	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	13	1633686836	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	1449149249	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	8	has_presynaptic_terminal_in		1785502810	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	18	1785502810	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	13	89	has_presynaptic_terminal_in		1289876930	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	130	1289876930	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	1508149851	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	1010947498	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	18	41	has_presynaptic_terminal_in		1352676969	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	7	1352676969	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	1135458373	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	2	has_presynaptic_terminal_in		1229197848	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	6	1229197848	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	6	1385740486	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	5	14	has_presynaptic_terminal_in		1815165718	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	3	1815165718	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	4	16	has_presynaptic_terminal_in		1750004327	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	4	1750004327	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	3	has_presynaptic_terminal_in		1745570620	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	1745570620	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	8	has_presynaptic_terminal_in		1445760214	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	53	1445760214	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	35	5813023370	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	10	56	has_presynaptic_terminal_in		1594795610	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	67	1594795610	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	3	13	has_presynaptic_terminal_in		2103657269	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	3	2103657269	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	12	61	has_presynaptic_terminal_in		5813069594	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	6	5813069594	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	16	93	has_presynaptic_terminal_in		2097864425	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	26	2097864425	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	5	36	has_presynaptic_terminal_in		1449502169	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	11	1449502169	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	25	130	has_presynaptic_terminal_in		5813021093	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	22	5813021093	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	642629807	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	16	95	has_presynaptic_terminal_in		1104056135	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	105	1104056135	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	60	224	has_presynaptic_terminal_in		889863729	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	49	889863729	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	4	14	has_presynaptic_terminal_in		1102761868	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	13	1102761868	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	2	has_presynaptic_terminal_in		829162792	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	34	829162792	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	20	1162534149	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	48	305	has_presynaptic_terminal_in		914778159	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	244	914778159	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	9	1010667275	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	4	27	has_presynaptic_terminal_in		921935459	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	158	921935459	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	6	has_presynaptic_terminal_in		795374201	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	12	795374201	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	1443450601	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	822505389	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	2	has_presynaptic_terminal_in		1194510761	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	3	5812980291	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	3	has_presynaptic_terminal_in		1165810875	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	6	1165810875	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	13	1165810421	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	7	34	has_presynaptic_terminal_in		1040004619	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	2	1040004619	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	6	27	has_presynaptic_terminal_in		1072059176	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	2	1072059176	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	7	35	has_presynaptic_terminal_in		823062947	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	5	823062947	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	9	1134107162	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	15	120	has_presynaptic_terminal_in		508689623	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	293	508689623	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	14	has_presynaptic_terminal_in		1074782432	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	2	1074782432	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	2	707116522	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	10	47	has_presynaptic_terminal_in		1406966879	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	734	1406966879	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	7	29	has_presynaptic_terminal_in		571346836	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	9	571346836	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	36	104	has_presynaptic_terminal_in		5813024015	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	115	5813024015	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	4	has_presynaptic_terminal_in		1405231475	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	59	1466998977	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	3	has_presynaptic_terminal_in		5813023322	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	99	5813023322	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	14	1281324958	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	3	10	has_presynaptic_terminal_in		5813068840	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1110	5813068840	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	10	40	has_presynaptic_terminal_in		1344249576	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	323	1344249576	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	329	1006984280	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	57	190	has_presynaptic_terminal_in		5813050455	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	19	5813050455	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	11	has_presynaptic_terminal_in		981000564	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	39	981000564	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	5	20	has_presynaptic_terminal_in		1135837629	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	83	1135837629	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	4	has_presynaptic_terminal_in		1075827302	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	988567837	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	3	1225640135	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	1009375310	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	49	2307027729	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	359	1257543693	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	23	1067923143	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	2	1158385516	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	2	1502870544	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	703106626	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	3	15	has_presynaptic_terminal_in		5812998937	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	131	5812998937	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	5	5813006291	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	21	63	has_presynaptic_terminal_in		2317197779	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	30	2317197779	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	5	23	has_presynaptic_terminal_in		2315483773	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	14	2315483773	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	9	47	has_presynaptic_terminal_in		2317871147	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	12	2317871147	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	8	25	has_presynaptic_terminal_in		5813034868	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	4	5813034868	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	7	26	has_presynaptic_terminal_in		2379595914	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	21	2379595914	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	4	has_presynaptic_terminal_in		5813006594	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	2	5813006594	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	3	has_presynaptic_terminal_in		2347209856	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	2	2347209856	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	9	18	has_presynaptic_terminal_in		2376526540	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	5	2376526540	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	6	15	has_presynaptic_terminal_in		2348927693	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	22	2348927693	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	28	108	has_presynaptic_terminal_in		2378257493	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	21	2378257493	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	16	2377221246	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	13	41	has_presynaptic_terminal_in		2377903039	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	15	2377903039	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	8	23	has_presynaptic_terminal_in		2377221619	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	7	2377221619	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	10	2377566785	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	14	49	has_presynaptic_terminal_in		2378248516	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	16	2378248516	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	17	55	has_presynaptic_terminal_in		2379271978	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	37	2379271978	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	9	19	has_presynaptic_terminal_in		2378930791	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	13	2378930791	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	4	10	has_presynaptic_terminal_in		2378935423	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	18	2378935423	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	3	13	has_presynaptic_terminal_in		2378594464	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	2	2378594464	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	5813107136	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	7	25	has_presynaptic_terminal_in		2410988863	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	19	2410988863	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	27	62	has_presynaptic_terminal_in		2443392355	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	37	2443392355	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	6	20	has_presynaptic_terminal_in		5813007438	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	11	5813007438	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	7	20	has_presynaptic_terminal_in		2470317344	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	21	2470317344	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	2532727986	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	7	17	has_presynaptic_terminal_in		2532041662	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	3	2532041662	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	5	2532046045	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	5	35	has_presynaptic_terminal_in		1325133618	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	39	1325133618	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	2	5813049870	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	1728942250	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	2	has_presynaptic_terminal_in		2036878120	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	6	2036878120	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	2	2097928626	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	11	has_presynaptic_terminal_in		1635833170	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	2	1635833170	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	29	218	has_presynaptic_terminal_in		1573037636	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	4	1573037636	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	50	830034406	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	43	319	has_presynaptic_terminal_in		1942806972	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	13	1942806972	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	49	375	has_presynaptic_terminal_in		1943147567	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	11	1943147567	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	985826737	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	12	101	has_presynaptic_terminal_in		576843029	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	11	576843029	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	17	152	has_presynaptic_terminal_in		573713481	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	11	573713481	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	18	148	has_presynaptic_terminal_in		666136034	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	12	666136034	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	8	75	has_presynaptic_terminal_in		917497441	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	9	917497441	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	6	53	has_presynaptic_terminal_in		574027813	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	9	574027813	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	2	788519447	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	8	77	has_presynaptic_terminal_in		760272462	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	12	760272462	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	14	has_presynaptic_terminal_in		5813021632	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	6	5813021632	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	4	13	has_presynaptic_terminal_in		823999645	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	3	823999645	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	6	has_presynaptic_terminal_in		854680421	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	155	1376	has_presynaptic_terminal_in		639585968	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	24	639585968	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	3	17	has_presynaptic_terminal_in		794752471	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	17	794752471	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	7	has_presynaptic_terminal_in		943416162	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	19	943416162	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	17	135	has_presynaptic_terminal_in		636102761	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	8	636102761	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	12	59	has_presynaptic_terminal_in		5813047683	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	5813047683	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	208	731736853	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	6	23	has_presynaptic_terminal_in		1563099587	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	53	1563099587	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	7	18	has_presynaptic_terminal_in		5813068748	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	48	5813068748	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	18	114	has_presynaptic_terminal_in		1654525956	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	16	1654525956	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	54	489	has_presynaptic_terminal_in		5813069528	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	37	5813069528	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	3	18	has_presynaptic_terminal_in		5813078261	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	4	23	has_presynaptic_terminal_in		1445445434	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	1445445434	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	79	545	has_presynaptic_terminal_in		1193448112	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	46	1193448112	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	186	1803	has_presynaptic_terminal_in		1285849916	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	73	1285849916	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	6	5813021075	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	3	13	has_presynaptic_terminal_in		1825440160	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	142	1825440160	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	14	82	has_presynaptic_terminal_in		1974846717	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	19	1974846717	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	8	63	has_presynaptic_terminal_in		5813024692	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	5813024692	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	10	95	has_presynaptic_terminal_in		762982753	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	3	762982753	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	19	163	has_presynaptic_terminal_in		1916528384	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	5	1916528384	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	13	113	has_presynaptic_terminal_in		2040344064	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	2	2040344064	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	5	52	has_presynaptic_terminal_in		788940872	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	2	788940872	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	13	has_presynaptic_terminal_in		1886132855	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	1702306047	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	8	1701299822	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	3	20	has_presynaptic_terminal_in		1788685103	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	1788685103	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	22	158	has_presynaptic_terminal_in		1755556277	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	17	1755556277	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	17	127	has_presynaptic_terminal_in		1661769627	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	10	1661769627	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	5	28	has_presynaptic_terminal_in		1671638278	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	4	1671638278	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	3	17	has_presynaptic_terminal_in		1700307582	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	20	1700307582	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	1	has_presynaptic_terminal_in		1793403571	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	4	1793403571	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	11	has_presynaptic_terminal_in		1917866877	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	22	1917866877	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	10	has_presynaptic_terminal_in		1723506321	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	1723506321	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	28	1037293275	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	5	33	has_presynaptic_terminal_in		1733677514	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	41	1733677514	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	15	83	has_presynaptic_terminal_in		5813083723	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	46	5813083723	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	176	1102334088	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	2	has_presynaptic_terminal_in		1888178718	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	126	1888178718	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	1671952694	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	4	1912435859	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	4	has_presynaptic_terminal_in		850708783	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	1912777226	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	14	has_presynaptic_terminal_in		1975187554	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	27	5812982656	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	11	68	has_presynaptic_terminal_in		763730414	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	24	763730414	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	15	111	has_presynaptic_terminal_in		1316245799	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	108	1316245799	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	5	has_presynaptic_terminal_in		1733370882	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	4	1733370882	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	6	27	has_presynaptic_terminal_in		917643796	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	6	917643796	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	19	76	has_presynaptic_terminal_in		821344462	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	10	821344462	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	15	60	has_presynaptic_terminal_in		5813054053	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	11	5813054053	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	3	18	has_presynaptic_terminal_in		884916323	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	2	884916323	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	1	has_presynaptic_terminal_in		329566174	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	5	33	has_presynaptic_terminal_in		767473384	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	2	767473384	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	3	has_presynaptic_terminal_in		1479618250	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	11	has_presynaptic_terminal_in		1670265016	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	1670265016	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	7	33	has_presynaptic_terminal_in		1702310266	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	11	1702310266	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	4	21	has_presynaptic_terminal_in		2069652905	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	7	2069652905	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	103	849	has_presynaptic_terminal_in		5813068801	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	319	5813068801	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	84	772	has_presynaptic_terminal_in		1222104921	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	363	1222104921	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	1346560069	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	3	19	has_presynaptic_terminal_in		1654543355	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	3	1654543355	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	7	1685586866	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	4	24	has_presynaptic_terminal_in		1654880497	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	8	1654880497	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	6	38	has_presynaptic_terminal_in		1716249528	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	6	1716249528	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	16	46	has_presynaptic_terminal_in		5813064410	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	21	5813064410	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	51	123	has_presynaptic_terminal_in		1005857944	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	59	1005857944	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	8	32	has_presynaptic_terminal_in		1313853933	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	113	1313853933	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	952249657	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	2	5813093836	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	32	1316846140	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	3	19	has_presynaptic_terminal_in		1409609847	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	41	1409609847	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	9	has_presynaptic_terminal_in		5813053907	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	5813053907	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	22	114	has_presynaptic_terminal_in		1719643238	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	50	1719643238	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	58	569	has_presynaptic_terminal_in		821340054	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	39	821340054	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	9	53	has_presynaptic_terminal_in		915528488	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	51	915528488	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	231	2041	has_presynaptic_terminal_in		1005149651	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	139	1005149651	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	33	284	has_presynaptic_terminal_in		943425979	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	28	943425979	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	2	1658885859	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	6	has_presynaptic_terminal_in		5813048055	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	6	5813048055	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	5	has_presynaptic_terminal_in		604791287	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	20	604791287	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	12	has_presynaptic_terminal_in		1313512559	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	6	1313512559	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	2	5813088549	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	920869856	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	4	has_presynaptic_terminal_in		1313590343	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	8	1313590343	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	22	5813037804	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	3	has_presynaptic_terminal_in		5813048837	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	4	5813048837	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	5	1281812747	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	9	has_presynaptic_terminal_in		675490204	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	675490204	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	116	380	has_presynaptic_terminal_in		950229431	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	75	950229431	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	115	355	has_presynaptic_terminal_in		792040520	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	72	792040520	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	49	1078517402	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	8	has_presynaptic_terminal_in		5813005259	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	32	5813005259	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	3	13	has_presynaptic_terminal_in		1376558469	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	12	1376558469	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	5	41	has_presynaptic_terminal_in		1375242214	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	4	1375242214	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	3	28	has_presynaptic_terminal_in		1501392572	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	21	1501392572	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	6	21	has_presynaptic_terminal_in		5813055293	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	53	5813055293	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	5813048007	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	66	509	has_presynaptic_terminal_in		1344616893	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	13	1344616893	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	29	214	has_presynaptic_terminal_in		1686000717	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	7	1686000717	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	6	1499441777	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	7	58	has_presynaptic_terminal_in		1065284785	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	2	1065284785	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	3	15	has_presynaptic_terminal_in		1189420069	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	2	1189420069	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	5	41	has_presynaptic_terminal_in		1873444990	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	5	1873444990	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	6	37	has_presynaptic_terminal_in		1158385432	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	6	1158385432	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	4	22	has_presynaptic_terminal_in		1002861071	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	1002861071	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	9	67	has_presynaptic_terminal_in		879412016	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	7	879412016	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	10	has_presynaptic_terminal_in		5813054145	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	72	5813054145	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	9	has_presynaptic_terminal_in		5812991822	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	33	5812991822	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	10	1436646177	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	5	30	has_presynaptic_terminal_in		1345596879	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	15	1345596879	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	4	23	has_presynaptic_terminal_in		5812994890	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	2	5812994890	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	19	111	has_presynaptic_terminal_in		1778013540	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	34	1778013540	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	17	5901205778	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	3	5812994891	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	4	1097917138	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	2	has_presynaptic_terminal_in		5813024424	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	19	5813024424	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	1717290865	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	238	1069351982	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	9	has_presynaptic_terminal_in		1220412108	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	84	1220412108	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	3	16	has_presynaptic_terminal_in		975910355	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	2	has_presynaptic_terminal_in		5813054566	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	22	5813054566	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	1284213691	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	1749434934	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	1130156970	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	28	192	has_presynaptic_terminal_in		1411737459	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	63	1411737459	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	18	has_presynaptic_terminal_in		5813023617	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	3	5813023617	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	23	168	has_presynaptic_terminal_in		1630678924	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	96	1630678924	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	4	has_presynaptic_terminal_in		5813061245	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	38	5813061245	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	4	1598296804	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	11	has_presynaptic_terminal_in		5812990292	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	3	5812990292	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	2	1507834915	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	8	has_presynaptic_terminal_in		1630342124	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	4	1630342124	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	5	30	has_presynaptic_terminal_in		1694721025	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	6	1694721025	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	4	17	has_presynaptic_terminal_in		5813068925	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	47	5813068925	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	26	122	has_presynaptic_terminal_in		915105429	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	121	915105429	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	4	28	has_presynaptic_terminal_in		1290572640	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	32	1290572640	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	6	27	has_presynaptic_terminal_in		1287645091	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	58	1287645091	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	3	10	has_presynaptic_terminal_in		1503733177	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	11	1503733177	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	29	142	has_presynaptic_terminal_in		1375845363	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	123	1375845363	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	14	114	has_presynaptic_terminal_in		5813013498	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	10	5813013498	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	2	has_presynaptic_terminal_in		5813021112	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	178	5813021112	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	6	1320290839	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	1103102334	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	6	1166186949	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	2	has_presynaptic_terminal_in		5812992706	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	5812992706	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	6	has_presynaptic_terminal_in		1474472195	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	5	1474472195	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	2	2158246414	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	3	1540216055	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	8	1715895680	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	3	1539879204	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	14	has_presynaptic_terminal_in		1343804739	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	2	1343804739	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	1374063129	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	13	1435791739	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	49	1434949542	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	9	5812987602	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	4	13	has_presynaptic_terminal_in		1876565477	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	10	1876565477	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	19	1501111926	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	7	24	has_presynaptic_terminal_in		1228265278	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	2	1228265278	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	14	1070950293	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	43	152	has_presynaptic_terminal_in		1508615054	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	78	1508615054	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	46	202	has_presynaptic_terminal_in		5813024193	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	282	5813024193	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	33	111	has_presynaptic_terminal_in		1262015257	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	84	1262015257	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	32	161	has_presynaptic_terminal_in		2096914331	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	67	2096914331	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	27	102	has_presynaptic_terminal_in		2096914200	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	115	2096914200	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	32	130	has_presynaptic_terminal_in		2096914134	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	61	2096914134	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	28	150	has_presynaptic_terminal_in		2091721670	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	53	2091721670	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	30	149	has_presynaptic_terminal_in		2096909915	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	224	2096909915	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	43	224	has_presynaptic_terminal_in		2096914099	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	492	2096914099	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	39	231	has_presynaptic_terminal_in		2096913987	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	389	2096913987	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	38	181	has_presynaptic_terminal_in		1539649574	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	355	1539649574	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	49	250	has_presynaptic_terminal_in		1262015098	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	392	1262015098	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	79	440	has_presynaptic_terminal_in		2096909903	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	475	2096909903	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	5	has_presynaptic_terminal_in		1508615290	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	51	1508615290	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	3	has_presynaptic_terminal_in		1871114028	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	2	1871114028	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	4	19	has_presynaptic_terminal_in		2155915107	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	18	2155915107	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	26	1965962396	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	5	has_presynaptic_terminal_in		5813000419	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	62	5813000419	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	43	2155915091	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	2220026105	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	12	2128285745	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	6	2096914329	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	7	1539308866	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	10	2155237366	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	3	2096909873	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	3	12	has_presynaptic_terminal_in		5813062122	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	41	5813062122	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	4	22	has_presynaptic_terminal_in		2065533871	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	35	2065533871	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	5	24	has_presynaptic_terminal_in		2155574077	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	77	2155574077	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	107	1933892078	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	1754485599	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	18	80	has_presynaptic_terminal_in		2219650933	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	36	2219650933	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	11	48	has_presynaptic_terminal_in		5813033869	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	29	5813033869	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	4	has_presynaptic_terminal_in		1788248514	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	40	1788248514	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	10	has_presynaptic_terminal_in		1637409104	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	83	1637409104	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	6	has_presynaptic_terminal_in		1668098210	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	56	1668098210	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	78	460	has_presynaptic_terminal_in		5813024035	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	276	5813024035	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	230	1600666677	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	97	1731605047	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	11	has_presynaptic_terminal_in		5813027050	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	311	5813027050	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	18	86	has_presynaptic_terminal_in		1752089949	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	42	1752089949	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	8	30	has_presynaptic_terminal_in		1907924846	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	17	1907924846	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	3	13	has_presynaptic_terminal_in		1938955067	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	1938955067	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	5	has_presynaptic_terminal_in		1600666659	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	37	1600666659	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	14	74	has_presynaptic_terminal_in		1907920694	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	42	1907920694	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	15	1630678915	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	6	42	has_presynaptic_terminal_in		1752089996	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	20	1752089996	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	21	115	has_presynaptic_terminal_in		1752090152	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	51	1752090152	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	4	18	has_presynaptic_terminal_in		2251039921	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	16	2251039921	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	5	5813069068	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	11	has_presynaptic_terminal_in		2096846027	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	10	2096846027	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	3	15	has_presynaptic_terminal_in		5813055439	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	5	5813055439	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	15	67	has_presynaptic_terminal_in		2158246363	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	17	2158246363	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	9	has_presynaptic_terminal_in		2128226181	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	2	2128226181	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	6	36	has_presynaptic_terminal_in		2129240697	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	7	2129240697	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	12	43	has_presynaptic_terminal_in		2096500397	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	19	2096500397	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	2	5813040280	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	4	has_presynaptic_terminal_in		5813024910	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	7	5813024910	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	19	81	has_presynaptic_terminal_in		2126183507	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	60	2126183507	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	2	2157206476	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	8	37	has_presynaptic_terminal_in		2095498288	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	9	2095498288	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	27	129	has_presynaptic_terminal_in		2065158506	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	47	2065158506	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	6	32	has_presynaptic_terminal_in		5813063231	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	29	5813063231	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	22	123	has_presynaptic_terminal_in		2094811506	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	61	2094811506	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	15	64	has_presynaptic_terminal_in		2032760275	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	54	2032760275	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	12	58	has_presynaptic_terminal_in		2095481215	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	33	2095481215	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	20	88	has_presynaptic_terminal_in		2126857473	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	26	2126857473	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	12	50	has_presynaptic_terminal_in		5813019191	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	26	5813019191	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	25	135	has_presynaptic_terminal_in		2155833665	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	51	2155833665	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	19	79	has_presynaptic_terminal_in		2156873528	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	80	2156873528	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	11	67	has_presynaptic_terminal_in		2067852579	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	36	2067852579	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	26	131	has_presynaptic_terminal_in		5812999183	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	105	5812999183	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	5	27	has_presynaptic_terminal_in		2286150493	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	24	2286150493	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	10	44	has_presynaptic_terminal_in		2156877769	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	58	2156877769	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	38	111	has_presynaptic_terminal_in		2314801962	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	60	2314801962	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	25	96	has_presynaptic_terminal_in		2310688605	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	106	2310688605	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	25	88	has_presynaptic_terminal_in		2346510018	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	36	2346510018	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	12	74	has_presynaptic_terminal_in		2248942409	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	20	2248942409	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	9	37	has_presynaptic_terminal_in		2249645744	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	18	2249645744	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	30	2067153349	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	17	112	has_presynaptic_terminal_in		5813025549	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	35	5813025549	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	9	49	has_presynaptic_terminal_in		2065814899	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	22	2065814899	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	6	21	has_presynaptic_terminal_in		2129240307	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	7	2129240307	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	4	22	has_presynaptic_terminal_in		1692462759	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	601	1692462759	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	11	60	has_presynaptic_terminal_in		947193705	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	291	947193705	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	23	180	has_presynaptic_terminal_in		2034516836	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	451	2034516836	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	10	56	has_presynaptic_terminal_in		2094186530	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	180	2094186530	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	143	968	has_presynaptic_terminal_in		2128566765	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	147	2128566765	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	181	2036156525	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	132	872	has_presynaptic_terminal_in		2223778713	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	274	2223778713	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	197	1377	has_presynaptic_terminal_in		5813060453	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	315	5813060453	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	12	75	has_presynaptic_terminal_in		2068965891	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	83	2068965891	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	11	57	has_presynaptic_terminal_in		5813034001	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	69	5813034001	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	18	123	has_presynaptic_terminal_in		5812990774	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	159	5812990774	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	327	3152	has_presynaptic_terminal_in		5813011591	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	135	5813011591	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	40	266	has_presynaptic_terminal_in		1347638398	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	99	1347638398	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	55	342	has_presynaptic_terminal_in		1409358980	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	202	1409358980	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	21	127	has_presynaptic_terminal_in		1229521890	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	144	1229521890	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	21	113	has_presynaptic_terminal_in		5813055340	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	125	5813055340	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	15	76	has_presynaptic_terminal_in		5813076344	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	92	5813076344	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	31	181	has_presynaptic_terminal_in		5901203684	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	238	5901203684	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	26	174	has_presynaptic_terminal_in		5812989825	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	108	5812989825	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	16	109	has_presynaptic_terminal_in		2252063171	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	89	2252063171	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	37	185	has_presynaptic_terminal_in		1515064407	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	67	1515064407	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	11	48	has_presynaptic_terminal_in		1788930829	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	15	1788930829	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	10	53	has_presynaptic_terminal_in		1912725048	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	62	1912725048	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	8	40	has_presynaptic_terminal_in		1912724946	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	19	1912724946	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	70	1819965764	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	11	has_presynaptic_terminal_in		1664097010	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	223	1664097010	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	7	36	has_presynaptic_terminal_in		1691405824	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	201	1691405824	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	10	42	has_presynaptic_terminal_in		2066509864	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	175	2066509864	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	33	176	has_presynaptic_terminal_in		5813023100	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	18	5813023100	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	10	63	has_presynaptic_terminal_in		5813024919	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	17	5813024919	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	17	102	has_presynaptic_terminal_in		1781860460	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	21	1781860460	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	22	125	has_presynaptic_terminal_in		1782878598	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	37	1782878598	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	45	288	has_presynaptic_terminal_in		1782205507	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	32	1782205507	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	53	357	has_presynaptic_terminal_in		5813024922	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	53	5813024922	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	34	184	has_presynaptic_terminal_in		1813222721	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	86	1813222721	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	9	66	has_presynaptic_terminal_in		2033817015	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	63	2033817015	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	27	167	has_presynaptic_terminal_in		5813068174	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	54	5813068174	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	140	1813206171	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	322	1970698685	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	12	81	has_presynaptic_terminal_in		1812902999	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	297	1812902999	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	10	45	has_presynaptic_terminal_in		1782201421	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	129	1782201421	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	14	89	has_presynaptic_terminal_in		1781869202	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	177	1781869202	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	21	2065192873	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	40	228	has_presynaptic_terminal_in		1812898952	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	179	1812898952	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	29	153	has_presynaptic_terminal_in		1781864693	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	160	1781864693	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	7	36	has_presynaptic_terminal_in		1813891980	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	3	1813891980	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	1970728299	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	51	1813901059	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	5	31	has_presynaptic_terminal_in		1813900946	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	96	1813900946	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	11	has_presynaptic_terminal_in		1813901048	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	204	1813901048	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	36	229	has_presynaptic_terminal_in		2158979725	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	278	2158979725	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	13	77	has_presynaptic_terminal_in		2002082301	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	83	2002082301	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	7	38	has_presynaptic_terminal_in		2002436731	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	116	2002436731	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	53	328	has_presynaptic_terminal_in		1971052935	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	286	1971052935	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	152	2002103845	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	3	has_presynaptic_terminal_in		5813003579	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	3	5813003579	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	18	138	has_presynaptic_terminal_in		1970707631	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	82	1970707631	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	75	1813559869	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	4	2091038527	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	3	15	has_presynaptic_terminal_in		2001392088	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	13	2001392088	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	4	has_presynaptic_terminal_in		1785511781	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	138	1785511781	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	31	1910328899	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	80	449	has_presynaptic_terminal_in		1813235278	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	210	1813235278	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	41	266	has_presynaptic_terminal_in		1876276621	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	339	1876276621	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	91	519	has_presynaptic_terminal_in		2221053439	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	476	2221053439	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	50	320	has_presynaptic_terminal_in		1844914014	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	265	1844914014	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	96	487	has_presynaptic_terminal_in		2127949176	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	504	2127949176	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	40	293	has_presynaptic_terminal_in		1813239939	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	281	1813239939	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	47	268	has_presynaptic_terminal_in		2158984105	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	365	2158984105	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	21	130	has_presynaptic_terminal_in		2190359821	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	311	2190359821	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	4	28	has_presynaptic_terminal_in		5813103786	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	17	5813103786	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	5	31	has_presynaptic_terminal_in		2315181597	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	6	2315181597	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	12	has_presynaptic_terminal_in		2527677438	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	4	2527677438	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	127	1047	has_presynaptic_terminal_in		1191402226	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	218	1191402226	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	50	464	has_presynaptic_terminal_in		1198533883	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	193	1198533883	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	5	has_presynaptic_terminal_in		5812986430	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	29	5812986430	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	8	44	has_presynaptic_terminal_in		2126296267	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	166	2126296267	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	11	has_presynaptic_terminal_in		1876993474	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	150	1876993474	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	27	177	has_presynaptic_terminal_in		1939404488	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	143	1939404488	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	9	47	has_presynaptic_terminal_in		1971442009	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	87	1971442009	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	24	134	has_presynaptic_terminal_in		2245634599	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	804	2245634599	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	38	303	has_presynaptic_terminal_in		975289165	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	706	975289165	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	32	223	has_presynaptic_terminal_in		1130458829	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	591	1130458829	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	44	324	has_presynaptic_terminal_in		1099073905	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	677	1099073905	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	30	168	has_presynaptic_terminal_in		944249308	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	433	944249308	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	30	103	has_presynaptic_terminal_in		2000792054	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	450	2000792054	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	26	97	has_presynaptic_terminal_in		2247336031	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	349	2247336031	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	43	216	has_presynaptic_terminal_in		1005624122	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	426	1005624122	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	6	has_presynaptic_terminal_in		2247339883	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	286	2247339883	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	25	154	has_presynaptic_terminal_in		2001132925	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	618	2001132925	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	194	5813034670	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	251	2310091748	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	53	330	has_presynaptic_terminal_in		5813055632	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	231	5813055632	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	39	242	has_presynaptic_terminal_in		2247340372	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	127	2247340372	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	229	2310092069	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	18	93	has_presynaptic_terminal_in		764684348	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	166	764684348	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	17	has_presynaptic_terminal_in		1814846802	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	28	1814846802	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	3	has_presynaptic_terminal_in		1845876142	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	1845876142	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	11	has_presynaptic_terminal_in		1404933332	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	332	1404933332	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	6	57	has_presynaptic_terminal_in		1909707812	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	400	1909707812	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	31	166	has_presynaptic_terminal_in		1437669466	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	63	1437669466	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	11	81	has_presynaptic_terminal_in		2033139281	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	35	2033139281	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	7	32	has_presynaptic_terminal_in		1807342446	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	38	1807342446	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	18	108	has_presynaptic_terminal_in		1996280432	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	125	1996280432	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	5	24	has_presynaptic_terminal_in		1806664990	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	28	1806664990	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	13	75	has_presynaptic_terminal_in		1965245797	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	139	1965245797	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	20	107	has_presynaptic_terminal_in		1807001603	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	161	1807001603	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	7	41	has_presynaptic_terminal_in		1996276256	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	112	1996276256	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	12	53	has_presynaptic_terminal_in		1965245767	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	55	1965245767	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	7	42	has_presynaptic_terminal_in		1996276320	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	85	1996276320	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	11	38	has_presynaptic_terminal_in		1933239990	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	46	1933239990	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	7	33	has_presynaptic_terminal_in		1250432434	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	38	1250432434	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	3	has_presynaptic_terminal_in		1815890814	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	33	1815890814	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	5	has_presynaptic_terminal_in		1846260300	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	45	1846260300	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	4	25	has_presynaptic_terminal_in		1250091549	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	14	1250091549	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	8	45	has_presynaptic_terminal_in		1250091489	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	14	1250091489	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	5	has_presynaptic_terminal_in		2062780103	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	14	2062780103	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	5	1344223510	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	8	5813002062	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	8	has_presynaptic_terminal_in		2094501381	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	49	2094501381	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	8	35	has_presynaptic_terminal_in		1846930477	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	75	1846930477	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	42	5813047935	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	391	2962	has_presynaptic_terminal_in		1500063929	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	84	1500063929	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	2	has_presynaptic_terminal_in		2305628261	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	372	2305628261	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	388246273	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	5	has_presynaptic_terminal_in		706080993	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	27	706080993	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	4	has_presynaptic_terminal_in		424379864	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	46	424379864	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	2	has_presynaptic_terminal_in		5813056890	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	106	5813056890	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	2	11	has_presynaptic_terminal_in		420274150	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	45	420274150	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	14	87	has_presynaptic_terminal_in		699553429	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	28	699553429	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	6	48	has_presynaptic_terminal_in		579169195	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	28	579169195	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	19	451982486	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	10	has_presynaptic_terminal_in		483025785	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	51	483025785	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	7	60	has_presynaptic_terminal_in		515450389	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	84	515450389	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	14	73	has_presynaptic_terminal_in		546438473	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	156	546438473	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	3	16	has_presynaptic_terminal_in		549597974	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	1	549597974	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	13	327246931	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	3	449975227	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	115	669670654	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	24	258	has_presynaptic_terminal_in		484821546	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	9	484821546	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	1	6	has_presynaptic_terminal_in		2069320377	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	232	1724	has_presynaptic_terminal_in		5813055298	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4			has_postsynaptic_terminal_in	827	5813055298	neuprint_JRC_Hemibrain_1point1
+SAD(-AMMC) on JRC_FlyEM_Hemibrain	VFB_001012c4	292	2000	has_presynaptic_terminal_in		2095549849	neuprint_JRC_Hemibrain_1point1
