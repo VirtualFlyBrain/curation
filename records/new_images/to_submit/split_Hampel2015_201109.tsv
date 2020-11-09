@@ -1,0 +1,5 @@
+filename	label	AD	DBD	part_of	Template
+20x-Brain-2110272527384182882	JRC_spGAL4 control_Brain_2015_20141222_80_A3	P{p65.AD.Uw}	P{GAL4.DBD.Uw}	female organism|adult brain	JRC2018Unisex_c
+20x-VNC-2110272527384182882	JRC_spGAL4 control_VNC_2015_20141222_80_A3	P{p65.AD.Uw}	P{GAL4.DBD.Uw}	female organism|adult ventral nervous system	JRC2018UnisexVNC_c
+20x-Brain-2110272530890621026	JRC_spGAL4 control_Brain_2015_20141222_80_A4	P{p65.AD.Uw}	P{GAL4.DBD.Uw}	female organism|adult brain	JRC2018Unisex_c
+20x-VNC-2110272530890621026	JRC_spGAL4 control_VNC_2015_20141222_80_A4	P{p65.AD.Uw}	P{GAL4.DBD.Uw}	female organism|adult ventral nervous system	JRC2018UnisexVNC_c
