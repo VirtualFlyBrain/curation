@@ -1,0 +1,23 @@
+subject_external_db	subject_external_id	relation	pub	object
+catmaid_fafb	6346245	is_a	doi:10.1016/j.neuron.2020.08.006	ring neuron R4d
+catmaid_fafb	6353358	is_a	doi:10.1016/j.neuron.2020.08.006	ring neuron R4d
+catmaid_fafb	6393609	is_a	doi:10.1016/j.neuron.2020.08.006	ring neuron R4d
+catmaid_fafb	6417166	is_a	doi:10.1016/j.neuron.2020.08.006	ring neuron R4d
+catmaid_fafb	6813859	is_a	doi:10.1016/j.neuron.2020.08.006	ring neuron R4d
+catmaid_fafb	7014054	is_a	doi:10.1016/j.neuron.2020.08.006	ring neuron R4d
+catmaid_fafb	7014310	is_a	doi:10.1016/j.neuron.2020.08.006	ring neuron R4d
+catmaid_fafb	7029666	is_a	doi:10.1016/j.neuron.2020.08.006	ring neuron R4d
+catmaid_fafb	854150	is_a	doi:10.1016/j.neuron.2020.08.006	E-PG neuron
+catmaid_fafb	854156	is_a	doi:10.1016/j.neuron.2020.08.006	E-PG neuron
+catmaid_fafb	854144	is_a	doi:10.1016/j.neuron.2020.08.006	adult neuron
+catmaid_fafb	6254861	is_a	doi:10.1016/j.neuron.2020.08.006	protocerebral bridge 18 glomeruli type 2 neuron of glomerulus 7
+catmaid_fafb	6454109	is_a	doi:10.1016/j.neuron.2020.08.006	protocerebral bridge 18 glomeruli type 2 neuron of glomerulus 7
+catmaid_fafb	632638	is_a	doi:10.1016/j.neuron.2020.08.006	protocerebral bridge 18 glomeruli type 2 neuron of glomerulus 6
+catmaid_fafb	6102788	is_a	doi:10.1016/j.neuron.2020.08.006	protocerebral bridge 18 glomeruli type 2 neuron of glomerulus 6
+catmaid_fafb	676155	is_a	doi:10.1016/j.neuron.2020.08.006	protocerebral bridge 18 glomeruli type 2 neuron of glomerulus 5
+catmaid_fafb	3017999	is_a	doi:10.1016/j.neuron.2020.08.006	protocerebral bridge 18 glomeruli type 2 neuron of glomerulus 5
+catmaid_fafb	676911	is_a	doi:10.1016/j.neuron.2020.08.006	EB-IDFP VSB-PB slice 6 glomerulus neuron
+catmaid_fafb	1274114	is_a	doi:10.1016/j.neuron.2020.08.006	EB-IDFP VSB-PB slice 6 glomerulus neuron
+catmaid_fafb	1274268	is_a	doi:10.1016/j.neuron.2020.08.006	EB-IDFP VSB-PB slice 6 glomerulus neuron
+catmaid_fafb	1274528	is_a	doi:10.1016/j.neuron.2020.08.006	EB-IDFP VSB-PB slice 6 glomerulus neuron
+catmaid_fafb	4040702	is_a	doi:10.1016/j.neuron.2020.08.006	EB-IDFP VSB-PB slice 6 glomerulus neuron
