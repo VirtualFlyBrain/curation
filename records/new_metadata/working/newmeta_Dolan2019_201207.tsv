@@ -1,0 +1,58 @@
+subject_external_db	subject_external_id	relation	pub	object
+catmaid_fafb	533772	is_a	FlyBase:FBrf0242477	adult lateral horn AD3b1 neuron
+catmaid_fafb	556874	is_a	FlyBase:FBrf0242477	adult lateral horn PV5a3 neuron
+catmaid_fafb	1102557	is_a	FlyBase:FBrf0242477	adult lateral horn PV6c1 neuron
+catmaid_fafb	1103232	is_a	FlyBase:FBrf0242477	adult lateral horn PV4c1 neuron
+catmaid_fafb	1478950	is_a	FlyBase:FBrf0242477	LH-CA neuron of the dopaminergic PPL2ab cluster
+catmaid_fafb	1478950	is_a	FlyBase:FBrf0242477	dopaminergic PPL2ab neuron
+catmaid_fafb	1546454	is_a	FlyBase:FBrf0242477	adult lateral horn PV5k1 neuron
+catmaid_fafb	1621078	is_a	FlyBase:FBrf0242477	adult lateral horn PV5g1 neuron
+catmaid_fafb	1869224	is_a	FlyBase:FBrf0242477	adult lateral horn PV4d4 neuron
+catmaid_fafb	1967891	is_a	FlyBase:FBrf0242477	adult lateral horn AV4b4 neuron
+catmaid_fafb	2130631	is_a	FlyBase:FBrf0242477	adult lateral horn PV6a3 neuron
+catmaid_fafb	2198365	is_a	FlyBase:FBrf0242477	adult lateral horn AV2b2 neuron
+catmaid_fafb	2402951	is_a	FlyBase:FBrf0242477	adult lateral horn AD1d1 neuron
+catmaid_fafb	2638597	is_a	FlyBase:FBrf0242477	adult lateral horn AV2b1 neuron
+catmaid_fafb	3136591	is_a	FlyBase:FBrf0242477	adult lateral horn PV2c1 neuron
+catmaid_fafb	3367291	is_a	FlyBase:FBrf0242477	adult lateral horn PV4a7 neuron
+catmaid_fafb	3421839	is_a	FlyBase:FBrf0242477	adult lateral horn PV4a2 neuron
+catmaid_fafb	3587600	is_a	FlyBase:FBrf0242477	adult lateral horn AV5a1 neuron
+catmaid_fafb	3897655	is_a	FlyBase:FBrf0242477	adult lateral horn PV4a2 neuron
+catmaid_fafb	3931736	is_a	FlyBase:FBrf0242477	adult lateral horn PV3f1 neuron
+catmaid_fafb	3931886	is_a	FlyBase:FBrf0242477	adult lateral horn PV2b1 neuron
+catmaid_fafb	3932461	is_a	FlyBase:FBrf0242477	adult lateral horn PV2d1 neuron
+catmaid_fafb	4017748	is_a	FlyBase:FBrf0242477	adult VNC-PN1 lateral horn input neuron
+catmaid_fafb	4176088	is_a	FlyBase:FBrf0242477	adult lateral horn AV7a1 neuron
+catmaid_fafb	4176285	is_a	FlyBase:FBrf0242477	adult lateral horn PV4a7 neuron
+catmaid_fafb	4191753	is_a	FlyBase:FBrf0242477	adult LO-PN1 lateral horn input neuron
+catmaid_fafb	4274682	is_a	FlyBase:FBrf0242477	adult lateral horn PV4a4 neuron
+catmaid_fafb	4292232	is_a	FlyBase:FBrf0242477	adult lateral horn PV4c3 neuron
+catmaid_fafb	4355299	is_a	FlyBase:FBrf0242477	adult lateral horn PV4a10 neuron
+catmaid_fafb	4902612	is_a	FlyBase:FBrf0242477	adult lateral horn AV6b1 neuron
+catmaid_fafb	4945705	is_a	FlyBase:FBrf0242477	adult lateral horn PV5b3 neuron
+catmaid_fafb	4974403	is_a	FlyBase:FBrf0242477	adult PLP-PN1 lateral horn input neuron
+catmaid_fafb	5292219	is_a	FlyBase:FBrf0242477	adult lateral horn PV5b2 neuron
+catmaid_fafb	5670783	is_a	FlyBase:FBrf0242477	adult lateral horn PV4a4 neuron
+catmaid_fafb	5807217	is_a	FlyBase:FBrf0242477	adult lateral horn PV5g2 neuron
+catmaid_fafb	5990596	is_a	FlyBase:FBrf0242477	adult lateral horn AV4b8 neuron
+catmaid_fafb	6197374	is_a	FlyBase:FBrf0242477	adult lateral horn PV5c2 neuron
+catmaid_fafb	6197374	is_a	FlyBase:FBrf0242477	adult lateral horn PV5c3 neuron
+catmaid_fafb	6203604	is_a	FlyBase:FBrf0242477	adult lateral horn PV4b1 neuron
+catmaid_fafb	6772893	is_a	FlyBase:FBrf0242477	adult lateral horn AV6c1 neuron
+catmaid_fafb	6900869	is_a	FlyBase:FBrf0242477	adult lateral horn PV4a4 neuron
+catmaid_fafb	7739922	is_a	FlyBase:FBrf0242477	adult GNG-PN1 lateral horn input neuron
+catmaid_fafb	8521115	is_a	FlyBase:FBrf0242477	adult LO-PN2 lateral horn input neuron
+catmaid_fafb	8739442	is_a	FlyBase:FBrf0242477	adult lateral horn PV6a1 neuron
+catmaid_fafb	8927505	is_a	FlyBase:FBrf0242477	adult AVLP-PN1 lateral horn input neuron
+catmaid_fafb	11519536	is_a	FlyBase:FBrf0242477	adult lateral horn PV4b2 neuron
+catmaid_fafb	11520049	is_a	FlyBase:FBrf0242477	adult lateral horn PV5a3 neuron
+catmaid_fafb	11522508	is_a	FlyBase:FBrf0242477	adult lateral horn AV6b3 neuron
+catmaid_fafb	11522927	is_a	FlyBase:FBrf0242477	adult lateral horn PV4a2 neuron
+catmaid_fafb	11524200	is_a	FlyBase:FBrf0242477	adult lateral horn PV5b1 neuron
+catmaid_fafb	11524200	is_a	FlyBase:FBrf0242477	adult lateral horn PV5d1 neuron
+catmaid_fafb	11524299	is_a	FlyBase:FBrf0242477	adult lateral horn PV4b3 neuron
+catmaid_fafb	11524475	is_a	FlyBase:FBrf0242477	adult lateral horn PV4d1 neuron
+catmaid_fafb	11544024	is_a	FlyBase:FBrf0242477	adult lateral horn PV4a8 neuron
+catmaid_fafb	14809659	is_a	FlyBase:FBrf0242477	adult lateral horn PV4c2 neuron
+catmaid_fafb	15738796	is_a	FlyBase:FBrf0242477	adult lateral horn AV4c1 neuron
+catmaid_fafb	15738886	is_a	FlyBase:FBrf0242477	adult lateral horn AV4a1 neuron
