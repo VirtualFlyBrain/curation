@@ -1,0 +1,4 @@
+subject_external_id	subject_name	object	pub	comment	subject_external_db	relation
+5813057864	vpoDN	adult doublesex pMN2 (female) neuron	doi:10.1101/2020.08.07.241919		neuprint_JRC_Hemibrain_1point1	is_a
+5813027266	vpoEN	vaginal plate opening excitatory neuron	doi:10.1101/2020.08.07.241919		neuprint_JRC_Hemibrain_1point1	is_a
+1570922129	vpoEN	vaginal plate opening excitatory neuron	doi:10.1101/2020.08.07.241919		neuprint_JRC_Hemibrain_1point1	is_a
