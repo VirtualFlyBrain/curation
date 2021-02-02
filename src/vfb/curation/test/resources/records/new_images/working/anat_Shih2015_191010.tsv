@@ -1,4 +1,4 @@
 filename	label	is_a	part_of	classification_reference	classification_comment	expresses	dbxrefs	comment
-Gad1-F-300256	Gad1-F-300256	lobula columnar neuron LC4	female organism|adult brain	FBrf0233032	Identified in Panser et 2016 (FBrf0233032 based on morhpology.	P{Gad1-GAL4.3.098}	FlyCircuit:Gad1-F-300256	Adult 5~15 days
+Gad1-F-300256	Gad1-F-300256	lobula columnar neuron Lcn4	female organism|adult brain	FBrf0233032	Identified in Panser et 2016 (FBrf0233032 based on morhpology.	P{Gad1-GAL4.3.098}	FlyCircuit:Gad1-F-300256	Adult 5~15 days
 Cha-F-300208	Cha-F-300208	neuron	adult brain		Cell type defined in Panser et 2016 (FBrf0233032) using this neuron as an example.			Adult 5~15 days
 VT19730-F-200000	VT19730-F-200000	neuron	female organism|adult brain	FBrf0233032		P{VT019730-GAL4}	FlyCircuit:VT19730-F-200000	Adult 5~15 days
