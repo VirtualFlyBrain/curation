@@ -1,0 +1,10 @@
+subject_external_db	subject_external_id	relation	object
+catmaid_fafb	5143346	is_a	oviposition descending neuron a
+catmaid_fafb	3807212	is_a	adult doublesex pC1a (female) neuron
+catmaid_fafb	3781621	is_a	adult doublesex pC1b (female) neuron
+catmaid_fafb	3794183	is_a	adult doublesex pC1c (female) neuron
+catmaid_fafb	3979930	is_a	adult doublesex pC1d (female) neuron
+catmaid_fafb	3770805	is_a	adult doublesex pC1e (female) neuron
+catmaid_fafb	13325634	is_a	oviposition inhibitory neuron
+catmaid_fafb	4358524	is_a	adult sex peptide abdominal ganglion neuron
+catmaid_fafb	5353953	is_a	adult sex peptide abdominal ganglion neuron
