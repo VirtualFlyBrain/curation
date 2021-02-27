@@ -1,0 +1,99 @@
+subject_external_db	subject_external_id	relation	object
+catmaid_fafb	430	is_a	descending neuron of the posterior brain DNp32
+catmaid_fafb	2062703	is_a	mushroom body output neuron 23
+catmaid_fafb	1312003	is_a	adult lateral horn AD2b1 neuron
+catmaid_fafb	3079894	is_a	adult lateral horn PD2c1 neuron
+catmaid_fafb	1298573	is_a	adult lateral horn PV5a2 neuron
+catmaid_fafb	9084549	is_a	adult lateral horn PV5a2 neuron
+catmaid_fafb	1970606	is_a	adult lateral horn PV7c1 neuron
+catmaid_fafb	1619887	is_a	mushroom body output neuron 29
+catmaid_fafb	3503851	is_a	mushroom body output neuron 29
+catmaid_fafb	3032891	is_a	mushroom body output neuron 30
+catmaid_fafb	3841515	is_a	mushroom body output neuron 30
+catmaid_fafb	5117517	is_a	mushroom body output neuron 31
+catmaid_fafb	3586071	is_a	mushroom body output neuron 32
+catmaid_fafb	3792463	is_a	mushroom body output neuron 32
+catmaid_fafb	3086868	is_a	mushroom body output neuron 35
+catmaid_fafb	5282065	is_a	mushroom body output neuron 35
+catmaid_fafb	4184054	is_a	adult lateral horn PV4m1 neuron
+catmaid_fafb	3134936	is_a	PAM01 neuron of upper MB commissure
+catmaid_fafb	6181246	is_a	PAM01 neuron of upper MB commissure
+catmaid_fafb	11169413	is_a	PAM01 neuron of upper MB commissure
+catmaid_fafb	11262395	is_a	PAM01 neuron of upper MB commissure
+catmaid_fafb	11274761	is_a	PAM01 neuron of upper MB commissure
+catmaid_fafb	3025479	is_a	PAM01 neuron of ventral MB commissure
+catmaid_fafb	3026119	is_a	PAM01 neuron of ventral MB commissure
+catmaid_fafb	3143746	is_a	PAM01 neuron of ventral MB commissure
+catmaid_fafb	5631471	is_a	PAM01 neuron of ventral MB commissure
+catmaid_fafb	5652208	is_a	PAM01 neuron of ventral MB commissure
+catmaid_fafb	5914197	is_a	PAM01 neuron of ventral MB commissure
+catmaid_fafb	5952626	is_a	PAM01 neuron of ventral MB commissure
+catmaid_fafb	6013704	is_a	PAM01 neuron of ventral MB commissure
+catmaid_fafb	6019056	is_a	PAM01 neuron of ventral MB commissure
+catmaid_fafb	6059582	is_a	PAM01 neuron of ventral MB commissure
+catmaid_fafb	11149656	is_a	PAM01 neuron of ventral MB commissure
+catmaid_fafb	11175371	is_a	PAM01 neuron of ventral MB commissure
+catmaid_fafb	3639761	is_a	PAM01 feedback neuron
+catmaid_fafb	3643424	is_a	PAM01 feedback neuron
+catmaid_fafb	5234721	is_a	PAM01 feedback neuron
+catmaid_fafb	5256152	is_a	mushroom body output neuron 3
+catmaid_fafb	2699293	is_a	mushroom body output neuron 1
+catmaid_fafb	517628	is_a	mushroom body output neuron 14
+catmaid_fafb	543713	is_a	mushroom body output neuron 14
+catmaid_fafb	1385339	is_a	mushroom body output neuron 6
+catmaid_fafb	1085816	is_a	mushroom body pedunculus-medial lobe arborizing neuron 1
+catmaid_fafb	1159799	is_a	mushroom body pedunculus-medial lobe arborizing neuron 1
+catmaid_fafb	2120177	is_a	mushroom body output neuron 11
+catmaid_fafb	870683	is_a	mushroom body output neuron 5
+catmaid_fafb	5243944	is_a	mushroom body output neuron 5
+catmaid_fafb	546632	is_a	mushroom body output neuron 7
+catmaid_fafb	551975	is_a	mushroom body output neuron 7
+catmaid_fafb	3055426	is_a	mushroom body output neuron 8
+catmaid_fafb	3037426	is_a	mushroom body output neuron 9
+catmaid_fafb	4394903	is_a	mushroom body output neuron 9
+catmaid_fafb	5255752	is_a	mushroom body output neuron 9
+catmaid_fafb	304945	is_a	mushroom body output neuron 12
+catmaid_fafb	3786105	is_a	mushroom body output neuron 12
+catmaid_fafb	4190451	is_a	mushroom body output neuron 12
+catmaid_fafb	2931393	is_a	mushroom body output neuron 15
+catmaid_fafb	5952481	is_a	mushroom body output neuron 15
+catmaid_fafb	6012881	is_a	mushroom body output neuron 15
+catmaid_fafb	6026853	is_a	mushroom body output neuron 15
+catmaid_fafb	1305588	is_a	mushroom body output neuron 19
+catmaid_fafb	1605598	is_a	mushroom body output neuron 19
+catmaid_fafb	3580588	is_a	mushroom body output neuron 19
+catmaid_fafb	3643164	is_a	mushroom body output neuron 19
+catmaid_fafb	1360012	is_a	mushroom body output neuron 2
+catmaid_fafb	1567421	is_a	mushroom body output neuron 2
+catmaid_fafb	1687427	is_a	mushroom body output neuron 20
+catmaid_fafb	5281408	is_a	mushroom body output neuron 20
+catmaid_fafb	2611468	is_a	mushroom body output neuron 4
+catmaid_fafb	3841770	is_a	mushroom body output neuron 4
+catmaid_fafb	3134190	is_a	dopaminergic PAM neuron 1
+catmaid_fafb	5262509	is_a	dopaminergic PAM neuron 1
+catmaid_fafb	5470844	is_a	dopaminergic PAM neuron 1
+catmaid_fafb	5650098	is_a	dopaminergic PAM neuron 1
+catmaid_fafb	5737998	is_a	dopaminergic PAM neuron 1
+catmaid_fafb	5738037	is_a	dopaminergic PAM neuron 1
+catmaid_fafb	6013565	is_a	dopaminergic PAM neuron 1
+catmaid_fafb	6100678	is_a	dopaminergic PAM neuron 1
+catmaid_fafb	6109747	is_a	dopaminergic PAM neuron 1
+catmaid_fafb	5737978	is_a	dopaminergic PAM neuron 2
+catmaid_fafb	5886218	is_a	dopaminergic PAM neuron 2
+catmaid_fafb	6116676	is_a	dopaminergic PAM neuron 2
+catmaid_fafb	6969526	is_a	dopaminergic PAM neuron 2
+catmaid_fafb	7270967	is_a	dopaminergic PAM neuron 2
+catmaid_fafb	7512499	is_a	dopaminergic PAM neuron 2
+catmaid_fafb	7777207	is_a	dopaminergic PAM neuron 2
+catmaid_fafb	8317886	is_a	dopaminergic PAM neuron 2
+catmaid_fafb	2106411	is_a	dopaminergic PPL1 neuron 2
+catmaid_fafb	6893931	is_a	dopaminergic PPL1 neuron 2
+catmaid_fafb	1573775	is_a	mushroom body output neuron 21
+catmaid_fafb	4280064	is_a	mushroom body output neuron 21
+catmaid_fafb	563383	is_a	mushroom body output neuron 16
+catmaid_fafb	1310573	is_a	mushroom body output neuron 16
+catmaid_fafb	1322907	is_a	mushroom body output neuron 17
+catmaid_fafb	3931527	is_a	mushroom body output neuron 17
+catmaid_fafb	4071314	is_a	mushroom body output neuron 17
+catmaid_fafb	4133313	is_a	mushroom body output neuron 17
+catmaid_fafb	4987502	is_a	mushroom body output neuron 17
