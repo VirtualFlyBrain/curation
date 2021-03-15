@@ -1,0 +1,122 @@
+subject_external_db	subject_external_id	relation	object
+catmaid_fafb	177545	is_a	adult multiglomerular antennal lobe projection neuron type 24 lvPN
+catmaid_fafb	177584	is_a	adult multiglomerular antennal lobe projection neuron type 24 lvPN
+catmaid_fafb	177997	is_a	adult multiglomerular antennal lobe projection neuron type 25 lvPN
+catmaid_fafb	181551	is_a	adult lateral horn centrifugal neuron 8
+catmaid_fafb	554327	is_a	adult lateral horn centrifugal neuron 8
+catmaid_fafb	1041505	is_a	adult fruitless aSP-g (female) neuron
+catmaid_fafb	1058665	is_a	adult fruitless aSP-f (female) neuron
+catmaid_fafb	1064828	is_a	adult fruitless aSP-f (female) neuron
+catmaid_fafb	1137895	is_a	adult multiglomerular antennal lobe projection neuron type 29 lvPN
+catmaid_fafb	1142316	is_a	adult multiglomerular antennal lobe projection neuron type 25 lvPN
+catmaid_fafb	1185009	is_a	adult lateral horn PV5e1 neuron
+catmaid_fafb	1299740	is_a	adult lateral horn-mushroom body neuron 1
+catmaid_fafb	1576584	is_a	adult subesophageal zone output neuron
+catmaid_fafb	1578380	is_a	adult subesophageal zone output neuron
+catmaid_fafb	1906859	is_a	adult lateral horn AD1c2 neuron
+catmaid_fafb	1936120	is_a	adult lateral horn PD2a5 neuron
+catmaid_fafb	1945705	is_a	adult lateral horn PD2a7 neuron
+catmaid_fafb	2262342	is_a	adult subesophageal zone output neuron
+catmaid_fafb	2434711	is_a	adult subesophageal zone output neuron
+catmaid_fafb	2561794	is_a	adult subesophageal zone output neuron
+catmaid_fafb	2720102	is_a	adult lateral horn AD1c2 neuron
+catmaid_fafb	2816120	is_a	adult subesophageal zone output neuron
+catmaid_fafb	2969221	is_a	adult lateral horn AD1c1 neuron
+catmaid_fafb	3003322	is_a	adult multiglomerular antennal lobe projection neuron type 50 vPN
+catmaid_fafb	3075063	is_a	adult lateral horn AD1b6 neuron
+catmaid_fafb	3075690	is_a	adult subesophageal zone output neuron
+catmaid_fafb	3076815	is_a	adult subesophageal zone output neuron
+catmaid_fafb	3080183	is_a	adult lateral horn AD1c1 neuron
+catmaid_fafb	3673438	is_a	adult subesophageal zone output neuron
+catmaid_fafb	3770352	is_a	adult lateral horn PD2a6 neuron
+catmaid_fafb	3993648	is_a	adult lateral horn AD1d2 neuron
+catmaid_fafb	4970266	is_a	adult subesophageal zone output neuron
+catmaid_fafb	5132530	is_a	adult subesophageal zone output neuron
+catmaid_fafb	5163300	is_a	adult fruitless aIP-g (female) neuron
+catmaid_fafb	5302372	is_a	adult fruitless aIP-g (female) neuron
+catmaid_fafb	5302382	is_a	adult fruitless aIP-g (female) neuron
+catmaid_fafb	5364422	is_a	adult subesophageal zone output neuron
+catmaid_fafb	5480425	is_a	adult subesophageal zone output neuron
+catmaid_fafb	5481383	is_a	adult subesophageal zone output neuron
+catmaid_fafb	5524037	is_a	adult anterior ventrolateral protocerebrum neuron 443
+catmaid_fafb	5701890	is_a	adult lateral horn AD1b6 neuron
+catmaid_fafb	5727050	is_a	adult lateral horn AD1b6 neuron
+catmaid_fafb	5870465	is_a	adult subesophageal zone output neuron
+catmaid_fafb	5912071	is_a	adult subesophageal zone output neuron
+catmaid_fafb	5915449	is_a	adult fruitless aSP-f (female) neuron
+catmaid_fafb	5917625	is_a	adult subesophageal zone output neuron
+catmaid_fafb	5921590	is_a	adult subesophageal zone output neuron
+catmaid_fafb	5947064	is_a	adult subesophageal zone output neuron
+catmaid_fafb	5961458	is_a	adult subesophageal zone output neuron
+catmaid_fafb	5961471	is_a	adult subesophageal zone output neuron
+catmaid_fafb	5965626	is_a	adult subesophageal zone output neuron
+catmaid_fafb	5982276	is_a	adult lateral horn PD5a1 neuron
+catmaid_fafb	6012092	is_a	adult subesophageal zone output neuron
+catmaid_fafb	6045462	is_a	adult subesophageal zone output neuron
+catmaid_fafb	6065201	is_a	adult subesophageal zone output neuron
+catmaid_fafb	6065216	is_a	adult subesophageal zone output neuron
+catmaid_fafb	6129835	is_a	adult subesophageal zone output neuron
+catmaid_fafb	6130973	is_a	adult subesophageal zone output neuron
+catmaid_fafb	6131882	is_a	adult subesophageal zone output neuron
+catmaid_fafb	6132299	is_a	adult subesophageal zone output neuron
+catmaid_fafb	6145469	is_a	adult subesophageal zone output neuron
+catmaid_fafb	6162876	is_a	adult subesophageal zone output neuron
+catmaid_fafb	6335520	is_a	adult subesophageal zone output neuron
+catmaid_fafb	6335553	is_a	adult subesophageal zone output neuron
+catmaid_fafb	6339242	is_a	adult subesophageal zone output neuron
+catmaid_fafb	6423281	is_a	adult subesophageal zone output neuron
+catmaid_fafb	6484475	is_a	adult subesophageal zone output neuron
+catmaid_fafb	6649459	is_a	adult fruitless aSP-g (female) neuron
+catmaid_fafb	6837598	is_a	adult lateral horn AD1c2 neuron
+catmaid_fafb	6852364	is_a	adult lateral horn AD1b5 neuron
+catmaid_fafb	6973517	is_a	adult subesophageal zone output neuron
+catmaid_fafb	6973614	is_a	adult subesophageal zone output neuron
+catmaid_fafb	6996224	is_a	adult subesophageal zone output neuron
+catmaid_fafb	6997270	is_a	adult subesophageal zone output neuron
+catmaid_fafb	7019336	is_a	adult subesophageal zone output neuron
+catmaid_fafb	7022741	is_a	adult subesophageal zone output neuron
+catmaid_fafb	7063206	is_a	adult subesophageal zone output neuron
+catmaid_fafb	7075000	is_a	adult subesophageal zone output neuron
+catmaid_fafb	7092087	is_a	adult lateral horn AD1c3 neuron
+catmaid_fafb	7131770	is_a	adult subesophageal zone output neuron
+catmaid_fafb	7132013	is_a	adult subesophageal zone output neuron
+catmaid_fafb	7167561	is_a	adult subesophageal zone output neuron
+catmaid_fafb	7323802	is_a	adult subesophageal zone output neuron
+catmaid_fafb	7385806	is_a	adult subesophageal zone output neuron
+catmaid_fafb	7404024	is_a	adult subesophageal zone output neuron
+catmaid_fafb	7724380	is_a	adult subesophageal zone output neuron
+catmaid_fafb	7724886	is_a	adult subesophageal zone output neuron
+catmaid_fafb	7796757	is_a	adult subesophageal zone output neuron
+catmaid_fafb	7899656	is_a	adult subesophageal zone output neuron
+catmaid_fafb	7901710	is_a	adult subesophageal zone output neuron
+catmaid_fafb	7901737	is_a	adult subesophageal zone output neuron
+catmaid_fafb	7902020	is_a	adult subesophageal zone output neuron
+catmaid_fafb	8125539	is_a	adult subesophageal zone output neuron
+catmaid_fafb	8677691	is_a	adult lateral horn AD1b6 neuron
+catmaid_fafb	8677699	is_a	adult subesophageal zone output neuron
+catmaid_fafb	8715730	is_a	adult subesophageal zone output neuron
+catmaid_fafb	8715745	is_a	adult subesophageal zone output neuron
+catmaid_fafb	8715792	is_a	adult subesophageal zone output neuron
+catmaid_fafb	8717128	is_a	adult subesophageal zone output neuron
+catmaid_fafb	8717164	is_a	adult subesophageal zone output neuron
+catmaid_fafb	8770023	is_a	adult subesophageal zone output neuron
+catmaid_fafb	9378794	is_a	adult subesophageal zone output neuron
+catmaid_fafb	10004981	is_a	adult subesophageal zone output neuron
+catmaid_fafb	10694066	is_a	adult subesophageal zone output neuron
+catmaid_fafb	10774356	is_a	adult subesophageal zone output neuron
+catmaid_fafb	11367137	is_a	adult subesophageal zone output neuron
+catmaid_fafb	11390856	is_a	adult subesophageal zone output neuron
+catmaid_fafb	11408175	is_a	adult subesophageal zone output neuron
+catmaid_fafb	11409555	is_a	adult subesophageal zone output neuron
+catmaid_fafb	11478394	is_a	adult subesophageal zone output neuron
+catmaid_fafb	11480224	is_a	adult subesophageal zone output neuron
+catmaid_fafb	11481938	is_a	adult subesophageal zone output neuron
+catmaid_fafb	11519759	is_a	adult lateral horn centrifugal neuron 9
+catmaid_fafb	11519897	is_a	adult lateral horn centrifugal neuron 5
+catmaid_fafb	11543484	is_a	adult lateral horn centrifugal neuron 3
+catmaid_fafb	11692492	is_a	adult subesophageal zone output neuron
+catmaid_fafb	11693058	is_a	adult subesophageal zone output neuron
+catmaid_fafb	12220882	is_a	adult subesophageal zone output neuron
+catmaid_fafb	12240258	is_a	adult subesophageal zone output neuron
+catmaid_fafb	13096875	is_a	adult subesophageal zone output neuron
+catmaid_fafb	13283028	is_a	adult subesophageal zone output neuron
