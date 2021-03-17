@@ -1,0 +1,223 @@
+subject_external_db	subject_external_id	relation	object
+catmaid_fafb	3906	is_a	adult antennal lobe projection neuron VC3m lvPN
+catmaid_fafb	4070	is_a	adult antennal lobe projection neuron VC3l adPN
+catmaid_fafb	22277	is_a	adult antennal lobe projection neuron VC3m lvPN
+catmaid_fafb	22744	is_a	adult antennal lobe projection neuron VC3m lvPN
+catmaid_fafb	23005	is_a	adult antennal lobe projection neuron VP1d+VP4 l2PN1
+catmaid_fafb	23134	is_a	adult antennal lobe projection neuron VC3l adPN
+catmaid_fafb	32793	is_a	adult antennal lobe projection neuron VM1++ l2PN
+catmaid_fafb	32801	is_a	adult multiglomerular antennal lobe projection neuron l2PN
+catmaid_fafb	37212	is_a	adult antennal lobe projection neuron VP1d++ lPN 1
+catmaid_fafb	37235	is_a	adult antennal lobe projection neuron VP1d++ lPN 1
+catmaid_fafb	37513	is_a	adult bilateral antennal lobe projection neuron VP3+VP1l ivPN
+catmaid_fafb	39254	is_a	adult antennal lobe projection neuron VC5 adPN
+catmaid_fafb	41578	is_a	adult antennal lobe projection neuron VC3l adPN
+catmaid_fafb	45882	is_a	adult bilateral antennal lobe projection neuron VP3+VP1l ivPN
+catmaid_fafb	46105	is_a	adult antennal lobe projection neuron VP1m+VP5 ilPN
+catmaid_fafb	46800	is_a	adult antennal lobe projection neuron VC3l adPN
+catmaid_fafb	56983	is_a	adult multiglomerular antennal lobe projection neuron lvPN
+catmaid_fafb	56995	is_a	adult multiglomerular antennal lobe projection neuron lvPN
+catmaid_fafb	56999	is_a	adult antennal lobe projection neuron VP1l+ lvPN 1
+catmaid_fafb	57003	is_a	adult antennal lobe projection neuron VM4 lvPN
+catmaid_fafb	57007	is_a	adult multiglomerular antennal lobe projection neuron lvPN
+catmaid_fafb	57011	is_a	adult multiglomerular antennal lobe projection neuron lvPN
+catmaid_fafb	57015	is_a	adult antennal lobe projection neuron VC5+ lvPN 2
+catmaid_fafb	57019	is_a	adult multiglomerular antennal lobe projection neuron lvPN
+catmaid_fafb	57023	is_a	adult multiglomerular antennal lobe projection neuron lvPN
+catmaid_fafb	57035	is_a	adult multiglomerular antennal lobe projection neuron lvPN
+catmaid_fafb	57039	is_a	adult multiglomerular antennal lobe projection neuron lvPN
+catmaid_fafb	57047	is_a	adult multiglomerular antennal lobe projection neuron lvPN
+catmaid_fafb	57051	is_a	adult antennal lobe projection neuron VP2+VP5 lvPN
+catmaid_fafb	57059	is_a	adult antennal lobe projection neuron VP1m+VP2 lvPN 1
+catmaid_fafb	57063	is_a	adult antennal lobe projection neuron VP2+SEZ lvPN 2
+catmaid_fafb	57076	is_a	adult multiglomerular antennal lobe projection neuron lvPN
+catmaid_fafb	57080	is_a	adult multiglomerular antennal lobe projection neuron lvPN
+catmaid_fafb	57089	is_a	adult multiglomerular antennal lobe projection neuron lvPN
+catmaid_fafb	57114	is_a	adult antennal lobe projection neuron VP1m+VP2 lvPN 1
+catmaid_fafb	57122	is_a	adult antennal lobe projection neuron VP1m+VP2 lvPN 1
+catmaid_fafb	57126	is_a	adult antennal lobe projection neuron VP2++ lvPN
+catmaid_fafb	57130	is_a	adult antennal lobe projection neuron VC5+ lvPN 1
+catmaid_fafb	57134	is_a	adult antennal lobe projection neuron VP2+VP5 lvPN
+catmaid_fafb	57138	is_a	adult antennal lobe projection neuron VP2+VP5 lvPN
+catmaid_fafb	57142	is_a	adult antennal lobe projection neuron VP1m++ lvPN
+catmaid_fafb	57146	is_a	adult antennal lobe projection neuron VP2+SEZ lvPN 1
+catmaid_fafb	57158	is_a	adult multiglomerular antennal lobe projection neuron lvPN
+catmaid_fafb	57166	is_a	adult antennal lobe projection neuron VP2+SEZ lvPN 1
+catmaid_fafb	57171	is_a	adult multiglomerular antennal lobe projection neuron lvPN
+catmaid_fafb	57175	is_a	adult antennal lobe projection neuron VC5+ lvPN 2
+catmaid_fafb	57179	is_a	adult multiglomerular antennal lobe projection neuron lvPN
+catmaid_fafb	57192	is_a	adult antennal lobe projection neuron VM4 lvPN
+catmaid_fafb	57196	is_a	adult multiglomerular antennal lobe projection neuron lvPN
+catmaid_fafb	57200	is_a	adult antennal lobe projection neuron VP1l+ lvPN 1
+catmaid_fafb	57204	is_a	adult multiglomerular antennal lobe projection neuron lvPN
+catmaid_fafb	57208	is_a	adult multiglomerular antennal lobe projection neuron lvPN
+catmaid_fafb	57212	is_a	adult multiglomerular antennal lobe projection neuron lvPN
+catmaid_fafb	57216	is_a	adult antennal lobe projection neuron DL5 lvPN
+catmaid_fafb	57220	is_a	adult multiglomerular antennal lobe projection neuron lvPN
+catmaid_fafb	57224	is_a	adult antennal lobe projection neuron VP1l+ lvPN 1
+catmaid_fafb	57232	is_a	adult multiglomerular antennal lobe projection neuron lvPN
+catmaid_fafb	57236	is_a	adult antennal lobe projection neuron VC5+ lvPN 1
+catmaid_fafb	57389	is_a	adult multiglomerular antennal lobe projection neuron lPN
+catmaid_fafb	57394	is_a	adult multiglomerular antennal lobe projection neuron lPN
+catmaid_fafb	57426	is_a	adult antennal lobe projection neuron VP1d++ lPN 1
+catmaid_fafb	57430	is_a	adult antennal lobe projection neuron VP4++ lPN
+catmaid_fafb	57434	is_a	adult antennal lobe projection neuron VP4++ lPN
+catmaid_fafb	57442	is_a	adult antennal lobe projection neuron VP1l++ lPN
+catmaid_fafb	57446	is_a	adult antennal lobe projection neuron VP1d++ lPN 1
+catmaid_fafb	57450	is_a	adult multiglomerular antennal lobe projection neuron lPN
+catmaid_fafb	57455	is_a	adult multiglomerular antennal lobe projection neuron lPN
+catmaid_fafb	57463	is_a	adult multiglomerular antennal lobe projection neuron lPN
+catmaid_fafb	57467	is_a	adult multiglomerular antennal lobe projection neuron lPN
+catmaid_fafb	57475	is_a	adult antennal lobe projection neuron VP3+ smPN
+catmaid_fafb	57487	is_a	adult bilateral antennal lobe projection neuron VP1l+VP3 ilPN
+catmaid_fafb	57495	is_a	adult bilateral antennal lobe projection neuron VP1l+VP3 ilPN
+catmaid_fafb	57499	is_a	adult antennal lobe projection neuron VL1 ilPN
+catmaid_fafb	57503	is_a	adult antennal lobe projection neuron VP1m+VP5 ilPN
+catmaid_fafb	57536	is_a	adult multiglomerular antennal lobe projection neuron l2PN
+catmaid_fafb	59129	is_a	adult antennal lobe projection neuron VC3l adPN
+catmaid_fafb	73937	is_a	adult antennal lobe projection neuron VL1 ilPN
+catmaid_fafb	177540	is_a	adult multiglomerular antennal lobe projection neuron lvPN
+catmaid_fafb	177549	is_a	adult multiglomerular antennal lobe projection neuron lvPN
+catmaid_fafb	177656	is_a	adult multiglomerular antennal lobe projection neuron lvPN
+catmaid_fafb	182684	is_a	adult antennal lobe projection neuron VP1d++ lPN 1
+catmaid_fafb	192423	is_a	adult antennal lobe projection neuron VP1d il2PN
+catmaid_fafb	192430	is_a	adult antennal lobe projection neuron VP1m+ lvPN
+catmaid_fafb	199461	is_a	adult multiglomerular antennal lobe projection neuron l2PN
+catmaid_fafb	203504	is_a	adult antennal lobe projection neuron VP1d il2PN
+catmaid_fafb	400943	is_a	adult antennal lobe projection neuron VC3m lvPN
+catmaid_fafb	488055	is_a	adult lateral horn AV4c1 neuron
+catmaid_fafb	531931	is_a	adult antennal lobe projection neuron VA1d vPN
+catmaid_fafb	563760	is_a	adult lateral horn centrifugal neuron 4
+catmaid_fafb	1136366	is_a	adult multiglomerular antennal lobe projection neuron lvPN
+catmaid_fafb	1136923	is_a	adult multiglomerular antennal lobe projection neuron lvPN
+catmaid_fafb	1144225	is_a	adult multiglomerular antennal lobe projection neuron lvPN
+catmaid_fafb	1144402	is_a	adult multiglomerular antennal lobe projection neuron lvPN
+catmaid_fafb	1149173	is_a	adult antennal lobe projection neuron VP4 vPN
+catmaid_fafb	1288606	is_a	adult lateral horn centrifugal neuron 6
+catmaid_fafb	1298816	is_a	adult lateral horn AV6a3 neuron
+catmaid_fafb	1316519	is_a	adult lateral horn PV2b5 neuron
+catmaid_fafb	1334915	is_a	adult multiglomerular antennal lobe projection neuron l2PN
+catmaid_fafb	1339810	is_a	adult multiglomerular antennal lobe projection neuron l2PN
+catmaid_fafb	1363077	is_a	adult antennal lobe projection neuron VC5++ l2PN 1
+catmaid_fafb	1372988	is_a	adult antennal lobe projection neuron VP2+VP5 lvPN
+catmaid_fafb	1532304	is_a	adult antennal lobe projection neuron DP1m vPN
+catmaid_fafb	1533152	is_a	adult antennal lobe projection neuron VM2 vPN
+catmaid_fafb	1664544	is_a	adult multiglomerular antennal lobe projection neuron VP4+VP2+VL1 l2PN
+catmaid_fafb	1702624	is_a	adult antennal lobe projection neuron VL2p vPN
+catmaid_fafb	1703872	is_a	adult lateral horn PV2a2 neuron
+catmaid_fafb	1706774	is_a	adult lateral horn AV3c1 neuron
+catmaid_fafb	1710793	is_a	adult lateral horn PV4a1 neuron
+catmaid_fafb	1710886	is_a	adult lateral horn PV2c1 neuron
+catmaid_fafb	1712057	is_a	adult antennal lobe projection neuron VP2+ adPN
+catmaid_fafb	1720254	is_a	adult multiglomerular antennal lobe projection neuron lvPN
+catmaid_fafb	1722202	is_a	adult antennal lobe projection neuron VA1v vPN
+catmaid_fafb	1724523	is_a	adult antennal lobe projection neuron VL2a vPN
+catmaid_fafb	1727913	is_a	adult multiglomerular antennal lobe projection neuron l2PN
+catmaid_fafb	1803633	is_a	adult lateral horn AD3a10 neuron
+catmaid_fafb	1812558	is_a	adult lateral horn AD3a8 neuron
+catmaid_fafb	1866895	is_a	adult lateral horn centrifugal neuron 7
+catmaid_fafb	1870230	is_a	adult lateral horn AV2a3 neuron
+catmaid_fafb	1879479	is_a	adult lateral horn AD1f4 neuron
+catmaid_fafb	1903280	is_a	adult antennal lobe projection neuron VL2a vPN
+catmaid_fafb	2070199	is_a	adult multiglomerular antennal lobe projection neuron ilPN mALT
+catmaid_fafb	2122447	is_a	adult wedge projection neuron 1
+catmaid_fafb	2227866	is_a	adult antennal lobe projection neuron VA1v vPN
+catmaid_fafb	2227995	is_a	adult wedge projection neuron 1
+catmaid_fafb	2381432	is_a	adult antennal lobe projection neuron VA1v vPN
+catmaid_fafb	2484510	is_a	adult antennal lobe projection neuron VP4+ vPN
+catmaid_fafb	2548003	is_a	adult lateral horn PV4a10 neuron
+catmaid_fafb	2561343	is_a	adult antennal lobe projection neuron VA1v vPN
+catmaid_fafb	2600341	is_a	adult antennal lobe projection neuron VP2+VC5 l2PN
+catmaid_fafb	2639558	is_a	adult lateral horn AV4d1 neuron
+catmaid_fafb	2653656	is_a	adult antennal lobe projection neuron VA1d vPN
+catmaid_fafb	2851242	is_a	adult lateral horn AV4g1 neuron
+catmaid_fafb	3301234	is_a	adult antennal lobe projection neuron VL2a vPN
+catmaid_fafb	3376158	is_a	adult lateral horn PV6o1 neuron
+catmaid_fafb	3394015	is_a	adult lateral horn centrifugal neuron 1
+catmaid_fafb	3416395	is_a	adult lateral horn PV2f2 neuron
+catmaid_fafb	3420237	is_a	adult antennal lobe projection neuron VC5 adPN
+catmaid_fafb	3481901	is_a	adult lateral horn PD3a5 neuron
+catmaid_fafb	3648956	is_a	adult antennal lobe projection neuron VP4++ lPN
+catmaid_fafb	3715995	is_a	adult antennal lobe projection neuron VL2p adPN
+catmaid_fafb	3742499	is_a	adult antennal lobe projection neuron VP1l+ lvPN 2
+catmaid_fafb	3799421	is_a	adult wedge projection neuron 2
+catmaid_fafb	3813331	is_a	adult antennal lobe projection neuron DM4 vPN
+catmaid_fafb	3813343	is_a	adult antennal lobe projection neuron VM2 vPN
+catmaid_fafb	3813403	is_a	adult antennal lobe projection neuron DC4 vPN
+catmaid_fafb	3813424	is_a	adult antennal lobe projection neuron VP1m+VP1d vPN
+catmaid_fafb	3813438	is_a	adult antennal lobe projection neuron VP1d+VP1l vPN
+catmaid_fafb	3813442	is_a	adult antennal lobe projection neuron VP1d++ vPN
+catmaid_fafb	3813447	is_a	adult antennal lobe projection neuron VP1d++ vPN
+catmaid_fafb	3813455	is_a	adult antennal lobe projection neuron VL2a vPN
+catmaid_fafb	3897655	is_a	adult lateral horn PV4a1 neuron
+catmaid_fafb	3908507	is_a	adult antennal lobe projection neuron VP1d+VP4 l2PN2
+catmaid_fafb	3954226	is_a	adult wedge projection neuron 7
+catmaid_fafb	4002166	is_a	adult antennal lobe projection neuron VP2++ lv2PN
+catmaid_fafb	4027387	is_a	adult wedge projection neuron 8
+catmaid_fafb	4058666	is_a	adult antennal lobe projection neuron VP1m+VP2 lvPN 2
+catmaid_fafb	4100701	is_a	adult lateral horn PV4k1 neuron
+catmaid_fafb	4195469	is_a	adult antennal lobe projection neuron VP1m++ l2PN
+catmaid_fafb	4267053	is_a	adult wedge projection neuron 1
+catmaid_fafb	4280558	is_a	adult wedge projection neuron 1
+catmaid_fafb	4340854	is_a	adult antennal lobe projection neuron DL2d vPN
+catmaid_fafb	4494902	is_a	adult antennal lobe projection neuron VC3l adPN
+catmaid_fafb	4507894	is_a	adult antennal lobe projection neuron VL2p vPN
+catmaid_fafb	4586967	is_a	adult antennal lobe projection neuron VC3l adPN
+catmaid_fafb	4624325	is_a	adult antennal lobe projection neuron DC4 vPN
+catmaid_fafb	4624374	is_a	adult antennal lobe projection neuron VM2 vPN
+catmaid_fafb	4632023	is_a	adult antennal lobe projection neuron VP1d++ vPN
+catmaid_fafb	4632091	is_a	adult antennal lobe projection neuron DP1l vPN
+catmaid_fafb	4671556	is_a	adult antennal lobe projection neuron VP5+VP3 l2PN
+catmaid_fafb	4672650	is_a	adult antennal lobe projection neuron VP5 l2PN
+catmaid_fafb	4812228	is_a	adult antennal lobe projection neuron DL2d vPN
+catmaid_fafb	4869882	is_a	adult antennal lobe projection neuron VP3+ l2PN 2
+catmaid_fafb	4876532	is_a	adult antennal lobe projection neuron VP5+VP2 l2PN
+catmaid_fafb	4905365	is_a	adult multiglomerular antennal lobe projection neuron spPN t4ALT
+catmaid_fafb	4946872	is_a	adult wedge projection neuron 6
+catmaid_fafb	4946893	is_a	adult wedge projection neuron 2
+catmaid_fafb	4947032	is_a	adult wedge projection neuron 7
+catmaid_fafb	4954519	is_a	adult antennal lobe projection neuron VP1m++ vPN
+catmaid_fafb	4954525	is_a	lateral antennal lobe tract projection neuron 3
+catmaid_fafb	5002989	is_a	adult wedge projection neuron 1
+catmaid_fafb	5019352	is_a	adult antennal lobe projection neuron DM4 vPN
+catmaid_fafb	5169854	is_a	adult multiglomerular antennal lobe projection neuron lvPN
+catmaid_fafb	5217967	is_a	adult antennal lobe projection neuron DL2v vPN
+catmaid_fafb	5471515	is_a	adult antennal lobe projection neuron VP3 vPN
+catmaid_fafb	5494609	is_a	adult multiglomerular antennal lobe projection neuron lvPN
+catmaid_fafb	5672990	is_a	adult antennal lobe projection neuron VP2 l2PN
+catmaid_fafb	5806820	is_a	adult lateral horn PV5a5 neuron
+catmaid_fafb	5807241	is_a	adult lateral horn PV5d3 neuron
+catmaid_fafb	5807249	is_a	adult lateral horn PV5d3 neuron
+catmaid_fafb	5807269	is_a	adult lateral horn PV5d3 neuron
+catmaid_fafb	5810932	is_a	adult wedge projection neuron 7
+catmaid_fafb	5946848	is_a	adult antennal lobe projection neuron VP5+VP2 l2PN
+catmaid_fafb	6082926	is_a	adult wedge projection neuron 7
+catmaid_fafb	6649190	is_a	adult multiglomerular antennal lobe projection neuron l2PN
+catmaid_fafb	6695923	is_a	adult antennal lobe projection neuron DP1m vPN
+catmaid_fafb	7017522	is_a	adult antennal lobe projection neuron VP3++ l2PN
+catmaid_fafb	7481072	is_a	adult wedge projection neuron 8
+catmaid_fafb	7712104	is_a	adult antennal lobe projection neuron VC3m lvPN
+catmaid_fafb	8406430	is_a	adult antennal lobe projection neuron VC5++ l2PN 2
+catmaid_fafb	8566851	is_a	lateral antennal lobe tract projection neuron 4
+catmaid_fafb	8715672	is_a	adult antennal lobe projection neuron DA2++ ilPN
+catmaid_fafb	8777795	is_a	adult multiglomerular antennal lobe projection neuron spPN t5ALT
+catmaid_fafb	8825246	is_a	adult antennal lobe projection neuron VC5++ l2PN 1
+catmaid_fafb	9206583	is_a	adult wedge projection neuron 8
+catmaid_fafb	9206998	is_a	adult wedge projection neuron 8
+catmaid_fafb	9249174	is_a	adult wedge projection neuron 2
+catmaid_fafb	9901677	is_a	adult antennal lobe projection neuron VC3l adPN
+catmaid_fafb	10078400	is_a	adult antennal lobe projection neuron VP5+ l2PN
+catmaid_fafb	11109412	is_a	adult antennal lobe projection neuron VL2a vPN
+catmaid_fafb	11234968	is_a	adult antennal lobe projection neuron VP3+ l2PN 1
+catmaid_fafb	11522927	is_a	adult lateral horn PV4a1 neuron
+catmaid_fafb	11524119	is_a	adult antennal lobe projection neuron VP1m l2PN
+catmaid_fafb	11524508	is_a	adult lateral horn PV2c1 neuron
+catmaid_fafb	11543519	is_a	adult lateral horn AV2d1 neuron
+catmaid_fafb	11545803	is_a	adult lateral horn AV3f1 neuron
+catmaid_fafb	11546775	is_a	adult antennal lobe projection neuron VP1m++ smPN
+catmaid_fafb	12070989	is_a	lateral antennal lobe tract projection neuron 3
+catmaid_fafb	13272860	is_a	adult antennal lobe projection neuron DP1m vPN
+catmaid_fafb	13272939	is_a	adult antennal lobe projection neuron DP1m vPN
+catmaid_fafb	13565080	is_a	adult lateral horn centrifugal neuron 2
+catmaid_fafb	14003783	is_a	adult uniglomerular projection neuron VP5+SEZ adPN
+catmaid_fafb	15738898	is_a	adult lateral horn AV4a3 neuron
