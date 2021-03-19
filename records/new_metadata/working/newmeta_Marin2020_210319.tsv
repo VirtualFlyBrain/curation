@@ -1,0 +1,145 @@
+subject_external_db	subject_external_id	relation	object
+catmaid_fafb	3078	is_a	adult antennal lobe projection neuron VP1m l2PN
+catmaid_fafb	8798	is_a	gamma-s1 Kenyon cell
+catmaid_fafb	57110	is_a	adult lateral horn AV8a1 neuron
+catmaid_fafb	79579	is_a	adult lateral horn PV2a1 neuron
+catmaid_fafb	561909	is_a	non-aristal sensory neuron VP3
+catmaid_fafb	989621	is_a	non-aristal sensory neuron VP3
+catmaid_fafb	1091854	is_a	adult lateral horn PV4c4 neuron
+catmaid_fafb	1309241	is_a	adult lateral horn AV3r1 neuron
+catmaid_fafb	1868440	is_a	adult lateral horn PV6g1 neuron
+catmaid_fafb	2315173	is_a	adult lateral horn AV3q1 neuron
+catmaid_fafb	2851031	is_a	adult hygrosensory neuron Ir40a VP1d
+catmaid_fafb	2856545	is_a	adult hygrosensory neuron Ir40a VP1d
+catmaid_fafb	3094186	is_a	descending neuron of the posterior brain DNp44
+catmaid_fafb	3439570	is_a	adult lateral horn AV4i1 neuron
+catmaid_fafb	4044728	is_a	adult lateral horn PV4h1 neuron
+catmaid_fafb	4177248	is_a	adult antennal lobe projection neuron VP1l+ lvPN 1
+catmaid_fafb	4181593	is_a	adult lateral horn PV2a1 neuron
+catmaid_fafb	4182148	is_a	adult lateral horn PV6r1 neuron
+catmaid_fafb	4182361	is_a	adult lateral horn PV6r1 neuron
+catmaid_fafb	4214681	is_a	adult lateral horn PV6r1 neuron
+catmaid_fafb	4294123	is_a	adult lateral horn PD5g1 neuron
+catmaid_fafb	4404808	is_a	adult thermosensory neuron Ir21a VP1l
+catmaid_fafb	4495405	is_a	adult antennal lobe projection neuron VP2+SEZ lvPN 2
+catmaid_fafb	4564481	is_a	adult hygrosensory neuron Ir68a VP1m
+catmaid_fafb	4565316	is_a	adult hygrosensory neuron Ir68a VP5
+catmaid_fafb	4712132	is_a	adult hygrosensory neuron Ir68a VP1m
+catmaid_fafb	4724830	is_a	adult antennal lobe projection neuron VC5+ lvPN 1
+catmaid_fafb	4865044	is_a	aristal sensory neuron VP3
+catmaid_fafb	4889524	is_a	adult hygrosensory neuron Ir68a VP1m
+catmaid_fafb	5062598	is_a	adult lateral horn PV6k2 neuron
+catmaid_fafb	5122761	is_a	adult antennal lobe projection neuron VC5++ l2PN 1
+catmaid_fafb	5140342	is_a	adult thermosensory neuron Ir21a VP1l
+catmaid_fafb	5172413	is_a	adult thermosensory neuron Ir21a VP1l
+catmaid_fafb	5183432	is_a	adult lateral horn PV2a1 neuron
+catmaid_fafb	5241419	is_a	adult hygrosensory neuron Ir68a VP5
+catmaid_fafb	5331881	is_a	adult hygrosensory neuron Ir68a VP5
+catmaid_fafb	5370537	is_a	adult hygrosensory neuron Ir40a VP1d
+catmaid_fafb	5400401	is_a	adult hygrosensory neuron Ir68a VP5
+catmaid_fafb	5434675	is_a	adult hygrosensory neuron Ir68a VP1m
+catmaid_fafb	5501963	is_a	adult hygrosensory neuron Ir40a VP1d
+catmaid_fafb	5582907	is_a	adult antennal lobe projection neuron VC5++ l2PN 2
+catmaid_fafb	5643689	is_a	adult antennal lobe projection neuron VP1d+VP1l vPN
+catmaid_fafb	5678610	is_a	adult hygrosensory neuron Ir68a VP5
+catmaid_fafb	5700449	is_a	adult hygrosensory neuron Ir68a VP1m
+catmaid_fafb	5709099	is_a	adult hygrosensory neuron Ir68a VP5
+catmaid_fafb	5714879	is_a	adult hygrosensory neuron Ir40a VP1d
+catmaid_fafb	5747727	is_a	adult hygrosensory neuron Ir68a VP5
+catmaid_fafb	5816884	is_a	gamma-s2 Kenyon cell
+catmaid_fafb	5824712	is_a	adult lateral horn PV6f1 neuron
+catmaid_fafb	5937458	is_a	adult hygrosensory neuron Ir68a VP5
+catmaid_fafb	5946637	is_a	adult antennal lobe projection neuron VP3++ l2PN
+catmaid_fafb	6292134	is_a	adult superior lateral protocerebrum neuron 364
+catmaid_fafb	6292328	is_a	adult superior lateral protocerebrum neuron 364
+catmaid_fafb	6547334	is_a	adult hygrosensory neuron Ir68a VP5
+catmaid_fafb	6852116	is_a	adult lateral horn AV3r1 neuron
+catmaid_fafb	7385775	is_a	aristal sensory neuron VP3
+catmaid_fafb	7423431	is_a	adult antennal lobe projection neuron VP2+SEZ lvPN 1
+catmaid_fafb	7427360	is_a	aristal sensory neuron VP3
+catmaid_fafb	7463926	is_a	adult antennal lobe projection neuron VP1l+ lvPN 1
+catmaid_fafb	7837487	is_a	adult thermosensory neuron Ir21a VP1l
+catmaid_fafb	7910699	is_a	adult thermosensory neuron Ir21a VP1l
+catmaid_fafb	7910760	is_a	adult thermosensory neuron Ir21a VP1l
+catmaid_fafb	8665620	is_a	adult thermosensory neuron Ir21a VP1l
+catmaid_fafb	8808525	is_a	adult lateral horn PV6f1 neuron
+catmaid_fafb	8820702	is_a	adult lateral horn PD5g1 neuron
+catmaid_fafb	8853436	is_a	gamma-s2 Kenyon cell
+catmaid_fafb	8864990	is_a	adult antennal lobe projection neuron VP2+ adPN
+catmaid_fafb	8867765	is_a	adult lateral horn PV6r1 neuron
+catmaid_fafb	8870514	is_a	adult lateral horn PV6r1 neuron
+catmaid_fafb	8873592	is_a	adult lateral horn AV3q1 neuron
+catmaid_fafb	8875932	is_a	adult lateral horn PD5g1 neuron
+catmaid_fafb	8876600	is_a	DN1-like neuron
+catmaid_fafb	8877293	is_a	adult lateral horn PV6r1 neuron
+catmaid_fafb	8880131	is_a	adult lateral horn PD5g1 neuron
+catmaid_fafb	8880705	is_a	adult lateral horn PV7c1 neuron
+catmaid_fafb	8883836	is_a	adult lateral horn PD5g1 neuron
+catmaid_fafb	8896969	is_a	adult lateral horn PV6r1 neuron
+catmaid_fafb	9018826	is_a	adult lateral horn AV3r1 neuron
+catmaid_fafb	9027601	is_a	adult thermosensory neuron Ir21a VP1l
+catmaid_fafb	9039579	is_a	adult antennal lobe projection neuron VP4 vPN
+catmaid_fafb	9069835	is_a	adult lateral horn PV6h1 neuron
+catmaid_fafb	9101937	is_a	adult antennal lobe projection neuron VP1m+VP2 lvPN 1
+catmaid_fafb	9159383	is_a	adult lateral horn AV3r1 neuron
+catmaid_fafb	9573191	is_a	aristal sensory neuron VP3
+catmaid_fafb	9573214	is_a	aristal sensory neuron VP3
+catmaid_fafb	9573225	is_a	aristal sensory neuron VP3
+catmaid_fafb	9586382	is_a	adult hygrosensory neuron Ir40a VP1d
+catmaid_fafb	9588361	is_a	aristal sensory neuron VP3
+catmaid_fafb	9588978	is_a	adult antennal lobe projection neuron VP1m+ lvPN
+catmaid_fafb	9590169	is_a	adult antennal lobe projection neuron VP1m+VP2 lvPN 2
+catmaid_fafb	9610210	is_a	adult hygrosensory neuron Ir40a VP1d
+catmaid_fafb	9610756	is_a	adult hygrosensory neuron Ir68a VP5
+catmaid_fafb	9611706	is_a	adult hygrosensory neuron Ir68a VP5
+catmaid_fafb	9611893	is_a	adult hygrosensory neuron Ir68a VP5
+catmaid_fafb	9612139	is_a	adult hygrosensory neuron Ir68a VP5
+catmaid_fafb	9612147	is_a	adult hygrosensory neuron Ir68a VP5
+catmaid_fafb	9704839	is_a	adult antennal lobe projection neuron VP5+VP3 l2PN
+catmaid_fafb	9711486	is_a	adult lateral horn AV3f1 neuron
+catmaid_fafb	9716626	is_a	adult antennal lobe projection neuron VP1d+VP4 l2PN1
+catmaid_fafb	9717951	is_a	adult antennal lobe projection neuron VP1m++ smPN
+catmaid_fafb	9740174	is_a	adult antennal lobe projection neuron VP1d+VP4 l2PN2
+catmaid_fafb	9951834	is_a	adult lateral horn PD5g1 neuron
+catmaid_fafb	10515783	is_a	adult antennal lobe projection neuron VP2+VC5 l2PN
+catmaid_fafb	11052217	is_a	adult antennal lobe projection neuron VP2+VP5 lvPN
+catmaid_fafb	11128057	is_a	adult lateral horn PV6r1 neuron
+catmaid_fafb	11210831	is_a	adult lateral horn PD5g1 neuron
+catmaid_fafb	11219809	is_a	adult hygrosensory neuron Ir40a VP1d
+catmaid_fafb	11220858	is_a	adult hygrosensory neuron Ir40a VP1d
+catmaid_fafb	11524452	is_a	DN1-like neuron
+catmaid_fafb	11648695	is_a	adult thermosensory neuron Ir21a VP1l
+catmaid_fafb	12229707	is_a	adult hygrosensory neuron Ir68a VP1m
+catmaid_fafb	12232904	is_a	adult thermosensory neuron Ir21a VP1l
+catmaid_fafb	12234527	is_a	adult hygrosensory neuron Ir40a VP1d
+catmaid_fafb	12242212	is_a	adult hygrosensory neuron Ir40a VP1d
+catmaid_fafb	12681995	is_a	adult antennal lobe projection neuron VP1m+VP2 lvPN 1
+catmaid_fafb	12702477	is_a	adult hygrosensory neuron Ir40a VP1d
+catmaid_fafb	12702677	is_a	adult hygrosensory neuron Ir40a VP1d
+catmaid_fafb	12734515	is_a	adult hygrosensory neuron Ir68a VP1m
+catmaid_fafb	12765352	is_a	adult hygrosensory neuron Ir68a VP5
+catmaid_fafb	12766362	is_a	adult hygrosensory neuron Ir68a VP1m
+catmaid_fafb	12766859	is_a	adult hygrosensory neuron Ir68a VP1m
+catmaid_fafb	12770538	is_a	adult hygrosensory neuron Ir68a VP5
+catmaid_fafb	12776427	is_a	adult hygrosensory neuron Ir68a VP1m
+catmaid_fafb	12780133	is_a	adult hygrosensory neuron Ir40a VP1d
+catmaid_fafb	12782012	is_a	adult hygrosensory neuron Ir40a VP1d
+catmaid_fafb	12805737	is_a	adult antennal lobe projection neuron VP4+ vPN
+catmaid_fafb	13053419	is_a	adult antennal lobe projection neuron VP5 l2PN
+catmaid_fafb	13154015	is_a	adult antennal lobe projection neuron VP2 l2PN
+catmaid_fafb	13159715	is_a	adult antennal lobe projection neuron VP3+ l2PN 1
+catmaid_fafb	13159728	is_a	adult antennal lobe projection neuron VP3+ l2PN 1
+catmaid_fafb	13159741	is_a	adult antennal lobe projection neuron VP3+ l2PN 2
+catmaid_fafb	13272972	is_a	adult antennal lobe projection neuron VP1m+VP1d vPN
+catmaid_fafb	13492671	is_a	adult antennal lobe projection neuron VP1l+ lvPN 1
+catmaid_fafb	13599618	is_a	adult thermosensory neuron Ir21a VP1l
+catmaid_fafb	13599868	is_a	adult thermosensory neuron Ir21a VP1l
+catmaid_fafb	13599881	is_a	adult thermosensory neuron Ir21a VP1l
+catmaid_fafb	13599982	is_a	adult hygrosensory neuron Ir40a VP1d
+catmaid_fafb	13604008	is_a	adult hygrosensory neuron Ir68a VP1m
+catmaid_fafb	13613023	is_a	adult hygrosensory neuron Ir68a VP1m
+catmaid_fafb	13635531	is_a	adult hygrosensory neuron Ir68a VP1m
+catmaid_fafb	13931917	is_a	adult antennal lobe projection neuron VP1m+VP2 lvPN 1
+catmaid_fafb	13950267	is_a	adult antennal lobe projection neuron VC5++ l2PN 1
+catmaid_fafb	14005954	is_a	adult antennal lobe projection neuron VP1m++ l2PN
+catmaid_fafb	15423548	is_a	adult lateral horn PD5a1 neuron
