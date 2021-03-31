@@ -1,0 +1,122 @@
+subject_external_db	subject_external_id	subject_name	relation	object
+catmaid_l1em	3157405	FAN-1	is_a	larval mushroom body feed across neuron 1
+catmaid_l1em	8752697	FAN-1	is_a	larval mushroom body feed across neuron 1
+catmaid_l1em	9103732	FAN-10	is_a	larval mushroom body feed across neuron 10
+catmaid_l1em	9238937	FAN-10	is_a	larval mushroom body feed across neuron 10
+catmaid_l1em	17300165	FAN-5	is_a	larval mushroom body feed across neuron 5
+catmaid_l1em	9848760	FAN-5	is_a	larval mushroom body feed across neuron 5
+catmaid_l1em	4199033	FAN-8	is_a	larval mushroom body feed across neuron 8
+catmaid_l1em	4408397	FAN-8	is_a	larval mushroom body feed across neuron 8
+catmaid_l1em	14260575	FAN-9	is_a	larval mushroom body feed across neuron 9
+catmaid_l1em	16987409	FAN-9	is_a	larval mushroom body feed across neuron 9
+catmaid_l1em	16594509	FBN-1	is_a	larval mushroom body one-step feedback neuron 1
+catmaid_l1em	11003660	FBN-1	is_a	larval mushroom body one-step feedback neuron 1
+catmaid_l1em	9423829	FBN-11	is_a	larval mushroom body one-step feedback neuron 11
+catmaid_l1em	9057043	FBN-11	is_a	larval mushroom body one-step feedback neuron 11
+catmaid_l1em	5516552	FBN-13	is_a	larval mushroom body one-step feedback neuron 13
+catmaid_l1em	7540581	FBN-13	is_a	larval mushroom body one-step feedback neuron 13
+catmaid_l1em	14077615	FBN-16	is_a	larval mushroom body one-step feedback neuron 16
+catmaid_l1em	8118947	FBN-16	is_a	larval mushroom body one-step feedback neuron 16
+catmaid_l1em	17437719	FBN-18	is_a	larval mushroom body one-step feedback neuron 18
+catmaid_l1em	10209260	FBN-18	is_a	larval mushroom body one-step feedback neuron 18
+catmaid_l1em	5934511	FBN-19	is_a	larval mushroom body one-step feedback neuron 19
+catmaid_l1em	9064208	FBN-19	is_a	larval mushroom body one-step feedback neuron 19
+catmaid_l1em	4190567	FBN-20	is_a	larval mushroom body one-step feedback neuron 20
+catmaid_l1em	9251793	FBN-20	is_a	larval mushroom body one-step feedback neuron 20
+catmaid_l1em	8792477	FBN-21	is_a	larval mushroom body one-step feedback neuron 21
+catmaid_l1em	9062992	FBN-21	is_a	larval mushroom body one-step feedback neuron 21
+catmaid_l1em	16856539	FBN-22	is_a	larval mushroom body one-step feedback neuron 22
+catmaid_l1em	10682660	FBN-22	is_a	larval mushroom body one-step feedback neuron 22
+catmaid_l1em	7026287	FBN-23	is_a	larval mushroom body one-step feedback neuron 23
+catmaid_l1em	7980369	FBN-23	is_a	larval mushroom body one-step feedback neuron 23
+catmaid_l1em	16427492	FBN-24	is_a	larval mushroom body one-step feedback neuron 24
+catmaid_l1em	4180774	FBN-24	is_a	larval mushroom body one-step feedback neuron 24
+catmaid_l1em	5681132	FBN-25	is_a	larval mushroom body one-step feedback neuron 25
+catmaid_l1em	7574701	FBN-25	is_a	larval mushroom body one-step feedback neuron 25
+catmaid_l1em	5870071	FBN-27	is_a	larval mushroom body one-step feedback neuron 27
+catmaid_l1em	4144377	FBN-27	is_a	larval mushroom body one-step feedback neuron 27
+catmaid_l1em	12122924	FBN-28	is_a	larval mushroom body one-step feedback neuron 28
+catmaid_l1em	10612094	FBN-28	is_a	larval mushroom body one-step feedback neuron 28
+catmaid_l1em	5480553	FBN-3	is_a	larval mushroom body one-step feedback neuron 3
+catmaid_l1em	10202724	FBN-3	is_a	larval mushroom body one-step feedback neuron 3
+catmaid_l1em	15588620	FBN-5	is_a	larval mushroom body one-step feedback neuron 5
+catmaid_l1em	7594047	FBN-5	is_a	larval mushroom body one-step feedback neuron 5
+catmaid_l1em	4617479	FBN-7	is_a	larval mushroom body one-step feedback neuron 7
+catmaid_l1em	8864785	FBN-7	is_a	larval mushroom body one-step feedback neuron 7
+catmaid_l1em	10612630	FFN-1	is_a	larval mushroom body feedforward neuron 1
+catmaid_l1em	9048462	FFN-1	is_a	larval mushroom body feedforward neuron 1
+catmaid_l1em	15674269	FFN-10	is_a	larval mushroom body feedforward neuron 10
+catmaid_l1em	12389097	FFN-10	is_a	larval mushroom body feedforward neuron 10
+catmaid_l1em	12356747	FFN-11	is_a	larval mushroom body feedforward neuron 11
+catmaid_l1em	19857573	FFN-11	is_a	larval mushroom body feedforward neuron 11
+catmaid_l1em	17176866	FFN-12	is_a	larval mushroom body feedforward neuron 12
+catmaid_l1em	17176882	FFN-12	is_a	larval mushroom body feedforward neuron 12
+catmaid_l1em	11051740	FFN-13	is_a	larval mushroom body feedforward neuron 13
+catmaid_l1em	7421507	FFN-13	is_a	larval mushroom body feedforward neuron 13
+catmaid_l1em	9583435	FFN-14	is_a	larval mushroom body feedforward neuron 14
+catmaid_l1em	9015745	FFN-14	is_a	larval mushroom body feedforward neuron 14
+catmaid_l1em	14127447	FFN-15	is_a	larval mushroom body feedforward neuron 15
+catmaid_l1em	16978882	FFN-15	is_a	larval mushroom body feedforward neuron 15
+catmaid_l1em	12832017	FFN-16	is_a	larval mushroom body feedforward neuron 16
+catmaid_l1em	19091931	FFN-16	is_a	larval mushroom body feedforward neuron 16
+catmaid_l1em	12479019	FFN-17	is_a	larval mushroom body feedforward neuron 17
+catmaid_l1em	5560620	FFN-17	is_a	larval mushroom body feedforward neuron 17
+catmaid_l1em	3420915	FFN-18	is_a	larval mushroom body feedforward neuron 18
+catmaid_l1em	3622234	FFN-18	is_a	larval mushroom body feedforward neuron 18
+catmaid_l1em	7313896	FFN-19	is_a	larval mushroom body feedforward neuron 19
+catmaid_l1em	8135412	FFN-19	is_a	larval mushroom body feedforward neuron 19
+catmaid_l1em	11011058	FFN-2	is_a	larval mushroom body feedforward neuron 2
+catmaid_l1em	2667061	FFN-2	is_a	larval mushroom body feedforward neuron 2
+catmaid_l1em	11234536	FFN-20	is_a	larval mushroom body feedforward neuron 20
+catmaid_l1em	13199414	FFN-20	is_a	larval mushroom body feedforward neuron 20
+catmaid_l1em	17177103	FFN-22	is_a	larval mushroom body feedforward neuron 22
+catmaid_l1em	17177115	FFN-22	is_a	larval mushroom body feedforward neuron 22
+catmaid_l1em	18098174	FFN-23	is_a	larval mushroom body feedforward neuron 23
+catmaid_l1em	16385470	FFN-23	is_a	larval mushroom body feedforward neuron 23
+catmaid_l1em	10281116	FFN-24	is_a	larval mushroom body feedforward neuron 24
+catmaid_l1em	10351681	FFN-24	is_a	larval mushroom body feedforward neuron 24
+catmaid_l1em	16340998	FFN-25	is_a	larval mushroom body feedforward neuron 25
+catmaid_l1em	8007556	FFN-25	is_a	larval mushroom body feedforward neuron 25
+catmaid_l1em	15478720	FFN-26	is_a	larval mushroom body feedforward neuron 26
+catmaid_l1em	7058243	FFN-26	is_a	larval mushroom body feedforward neuron 26
+catmaid_l1em	14493841	FFN-27	is_a	larval mushroom body feedforward neuron 27
+catmaid_l1em	11361875	FFN-27	is_a	larval mushroom body feedforward neuron 27
+catmaid_l1em	16751955	FFN-28	is_a	larval mushroom body feedforward neuron 28
+catmaid_l1em	17096642	FFN-28	is_a	larval mushroom body feedforward neuron 28
+catmaid_l1em	12325227	FFN-29	is_a	larval mushroom body feedforward neuron 29
+catmaid_l1em	9507904	FFN-29	is_a	larval mushroom body feedforward neuron 29
+catmaid_l1em	16442113	FFN-3	is_a	larval mushroom body feedforward neuron 3
+catmaid_l1em	3814175	FFN-3	is_a	larval mushroom body feedforward neuron 3
+catmaid_l1em	1591351	FFN-30	is_a	larval mushroom body feedforward neuron 30
+catmaid_l1em	8349454	FFN-30	is_a	larval mushroom body feedforward neuron 30
+catmaid_l1em	12670738	FFN-31	is_a	larval mushroom body feedforward neuron 31
+catmaid_l1em	17847543	FFN-31	is_a	larval mushroom body feedforward neuron 31
+catmaid_l1em	17107661	FFN-32	is_a	larval mushroom body feedforward neuron 32
+catmaid_l1em	8838927	FFN-32	is_a	larval mushroom body feedforward neuron 32
+catmaid_l1em	16848497	FFN-33	is_a	larval mushroom body feedforward neuron 33
+catmaid_l1em	9798791	FFN-33	is_a	larval mushroom body feedforward neuron 33
+catmaid_l1em	5679304	FFN-34	is_a	larval mushroom body feedforward neuron 34
+catmaid_l1em	8689148	FFN-34	is_a	larval mushroom body feedforward neuron 34
+catmaid_l1em	12199095	FFN-35	is_a	larval mushroom body feedforward neuron 35
+catmaid_l1em	17435678	FFN-35	is_a	larval mushroom body feedforward neuron 35
+catmaid_l1em	16972043	FFN-36	is_a	larval mushroom body feedforward neuron 36
+catmaid_l1em	4507955	FFN-36	is_a	larval mushroom body feedforward neuron 36
+catmaid_l1em	16316916	FFN-37	is_a	larval mushroom body feedforward neuron 37
+catmaid_l1em	5592307	FFN-37	is_a	larval mushroom body feedforward neuron 37
+catmaid_l1em	17015609	FFN-38	is_a	larval mushroom body feedforward neuron 38
+catmaid_l1em	8790590	FFN-38	is_a	larval mushroom body feedforward neuron 38
+catmaid_l1em	11637003	FFN-4	is_a	larval mushroom body feedforward neuron 4
+catmaid_l1em	3945232	FFN-4	is_a	larval mushroom body feedforward neuron 4
+catmaid_l1em	16492104	FFN-40	is_a	larval mushroom body feedforward neuron 40
+catmaid_l1em	16933362	FFN-41	is_a	larval mushroom body feedforward neuron 41
+catmaid_l1em	4234016	FFN-41	is_a	larval mushroom body feedforward neuron 41
+catmaid_l1em	3945454	FFN-5	is_a	larval mushroom body feedforward neuron 5
+catmaid_l1em	9841469	FFN-5	is_a	larval mushroom body feedforward neuron 5
+catmaid_l1em	17176819	FFN-6	is_a	larval mushroom body feedforward neuron 6
+catmaid_l1em	17176808	FFN-6	is_a	larval mushroom body feedforward neuron 6
+catmaid_l1em	15510288	FFN-7	is_a	larval mushroom body feedforward neuron 7
+catmaid_l1em	6300434	FFN-7	is_a	larval mushroom body feedforward neuron 7
+catmaid_l1em	4201020	FFN-8	is_a	larval mushroom body feedforward neuron 8
+catmaid_l1em	9072237	FFN-8	is_a	larval mushroom body feedforward neuron 8
+catmaid_l1em	4665627	FFN-9	is_a	larval mushroom body feedforward neuron 9
+catmaid_l1em	8802069	FFN-9	is_a	larval mushroom body feedforward neuron 9
