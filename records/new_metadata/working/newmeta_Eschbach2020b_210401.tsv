@@ -1,0 +1,61 @@
+subject_external_db	subject_external_id	subject_name	relation	object
+catmaid_l1em	16240569	DAN-c1	is_a	larval dopaminergic DL1-5 neuron
+catmaid_l1em	15592096	DAN-c1	is_a	larval dopaminergic DL1-5 neuron
+catmaid_l1em	5966099	DAN-d1	is_a	larval dopaminergic DL1-4 neuron
+catmaid_l1em	3886356	DAN-d1	is_a	larval dopaminergic DL1-4 neuron
+catmaid_l1em	7901791	DAN-f1	is_a	larval dopaminergic DL1-2 neuron
+catmaid_l1em	2506050	DAN-f1	is_a	larval dopaminergic DL1-2 neuron
+catmaid_l1em	4381377	DAN-g1	is_a	larval dopaminergic DL1-3 neuron
+catmaid_l1em	10673895	DAN-g1	is_a	larval dopaminergic DL1-3 neuron
+catmaid_l1em	7057894	DAN-i1	is_a	larval dopaminergic pPAM3 neuron
+catmaid_l1em	6611894	DAN-i1	is_a	larval dopaminergic pPAM3 neuron
+catmaid_l1em	4414163	DAN-j1	is_a	larval dopaminergic pPAM4 neuron
+catmaid_l1em	4414184	DAN-j1	is_a	larval dopaminergic pPAM4 neuron
+catmaid_l1em	4884579	DAN-k1	is_a	larval dopaminergic pPAM2 neuron
+catmaid_l1em	12871993	DAN-k1	is_a	larval dopaminergic pPAM2 neuron
+catmaid_l1em	7187384	KC	is_a	larval Kenyon cell
+catmaid_l1em	4229950	KC	is_a	larval Kenyon cell
+catmaid_l1em	3664102	KC	is_a	larval Kenyon cell
+catmaid_l1em	16627838	KC	is_a	larval Kenyon cell
+catmaid_l1em	16631114	KC	is_a	larval Kenyon cell
+catmaid_l1em	8319311	MBIN-b1	is_a	larval mushroom body input neuron b1
+catmaid_l1em	8689674	MBIN-b1	is_a	larval mushroom body input neuron b1
+catmaid_l1em	16353832	MBIN-b2	is_a	larval mushroom body input neuron b2
+catmaid_l1em	17295912	MBIN-b2	is_a	larval mushroom body input neuron b2
+catmaid_l1em	4235139	MBIN-e1	is_a	larval mushroom body input neuron e1
+catmaid_l1em	14541927	MBIN-e1	is_a	larval mushroom body input neuron e1
+catmaid_l1em	3890028	MBIN-e2	is_a	larval dopaminergic DL1-1 neuron
+catmaid_l1em	12475432	MBIN-e2	is_a	larval dopaminergic DL1-1 neuron
+catmaid_l1em	4381129	MBIN-l1	is_a	larval mushroom body input neuron l1
+catmaid_l1em	15404207	MBIN-l1	is_a	larval mushroom body input neuron l1
+catmaid_l1em	8877158	MBON-a1	is_a	larval mushroom body output neuron a1
+catmaid_l1em	10163418	MBON-a1	is_a	larval mushroom body output neuron a1
+catmaid_l1em	15617305	MBON-a2	is_a	larval mushroom body output neuron a2
+catmaid_l1em	17355757	MBON-a2	is_a	larval mushroom body output neuron a2
+catmaid_l1em	16782830	MBON-b2	is_a	larval mushroom body output neuron b2
+catmaid_l1em	9469519	MBON-b2	is_a	larval mushroom body output neuron b2
+catmaid_l1em	4234009	MBON-b3	is_a	larval mushroom body output neuron b3
+catmaid_l1em	16883909	MBON-b3	is_a	larval mushroom body output neuron b3
+catmaid_l1em	7055857	MBON-d1	is_a	larval mushroom body output neuron d1
+catmaid_l1em	4241237	MBON-d1	is_a	larval mushroom body output neuron d1
+catmaid_l1em	6699205	MBON-d2	is_a	larval mushroom body output neuron d2
+catmaid_l1em	15810983	MBON-d2	is_a	larval mushroom body output neuron d2
+catmaid_l1em	4598363	MBON-g1	is_a	larval mushroom body output neuron g1
+catmaid_l1em	4401350	MBON-g1	is_a	larval mushroom body output neuron g1
+catmaid_l1em	5395823	MBON-g2	is_a	larval mushroom body output neuron g2
+catmaid_l1em	11524047	MBON-g2	is_a	larval mushroom body output neuron g2
+catmaid_l1em	8338584	MBON-h1	is_a	larval mushroom body output neuron h1
+catmaid_l1em	4195012	MBON-h1	is_a	larval mushroom body output neuron h1
+catmaid_l1em	8798010	MBON-h2	is_a	larval mushroom body output neuron h2
+catmaid_l1em	4230749	MBON-h2	is_a	larval mushroom body output neuron h2
+catmaid_l1em	7802210	MBON-i1	is_a	larval mushroom body output neuron i1
+catmaid_l1em	16797672	MBON-i1	is_a	larval mushroom body output neuron i1
+catmaid_l1em	3299214	MBON-j1	is_a	larval mushroom body output neuron j1
+catmaid_l1em	7897469	MBON-q1	is_a	larval mushroom body output neuron q1
+catmaid_l1em	7910624	MBON-q1	is_a	larval mushroom body output neuron q1
+catmaid_l1em	17068730	OAN-a1	is_a	larval maxillary VUM neuron 1
+catmaid_l1em	3813487	OAN-a2	is_a	larval mandibular VUM neuron 1
+catmaid_l1em	7616956	OAN-e1	is_a	larval mushroom body octopaminergic neuron e1
+catmaid_l1em	7983899	OAN-e1	is_a	larval mushroom body octopaminergic neuron e1
+catmaid_l1em	11525714	OAN-g1	is_a	larval maxillary VPM neuron
+catmaid_l1em	12805363	OAN-g1	is_a	larval maxillary VPM neuron
