@@ -1,0 +1,42 @@
+subject_external_db	subject_external_id	subject_name	relation	object
+catmaid_l1em	8980589	CN-59	is_a	larval mushroom body output neuron c1
+catmaid_l1em	16178283	CN-61	is_a	larval mushroom body output neuron p1
+catmaid_l1em	11017761	CN-61	is_a	larval mushroom body output neuron p1
+catmaid_l1em	4022539	CN-62	is_a	larval mushroom body output neuron m1
+catmaid_l1em	17016974	CN-62	is_a	larval mushroom body output neuron m1
+catmaid_l1em	9141404	CN-37	is_a	larval mushroom body one-step feedback neuron 2
+catmaid_l1em	16691937	CN-37	is_a	larval mushroom body one-step feedback neuron 2
+catmaid_l1em	2966602	CN-21	is_a	larval mushroom body one-step feedback neuron 4
+catmaid_l1em	12704069	CN-21	is_a	larval mushroom body one-step feedback neuron 4
+catmaid_l1em	15480928	CN-13	is_a	larval mushroom body one-step feedback neuron 6
+catmaid_l1em	11018254	CN-13	is_a	larval mushroom body one-step feedback neuron 6
+catmaid_l1em	11889676	CN-12	is_a	larval mushroom body one-step feedback neuron 8
+catmaid_l1em	14313750	CN-12	is_a	larval mushroom body one-step feedback neuron 8
+catmaid_l1em	9527522	CN-19	is_a	larval mushroom body one-step feedback neuron 9
+catmaid_l1em	14083681	CN-19	is_a	larval mushroom body one-step feedback neuron 9
+catmaid_l1em	6290724	CN-32	is_a	larval mushroom body one-step feedback neuron 10
+catmaid_l1em	15741865	CN-32	is_a	larval mushroom body one-step feedback neuron 10
+catmaid_l1em	11909406	CN-11	is_a	larval mushroom body one-step feedback neuron 12
+catmaid_l1em	11013351	CN-11	is_a	larval mushroom body one-step feedback neuron 12
+catmaid_l1em	5321459	CN-43	is_a	larval mushroom body one-step feedback neuron 14
+catmaid_l1em	10809383	CN-43	is_a	larval mushroom body one-step feedback neuron 14
+catmaid_l1em	15766806	CN-48	is_a	larval mushroom body one-step feedback neuron 15
+catmaid_l1em	13863331	CN-48	is_a	larval mushroom body one-step feedback neuron 15
+catmaid_l1em	8075484	CN-7	is_a	larval mushroom body one-step feedback neuron 17
+catmaid_l1em	13197236	CN-7	is_a	larval mushroom body one-step feedback neuron 17
+catmaid_l1em	17854345	CN-31	is_a	larval mushroom body one-step feedback neuron 26
+catmaid_l1em	13743125	CN-31	is_a	larval mushroom body one-step feedback neuron 26
+catmaid_l1em	8712361	CN-10	is_a	larval mushroom body feed across neuron 2
+catmaid_l1em	17150791	CN-10	is_a	larval mushroom body feed across neuron 2
+catmaid_l1em	8078096	CN-44	is_a	larval mushroom body feed across neuron 3
+catmaid_l1em	4514494	CN-44	is_a	larval mushroom body feed across neuron 3
+catmaid_l1em	4473922	CN-36	is_a	larval mushroom body feed across neuron 4
+catmaid_l1em	14540633	CN-36	is_a	larval mushroom body feed across neuron 4
+catmaid_l1em	5738449	CN-38	is_a	larval mushroom body feed across neuron 6
+catmaid_l1em	12262910	CN-38	is_a	larval mushroom body feed across neuron 6
+catmaid_l1em	16699958	CN-33	is_a	larval mushroom body feed across neuron 7
+catmaid_l1em	14000746	CN-33	is_a	larval mushroom body feed across neuron 7
+catmaid_l1em	15668309	CN-14	is_a	larval mushroom body feed across neuron 11
+catmaid_l1em	17165711	CN-14	is_a	larval mushroom body feed across neuron 11
+catmaid_l1em	16475849	CN-25	is_a	larval mushroom body feed across neuron 12
+catmaid_l1em	16823703	CN-25	is_a	larval mushroom body feed across neuron 12
