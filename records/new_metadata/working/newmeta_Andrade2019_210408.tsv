@@ -1,0 +1,4 @@
+subject_external_db	subject_external_id	subject_name	relation	object
+catmaid_l1em	17728982	SU Left - BL Lineage ?	is_a	small undifferentiated primary neuron
+catmaid_l1em	11032107	SU neuron s 11032108 left	is_a	small undifferentiated primary neuron
+catmaid_l1em	17048338	SU neuron s 17048339	is_a	small undifferentiated primary neuron

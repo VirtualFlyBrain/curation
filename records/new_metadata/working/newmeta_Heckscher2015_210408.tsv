@@ -1,0 +1,8 @@
+subject_external_db	subject_external_id	subject_name	relation	object
+catmaid_l1em	4050398	SN motor neuron a1l	is_a	SN motor neuron of A1-7
+catmaid_l1em	4483081	SN motor neuron a1l bilateral	is_a	SN motor neuron of A1-7
+catmaid_l1em	4289745	SN motor neuron a1l posterior dendrite	is_a	SN motor neuron of A1-7
+catmaid_l1em	4271519	SN motor neuron a1l ventral dendrite	is_a	SN motor neuron of A1-7
+catmaid_l1em	16042164	SN motor neuron a1r bilateral	is_a	SN motor neuron of A1-7
+catmaid_l1em	16314353	SN motor neuron a1r posterior dendrite	is_a	SN motor neuron of A1-7
+catmaid_l1em	3641568	SN motor neuron a1r ventral dendrite	is_a	SN motor neuron of A1-7

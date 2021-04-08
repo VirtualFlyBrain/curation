@@ -1,0 +1,5 @@
+subject_external_db	subject_external_id	subject_name	relation	object
+catmaid_l1em	5769582	LH-LN2_left	is_a	larval lateral horn local interneuron 2
+catmaid_l1em	9753418	LH-LN2_right	is_a	larval lateral horn local interneuron 2
+catmaid_l1em	6446394	PDM-DN_left	is_a	larval PDM descending neuron
+catmaid_l1em	5462159	PDM-DN_right	is_a	larval PDM descending neuron

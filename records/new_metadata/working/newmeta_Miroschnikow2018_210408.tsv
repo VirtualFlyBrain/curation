@@ -1,0 +1,14 @@
+subject_external_db	subject_external_id	subject_name	relation	object
+catmaid_l1em	7971031	Thermo PN 1	is_a	larval thermosensory projection neuron
+catmaid_l1em	12948470	Thermo PN 1	is_a	larval thermosensory projection neuron
+catmaid_l1em	4985759	Thermo PN 2	is_a	larval thermosensory projection neuron
+catmaid_l1em	9291474	Thermo PN 2	is_a	larval thermosensory projection neuron
+catmaid_l1em	3991518	Thermo PN 3	is_a	larval thermosensory projection neuron
+catmaid_l1em	9747710	Thermo PN 3	is_a	larval thermosensory projection neuron
+catmaid_l1em	3690921	Thermo PN 4	is_a	larval thermosensory projection neuron
+catmaid_l1em	4154421	Thermo PN 4	is_a	larval thermosensory projection neuron
+catmaid_l1em	3756659	Thermo PN 5	is_a	larval thermosensory projection neuron
+catmaid_l1em	4635057	Thermo PN 6	is_a	larval thermosensory projection neuron
+catmaid_l1em	9275210	Thermo PN 6	is_a	larval thermosensory projection neuron
+catmaid_l1em	4108016	Thermo PN 7	is_a	larval thermosensory projection neuron
+catmaid_l1em	4249897	NPF_t3l	is_a	larval NPF neuron
