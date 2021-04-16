@@ -1,0 +1,17 @@
+filename	label	is_a	part_of	Template
+Male_pC1.nrrd	Male_pC1	adult doublesex pC1 (male) neuron	male organism|adult brain	JRC2018Unisex_c
+Female_pC1.nrrd	Female_pC1	adult doublesex pC1 (female) neuron	female organism|adult brain	JRC2018Unisex_c
+Male_pC2l.nrrd	Male_pC2l	adult doublesex pC2l (male) neuron	male organism|adult brain	JRC2018Unisex_c
+Female_pC2l.nrrd	Female_pC2l	adult doublesex pC2l (female) neuron	female organism|adult brain	JRC2018Unisex_c
+Male_pCd-1.nrrd	Male_pCd-1	adult doublesex pCd-1 (male) neuron	male organism|adult brain	JRC2018Unisex_c
+Female_pCd-1.nrrd	Female_pCd-1	adult doublesex pCd-1 (female) neuron	female organism|adult brain	JRC2018Unisex_c
+Male_pCd-2.nrrd	Male_pCd-2	adult doublesex pCd-2 (male) neuron	male organism|adult brain	JRC2018Unisex_c
+Female_pCd-2.nrrd	Female_pCd-2	adult doublesex pCd-2 (female) neuron	female organism|adult brain	JRC2018Unisex_c
+Male_aDN.nrrd	Male_aDN	adult doublesex aDN neuron	VFBexp_FBal0325783FBal0243326	JRC2018Unisex_c
+Female_aDN.nrrd	Female_aDN	adult doublesex aDN neuron	VFBexp_FBal0325783FBal0243326	JRC2018Unisex_c
+Male_pC2m.nrrd	Male_pC2m	adult doublesex pC2m (male) neuron	male organism|adult brain	JRC2018Unisex_c
+Male_pMN3.nrrd	Male_pMN3	adult doublesex pMN3 (male) neuron	male organism|adult brain	JRC2018Unisex_c
+Male_pLN.nrrd	Male_pLN	adult doublesex pLN (male) neuron	male organism|adult brain	JRC2018Unisex_c
+Male_SN.nrrd	Male_SN	adult doublesex SN (male) neuron	VFBexp_FBal0325783FBal0304537	JRC2018Unisex_c
+Female_pMN2B.nrrd	Female_pMN2B	adult doublesex pMN2 (female) neuron	female organism|adult brain	JRC2018Unisex_c
+Female_pMN2V.nrrd	Female_pMN2V	adult doublesex pMN2 (female) neuron	female organism|adult ventral nervous system	JRC2018UnisexVNC_c
