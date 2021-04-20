@@ -12,6 +12,6 @@ Female_aDN.nrrd	Female_aDN	adult doublesex aDN neuron	female organism|adult brai
 Male_pC2m.nrrd	Male_pC2m	adult doublesex pC2m (male) neuron	male organism|adult brain	JRC2018Unisex_c
 Male_pMN3.nrrd	Male_pMN3	adult doublesex pMN3 (male) neuron	male organism|adult brain	JRC2018Unisex_c
 Male_pLN.nrrd	Male_pLN	adult doublesex pLN (male) neuron	male organism|adult brain	JRC2018Unisex_c
-Male_SN.nrrd	Male_SN	adult doublesex SN (male) neuron	male organism|adult brain|VFBexp_FBal0325783FBal0304537	JRC2018Unisex_c
+Male_SN.nrrd	Male_SN	adult doublesex SN (male) neuron	male organism|adult brain|Scer\GAL4[dsx-GAL4-DBD] ∩ Hsap\RELA[AD.Trh] expression pattern	JRC2018Unisex_c
 Female_pMN2B.nrrd	Female_pMN2B	adult doublesex pMN2 (female) neuron	female organism|adult brain	JRC2018Unisex_c
 Female_pMN2V.nrrd	Female_pMN2V	adult doublesex pMN2 (female) neuron	female organism|adult ventral nerve cord	JRC2018UnisexVNC_c
