@@ -13,7 +13,7 @@ part_of:
   type: objectProperty
   restriction:
     field: short_form
-    regex: ".+" # testing without restriction for part of expression class 
+    regex: "(FBbt|VFB)_.+"
     labels: ['Class']
 
 expresses:
