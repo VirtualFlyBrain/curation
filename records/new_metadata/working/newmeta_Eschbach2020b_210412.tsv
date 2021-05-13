@@ -1,0 +1,275 @@
+subject_external_db	subject_external_id	subject_name	relation	object
+catmaid_l1em	16070049	CN-1	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	12476851	CN-1	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	8310087	CN-15	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	12138418	CN-15	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	10702736	CN-16	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	14206030	CN-16	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	8034919	CN-17	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	12299621	CN-17	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	14948339	CN-18	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	17237305	CN-18	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	8037197	CN-2	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	17822238	CN-2	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	7065182	CN-20	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	18062678	CN-20	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	4411542	CN-22	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	14071613	CN-22	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	9236708	CN-23	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	9212816	CN-23	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	7980189	CN-24	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	11600886	CN-24	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	4067286	CN-26	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	10875625	CN-26	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	17361757	CN-27	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	12813847	CN-27	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	17379420	CN-28	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	10411574	CN-28	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	8065771	CN-29	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	17038587	CN-29	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	8423405	CN-3	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	11137808	CN-3	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	7056904	CN-30	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	17176927	CN-30	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	14617508	CN-34	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	14680483	CN-34	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	16339645	CN-35	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	12868041	CN-35	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	9015568	CN-39	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	12587013	CN-39	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	11464638	CN-4	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	10543751	CN-4	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	8539175	CN-40	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	13988443	CN-40	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	6611100	CN-41	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	17276867	CN-41	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	4575178	CN-42	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	17176911	CN-42	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	13858797	CN-45	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	14333495	CN-45	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	16486385	CN-46	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	11178891	CN-46	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	16485079	CN-47	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	17434825	CN-47	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	4665186	CN-49	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	17671219	CN-49	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	5474852	CN-5	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	17591442	CN-5	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	3913629	CN-50	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	12498338	CN-50	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	5453333	CN-51	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	13803032	CN-51	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	16181377	CN-52	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	11703922	CN-52	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	8069478	CN-53	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	11004239	CN-53	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	17125520	CN-54	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	12839441	CN-54	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	4311586	CN-55	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	2628785	CN-55	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	7612147	CN-56	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	11257084	CN-56	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	8565131	CN-57	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	14319185	CN-57	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	8069432	CN-58	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	8542422	CN-58	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	9409359	CN-6	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	3913620	CN-6	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	5874480	CN-8	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	17058350	CN-8	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	17438424	CN-9	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	17639784	CN-9	is_a	larval mushroom body-lateral horn convergence neuron
+catmaid_l1em	17019327	FB-24	is_a	larval mushroom body second order output neuron
+catmaid_l1em	11409587	FB-24	is_a	larval mushroom body second order output neuron
+catmaid_l1em	3855754	FB-41	is_a	larval mushroom body second order output neuron
+catmaid_l1em	5103177	FB-41	is_a	larval mushroom body second order output neuron
+catmaid_l1em	8711574	LH-23	is_a	larval mushroom body second order output neuron
+catmaid_l1em	16100461	LH-23	is_a	larval mushroom body second order output neuron
+catmaid_l1em	6494274	LHN-1	is_a	larval lateral horn neuron
+catmaid_l1em	13986583	LHN-1	is_a	larval lateral horn neuron
+catmaid_l1em	8238322	LHN-2	is_a	larval lateral horn neuron
+catmaid_l1em	11210000	LHN-2	is_a	larval lateral horn neuron
+catmaid_l1em	8847957	LHN-3	is_a	larval lateral horn neuron
+catmaid_l1em	13206239	LHN-3	is_a	larval lateral horn neuron
+catmaid_l1em	8238322	LHN-2	is_a	larval mushroom body second order output neuron
+catmaid_l1em	11210000	LHN-2	is_a	larval mushroom body second order output neuron
+catmaid_l1em	8847957	LHN-3	is_a	larval mushroom body second order output neuron
+catmaid_l1em	13206239	LHN-3	is_a	larval mushroom body second order output neuron
+catmaid_l1em	4680995	LHN-4	is_a	larval lateral horn neuron
+catmaid_l1em	17806341	LHN-4	is_a	larval lateral horn neuron
+catmaid_l1em	14514597	LHN-5	is_a	larval lateral horn neuron
+catmaid_l1em	13986477	LHN-5	is_a	larval lateral horn neuron
+catmaid_l1em	9447255	LHN-6	is_a	larval lateral horn neuron
+catmaid_l1em	16295025	LHN-6	is_a	larval lateral horn neuron
+catmaid_l1em	10495502	LHN-7	is_a	larval lateral horn neuron
+catmaid_l1em	12840470	LHN-7	is_a	larval lateral horn neuron
+catmaid_l1em	9447255	LHN-6	is_a	larval mushroom body second order output neuron
+catmaid_l1em	16295025	LHN-6	is_a	larval mushroom body second order output neuron
+catmaid_l1em	10495502	LHN-7	is_a	larval mushroom body second order output neuron
+catmaid_l1em	12840470	LHN-7	is_a	larval mushroom body second order output neuron
+catmaid_l1em	3814853	LHN-8	is_a	larval lateral horn neuron
+catmaid_l1em	2439067	LHN-8	is_a	larval lateral horn neuron
+catmaid_l1em	15590555	MB2IN-193	is_a	larval mushroom body second order output neuron
+catmaid_l1em	15594113	MB2IN-193	is_a	larval mushroom body second order output neuron
+catmaid_l1em	2369444	MB2IN-199	is_a	larval mushroom body second order output neuron
+catmaid_l1em	10119916	MB2IN-199	is_a	larval mushroom body second order output neuron
+catmaid_l1em	4391317	MB2IN-200	is_a	larval mushroom body second order output neuron
+catmaid_l1em	11826171	MB2IN-200	is_a	larval mushroom body second order output neuron
+catmaid_l1em	15706875	MB2IN-211	is_a	larval mushroom body second order output neuron
+catmaid_l1em	12598741	MB2IN-211	is_a	larval mushroom body second order output neuron
+catmaid_l1em	14539753	MB2IN-213	is_a	larval mushroom body second order output neuron
+catmaid_l1em	12962772	MB2IN-213	is_a	larval mushroom body second order output neuron
+catmaid_l1em	19175973	MB2ON-1	is_a	larval mushroom body second order output neuron
+catmaid_l1em	4227831	MB2ON-1	is_a	larval mushroom body second order output neuron
+catmaid_l1em	9641919	MB2ON-102	is_a	larval mushroom body second order output neuron
+catmaid_l1em	16089738	MB2ON-102	is_a	larval mushroom body second order output neuron
+catmaid_l1em	15736398	MB2ON-113	is_a	larval mushroom body second order output neuron
+catmaid_l1em	15612283	MB2ON-113	is_a	larval mushroom body second order output neuron
+catmaid_l1em	15673454	MB2ON-114	is_a	larval mushroom body second order output neuron
+catmaid_l1em	13718916	MB2ON-114	is_a	larval mushroom body second order output neuron
+catmaid_l1em	8912726	MB2ON-116	is_a	larval mushroom body second order output neuron
+catmaid_l1em	15524629	MB2ON-116	is_a	larval mushroom body second order output neuron
+catmaid_l1em	9116228	MB2ON-125	is_a	larval mushroom body second order output neuron
+catmaid_l1em	16415910	MB2ON-125	is_a	larval mushroom body second order output neuron
+catmaid_l1em	5856647	MB2ON-130	is_a	larval mushroom body second order output neuron
+catmaid_l1em	11841664	MB2ON-130	is_a	larval mushroom body second order output neuron
+catmaid_l1em	16026677	MB2ON-133	is_a	larval mushroom body second order output neuron
+catmaid_l1em	14495367	MB2ON-133	is_a	larval mushroom body second order output neuron
+catmaid_l1em	17357979	MB2ON-134	is_a	larval mushroom body second order output neuron
+catmaid_l1em	10964258	MB2ON-134	is_a	larval mushroom body second order output neuron
+catmaid_l1em	6153877	MB2ON-135	is_a	larval mushroom body second order output neuron
+catmaid_l1em	1678567	MB2ON-135	is_a	larval mushroom body second order output neuron
+catmaid_l1em	8132513	MB2ON-136	is_a	larval mushroom body second order output neuron
+catmaid_l1em	9965610	MB2ON-136	is_a	larval mushroom body second order output neuron
+catmaid_l1em	9870483	MB2ON-137	is_a	larval mushroom body second order output neuron
+catmaid_l1em	14328512	MB2ON-137	is_a	larval mushroom body second order output neuron
+catmaid_l1em	9428865	MB2ON-138	is_a	larval mushroom body second order output neuron
+catmaid_l1em	13674287	MB2ON-138	is_a	larval mushroom body second order output neuron
+catmaid_l1em	16356717	MB2ON-139	is_a	larval mushroom body second order output neuron
+catmaid_l1em	13661736	MB2ON-139	is_a	larval mushroom body second order output neuron
+catmaid_l1em	6609380	MB2ON-140	is_a	larval mushroom body second order output neuron
+catmaid_l1em	16950115	MB2ON-140	is_a	larval mushroom body second order output neuron
+catmaid_l1em	4849988	MB2ON-141	is_a	larval mushroom body second order output neuron
+catmaid_l1em	16950121	MB2ON-141	is_a	larval mushroom body second order output neuron
+catmaid_l1em	9424902	MB2ON-144	is_a	larval mushroom body second order output neuron
+catmaid_l1em	3027876	MB2ON-144	is_a	larval mushroom body second order output neuron
+catmaid_l1em	9455885	MB2ON-145	is_a	larval mushroom body second order output neuron
+catmaid_l1em	14812545	MB2ON-145	is_a	larval mushroom body second order output neuron
+catmaid_l1em	4364826	MB2ON-146	is_a	larval mushroom body second order output neuron
+catmaid_l1em	16575803	MB2ON-146	is_a	larval mushroom body second order output neuron
+catmaid_l1em	11638511	MB2ON-147	is_a	larval mushroom body second order output neuron
+catmaid_l1em	10322164	MB2ON-147	is_a	larval mushroom body second order output neuron
+catmaid_l1em	9709983	MB2ON-148	is_a	larval mushroom body second order output neuron
+catmaid_l1em	15924717	MB2ON-148	is_a	larval mushroom body second order output neuron
+catmaid_l1em	7136254	MB2ON-149	is_a	larval mushroom body second order output neuron
+catmaid_l1em	9748981	MB2ON-149	is_a	larval mushroom body second order output neuron
+catmaid_l1em	2426397	MB2ON-150	is_a	larval mushroom body second order output neuron
+catmaid_l1em	11642944	MB2ON-150	is_a	larval mushroom body second order output neuron
+catmaid_l1em	4284106	MB2ON-151	is_a	larval mushroom body second order output neuron
+catmaid_l1em	9758503	MB2ON-151	is_a	larval mushroom body second order output neuron
+catmaid_l1em	11868260	MB2ON-152	is_a	larval mushroom body second order output neuron
+catmaid_l1em	9805588	MB2ON-152	is_a	larval mushroom body second order output neuron
+catmaid_l1em	8438283	MB2ON-153	is_a	larval mushroom body second order output neuron
+catmaid_l1em	13142932	MB2ON-153	is_a	larval mushroom body second order output neuron
+catmaid_l1em	10262043	MB2ON-154	is_a	larval mushroom body second order output neuron
+catmaid_l1em	13175136	MB2ON-154	is_a	larval mushroom body second order output neuron
+catmaid_l1em	17165286	MB2ON-156	is_a	larval mushroom body second order output neuron
+catmaid_l1em	13046847	MB2ON-156	is_a	larval mushroom body second order output neuron
+catmaid_l1em	5669107	MB2ON-16	is_a	larval mushroom body second order output neuron
+catmaid_l1em	14073503	MB2ON-16	is_a	larval mushroom body second order output neuron
+catmaid_l1em	16405545	MB2ON-17	is_a	larval mushroom body second order output neuron
+catmaid_l1em	12789813	MB2ON-17	is_a	larval mushroom body second order output neuron
+catmaid_l1em	4346154	MB2ON-170	is_a	larval mushroom body second order output neuron
+catmaid_l1em	5186443	MB2ON-170	is_a	larval mushroom body second order output neuron
+catmaid_l1em	18648531	MB2ON-231	is_a	larval mushroom body second order output neuron
+catmaid_l1em	13665529	MB2ON-231	is_a	larval mushroom body second order output neuron
+catmaid_l1em	19786464	MB2ON-232	is_a	larval mushroom body second order output neuron
+catmaid_l1em	14329745	MB2ON-232	is_a	larval mushroom body second order output neuron
+catmaid_l1em	4274518	MB2ON-233	is_a	larval mushroom body second order output neuron
+catmaid_l1em	19156025	MB2ON-233	is_a	larval mushroom body second order output neuron
+catmaid_l1em	16753901	MB2ON-234	is_a	larval mushroom body second order output neuron
+catmaid_l1em	12935696	MB2ON-234	is_a	larval mushroom body second order output neuron
+catmaid_l1em	4188325	MB2ON-239	is_a	larval mushroom body second order output neuron
+catmaid_l1em	11468088	MB2ON-239	is_a	larval mushroom body second order output neuron
+catmaid_l1em	7053966	MB2ON-24	is_a	larval mushroom body second order output neuron
+catmaid_l1em	4214582	MB2ON-24	is_a	larval mushroom body second order output neuron
+catmaid_l1em	16355642	MB2ON-240	is_a	larval mushroom body second order output neuron
+catmaid_l1em	17053386	MB2ON-240	is_a	larval mushroom body second order output neuron
+catmaid_l1em	15618614	MB2ON-247	is_a	larval mushroom body second order output neuron
+catmaid_l1em	14342744	MB2ON-247	is_a	larval mushroom body second order output neuron
+catmaid_l1em	15468308	MB2ON-248	is_a	larval mushroom body second order output neuron
+catmaid_l1em	17330632	MB2ON-248	is_a	larval mushroom body second order output neuron
+catmaid_l1em	13953546	MB2ON-25	is_a	larval mushroom body second order output neuron
+catmaid_l1em	14071449	MB2ON-25	is_a	larval mushroom body second order output neuron
+catmaid_l1em	4228119	MB2ON-28	is_a	larval mushroom body second order output neuron
+catmaid_l1em	5169587	MB2ON-28	is_a	larval mushroom body second order output neuron
+catmaid_l1em	8184598	MB2ON-3	is_a	larval mushroom body second order output neuron
+catmaid_l1em	16464284	MB2ON-3	is_a	larval mushroom body second order output neuron
+catmaid_l1em	9294475	MB2ON-31	is_a	larval mushroom body second order output neuron
+catmaid_l1em	8974428	MB2ON-31	is_a	larval mushroom body second order output neuron
+catmaid_l1em	8318813	MB2ON-34	is_a	larval mushroom body second order output neuron
+catmaid_l1em	11908619	MB2ON-34	is_a	larval mushroom body second order output neuron
+catmaid_l1em	16350988	MB2ON-35	is_a	larval mushroom body second order output neuron
+catmaid_l1em	16445338	MB2ON-35	is_a	larval mushroom body second order output neuron
+catmaid_l1em	10581624	MB2ON-37	is_a	larval mushroom body second order output neuron
+catmaid_l1em	13564607	MB2ON-37	is_a	larval mushroom body second order output neuron
+catmaid_l1em	17140424	MB2ON-4	is_a	larval mushroom body second order output neuron
+catmaid_l1em	9753530	MB2ON-4	is_a	larval mushroom body second order output neuron
+catmaid_l1em	13953356	MB2ON-42	is_a	larval mushroom body second order output neuron
+catmaid_l1em	12869029	MB2ON-42	is_a	larval mushroom body second order output neuron
+catmaid_l1em	10875178	MB2ON-48	is_a	larval mushroom body second order output neuron
+catmaid_l1em	10880408	MB2ON-48	is_a	larval mushroom body second order output neuron
+catmaid_l1em	4433960	MB2ON-52	is_a	larval mushroom body second order output neuron
+catmaid_l1em	13806524	MB2ON-52	is_a	larval mushroom body second order output neuron
+catmaid_l1em	9051960	MB2ON-53	is_a	larval mushroom body second order output neuron
+catmaid_l1em	17813006	MB2ON-53	is_a	larval mushroom body second order output neuron
+catmaid_l1em	6298455	MB2ON-57	is_a	larval mushroom body second order output neuron
+catmaid_l1em	6193472	MB2ON-57	is_a	larval mushroom body second order output neuron
+catmaid_l1em	8993049	MB2ON-58	is_a	larval mushroom body second order output neuron
+catmaid_l1em	17867309	MB2ON-58	is_a	larval mushroom body second order output neuron
+catmaid_l1em	7700444	MB2ON-59	is_a	larval mushroom body second order output neuron
+catmaid_l1em	16910799	MB2ON-59	is_a	larval mushroom body second order output neuron
+catmaid_l1em	9006142	MB2ON-6	is_a	larval mushroom body second order output neuron
+catmaid_l1em	5783868	MB2ON-6	is_a	larval mushroom body second order output neuron
+catmaid_l1em	9061235	MB2ON-60	is_a	larval mushroom body second order output neuron
+catmaid_l1em	13836327	MB2ON-60	is_a	larval mushroom body second order output neuron
+catmaid_l1em	2650887	MB2ON-61	is_a	larval mushroom body second order output neuron
+catmaid_l1em	10758204	MB2ON-61	is_a	larval mushroom body second order output neuron
+catmaid_l1em	8357933	MB2ON-62	is_a	larval mushroom body second order output neuron
+catmaid_l1em	13764822	MB2ON-62	is_a	larval mushroom body second order output neuron
+catmaid_l1em	8069365	MB2ON-63	is_a	larval mushroom body second order output neuron
+catmaid_l1em	4721538	MB2ON-63	is_a	larval mushroom body second order output neuron
+catmaid_l1em	16913476	MB2ON-64	is_a	larval mushroom body second order output neuron
+catmaid_l1em	10017944	MB2ON-64	is_a	larval mushroom body second order output neuron
+catmaid_l1em	4228105	MB2ON-67	is_a	larval mushroom body second order output neuron
+catmaid_l1em	10918898	MB2ON-67	is_a	larval mushroom body second order output neuron
+catmaid_l1em	4227880	MB2ON-68	is_a	larval mushroom body second order output neuron
+catmaid_l1em	17177419	MB2ON-68	is_a	larval mushroom body second order output neuron
+catmaid_l1em	5326407	MB2ON-69	is_a	larval mushroom body second order output neuron
+catmaid_l1em	17315288	MB2ON-69	is_a	larval mushroom body second order output neuron
+catmaid_l1em	4515496	MB2ON-70	is_a	larval mushroom body second order output neuron
+catmaid_l1em	16544462	MB2ON-70	is_a	larval mushroom body second order output neuron
+catmaid_l1em	4408369	MB2ON-71	is_a	larval mushroom body second order output neuron
+catmaid_l1em	16758011	MB2ON-71	is_a	larval mushroom body second order output neuron
+catmaid_l1em	17813457	MB2ON-73	is_a	larval mushroom body second order output neuron
+catmaid_l1em	17083341	MB2ON-73	is_a	larval mushroom body second order output neuron
+catmaid_l1em	17373283	MB2ON-75	is_a	larval mushroom body second order output neuron
+catmaid_l1em	10339991	MB2ON-75	is_a	larval mushroom body second order output neuron
+catmaid_l1em	5771934	MB2ON-76	is_a	larval mushroom body second order output neuron
+catmaid_l1em	14891367	MB2ON-76	is_a	larval mushroom body second order output neuron
+catmaid_l1em	4234559	MB2ON-78	is_a	larval mushroom body second order output neuron
+catmaid_l1em	4409374	MB2ON-78	is_a	larval mushroom body second order output neuron
+catmaid_l1em	18500988	MB2ON-79	is_a	larval mushroom body second order output neuron
+catmaid_l1em	14334367	MB2ON-79	is_a	larval mushroom body second order output neuron
+catmaid_l1em	4721087	MB2ON-80	is_a	larval mushroom body second order output neuron
+catmaid_l1em	4408362	MB2ON-80	is_a	larval mushroom body second order output neuron
+catmaid_l1em	15974183	MB2ON-82	is_a	larval mushroom body second order output neuron
+catmaid_l1em	15662776	MB2ON-82	is_a	larval mushroom body second order output neuron
+catmaid_l1em	15568333	MB2ON-83	is_a	larval mushroom body second order output neuron
+catmaid_l1em	15566333	MB2ON-83	is_a	larval mushroom body second order output neuron
+catmaid_l1em	9057998	MB2ON-86	is_a	larval mushroom body second-order output neuron 86
+catmaid_l1em	14214039	MB2ON-86	is_a	larval mushroom body second-order output neuron 86
+catmaid_l1em	11465297	MB2ON-92	is_a	larval mushroom body second order output neuron
+catmaid_l1em	12866697	MB2ON-92	is_a	larval mushroom body second order output neuron
+catmaid_l1em	16444552	MB2ON-94	is_a	larval mushroom body second order output neuron
+catmaid_l1em	17340931	MB2ON-94	is_a	larval mushroom body second order output neuron
