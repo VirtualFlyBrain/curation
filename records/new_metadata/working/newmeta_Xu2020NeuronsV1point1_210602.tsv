@@ -1,4 +1,4 @@
-bodyID	subject_name	object	subject_external_db	relation
+subject_external_id	subject_name	object	subject_external_db	relation
 5813061383	Delta7(PB15)_L1L9R8_R	adult intrinsic protocerebral bridge 18 glomeruli-3 glomeruli neuron	neuprint_JRC_Hemibrain_1point1	is_a
 881221166	Delta7(PB15)_L1L9R8_R	adult intrinsic protocerebral bridge 18 glomeruli-3 glomeruli neuron	neuprint_JRC_Hemibrain_1point1	is_a
 911574261	Delta7(PB15)_L1L9R8_R	adult intrinsic protocerebral bridge 18 glomeruli-3 glomeruli neuron	neuprint_JRC_Hemibrain_1point1	is_a
