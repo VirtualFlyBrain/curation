@@ -1,10 +1,133 @@
-subject_external_id	subject_name	object	pub	comment	subject_external_db	relation
-1225273264	FB3C	adult lateral accessory lobe-fan-shaped body layer 3 neuron			neuprint_JRC_Hemibrain_1point1	is_a
-1349740992	FB3C	adult lateral accessory lobe-fan-shaped body layer 3 neuron			neuprint_JRC_Hemibrain_1point1	is_a
-1349102153	FB3C	adult lateral accessory lobe-fan-shaped body layer 3 neuron			neuprint_JRC_Hemibrain_1point1	is_a
-1224590555	FB3C	adult lateral accessory lobe-fan-shaped body layer 3 neuron			neuprint_JRC_Hemibrain_1point1	is_a
-1318394745	FB3C	adult lateral accessory lobe-fan-shaped body layer 3 neuron			neuprint_JRC_Hemibrain_1point1	is_a
-5813045216	FB3C	adult lateral accessory lobe-fan-shaped body layer 3 neuron			neuprint_JRC_Hemibrain_1point1	is_a
-1193560469	FB3C	adult lateral accessory lobe-fan-shaped body layer 3 neuron			neuprint_JRC_Hemibrain_1point1	is_a
-1162862472	FB3C	adult lateral accessory lobe-fan-shaped body layer 3 neuron			neuprint_JRC_Hemibrain_1point1	is_a
-1075499064	FB3C	adult lateral accessory lobe-fan-shaped body layer 3 neuron			neuprint_JRC_Hemibrain_1point1	is_a
+subject_external_id	subject_name	object	subject_external_db	relation
+419060083	PFGs(PB10)_L2_C2	protocerebral bridge glomerulus 2-fan-shaped body-ventral gall surround neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1040393594	PFGs(PB10)_L3_C3	protocerebral bridge glomerulus 3-fan-shaped body-ventral gall surround neuron	neuprint_JRC_Hemibrain_1point1	is_a
+788461444	PFGs(PB10)_L6_C6	protocerebral bridge glomerulus 6-fan-shaped body-ventral gall surround neuron	neuprint_JRC_Hemibrain_1point1	is_a
+879468563	PFGs(PB10)_R2_C8	protocerebral bridge glomerulus 2-fan-shaped body-ventral gall surround neuron	neuprint_JRC_Hemibrain_1point1	is_a
+5813048755	PFGs(PB10)_R3_C7	protocerebral bridge glomerulus 3-fan-shaped body-ventral gall surround neuron	neuprint_JRC_Hemibrain_1point1	is_a
+912147871	PFGs(PB10)_R6_C4	protocerebral bridge glomerulus 6-fan-shaped body-ventral gall surround neuron	neuprint_JRC_Hemibrain_1point1	is_a
+760094565	PFL2(PB12b)_L1_C5	adult protocerebral bridge glomerulus 1-fan-shaped body layers 4 and 5-bilateral lateral accessory lobe neuron	neuprint_JRC_Hemibrain_1point1	is_a
+882239837	PFL2(PB12b)_L3_C7	adult protocerebral bridge glomerulus 3-fan-shaped body layers 4 and 5-bilateral lateral accessory lobe neuron	neuprint_JRC_Hemibrain_1point1	is_a
+979752365	PFL2(PB12b)_L3_C7	adult protocerebral bridge glomerulus 2-fan-shaped body layers 4 and 5-unilateral lateral accessory lobe neuron	neuprint_JRC_Hemibrain_1point1	is_a
+880875840	PFL2(PB12b)_L5_C9	adult protocerebral bridge glomerulus 5-fan-shaped body layers 4 and 5-bilateral lateral accessory lobe neuron	neuprint_JRC_Hemibrain_1point1	is_a
+481112669	PFL2(PB12b)_R1_C4	adult protocerebral bridge glomerulus 1-fan-shaped body layers 4 and 5-bilateral lateral accessory lobe neuron	neuprint_JRC_Hemibrain_1point1	is_a
+635234035	PFL2(PB12b)_R3_C3	adult protocerebral bridge glomerulus 3-fan-shaped body layers 4 and 5-bilateral lateral accessory lobe neuron	neuprint_JRC_Hemibrain_1point1	is_a
+948333783	PFL2(PB12b)_R3_C3	adult protocerebral bridge glomerulus 2-fan-shaped body layers 4 and 5-unilateral lateral accessory lobe neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1200053009	PFL2(PB12b)_R5_C1	adult protocerebral bridge glomerulus 5-fan-shaped body layers 4 and 5-bilateral lateral accessory lobe neuron	neuprint_JRC_Hemibrain_1point1	is_a
+851493896	PFL3(PB12c)_L1_C3	adult protocerebral bridge glomerulus 1-contralateral fan-shaped body layers 4 and 5-unilateral lateral accessory lobe neuron	neuprint_JRC_Hemibrain_1point1	is_a
+944262351	PFL3(PB12c)_L1_C3	adult protocerebral bridge glomerulus 1-contralateral fan-shaped body layers 4 and 5-unilateral lateral accessory lobe neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1258073453	PFL3(PB12c)_L1_C8_irreg	adult protocerebral bridge glomerulus 1-ipsilateral fan-shaped body layers 4 and 5-unilateral lateral accessory lobe neuron	neuprint_JRC_Hemibrain_1point1	is_a
+666308023	PFL3(PB12c)_R1_C2_irreg	adult protocerebral bridge glomerulus 1-ipsilateral fan-shaped body layers 4 and 5-unilateral lateral accessory lobe neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1134253374	PFL3(PB12c)_R1_C7	adult protocerebral bridge glomerulus 1-contralateral fan-shaped body layers 4 and 5-unilateral lateral accessory lobe neuron	neuprint_JRC_Hemibrain_1point1	is_a
+787374226	PFL3(PB12c)_R1_C7	adult protocerebral bridge glomerulus 1-contralateral fan-shaped body layers 4 and 5-unilateral lateral accessory lobe neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1661458144	PFNa(PB03)_L2_C1	protocerebral bridge glomerulus 2-fan-shaped body-nodulus 3 anterior domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+759084486	PFNa(PB03)_L2_C1	protocerebral bridge glomerulus 2-fan-shaped body-nodulus 3 anterior domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+943921248	PFNa(PB03)_L2_C1	protocerebral bridge glomerulus 2-fan-shaped body-nodulus 3 anterior domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1472205673	PFNa(PB03)_R2_C9	protocerebral bridge glomerulus 2-fan-shaped body-nodulus 3 anterior domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1662166202	PFNa(PB03)_R2_C9	protocerebral bridge glomerulus 2-fan-shaped body-nodulus 3 anterior domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+818063189	PFNa(PB03)_R2_C9	protocerebral bridge glomerulus 2-fan-shaped body-nodulus 3 anterior domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1003318634	PFNd(PB04)_L7_C6	protocerebral bridge glomerulus 7-fan-shaped body-nodulus 2 dorsal domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+909877092	PFNd(PB04)_L7_C6	protocerebral bridge glomerulus 7-fan-shaped body-nodulus 2 dorsal domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1128495875	PFNd(PB04)_L8_C7	protocerebral bridge glomerulus 8-fan-shaped body-nodulus 2 dorsal domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1127471202	PFNd(PB04)_L8_C7	protocerebral bridge glomerulus 8-fan-shaped body-nodulus 2 dorsal domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1187844616	PFNd(PB04)_L9_C8	protocerebral bridge glomerulus 9-fan-shaped body-nodulus 2 dorsal domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1188181261	PFNd(PB04)_L9_C8	protocerebral bridge glomerulus 9-fan-shaped body-nodulus 2 dorsal domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1002848124	PFNd(PB04)_R7_C3	protocerebral bridge glomerulus 7-fan-shaped body-nodulus 2 dorsal domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+817346903	PFNd(PB04)_R7_C3	protocerebral bridge glomerulus 7-fan-shaped body-nodulus 2 dorsal domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1094934199	PFNd(PB04)_R8_C2	protocerebral bridge glomerulus 8-fan-shaped body-nodulus 2 dorsal domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1126306451	PFNd(PB04)_R8_C2	protocerebral bridge glomerulus 8-fan-shaped body-nodulus 2 dorsal domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1218732781	PFNd(PB04)_R9_C1	protocerebral bridge glomerulus 9-fan-shaped body-nodulus 2 dorsal domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1218732931	PFNd(PB04)_R9_C1	protocerebral bridge glomerulus 9-fan-shaped body-nodulus 2 dorsal domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+974968796	PFNm_a(PB02a)_L2_C1	protocerebral bridge glomerulus 2-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1661799601	PFNm_a(PB02a)_L3_C2	protocerebral bridge glomerulus 3-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1349114715	PFNm_a(PB02a)_L4_C3	protocerebral bridge glomerulus 4-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+632915714	PFNm_a(PB02a)_L4_C3	protocerebral bridge glomerulus 4-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+880875900	PFNm_a(PB02a)_L5_C4	protocerebral bridge glomerulus 5-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1410127581	PFNm_a(PB02a)_L6_C5	protocerebral bridge glomerulus 6-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+632600726	PFNm_a(PB02a)_L6_C5	protocerebral bridge glomerulus 6-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1504268020	PFNm_a(PB02a)_L7_C6	protocerebral bridge glomerulus 7-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+972624772	PFNm_a(PB02a)_L7_C6	protocerebral bridge glomerulus 7-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1599069164	PFNm_a(PB02a)_L8_C7	protocerebral bridge glomerulus 8-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+5813095667	PFNm_a(PB02a)_L8_C7	protocerebral bridge glomerulus 8-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1188163963	PFNm_a(PB02a)_L9_C9	protocerebral bridge glomerulus 9-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+5812994148	PFNm_a(PB02a)_L9_C9	protocerebral bridge glomerulus 9-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+663225743	PFNm_a(PB02a)_R2_C9	protocerebral bridge glomerulus 2-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1568047319	PFNm_a(PB02a)_R3_C8	protocerebral bridge glomerulus 3-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1441481281	PFNm_a(PB02a)_R4_C7	protocerebral bridge glomerulus 4-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1535652862	PFNm_a(PB02a)_R4_C7	protocerebral bridge glomerulus 4-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+755644082	PFNm_a(PB02a)_R5_C6	protocerebral bridge glomerulus 5-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1410122382	PFNm_a(PB02a)_R6_C5	protocerebral bridge glomerulus 6-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1410450949	PFNm_a(PB02a)_R6_C5	protocerebral bridge glomerulus 6-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1473202957	PFNm_a(PB02a)_R7_C4	protocerebral bridge glomerulus 7-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1504924440	PFNm_a(PB02a)_R7_C4	protocerebral bridge glomerulus 7-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1155302782	PFNm_a(PB02a)_R8_C3	protocerebral bridge glomerulus 8-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1597683387	PFNm_a(PB02a)_R8_C3	protocerebral bridge glomerulus 8-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1310499077	PFNm_a(PB02a)_R9_C1	protocerebral bridge glomerulus 9-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1631131487	PFNm_a(PB02a)_R9_C1	protocerebral bridge glomerulus 9-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+759084183	PFNm_b(PB02b)_L2_C1	protocerebral bridge glomerulus 2-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+727371546	PFNm_b(PB02b)_L3_C2	protocerebral bridge glomerulus 3-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+663950729	PFNm_b(PB02b)_L4_C3	protocerebral bridge glomerulus 4-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+726024758	PFNm_b(PB02b)_L4_C3	protocerebral bridge glomerulus 4-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1412164346	PFNm_b(PB02b)_L5_C4	protocerebral bridge glomerulus 5-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+5813128537	PFNm_b(PB02b)_L6_C5	protocerebral bridge glomerulus 6-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+662966385	PFNm_b(PB02b)_L6_C5	protocerebral bridge glomerulus 6-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1536006733	PFNm_b(PB02b)_L8_C7	protocerebral bridge glomerulus 8-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1189549476	PFNm_b(PB02b)_L9_C9	protocerebral bridge glomerulus 9-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+786013842	PFNm_b(PB02b)_R2_C9	protocerebral bridge glomerulus 2-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+633895972	PFNm_b(PB02b)_R3_C8	protocerebral bridge glomerulus 3-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1035955516	PFNm_b(PB02b)_R4_C7	protocerebral bridge glomerulus 4-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1410450511	PFNm_b(PB02b)_R4_C7	protocerebral bridge glomerulus 4-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+849421893	PFNm_b(PB02b)_R5_C6	protocerebral bridge glomerulus 5-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+662840966	PFNm_b(PB02b)_R6_C5	protocerebral bridge glomerulus 6-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+662845370	PFNm_b(PB02b)_R6_C5	protocerebral bridge glomerulus 6-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1156663078	PFNm_b(PB02b)_R8_C3	protocerebral bridge glomerulus 8-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1217394039	PFNm_b(PB02b)_R9_C1	protocerebral bridge glomerulus 9-fan-shaped body-nodulus 3 medial domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+604242162	PFNv(PB05)_L2_C1	protocerebral bridge glomerulus 2-fan-shaped body-nodulus 2 ventral domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+912894991	PFNv(PB05)_L3_C2	protocerebral bridge glomerulus 3-fan-shaped body-nodulus 2 ventral domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+911897818	PFNv(PB05)_L4_C3	protocerebral bridge glomerulus 4-fan-shaped body-nodulus 2 ventral domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+911897964	PFNv(PB05)_L4_C3	protocerebral bridge glomerulus 4-fan-shaped body-nodulus 2 ventral domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+478427368	PFNv(PB05)_L5_C4	protocerebral bridge glomerulus 5-fan-shaped body-nodulus 2 ventral domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1223640877	PFNv(PB05)_L6_C5	protocerebral bridge glomerulus 6-fan-shaped body-nodulus 2 ventral domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+601557317	PFNv(PB05)_L6_C5	protocerebral bridge glomerulus 6-fan-shaped body-nodulus 2 ventral domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+5813014505	PFNv(PB05)_L7_C7	protocerebral bridge glomerulus 7-fan-shaped body-nodulus 2 ventral domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+5813044670	PFNv(PB05)_L8_C7	protocerebral bridge glomerulus 8-fan-shaped body-nodulus 2 ventral domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1600079770	PFNv(PB05)_L9_C9	protocerebral bridge glomerulus 9-fan-shaped body-nodulus 2 ventral domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+723602649	PFNv(PB05)_R2_C9	protocerebral bridge glomerulus 2-fan-shaped body-nodulus 2 ventral domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+911504689	PFNv(PB05)_R3_C8	protocerebral bridge glomerulus 3-fan-shaped body-nodulus 2 ventral domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+417998204	PFNv(PB05)_R4_C7	protocerebral bridge glomerulus 4-fan-shaped body-nodulus 2 ventral domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+572494993	PFNv(PB05)_R4_C7	protocerebral bridge glomerulus 4-fan-shaped body-nodulus 2 ventral domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+724267537	PFNv(PB05)_R5_C6	protocerebral bridge glomerulus 5-fan-shaped body-nodulus 2 ventral domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+601120917	PFNv(PB05)_R6_C5	protocerebral bridge glomerulus 6-fan-shaped body-nodulus 2 ventral domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+632155800	PFNv(PB05)_R6_C5	protocerebral bridge glomerulus 6-fan-shaped body-nodulus 2 ventral domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+971817711	PFNv(PB05)_R7_C3	protocerebral bridge glomerulus 7-fan-shaped body-nodulus 2 ventral domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1125964651	PFNv(PB05)_R8_C3	protocerebral bridge glomerulus 8-fan-shaped body-nodulus 2 ventral domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+5812987803	PFNv(PB05)_R9_C1	protocerebral bridge glomerulus 9-fan-shaped body-nodulus 2 ventral domain neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1128434325	PFR_a(PB11a)_L2_C2	protocerebral bridge glomerulus 2-fan-shaped body-round body type a neuron	neuprint_JRC_Hemibrain_1point1	is_a
+634608015	PFR_a(PB11a)_L2_C2	protocerebral bridge glomerulus 2-fan-shaped body-round body type a neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1036330791	PFR_a(PB11a)_R2_C8	protocerebral bridge glomerulus 2-fan-shaped body-round body type a neuron	neuprint_JRC_Hemibrain_1point1	is_a
+5812988091	PFR_a(PB11a)_R2_C8	protocerebral bridge glomerulus 2-fan-shaped body-round body type a neuron	neuprint_JRC_Hemibrain_1point1	is_a
+757699000	PFR_a(PB11a)_R2_C8	protocerebral bridge glomerulus 2-fan-shaped body-round body type a neuron	neuprint_JRC_Hemibrain_1point1	is_a
+666312288	PFR_b(PB11b)_L1_C2	adult protocerebral bridge 1 glomerulus-fan-shaped body-round body type b neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1159123802	PFR_b(PB11b)_L1_C9_irreg	adult protocerebral bridge 1 glomerulus-fan-shaped body-round body type b neuron	neuprint_JRC_Hemibrain_1point1	is_a
+943955813	PFR_b(PB11b)_L3_C3	adult protocerebral bridge 1 glomerulus-fan-shaped body-round body type b neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1070439674	PFR_b(PB11b)_L3_C4	adult protocerebral bridge 1 glomerulus-fan-shaped body-round body type b neuron	neuprint_JRC_Hemibrain_1point1	is_a
+819828716	PFR_b(PB11b)_L4_C5	adult protocerebral bridge 1 glomerulus-fan-shaped body-round body type b neuron	neuprint_JRC_Hemibrain_1point1	is_a
+911915224	PFR_b(PB11b)_L5_C6	adult protocerebral bridge 1 glomerulus-fan-shaped body-round body type b neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1002999221	PFR_b(PB11b)_L6_C7	adult protocerebral bridge 1 glomerulus-fan-shaped body-round body type b neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1066420480	PFR_b(PB11b)_L7_C8	adult protocerebral bridge 1 glomerulus-fan-shaped body-round body type b neuron	neuprint_JRC_Hemibrain_1point1	is_a
+881506038	PFR_b(PB11b)_R1_C1_irreg	adult protocerebral bridge 1 glomerulus-fan-shaped body-round body type b neuron	neuprint_JRC_Hemibrain_1point1	is_a
+5813081494	PFR_b(PB11b)_R1_C8	adult protocerebral bridge 1 glomerulus-fan-shaped body-round body type b neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1005261469	PFR_b(PB11b)_R3_C6	adult protocerebral bridge 1 glomerulus-fan-shaped body-round body type b neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1102191192	PFR_b(PB11b)_R3_C7	adult protocerebral bridge 1 glomerulus-fan-shaped body-round body type b neuron	neuprint_JRC_Hemibrain_1point1	is_a
+786989471	PFR_b(PB11b)_R4_C5	adult protocerebral bridge 1 glomerulus-fan-shaped body-round body type b neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1073504644	PFR_b(PB11b)_R5_C4	adult protocerebral bridge 1 glomerulus-fan-shaped body-round body type b neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1135907207	PFR_b(PB11b)_R6_C3	adult protocerebral bridge 1 glomerulus-fan-shaped body-round body type b neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1064577636	PFR_b(PB11b)_R7_C2	adult protocerebral bridge 1 glomerulus-fan-shaped body-round body type b neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1225273264	FB3C	adult lateral accessory lobe-fan-shaped body layer 3 neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1349740992	FB3C	adult lateral accessory lobe-fan-shaped body layer 3 neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1349102153	FB3C	adult lateral accessory lobe-fan-shaped body layer 3 neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1224590555	FB3C	adult lateral accessory lobe-fan-shaped body layer 3 neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1318394745	FB3C	adult lateral accessory lobe-fan-shaped body layer 3 neuron	neuprint_JRC_Hemibrain_1point1	is_a
+5813045216	FB3C	adult lateral accessory lobe-fan-shaped body layer 3 neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1193560469	FB3C	adult lateral accessory lobe-fan-shaped body layer 3 neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1162862472	FB3C	adult lateral accessory lobe-fan-shaped body layer 3 neuron	neuprint_JRC_Hemibrain_1point1	is_a
+1075499064	FB3C	adult lateral accessory lobe-fan-shaped body layer 3 neuron	neuprint_JRC_Hemibrain_1point1	is_a
