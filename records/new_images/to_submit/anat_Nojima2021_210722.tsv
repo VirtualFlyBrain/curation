@@ -1,2 +1,0 @@
-filename	label	is_a	part_of	Template
-Male_aDN.nrrd	Male_aDN	adult doublesex aDN neuron	male organism|adult brain|P{R10G01-GAL4.DBD} ∩ P{R84F07-p65.AD} expression pattern	JRC2018Unisex_c
