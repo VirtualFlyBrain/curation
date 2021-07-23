@@ -40,5 +40,5 @@ DBD:
 is_a:
   compulsory: False
   uniq: False
-  multiple: False
+  multiple: True
 
