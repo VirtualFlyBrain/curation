@@ -1,0 +1,5 @@
+filename	label	expresses_id	is_a	part_of	Template	comment
+McKellar_Gr64f	McKellar_Gr64f	FBtp0057275	sugar-sensing neuron	male organism|adult brain	JRC2018Unisex_c	effector genotype: '20XUAS-IVS-mCD8::GFP in su(Hw)attP5 (pJFRC2)'
+McKellar_Gr66a	McKellar_Gr66a	FBtp0014660	bitter-sensing neuron	male organism|adult brain	JRC2018Unisex_c	effector genotype: '20XUAS-IVS-mCD8::GFP in su(Hw)attP5 (pJFRC2)'
+McKellar_Hugin	McKellar_Hugin	FBtp0023516	adult Hugin neuron	male organism|adult brain	JRC2018Unisex_c	effector genotype: '20XUAS-IVS-mCD8::GFP in su(Hw)attP5 (pJFRC2)'
+McKellar_SEZ_neurons_segmented_FDG	McKellar_SEZ_neurons_segmented_FDG	FBti0034010	adult feeding interneuron	male organism|adult brain	JRC2018Unisex_c	effector genotype: '20XUAS-IVS-mCD8::GFP in su(Hw)attP5 (pJFRC2)'
