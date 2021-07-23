@@ -1,7 +1,7 @@
 filename	label	is_a	part_of	Template
 Male_pC1	Male_pC1	adult doublesex pC1 (male) neuron	male organism|adult brain|PBac{602.P.SVS-1}otk[CPTI000252] expression pattern	JRC2018Unisex_c
 Female_pC1	Female_pC1	adult doublesex pC1 (female) neuron	female organism|adult brain	JRC2018Unisex_c
-Male_pC2l	Male_pC2l	adult doublesex pC2l (male) neuron	male organism|adult brain	JRC2018Unisex_c
+Male_pC2l	Male_pC2l	adult doublesex pC2l (male) neuron	male organism|adult brain|VFBexp_FBti0144082	JRC2018Unisex_c
 Female_pC2l	Female_pC2l	adult doublesex pC2l (female) neuron	female organism|adult brain	JRC2018Unisex_c
 Male_pCd-1	Male_pCd-1	adult doublesex pCd-1 (male) neuron	male organism|adult brain	JRC2018Unisex_c
 Female_pCd-1	Female_pCd-1	adult doublesex pCd-1 (female) neuron	female organism|adult brain	JRC2018Unisex_c
