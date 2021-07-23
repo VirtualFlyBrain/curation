@@ -1,2 +1,9 @@
-filename	label	AD	DBD	is_a	part_of	Template
-McKellar_SEZ_mn1.lsm	McKellar_SEZ_mn1	P{VT043075-p65.AD}	P{VT019731-GAL4.DBD}	proboscis muscle 1 motor neuron	male organism|adult brain	JRC2018Unisex_c
+filename	label	AD	DBD	is_a	part_of	Template	comment
+McKellar_SEZ_mn1.lsm	McKellar_SEZ_mn1	P{VT043075-p65.AD}	P{VT019731-GAL4.DBD}	proboscis muscle 1 motor neuron	male organism|adult brain	JRC2018Unisex_c	effector genotype: '0XUAS-IVS-mCD8::GFP in su(Hw)attP5 (pJFRC2)'
+McKellar_SEZ_mn2D.lsm	McKellar_SEZ_mn2D	P{R11F07-p65.AD}	P{VT064563-GAL4.DBD}	proboscis muscle 2 dorsal motor neuron	male organism|adult brain	JRC2018Unisex_c	effector genotype: '0XUAS-IVS-mCD8::GFP in su(Hw)attP5 (pJFRC2)'
+McKellar_SEZ_mn2V.lsm	McKellar_SEZ_mn2V	P{VT064563-p65.AD}	P{R13E04-GAL4.DBD}	proboscis muscle 2 ventral motor neuron	male organism|adult brain	JRC2018Unisex_c	effector genotype: '0XUAS-IVS-mCD8::GFP in su(Hw)attP5 (pJFRC2)'
+McKellar_SEZ_mn3L.lsm	McKellar_SEZ_mn3L	P{VT031145-p65.AD}	P{R89F06-GAL4.DBD}	proboscis muscle 3 lateral motor neuron	male organism|adult brain	JRC2018Unisex_c	effector genotype: '0XUAS-IVS-mCD8::GFP in su(Hw)attP5 (pJFRC2)'
+McKellar_SEZ_mn3M&1.lsm	McKellar_SEZ_mn3M&1	P{VT025784-p65.AD}	P{VT063630-GAL4.DBD}	proboscis muscle 3 medial motor neuron|proboscis muscle 1 motor neuron	male organism|adult brain	JRC2018Unisex_c	effector genotype: '0XUAS-IVS-mCD8::GFP in su(Hw)attP5 (pJFRC2)'
+McKellar_SEZ_mn3M&7.lsm	McKellar_SEZ_mn3M&7	P{VT063630-p65.AD}	P{R75F02-GAL4.DBD}	proboscis muscle 3 medial motor neuron|proboscis muscle 7 motor neuron	male organism|adult brain	JRC2018Unisex_c	effector genotype: '0XUAS-IVS-mCD8::GFP in su(Hw)attP5 (pJFRC2)'
+McKellar_SEZ_mn4.lsm	McKellar_SEZ_mn4	P{R48H12-p65.AD}	P{R45G01-GAL4.DBD}	proboscis muscle 4 motor neuron	male organism|adult brain	JRC2018Unisex_c	effector genotype: '0XUAS-IVS-mCD8::GFP in su(Hw)attP5 (pJFRC2)'
+McKellar_SEZ_mn5.lsm	McKellar_SEZ_mn5	P{VT033616-p65.AD}	P{VT043145-GAL4.DBD}	proboscis muscle 5 motor neuron	male organism|adult brain	JRC2018Unisex_c	effector genotype: '0XUAS-IVS-mCD8::GFP in su(Hw)attP5 (pJFRC2)'
