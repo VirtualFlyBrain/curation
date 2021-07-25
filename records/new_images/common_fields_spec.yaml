@@ -78,7 +78,7 @@ dbxrefs:
   description: >
      Cross references for image/depicted entity in other databases taking the form db:accession where db
      is the short_form of a Site node in VFB and accession is an identifier in a third party database.
-  uniq: True
+  uniq: False
   type: String
   multiple: True
   pattern_arg: dbxref_strings
