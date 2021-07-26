@@ -1,4 +1,4 @@
-filename	label	ad	dbd	is_a	part_of	Template	comment
+filename	label	AD	DBD	is_a	part_of	Template	comment
 Male_aDN	Male_aDN	P{dVP16AD}VGlutOK371-dVP16AD	TI{GAL4(DBD)::Zip-}dsxGAL4-	adult doublesex aDN neuron	male organism|adult brain	JRC2018Unisex_c	effector genotype: '10xUAS-IVS-mCD8::GFP'
 Female_aDN	Female_aDN	P{dVP16AD}VGlutOK371-dVP16AD	TI{GAL4(DBD)::Zip-}dsxGAL4-	adult doublesex aDN neuron	female organism|adult brain	JRC2018Unisex_c	effector genotype: '10xUAS-IVS-mCD8::GFP'
 Male_SN	Male_SN	P{Trh-p65.AD}	TI{GAL4(DBD)::Zip-}dsxGAL4-	adult doublesex SN (male) neuron	male organism|adult brain	JRC2018Unisex_c	effector genotype: '10xUAS-IVS-mCD8::GFP'
