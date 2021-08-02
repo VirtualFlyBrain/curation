@@ -13,7 +13,7 @@ part_of:
   type: objectProperty
   restriction:
     field: short_form
-    regex: "(FBbt|VFB)_.+"
+    regex: "(FBbt|VFB|VFBexp)_.+"
     labels: ['Class']
 
 expresses:
