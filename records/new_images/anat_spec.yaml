@@ -1,7 +1,7 @@
 is_a:
   compulsory: True
   uniq: False
-  multiple: False
+  multiple: True
 
 classification_reference:
   compulsory: False
