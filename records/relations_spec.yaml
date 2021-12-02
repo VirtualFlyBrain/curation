@@ -106,4 +106,17 @@ fasciculates_with:
     field: short_form
     regex: "(FBbt|VFB)_.+"
     labels: ['Class']  
+    
+has_characteristic:
+  description: >
+    A relation between an independent continuant (the bearer) and a specifically dependent continuant (the dependent), in which the dependent specifically depends on the bearer for its existence.
+  type: objectProperty
+  short_form: RO_0000053
+  
+bearer_of:
+  description: >
+    A relation between an independent continuant (the bearer) and a specifically dependent continuant (the dependent), in which the dependent specifically depends on the bearer for its existence.
+  type: objectProperty
+  short_form: RO_0000053
+
 
