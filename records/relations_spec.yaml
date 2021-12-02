@@ -97,5 +97,13 @@ synapsed_to:
   short_form: RO_0002120
   type: objectProperty
 
-
+fasciculates_with:
+  description: >
+    Use this record the name of a tract or nerve (FBbt) that the depicted neuron has some part in.
+  type: objectProperty
+  short_form: RO_0002101
+  restriction:
+    field: short_form
+    regex: "(FBbt|VFB)_.+"
+    labels: ['Class']  
 
