@@ -101,7 +101,6 @@ adult ventral nerve cord	overlaps	593896	catmaid_fanc_JRC2018VF
 left side of organism	has_soma_location	593915	catmaid_fanc_JRC2018VF	
 peripheral nervous system	overlaps	593915	catmaid_fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	593915	catmaid_fanc_JRC2018VF	
-bilateral	has_characteristic	593915	catmaid_fanc_JRC2018VF	
 left side of organism	has_soma_location	593940	catmaid_fanc_JRC2018VF	
 adult ventral prothoracic nerve	fasciculates_with	593940	catmaid_fanc_JRC2018VF	
 peripheral nervous system	overlaps	593940	catmaid_fanc_JRC2018VF	
@@ -575,7 +574,6 @@ adult ventral nerve cord	overlaps	597387	catmaid_fanc_JRC2018VF
 left side of organism	has_soma_location	597408	catmaid_fanc_JRC2018VF	
 peripheral nervous system	overlaps	597408	catmaid_fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	597408	catmaid_fanc_JRC2018VF	
-bilateral	has_characteristic	597408	catmaid_fanc_JRC2018VF	
 left side of organism	has_soma_location	597434	catmaid_fanc_JRC2018VF	
 adult ventral prothoracic nerve	fasciculates_with	597434	catmaid_fanc_JRC2018VF	
 peripheral nervous system	overlaps	597434	catmaid_fanc_JRC2018VF	
