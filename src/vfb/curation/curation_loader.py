@@ -1,7 +1,8 @@
 from .peevish import get_recs
-from .curation_writer import NewImageWriter, NewMetaDataWriter
+from .curation_writer import NewImageWriter, NewMetaDataWriter, NewSplitWriter
 import warnings
 
+#TODO - factor out repitition
 def load_recs(path_to_specs, path_to_recs, endpoint, usr, pwd, commit=False, verbose=False, import_filepath = ''):
     records = [r for r in get_recs(path_to_recs=path_to_recs,
                                    spec_path=path_to_specs)]
@@ -57,14 +58,24 @@ def load_recs(path_to_specs, path_to_recs, endpoint, usr, pwd, commit=False, ver
             print()  # Do stuff # STUB
 
         elif r.gross_type == 'new_splits':
-            print()  # Do stuff # STUB
-
+            nsw = NewMetaDataWriter(endpoint, usr, pwd, r)  # nmw rolls appropriate dicts
+            if not nsw.stat:
+                stat = False
+                # switch this to logging
+                warnings.warn("%s is not a valid record, not attempting to write" % str(r.cr))
+                continue
+            nsw.write_rows(verbose=verbose)
+            if not nsw.stat:
+                stat = False
+                continue
+            if commit:
+                nsw.commit(verbose=verbose)
+            if not nsw.stat:
+                stat = False
 
         else:
             warnings.warn("Unknown record gross type: %s" % r.gross_type)
             stat = False
-
-
 
     return stat
 

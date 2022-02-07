@@ -193,11 +193,12 @@ class CurationWriter:
 
 class NewSplitWriter(CurationWriter):
 
-    def write_rows(self, rows):
-        splits = [self.split(dbd=r[''], ad=r[''],
-                             synonyms=r['synonyms'],
-                             xrefs=r['dbxrefs']) for r in rows]
-        self.feature_mover.gen_split_ep_feat(splits)
+    def write_row(self, row, start=None):
+        s = [split(dbd=self.object_lookup['driver'][row['DBD']],
+                             ad=self.object_lookup['driver'][row['AS']],
+                             synonyms=row['synonyms'],
+                             xrefs=row['dbxrefs'])]
+        self.feature_mover.gen_split_ep_feat(s)
 
 
 class NewMetaDataWriter(CurationWriter):
