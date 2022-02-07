@@ -4,6 +4,7 @@ from typing import List
 from uk.ac.ebi.vfb.neo4j.neo4j_tools import escape_string as escape_string_for_neo
 from uk.ac.ebi.vfb.neo4j.KB_tools import kb_owl_edge_writer, KB_pattern_writer
 from uk.ac.ebi.vfb.neo4j.flybase2neo.feature_tools import FeatureMover
+from uk.ac.ebi.vfb.neo4j.flybase2neo.feature_tools import split
 from uk.ac.ebi.vfb.neo4j.flybase2neo.pub_tools import pubMover
 from .peevish import Record
 import numpy
@@ -189,6 +190,23 @@ class CurationWriter:
     def write_row(self, row, start=None):
         # start as kwarg for consistent interface.  Feels a bit hacky.
         return False
+
+class NewSplitWriter(CurationWriter):
+
+    def write_row(self, row, start=None):
+        s = [split(dbd=self.object_lookup['driver'][row['DBD']],
+                             ad=self.object_lookup['driver'][row['AS']],
+                             synonyms=row['synonyms'],
+                             xrefs=row['dbxrefs'])]
+        self.feature_mover.gen_split_ep_feat(s, commit=False)
+
+    def commit(self):
+        ni = self.feature_mover.ni.commit()
+        ew = self.feature_mover.ew.commit()
+        if not ew or not ni: ## !!!! This needs work! Not confident in chain of return values here!
+            return False
+        else:
+            return True
 
 
 class NewMetaDataWriter(CurationWriter):
