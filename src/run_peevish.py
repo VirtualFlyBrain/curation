@@ -60,9 +60,11 @@ stat = True
 
 
 if not check_records(path="new_metadata/"): stat = False
-if not load_records(path="new_metadata/"): stat = False
+#if not load_records(path="new_metadata/"): stat = False
 if not check_records(path="new_images/"): stat = False
-if not load_records(path="new_images/"): stat = False
+#if not load_records(path="new_images/"): stat = False
+if not check_records(path="new_splits/"): stat = False
+#if not load_records(path="new_splits/"): stat = False
 
 if not stat:
     raise Exception("Failing records. See preceding warnings for details.")
@@ -73,8 +75,12 @@ if args.test_mode:
     print("Running record syntax fails tests")
     check_records(path="new_metadata/", check_dir="test_syntax_fail")
     check_records(path="new_images/", check_dir="test_syntax_fail")
+    check_records(path="new_splits/", check_dir="test_syntax_fail")
+
     print("Running fail tests.")
-    load_records(path="new_metadata/", load_dir="test_load_fail")
-    load_records(path="new_images/", load_dir="test_load_fail")
+#    load_records(path="new_metadata/", load_dir="test_load_fail")
+#    load_records(path="new_images/", load_dir="test_load_fail")
+#    load_records(path="new_splits/", load_dir="test_load_fail")
+
 
 

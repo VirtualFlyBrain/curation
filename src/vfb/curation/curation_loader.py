@@ -55,9 +55,16 @@ def load_recs(path_to_specs, path_to_recs, endpoint, usr, pwd, commit=False, ver
 
         elif r.gross_type == 'new_dataset':
             print()  # Do stuff # STUB
+
+        elif r.gross_type == 'new_splits':
+            print()  # Do stuff # STUB
+
+
         else:
             warnings.warn("Unknown record gross type: %s" % r.gross_type)
             stat = False
+
+
 
     return stat
 
