@@ -198,7 +198,15 @@ class NewSplitWriter(CurationWriter):
                              ad=self.object_lookup['driver'][row['AS']],
                              synonyms=row['synonyms'],
                              xrefs=row['dbxrefs'])]
-        self.feature_mover.gen_split_ep_feat(s)
+        self.feature_mover.gen_split_ep_feat(s, commit=False)
+
+    def commit(self):
+        ni = self.feature_mover.ni.commit()
+        ew = self.feature_mover.ew.commit()
+        if not ew or not ni: ## !!!! This needs work! Not confident in chain of return values here!
+            return False
+        else:
+            return True
 
 
 class NewMetaDataWriter(CurationWriter):
