@@ -97,5 +97,26 @@ synapsed_to:
   short_form: RO_0002120
   type: objectProperty
 
+fasciculates_with:
+  description: >
+    Use this record the name of a tract or nerve (FBbt) that the depicted neuron has some part in.
+  type: objectProperty
+  short_form: RO_0002101
+  restriction:
+    field: short_form
+    regex: "(FBbt|VFB)_.+"
+    labels: ['Class']  
+    
+has_characteristic:
+  description: >
+    A relation between an independent continuant (the bearer) and a specifically dependent continuant (the dependent), in which the dependent specifically depends on the bearer for its existence.
+  type: objectProperty
+  short_form: RO_0000053
+  
+bearer_of:
+  description: >
+    A relation between an independent continuant (the bearer) and a specifically dependent continuant (the dependent), in which the dependent specifically depends on the bearer for its existence.
+  type: objectProperty
+  short_form: RO_0000053
 
 
