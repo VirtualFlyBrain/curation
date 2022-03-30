@@ -1,0 +1,56 @@
+AD_id:
+  compulsory: False
+  description: >
+     The FBid of the feature corresponding to the activiation domain half of the split in FlyBase.
+     Please use transposon rather than insertion ID.
+  uniq: False
+  type: Feature
+  multiple: False
+
+AD:
+  compulsory: True
+  description: >
+     The name of the feature corresponding to the activiation domain half of the split in FlyBase.
+     Please use transposon rather than insertion.
+  uniq: False
+  type: Feature
+  multiple: False
+  flybase_feature: true
+
+
+DBD_id:
+  compulsory: False
+  description: >
+     The FBid of the feature corresponding to the DNA binding domain half of the split in FlyBase.
+     Please use transposon rather than insertion ID.
+  uniq: False
+  type: Feature
+  multiple: False
+
+DBD:
+  compulsory: True
+  description: >
+     The name of the feature corresponding to the DNA binding domain half
+     of the split in FlyBase. Please use transposon rather than insertion.
+  uniq: False
+  flybase_feature: true
+  multiple: False
+
+synonyms:
+  compulsory: False
+  description: One or more additional names used to refer to the entity.
+  uniq: False
+  type: String
+  multiple: True
+  pattern_arg: anatomy_attributes
+  pattern_dict_key: synonyms
+
+dbxrefs:
+  compulsory: False
+  description: >
+     Cross references for image/depicted entity in other databases taking the form db:accession where db
+     is the short_form of a Site node in VFB and accession is an identifier in a third party database.
+  uniq: True
+  type: String
+  multiple: True
+  pattern_arg: dbxref_strings
