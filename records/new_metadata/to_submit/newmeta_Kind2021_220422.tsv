@@ -1,0 +1,287 @@
+subject_external_db	subject_external_id	relation	object
+catmaid_fafb	28841	is_a	accessory medulla neuron 12
+catmaid_fafb	164544	is_a	accessory medulla neuron 12
+catmaid_fafb	3509520	is_a	medulla tangential visual projection neuron
+catmaid_fafb	4271776	is_a	medulla dorsal rim area-posterior lateral protocerebrum neuron
+catmaid_fafb	4711708	is_a	medulla tangential visual projection neuron
+catmaid_fafb	7038035	is_a	accessory medulla neuron 12
+catmaid_fafb	10082582	is_a	photoreceptor cell R7
+catmaid_fafb	10086691	is_a	photoreceptor cell R8
+catmaid_fafb	10106710	is_a	distal medullary amacrine neuron
+catmaid_fafb	10108985	is_a	lamina monopolar neuron L1
+catmaid_fafb	10109586	is_a	distal medullary amacrine neuron Dm8
+catmaid_fafb	10190508	is_a	dorsal margin photoreceptor cell R8
+catmaid_fafb	10191735	is_a	dorsal margin photoreceptor cell R7
+catmaid_fafb	10196189	is_a	distal medullary amacrine neuron Dm8
+catmaid_fafb	10208775	is_a	distal medullary amacrine neuron Dm8
+catmaid_fafb	10245571	is_a	distal medullary amacrine neuron Dm8
+catmaid_fafb	10247370	is_a	distal medullary amacrine neuron Dm-DRA1
+catmaid_fafb	10265806	is_a	distal medullary amacrine neuron Dm-DRA1
+catmaid_fafb	10300949	is_a	dorsal margin photoreceptor cell R7
+catmaid_fafb	10300963	is_a	dorsal margin photoreceptor cell R8
+catmaid_fafb	10356412	is_a	transmedullary neuron Tm5b
+catmaid_fafb	10409692	is_a	adult medulla-tubercle neuron
+catmaid_fafb	10409863	is_a	adult medulla-tubercle neuron
+catmaid_fafb	10410432	is_a	distal medullary amacrine neuron Dm8
+catmaid_fafb	10411788	is_a	distal medullary amacrine neuron Dm-DRA2
+catmaid_fafb	10411811	is_a	distal medullary amacrine neuron Dm8
+catmaid_fafb	10419714	is_a	distal medullary amacrine neuron Dm8
+catmaid_fafb	10422284	is_a	medullary intrinsic neuron Mi9
+catmaid_fafb	10423774	is_a	transmedullary neuron Tm20
+catmaid_fafb	10438339	is_a	adult medulla-tubercle neuron of dorsal rim area
+catmaid_fafb	10439442	is_a	adult medulla-medulla neuron of dorsal rim area
+catmaid_fafb	10440160	is_a	distal medullary amacrine neuron Dm-DRA1
+catmaid_fafb	10449076	is_a	distal medullary amacrine neuron Dm-DRA2
+catmaid_fafb	10473596	is_a	adult medulla-tubercle neuron
+catmaid_fafb	10474753	is_a	medullary tangential intrinsic neuron of dorsal rim area 1
+catmaid_fafb	10479097	is_a	distal medullary amacrine neuron
+catmaid_fafb	10483848	is_a	distal medullary amacrine neuron Dm-DRA2
+catmaid_fafb	10484771	is_a	distal medullary amacrine neuron Dm-DRA2
+catmaid_fafb	10499249	is_a	distal medullary amacrine neuron Dm2
+catmaid_fafb	10537970	is_a	distal medullary amacrine neuron
+catmaid_fafb	10538510	is_a	photoreceptor cell R7
+catmaid_fafb	10547528	is_a	transmedullary neuron
+catmaid_fafb	10562974	is_a	distal medullary amacrine neuron
+catmaid_fafb	10585940	is_a	photoreceptor cell R7
+catmaid_fafb	10629254	is_a	photoreceptor cell R8
+catmaid_fafb	10638022	is_a	distal medullary amacrine neuron
+catmaid_fafb	10649076	is_a	transmedullary neuron
+catmaid_fafb	10653593	is_a	photoreceptor cell R7
+catmaid_fafb	10653780	is_a	photoreceptor cell R7
+catmaid_fafb	10653985	is_a	lamina monopolar neuron L3
+catmaid_fafb	10654562	is_a	lamina monopolar neuron L1
+catmaid_fafb	10655481	is_a	transmedullary neuron Tm20
+catmaid_fafb	10655486	is_a	medullary intrinsic neuron Mi9
+catmaid_fafb	10655668	is_a	distal medullary amacrine neuron Dm2
+catmaid_fafb	10655888	is_a	distal medullary amacrine neuron Dm9
+catmaid_fafb	10655926	is_a	medullary intrinsic neuron Mi15
+catmaid_fafb	10656250	is_a	adult medulla-tubercle neuron
+catmaid_fafb	10657484	is_a	transmedullary neuron
+catmaid_fafb	10657500	is_a	distal medullary amacrine neuron Dm9
+catmaid_fafb	10692407	is_a	transmedullary neuron
+catmaid_fafb	10755131	is_a	adult medulla-tubercle neuron of dorsal rim area
+catmaid_fafb	10806611	is_a	adult medulla-tubercle neuron
+catmaid_fafb	10820916	is_a	adult medulla-tubercle neuron of dorsal rim area
+catmaid_fafb	10971698	is_a	distal medullary amacrine neuron Dm8
+catmaid_fafb	10995248	is_a	distal medullary amacrine neuron Dm8
+catmaid_fafb	11141229	is_a	distal medullary amacrine neuron Dm-DRA1
+catmaid_fafb	11444386	is_a	distal medullary amacrine neuron Dm9
+catmaid_fafb	11444392	is_a	transmedullary neuron Tm20
+catmaid_fafb	11444398	is_a	distal medullary amacrine neuron Dm11
+catmaid_fafb	11445251	is_a	lamina monopolar neuron L3
+catmaid_fafb	11445261	is_a	medullary intrinsic neuron Mi15
+catmaid_fafb	11445681	is_a	distal medullary amacrine neuron Dm8
+catmaid_fafb	11445920	is_a	transmedullary neuron
+catmaid_fafb	11447061	is_a	distal medullary amacrine neuron Dm9
+catmaid_fafb	11447183	is_a	transmedullary neuron Tm5a
+catmaid_fafb	11447430	is_a	medullary intrinsic neuron Mi9
+catmaid_fafb	11447510	is_a	transmedullary neuron Tm5
+catmaid_fafb	11447520	is_a	distal medullary amacrine neuron Dm8
+catmaid_fafb	11447920	is_a	transmedullary neuron Tm5
+catmaid_fafb	11448395	is_a	adult medulla-tubercle neuron
+catmaid_fafb	11448400	is_a	transmedullary neuron
+catmaid_fafb	11448596	is_a	lamina monopolar neuron L3
+catmaid_fafb	11448822	is_a	distal medullary amacrine neuron Dm2
+catmaid_fafb	11448827	is_a	transmedullary neuron Tm5b
+catmaid_fafb	11448962	is_a	distal medullary amacrine neuron
+catmaid_fafb	11449411	is_a	transmedullary Y neuron TmY10
+catmaid_fafb	11449560	is_a	transmedullary neuron Tm5c
+catmaid_fafb	11449694	is_a	distal medullary amacrine neuron Dm2
+catmaid_fafb	11450247	is_a	transmedullary neuron
+catmaid_fafb	11450453	is_a	distal medullary amacrine neuron Dm11
+catmaid_fafb	11450469	is_a	lamina monopolar neuron L3
+catmaid_fafb	11450495	is_a	distal medullary amacrine neuron Dm9
+catmaid_fafb	11450505	is_a	transmedullary neuron Tm5c
+catmaid_fafb	11450552	is_a	transmedullary neuron Tm20
+catmaid_fafb	11450567	is_a	medullary intrinsic neuron Mi15
+catmaid_fafb	11452427	is_a	distal medullary amacrine neuron Dm9
+catmaid_fafb	11453021	is_a	distal medullary amacrine neuron Dm8
+catmaid_fafb	11453106	is_a	transmedullary neuron Tm5a
+catmaid_fafb	11453111	is_a	medullary intrinsic neuron Mi9
+catmaid_fafb	11453277	is_a	distal medullary amacrine neuron Dm2
+catmaid_fafb	11453311	is_a	distal medullary amacrine neuron Dm8
+catmaid_fafb	11453464	is_a	medulla tangential visual projection neuron
+catmaid_fafb	11453787	is_a	centrifugal neuron C2
+catmaid_fafb	11453818	is_a	medullary intrinsic neuron Mi15
+catmaid_fafb	11453913	is_a	lamina monopolar neuron L3
+catmaid_fafb	11453949	is_a	medullary intrinsic neuron
+catmaid_fafb	11454714	is_a	distal medullary amacrine neuron Dm9
+catmaid_fafb	11455001	is_a	distal medullary amacrine neuron
+catmaid_fafb	11455043	is_a	transmedullary neuron
+catmaid_fafb	11455071	is_a	distal medullary amacrine neuron Dm11
+catmaid_fafb	11455112	is_a	adult medulla-tubercle neuron
+catmaid_fafb	11455122	is_a	adult medulla-tubercle neuron
+catmaid_fafb	11455156	is_a	adult medulla-tubercle neuron
+catmaid_fafb	11456776	is_a	centrifugal neuron C2
+catmaid_fafb	11458127	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	11458216	is_a	transmedullary neuron
+catmaid_fafb	11458352	is_a	transmedullary neuron
+catmaid_fafb	11458372	is_a	medulla-lobula visual projection neuron 1
+catmaid_fafb	11458490	is_a	medulla-lobula neuron 1
+catmaid_fafb	11458826	is_a	medulla-lobula neuron 1
+catmaid_fafb	11459160	is_a	transmedullary neuron
+catmaid_fafb	11465884	is_a	medullary intrinsic neuron Mi4
+catmaid_fafb	11466211	is_a	medulla-lobula visual projection neuron 1
+catmaid_fafb	11466216	is_a	distal medullary amacrine neuron Dm2
+catmaid_fafb	11466226	is_a	medullary tangential intrinsic neuron
+catmaid_fafb	11466408	is_a	photoreceptor cell R8
+catmaid_fafb	11467499	is_a	medullary intrinsic neuron Mi4
+catmaid_fafb	11467628	is_a	medullary intrinsic neuron Mi9
+catmaid_fafb	11467870	is_a	medulla-lobula visual projection neuron 1
+catmaid_fafb	11468318	is_a	photoreceptor cell R8
+catmaid_fafb	11468646	is_a	transmedullary neuron Tm5
+catmaid_fafb	11469205	is_a	transmedullary neuron
+catmaid_fafb	11469481	is_a	medulla tangential visual projection neuron
+catmaid_fafb	11470014	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	11470102	is_a	transmedullary neuron Tm5c
+catmaid_fafb	11470178	is_a	lamina monopolar neuron L1
+catmaid_fafb	11471219	is_a	medulla-lobula neuron 1
+catmaid_fafb	11471581	is_a	centrifugal neuron C3
+catmaid_fafb	11471701	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	11472157	is_a	medulla-lobula neuron 1
+catmaid_fafb	11472485	is_a	centrifugal neuron C2
+catmaid_fafb	11472770	is_a	lamina monopolar neuron L1
+catmaid_fafb	11472780	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	11472940	is_a	lamina monopolar neuron L1
+catmaid_fafb	11473478	is_a	transmedullary neuron Tm5c
+catmaid_fafb	11473653	is_a	medullary intrinsic neuron Mi4
+catmaid_fafb	11473668	is_a	transmedullary neuron Tm20
+catmaid_fafb	11474156	is_a	distal medullary amacrine neuron
+catmaid_fafb	11474295	is_a	transmedullary neuron
+catmaid_fafb	11481395	is_a	medullary tangential intrinsic neuron
+catmaid_fafb	11481478	is_a	medullary intrinsic neuron Mi4
+catmaid_fafb	11481716	is_a	medullary intrinsic neuron Mi10
+catmaid_fafb	11481724	is_a	transmedullary neuron Tm5
+catmaid_fafb	11484380	is_a	medullary intrinsic neuron Mi15
+catmaid_fafb	11484679	is_a	distal medullary amacrine neuron Dm9
+catmaid_fafb	11485094	is_a	transmedullary neuron Tm5c
+catmaid_fafb	11499693	is_a	adult medulla-tubercle neuron
+catmaid_fafb	11500071	is_a	distal medullary amacrine neuron Dm8
+catmaid_fafb	11511057	is_a	distal medullary amacrine neuron
+catmaid_fafb	11523807	is_a	distal medullary amacrine neuron Dm8
+catmaid_fafb	11544670	is_a	transmedullary neuron
+catmaid_fafb	11574443	is_a	transmedullary neuron Tm5c
+catmaid_fafb	11666155	is_a	medullary tangential intrinsic neuron
+catmaid_fafb	11671249	is_a	transmedullary neuron
+catmaid_fafb	11671334	is_a	medulla-lobula visual projection neuron 2
+catmaid_fafb	11686947	is_a	medullary tangential intrinsic neuron of dorsal rim area 1
+catmaid_fafb	11693571	is_a	medullary tangential intrinsic neuron of dorsal rim area 2
+catmaid_fafb	11695293	is_a	adult medulla-tubercle neuron of dorsal rim area
+catmaid_fafb	11710979	is_a	distal medullary amacrine neuron Dm-DRA2
+catmaid_fafb	11723759	is_a	distal medullary amacrine neuron
+catmaid_fafb	11728779	is_a	dorsal margin photoreceptor cell R7
+catmaid_fafb	11728827	is_a	dorsal margin photoreceptor cell R8
+catmaid_fafb	11749585	is_a	transmedullary neuron
+catmaid_fafb	11769714	is_a	distal medullary amacrine neuron Dm-DRA1
+catmaid_fafb	11829850	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	11896101	is_a	distal medullary amacrine neuron Dm-DRA1
+catmaid_fafb	11903802	is_a	medullary tangential intrinsic neuron of dorsal rim area 2
+catmaid_fafb	11903982	is_a	distal medullary amacrine neuron Dm-DRA1
+catmaid_fafb	11903992	is_a	adult medulla-tubercle neuron of dorsal rim area
+catmaid_fafb	11904073	is_a	medulla dorsal rim area-posterior lateral protocerebrum neuron
+catmaid_fafb	11906497	is_a	centrifugal neuron C2
+catmaid_fafb	11908668	is_a	adult medulla-tubercle neuron of dorsal rim area
+catmaid_fafb	11908710	is_a	adult medulla-tubercle neuron of dorsal rim area
+catmaid_fafb	11908743	is_a	adult medulla-tubercle neuron of dorsal rim area
+catmaid_fafb	11915725	is_a	lamina monopolar neuron L1
+catmaid_fafb	11916190	is_a	medullary intrinsic neuron Mi15
+catmaid_fafb	11916195	is_a	distal medullary amacrine neuron Dm9
+catmaid_fafb	11917227	is_a	lamina monopolar neuron L3
+catmaid_fafb	11918130	is_a	distal medullary amacrine neuron Dm2
+catmaid_fafb	11918436	is_a	distal medullary amacrine neuron Dm-DRA2
+catmaid_fafb	11918590	is_a	medullary intrinsic neuron Mi9
+catmaid_fafb	11918619	is_a	transmedullary neuron Tm20
+catmaid_fafb	11947152	is_a	medullary intrinsic neuron Mi9
+catmaid_fafb	11981475	is_a	distal medullary amacrine neuron Dm-DRA2
+catmaid_fafb	11992843	is_a	distal medullary amacrine neuron Dm-DRA1
+catmaid_fafb	11992907	is_a	medulla dorsal rim area-posterior lateral protocerebrum neuron
+catmaid_fafb	11992932	is_a	adult medulla-tubercle neuron of dorsal rim area
+catmaid_fafb	11993030	is_a	adult medulla-tubercle neuron of dorsal rim area
+catmaid_fafb	11993064	is_a	adult medulla-tubercle neuron of dorsal rim area
+catmaid_fafb	11993076	is_a	distal medullary amacrine neuron Dm-DRA1
+catmaid_fafb	11993314	is_a	adult medulla-tubercle neuron of dorsal rim area
+catmaid_fafb	11993352	is_a	adult medulla-tubercle neuron of dorsal rim area
+catmaid_fafb	11993382	is_a	adult medulla-tubercle neuron of dorsal rim area
+catmaid_fafb	11993444	is_a	medullary tangential intrinsic neuron of dorsal rim area 2
+catmaid_fafb	11993471	is_a	medullary tangential intrinsic neuron of dorsal rim area 1
+catmaid_fafb	11993543	is_a	adult medulla-medulla neuron of dorsal rim area
+catmaid_fafb	11993695	is_a	distal medullary amacrine neuron Dm-DRA1
+catmaid_fafb	11993798	is_a	distal medullary amacrine neuron Dm-DRA1
+catmaid_fafb	11993803	is_a	distal medullary amacrine neuron
+catmaid_fafb	11994448	is_a	adult medulla-tubercle neuron of dorsal rim area
+catmaid_fafb	11994563	is_a	adult medulla-tubercle neuron of dorsal rim area
+catmaid_fafb	11994580	is_a	medullary tangential intrinsic neuron of dorsal rim area 1
+catmaid_fafb	11995073	is_a	adult medulla-tubercle neuron of dorsal rim area
+catmaid_fafb	11995102	is_a	adult medulla-tubercle neuron of dorsal rim area
+catmaid_fafb	11995242	is_a	medulla-lobula visual projection neuron 2
+catmaid_fafb	11995266	is_a	medullary tangential intrinsic neuron of dorsal rim area 1
+catmaid_fafb	11995288	is_a	medullary tangential intrinsic neuron of dorsal rim area 2
+catmaid_fafb	11995358	is_a	adult medulla-tubercle neuron
+catmaid_fafb	12002139	is_a	medullary intrinsic neuron Mi15
+catmaid_fafb	12002622	is_a	centrifugal neuron C3
+catmaid_fafb	12013129	is_a	distal medullary amacrine neuron Dm9
+catmaid_fafb	12015966	is_a	medullary intrinsic neuron Mi9
+catmaid_fafb	12016006	is_a	transmedullary neuron Tm5
+catmaid_fafb	12017150	is_a	medullary intrinsic neuron Mi15
+catmaid_fafb	12017354	is_a	transmedullary neuron Tm5
+catmaid_fafb	12018069	is_a	lamina monopolar neuron L3
+catmaid_fafb	12018769	is_a	transmedullary neuron Tm20
+catmaid_fafb	12019444	is_a	lamina monopolar neuron L1
+catmaid_fafb	12043437	is_a	transmedullary Y neuron
+catmaid_fafb	12044212	is_a	centrifugal neuron C2
+catmaid_fafb	12045602	is_a	medullary intrinsic neuron Mi4
+catmaid_fafb	12106383	is_a	adult medulla-tubercle neuron of dorsal rim area
+catmaid_fafb	12106449	is_a	distal medullary amacrine neuron Dm-DRA1
+catmaid_fafb	12127369	is_a	adult medulla-tubercle neuron of dorsal rim area
+catmaid_fafb	12188202	is_a	medulla dorsal rim area-posterior lateral protocerebrum neuron
+catmaid_fafb	13136156	is_a	adult medulla-tubercle neuron of dorsal rim area
+catmaid_fafb	13262259	is_a	distal medullary amacrine neuron Dm-DRA2
+catmaid_fafb	13294451	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13607720	is_a	distal medullary amacrine neuron Dm-DRA1
+catmaid_fafb	13979721	is_a	distal medullary amacrine neuron Dm-DRA1
+catmaid_fafb	14065298	is_a	distal medullary amacrine neuron Dm-DRA1
+catmaid_fafb	14065353	is_a	distal medullary amacrine neuron Dm2
+catmaid_fafb	14286406	is_a	medulla tangential visual projection neuron
+catmaid_fafb	14305318	is_a	distal medullary amacrine neuron Dm2
+catmaid_fafb	14310274	is_a	distal medullary amacrine neuron Dm9
+catmaid_fafb	14311483	is_a	distal medullary amacrine neuron Dm-DRA2
+catmaid_fafb	14430736	is_a	medullary tangential intrinsic neuron of dorsal rim area 1
+catmaid_fafb	14726392	is_a	adult medulla-tubercle neuron
+catmaid_fafb	14767205	is_a	transmedullary neuron
+catmaid_fafb	14811021	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14838259	is_a	adult medulla-tubercle neuron
+catmaid_fafb	14864504	is_a	adult medulla-tubercle neuron of dorsal rim area
+catmaid_fafb	14880472	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14888320	is_a	adult medulla-tubercle neuron of dorsal rim area
+catmaid_fafb	14889231	is_a	adult medulla-tubercle neuron of dorsal rim area
+catmaid_fafb	14933802	is_a	distal medullary amacrine neuron Dm9
+catmaid_fafb	14936634	is_a	adult medulla-tubercle neuron of dorsal rim area
+catmaid_fafb	15600898	is_a	adult medulla-tubercle neuron of dorsal rim area
+catmaid_fafb	15616477	is_a	adult medulla-tubercle neuron of dorsal rim area
+catmaid_fafb	15698953	is_a	adult medulla-tubercle neuron of dorsal rim area
+catmaid_fafb	15749047	is_a	adult medulla-tubercle neuron of dorsal rim area
+catmaid_fafb	15749075	is_a	adult medulla-tubercle neuron of dorsal rim area
+catmaid_fafb	15805231	is_a	transmedullary neuron
+catmaid_fafb	15949451	is_a	adult medulla-tubercle neuron of dorsal rim area
+catmaid_fafb	15952007	is_a	adult medulla-tubercle neuron of dorsal rim area
+catmaid_fafb	15969128	is_a	medulla dorsal rim area-posterior lateral protocerebrum neuron
+catmaid_fafb	15970720	is_a	lamina monopolar neuron L3
+catmaid_fafb	15976817	is_a	distal medullary amacrine neuron Dm-DRA1
+catmaid_fafb	15978559	is_a	adult medulla-tubercle neuron
+catmaid_fafb	15984100	is_a	medulla dorsal rim area-posterior lateral protocerebrum neuron
+catmaid_fafb	15997281	is_a	medulla dorsal rim area-posterior lateral protocerebrum neuron
+catmaid_fafb	16110049	is_a	distal medullary amacrine neuron
+catmaid_fafb	16215491	is_a	medulla dorsal rim area-posterior lateral protocerebrum neuron
+catmaid_fafb	16730682	is_a	adult medulla-tubercle neuron
+catmaid_fafb	16766812	is_a	distal medullary amacrine neuron Dm-DRA1
+catmaid_fafb	16886430	is_a	medulla dorsal rim area-posterior lateral protocerebrum neuron
+catmaid_fafb	17155321	is_a	distal medullary amacrine neuron Dm-DRA1
+catmaid_fafb	17156427	is_a	distal medullary amacrine neuron Dm-DRA1
+catmaid_fafb	17161735	is_a	distal medullary amacrine neuron Dm11
+catmaid_fafb	17162382	is_a	distal medullary amacrine neuron Dm2
+catmaid_fafb	17163676	is_a	distal medullary amacrine neuron Dm-DRA2
+catmaid_fafb	17165715	is_a	medulla dorsal rim area-posterior lateral protocerebrum neuron
+catmaid_fafb	17170763	is_a	distal medullary amacrine neuron Dm-DRA1
+catmaid_fafb	17250636	is_a	adult medulla-tubercle neuron
+catmaid_fafb	17253295	is_a	lamina monopolar neuron L3
+catmaid_fafb	17254550	is_a	distal medullary amacrine neuron Dm2
