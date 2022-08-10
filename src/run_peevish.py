@@ -16,7 +16,6 @@ Script to
 
 ## Should it know about the gross type of records and direct to the appropriate loading method, where gross currently = new_dataSet vs new_metadata, vs new image.  Shouldn't a record sorter be able to do that?
 
-print("run_peevish triggered")
 parser = argparse.ArgumentParser()
 parser.add_argument("endpoint",
                     help="Endpoint for connection to neo4J prod")
@@ -50,14 +49,9 @@ def check_records(path, check_dir = "working"):
 
 
 def load_records(path, load_dir = "to_submit"):
-    rec_path = '/'.join([args.base_path, path, load_dir]) + '/'
-    print(rec_path)
     rec_path = os.path.abspath(os.path.join(args.base_path, path, load_dir))
-    print(rec_path + '/')
     current_dir = os.path.dirname(os.path.realpath(__file__))
     records_path = os.path.abspath(os.path.join(current_dir, "../records", path))
-    print("../records/" + path)
-    print(records_path + '/')
     stat = load_recs(records_path + '/', rec_path + '/',
                      args.endpoint, args.usr, args.pwd, import_filepath=args.import_filepath,
                      commit=args.commit, verbose=args.verbose)
