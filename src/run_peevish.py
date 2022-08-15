@@ -5,6 +5,7 @@ from vfb.curation.curation_loader import load_recs
 #from vfb.curation.cur_load import NewMetaDataWriter, NewImageWriter
 import argparse
 import warnings
+import os
 
 """
 Script to
@@ -49,8 +50,10 @@ def check_records(path, check_dir = "working"):
 
 
 def load_records(path, load_dir = "to_submit"):
-    rec_path = '/'.join([args.base_path, path, load_dir]) + '/'
-    stat = load_recs("../records/" + path, rec_path,
+    rec_path = os.path.abspath(os.path.join(args.base_path, path, load_dir))
+    current_dir = os.path.dirname(os.path.realpath(__file__))
+    records_path = os.path.abspath(os.path.join(current_dir, "../records", path))
+    stat = load_recs(records_path + '/', rec_path + '/',
                      args.endpoint, args.usr, args.pwd, import_filepath=args.import_filepath,
                      commit=args.commit, verbose=args.verbose)
     return stat

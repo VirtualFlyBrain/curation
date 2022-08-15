@@ -343,7 +343,7 @@ class NewMetaDataWriter(CurationWriter):
     def get_ind_id(self, i: VfbInd, context):
         if i.xref_db and i.xref_acc:
             # query to find id
-            query = "MATCH (s:Site)<-[r:hasDbXref]-(i:Individual) " \
+            query = "MATCH (s:Site)<-[r:database_cross_reference]-(i:Individual) " \
                     "WHERE s.short_form = '%s' " \
                     "AND r.accession = '%s'" \
                     "RETURN i.short_form as vfb_id" % (i.xref_db, i.xref_acc)
