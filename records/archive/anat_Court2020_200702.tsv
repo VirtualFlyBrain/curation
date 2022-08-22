@@ -1,0 +1,22 @@
+index	filename	synonyms	label	is_a	part_of	classification_reference
+1	Tract_DLT	DLT	dorsal lateral tract on adult VNC, JRC2018VU	dorsal lateral tract of the dorsal cervical fascicle	adult ventral nervous system	doi_10_1101__122952
+2	Tract_DLV	DLV	dorsal lateral tract of ventral cervical fasciculus on adult VNC, JRC2018VU	dorsal lateral tract of the ventral cervical fascicle	adult ventral nervous system	doi_10_1101__122952
+3	Tract_DMT	DMT	dorsal median tract on adult VNC, JRC2018VU	dorsal-medial tract	adult ventral nervous system	doi_10_1101__122952
+4	Tract_MDT	MDT	median dorsal abdominal tract on adult VNC, JRC2018VU	median dorsal abdominal tract	adult ventral nervous system	doi_10_1101__122952
+5	Tract_VLT	VLT	ventral lateral tract on adult VNC, JRC2018VU	ventral lateral tract of the ventral cervical fascicle	adult ventral nervous system	doi_10_1101__122952
+6	Tract_all_ITD_combined	ITD	intermediate tract of dorsal cervical fasciculus on adult VNC, JRC2018VU	intermediate tract of the dorsal cervical fascicle	adult ventral nervous system	doi_10_1101__122952
+7	Tract_ITD_CFF	CFF|ITD-CFF	commissure of Fine Fibers of the ITD on adult VNC, JRC2018VU	chiasma of fine fibers of the ITD	adult ventral nervous system	doi_10_1101__122952
+8	Tract_ITD_HC	HC|ITD-HC	ITD haltere chiasma on adult VNC, JRC2018VU	haltere chiasma	adult ventral nervous system	doi_10_1101__122952
+9	Tract_ITD_HT	HT|ITD-HT	ITD haltere tract on adult VNC, JRC2018VU	dorsal metathoracic nerve	adult ventral nervous system	doi_10_1101__122952
+10	Tract_VTV	VTV	ventral median tract of ventral cervical fasciculus on adult VNC, JRC2018VU	ventral median tract of the ventral cervical fascicle	adult ventral nervous system	doi_10_1101__122952
+11	ABDNM	ABDNM	adult abdominal neuromere on adult VNC, JRC2018VU	adult abdominal neuromere	adult ventral nervous system	doi_10_1101__122952
+12	AMNP	AMNP	adult accessory mesothoracic neuromere on adult VNC, JRC2018VU	adult accessory mesothoracic neuromere	adult ventral nervous system	doi_10_1101__122952
+13	haltere_tectulum_only	HTct	haltere tectulum on adult VNC, JRC2018VU	haltere neuropil	adult ventral nervous system	doi_10_1101__122952
+14	intermediate_tectulum	IntTct	intermediate tectulum on adult VNC, JRC2018VU	synaptic neuropil domain	adult ventral nervous system	doi_10_1101__122952
+15	lower_tectulum	LTct	lower tectulum on adult VNC, JRC2018VU	lower tectulum	adult ventral nervous system	doi_10_1101__122952
+16	MesoNM	MesoNM|T2	adult mesothoracic neuromere on adult VNC, JRC2018VU	adult mesothoracic neuromere	adult ventral nervous system	doi_10_1101__122952
+17	METANM	MetaNM|T3	adult metathoracic neuromere on adult VNC, JRC2018VU	adult metathoracic neuromere	adult ventral nervous system	doi_10_1101__122952
+18	mVAC	mVAC	medial ventral association center on adult VNC, JRC2018VU	medial ventral association center	adult ventral nervous system	doi_10_1101__122952
+19	neck_tectulum	NTct	neck tectulum on adult VNC, JRC2018VU	synaptic neuropil domain	adult ventral nervous system	doi_10_1101__122952
+20	PRONM	ProNM|T1	adult prothoracic neuromere on adult VNC, JRC2018VU	adult prothoracic neuromere	adult ventral nervous system	doi_10_1101__122952
+21	wing_tectulum	WTct|Flight Neuropil	wing tectulum on adult VNC, JRC2018VU	wing neuropil	adult ventral nervous system	doi_10_1101__122952
