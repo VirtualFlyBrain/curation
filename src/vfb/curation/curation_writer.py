@@ -327,7 +327,7 @@ class NewMetaDataWriter(CurationWriter):
             # query to find id
             query = "MATCH (s:Site)<-[r:database_cross_reference]-(i:Individual) " \
                     "WHERE s.short_form = '%s' " \
-                    "AND r.accession = '%s'" \
+                    "AND r.accession = ['%s']" \
                     "RETURN i.short_form as vfb_id" % (i.xref_db, i.xref_acc)
             q = self.ew.nc.commit_list([query])
             if not q:
