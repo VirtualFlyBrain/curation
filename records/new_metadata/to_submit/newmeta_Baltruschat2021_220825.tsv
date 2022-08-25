@@ -1,0 +1,9 @@
+subject_external_db	subject_external_id	relation	object
+catmaid_fafb	13686	is_a	alpha/beta surface Kenyon cell
+catmaid_fafb	205686	is_a	gamma main Kenyon cell
+catmaid_fafb	531058	is_a	gamma main Kenyon cell
+catmaid_fafb	534594	is_a	gamma main Kenyon cell
+catmaid_fafb	535010	is_a	gamma main Kenyon cell
+catmaid_fafb	538159	is_a	alpha/beta surface Kenyon cell
+catmaid_fafb	591301	is_a	gamma main Kenyon cell
+catmaid_fafb	2764976	is_a	alpha/beta surface Kenyon cell
