@@ -1,0 +1,145 @@
+subject_external_db	subject_external_id	relation	object
+catmaid_fafb	7179579	is_a	sugar-sensing neuron of labellar taste bristle
+catmaid_fafb	7256298	is_a	water-sensing neuron of labellar taste bristle
+catmaid_fafb	7349219	is_a	sugar-sensing neuron of labellar taste bristle
+catmaid_fafb	7349238	is_a	bitter-sensing neuron of labellar taste bristle
+catmaid_fafb	7349285	is_a	sugar-sensing neuron of labellar taste bristle
+catmaid_fafb	7432034	is_a	sugar-sensing neuron of labellar taste bristle
+catmaid_fafb	7438474	is_a	water-sensing neuron of labellar taste bristle
+catmaid_fafb	7451040	is_a	sugar-sensing neuron of labellar taste bristle
+catmaid_fafb	7456677	is_a	sugar-sensing neuron of labellar taste bristle
+catmaid_fafb	7468835	is_a	sugar-sensing neuron of labellar taste bristle
+catmaid_fafb	7471728	is_a	sugar-sensing neuron of labellar taste bristle
+catmaid_fafb	7471829	is_a	sugar-sensing neuron of labellar taste bristle
+catmaid_fafb	7474052	is_a	water-sensing neuron of labellar taste bristle
+catmaid_fafb	7479777	is_a	sugar-sensing neuron of labellar taste bristle
+catmaid_fafb	7485475	is_a	water-sensing neuron of labellar taste bristle
+catmaid_fafb	7487871	is_a	sugar-sensing neuron of labellar taste bristle
+catmaid_fafb	7575588	is_a	water-sensing neuron of labellar taste bristle
+catmaid_fafb	7708435	is_a	sugar-sensing neuron of labellar taste bristle
+catmaid_fafb	7716995	is_a	water-sensing neuron of labellar taste bristle
+catmaid_fafb	7723218	is_a	sugar-sensing neuron of labellar taste bristle
+catmaid_fafb	7723244	is_a	low salt-sensing neuron of labellar taste bristle
+catmaid_fafb	7724239	is_a	water-sensing neuron of labellar taste bristle
+catmaid_fafb	7753061	is_a	sugar-sensing neuron of labellar taste bristle
+catmaid_fafb	7757554	is_a	bitter-sensing neuron of labellar taste bristle
+catmaid_fafb	7759395	is_a	low salt-sensing neuron of labellar taste bristle
+catmaid_fafb	7759742	is_a	sugar-sensing neuron of labellar taste bristle
+catmaid_fafb	7759923	is_a	bitter-sensing neuron of labellar taste bristle
+catmaid_fafb	7773850	is_a	low salt-sensing neuron of labellar taste bristle
+catmaid_fafb	7774114	is_a	sugar-sensing neuron of labellar taste bristle
+catmaid_fafb	7774393	is_a	sugar-sensing neuron of labellar taste bristle
+catmaid_fafb	7774674	is_a	bitter-sensing neuron of labellar taste bristle
+catmaid_fafb	7789606	is_a	sugar-sensing neuron of labellar taste bristle
+catmaid_fafb	7789717	is_a	bitter-sensing neuron of labellar taste bristle
+catmaid_fafb	7789757	is_a	low salt-sensing neuron of labellar taste bristle
+catmaid_fafb	7789762	is_a	low salt-sensing neuron of labellar taste bristle
+catmaid_fafb	7793752	is_a	sugar-sensing neuron of labellar taste bristle
+catmaid_fafb	7796688	is_a	low salt-sensing neuron of labellar taste bristle
+catmaid_fafb	7802087	is_a	low salt-sensing neuron of labellar taste bristle
+catmaid_fafb	7881737	is_a	water-sensing neuron of labellar taste bristle
+catmaid_fafb	8210748	is_a	low salt-sensing neuron of labellar taste bristle
+catmaid_fafb	9016928	is_a	sugar-sensing neuron of labellar taste bristle
+catmaid_fafb	9235133	is_a	water-sensing neuron of labellar taste bristle
+catmaid_fafb	9348643	is_a	bitter-sensing neuron of labellar taste bristle
+catmaid_fafb	9391836	is_a	bitter-sensing neuron of labellar taste bristle
+catmaid_fafb	10154803	is_a	gustatory receptor neuron of the labellum
+catmaid_fafb	10223339	is_a	gustatory receptor neuron of the labellum
+catmaid_fafb	10223376	is_a	gustatory receptor neuron of the labellum
+catmaid_fafb	10223392	is_a	gustatory receptor neuron of the labellum
+catmaid_fafb	10368680	is_a	bitter-sensing neuron of labellar taste bristle
+catmaid_fafb	10443082	is_a	bitter-sensing neuron of labellar taste bristle
+catmaid_fafb	10481113	is_a	bitter-sensing neuron of labellar taste bristle
+catmaid_fafb	10489651	is_a	gustatory receptor neuron of the labellum
+catmaid_fafb	10490381	is_a	gustatory receptor neuron of the labellum
+catmaid_fafb	10603489	is_a	bitter-sensing neuron of labellar taste bristle
+catmaid_fafb	10626457	is_a	gustatory receptor neuron of the labellum
+catmaid_fafb	10742200	is_a	sugar-sensing neuron of labellar taste bristle
+catmaid_fafb	10780407	is_a	gustatory receptor neuron of the labellum
+catmaid_fafb	10780417	is_a	gustatory receptor neuron of the labellum
+catmaid_fafb	10780425	is_a	bitter-sensing neuron of labellar taste bristle
+catmaid_fafb	10780443	is_a	low salt-sensing neuron of labellar taste bristle
+catmaid_fafb	10795558	is_a	low salt-sensing neuron of labellar taste bristle
+catmaid_fafb	10796200	is_a	bitter-sensing neuron of labellar taste bristle
+catmaid_fafb	11206721	is_a	sugar-sensing neuron of labellar taste bristle
+catmaid_fafb	11206727	is_a	sugar-sensing neuron of labellar taste bristle
+catmaid_fafb	11242644	is_a	bitter-sensing neuron of labellar taste bristle
+catmaid_fafb	11243248	is_a	low salt-sensing neuron of labellar taste bristle
+catmaid_fafb	11356628	is_a	sugar-sensing neuron of labellar taste bristle
+catmaid_fafb	11399580	is_a	gustatory receptor neuron of the labellum
+catmaid_fafb	11407091	is_a	bitter-sensing neuron of labellar taste bristle
+catmaid_fafb	11461075	is_a	gustatory receptor neuron of the labellum
+catmaid_fafb	11488252	is_a	sugar-sensing neuron of labellar taste bristle
+catmaid_fafb	11488257	is_a	bitter-sensing neuron of labellar taste bristle
+catmaid_fafb	11488267	is_a	bitter-sensing neuron of labellar taste bristle
+catmaid_fafb	11522862	is_a	bitter-sensing neuron of labellar taste bristle
+catmaid_fafb	11559706	is_a	bitter-sensing neuron of labellar taste bristle
+catmaid_fafb	11559730	is_a	bitter-sensing neuron of labellar taste bristle
+catmaid_fafb	11559734	is_a	sugar-sensing neuron of labellar taste bristle
+catmaid_fafb	11559749	is_a	low salt-sensing neuron of labellar taste bristle
+catmaid_fafb	11559792	is_a	sugar-sensing neuron of labellar taste bristle
+catmaid_fafb	11559796	is_a	bitter-sensing neuron of labellar taste bristle
+catmaid_fafb	11559800	is_a	sugar-sensing neuron of labellar taste bristle
+catmaid_fafb	11559804	is_a	water-sensing neuron of labellar taste bristle
+catmaid_fafb	11559813	is_a	water-sensing neuron of labellar taste bristle
+catmaid_fafb	11559821	is_a	water-sensing neuron of labellar taste bristle
+catmaid_fafb	11559827	is_a	water-sensing neuron of labellar taste bristle
+catmaid_fafb	11559838	is_a	water-sensing neuron of labellar taste bristle
+catmaid_fafb	11559846	is_a	water-sensing neuron of labellar taste bristle
+catmaid_fafb	11559858	is_a	low salt-sensing neuron of labellar taste bristle
+catmaid_fafb	11559865	is_a	water-sensing neuron of labellar taste bristle
+catmaid_fafb	11559900	is_a	water-sensing neuron of labellar taste bristle
+catmaid_fafb	11603401	is_a	bitter-sensing neuron of labellar taste bristle
+catmaid_fafb	11635037	is_a	sugar-sensing neuron of labellar taste bristle
+catmaid_fafb	11647363	is_a	bitter-sensing neuron of labellar taste bristle
+catmaid_fafb	11674090	is_a	bitter-sensing neuron of labellar taste bristle
+catmaid_fafb	11675069	is_a	bitter-sensing neuron of labellar taste bristle
+catmaid_fafb	11827484	is_a	bitter-sensing neuron of labellar taste bristle
+catmaid_fafb	11966486	is_a	low salt-sensing neuron of labellar taste bristle
+catmaid_fafb	11967149	is_a	sugar-sensing neuron of labellar taste bristle
+catmaid_fafb	11984676	is_a	low salt-sensing neuron of labellar taste bristle
+catmaid_fafb	11987931	is_a	low salt-sensing neuron of labellar taste bristle
+catmaid_fafb	11995753	is_a	bitter-sensing neuron of labellar taste bristle
+catmaid_fafb	12001108	is_a	bitter-sensing neuron of labellar taste bristle
+catmaid_fafb	12173900	is_a	water-sensing neuron of labellar taste bristle
+catmaid_fafb	12215913	is_a	gustatory receptor neuron of the labellum
+catmaid_fafb	12226830	is_a	low salt-sensing neuron of labellar taste bristle
+catmaid_fafb	12817585	is_a	gustatory receptor neuron of the labellum
+catmaid_fafb	12871829	is_a	sugar-sensing neuron of labellar taste bristle
+catmaid_fafb	12880552	is_a	water-sensing neuron of labellar taste bristle
+catmaid_fafb	13216531	is_a	gustatory receptor neuron of the labellum
+catmaid_fafb	14444228	is_a	gustatory receptor neuron of the labellum
+catmaid_fafb	14928124	is_a	sugar-sensing neuron of labellar taste bristle
+catmaid_fafb	14947928	is_a	water-sensing neuron of labellar taste bristle
+catmaid_fafb	14947934	is_a	sugar-sensing neuron of labellar taste bristle
+catmaid_fafb	14947940	is_a	water-sensing neuron of labellar taste bristle
+catmaid_fafb	14947952	is_a	water-sensing neuron of labellar taste bristle
+catmaid_fafb	14947958	is_a	water-sensing neuron of labellar taste bristle
+catmaid_fafb	16149023	is_a	gustatory receptor neuron of the labellum
+catmaid_fafb	16149029	is_a	gustatory receptor neuron of the labellum
+catmaid_fafb	16149035	is_a	gustatory receptor neuron of the labellum
+catmaid_fafb	16149041	is_a	gustatory receptor neuron of the labellum
+catmaid_fafb	16149047	is_a	gustatory receptor neuron of the labellum
+catmaid_fafb	16149053	is_a	gustatory receptor neuron of the labellum
+catmaid_fafb	16149059	is_a	gustatory receptor neuron of the labellum
+catmaid_fafb	16149065	is_a	gustatory receptor neuron of the labellum
+catmaid_fafb	16149077	is_a	bitter-sensing neuron of labellar taste bristle
+catmaid_fafb	16149083	is_a	gustatory receptor neuron of the labellum
+catmaid_fafb	16149089	is_a	gustatory receptor neuron of the labellum
+catmaid_fafb	16149095	is_a	gustatory receptor neuron of the labellum
+catmaid_fafb	16149101	is_a	gustatory receptor neuron of the labellum
+catmaid_fafb	16149107	is_a	gustatory receptor neuron of the labellum
+catmaid_fafb	16149113	is_a	gustatory receptor neuron of the labellum
+catmaid_fafb	16149119	is_a	gustatory receptor neuron of the labellum
+catmaid_fafb	16149125	is_a	bitter-sensing neuron of labellar taste bristle
+catmaid_fafb	16149131	is_a	bitter-sensing neuron of labellar taste bristle
+catmaid_fafb	16149137	is_a	gustatory receptor neuron of the labellum
+catmaid_fafb	16149144	is_a	bitter-sensing neuron of labellar taste bristle
+catmaid_fafb	16149150	is_a	bitter-sensing neuron of labellar taste bristle
+catmaid_fafb	16149158	is_a	gustatory receptor neuron of the labellum
+catmaid_fafb	16149164	is_a	bitter-sensing neuron of labellar taste bristle
+catmaid_fafb	16149171	is_a	gustatory receptor neuron of the labellum
+catmaid_fafb	16149178	is_a	gustatory receptor neuron of the labellum
+catmaid_fafb	16149184	is_a	bitter-sensing neuron of labellar taste bristle
+catmaid_fafb	16149191	is_a	gustatory receptor neuron of the labellum
+catmaid_fafb	16149198	is_a	gustatory receptor neuron of the labellum
