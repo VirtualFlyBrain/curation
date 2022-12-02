@@ -1,0 +1,2 @@
+filename	label	AD	DBD	part_of	Template	synonyms	dbxrefs	comment
+20x-Brain-2739552418072100962	JRC_SS59453_Brain_20191119_31_B6_20x	P{R60G04-p65.AD}	P{R35C10-GAL4.DBD}	female organism|adult brain	JRC2018Unisex_c	SS59453|JRC_SS59453	FlyLightSplit:SS59453|FlyLightSplitSlideCode:20191119_31_B6|jrc_slide_code_api:20191119_31_B6|neuronbridge:SS59453	tile(s): 'brain', effector genotype: '20XUAS-CsChrimson-mVenus trafficked in attP18', objective: 'Plan-Apochromat 20x/0.8 M27', mounting protocol: 'DPX PBS Mounting', slide_code: '20191119_31_B6', age: 'Day 1-5'
