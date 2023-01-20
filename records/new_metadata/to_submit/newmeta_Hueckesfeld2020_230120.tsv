@@ -1,0 +1,43 @@
+subject_external_db	subject_external_id	subject_name	relation	object
+catmaid_l1em	3928652	CA-LP-1_left	is_a	corpus allatum innervating neuron CA-LP 1
+catmaid_l1em	12704360	CA-LP-1_right	is_a	corpus allatum innervating neuron CA-LP 1
+catmaid_l1em	6978585	CA-LP-2_left1	is_a	corpus allatum innervating neuron CA-LP 2
+catmaid_l1em	3928574	CA-LP-2_left2	is_a	corpus allatum innervating neuron CA-LP 2
+catmaid_l1em	114558	ddaA a3l class III md	is_a	abdominal 3 dorsal multidendritic neuron ddaA
+catmaid_l1em	9254491	ddaA a4r class III md	is_a	abdominal 4 dorsal multidendritic neuron ddaA
+catmaid_l1em	2683068	ddaA a5l class III md	is_a	abdominal 5 dorsal multidendritic neuron ddaA
+catmaid_l1em	1300727	ddaA a5r class III md	is_a	abdominal 6 dorsal multidendritic neuron ddaA
+catmaid_l1em	15217317	ddaC_a2l	is_a	abdominal 2 dorsal multidendritic neuron ddaC
+catmaid_l1em	3793165	ddaC_a2r	is_a	abdominal 2 dorsal multidendritic neuron ddaC
+catmaid_l1em	2970864	ddaC_a2r 	is_a	abdominal 2 dorsal multidendritic neuron ddaC
+catmaid_l1em	770615	ddaC_a3l	is_a	abdominal 3 dorsal multidendritic neuron ddaC
+catmaid_l1em	9022427	ddaC_a3r	is_a	abdominal 3 dorsal multidendritic neuron ddaC
+catmaid_l1em	203148	ddaC_a4l	is_a	abdominal 4 dorsal multidendritic neuron ddaC
+catmaid_l1em	883721	ddaC_a4r	is_a	abdominal 4 dorsal multidendritic neuron ddaC
+catmaid_l1em	738095	ddaC_a5l	is_a	abdominal 5 dorsal multidendritic neuron ddaC
+catmaid_l1em	15232796	ddaC_t3l	is_a	metathoracic dorsal multidendritic neuron ddaC
+catmaid_l1em	3567420	ddaC_t3r	is_a	metathoracic dorsal multidendritic neuron ddaC
+catmaid_l1em	837522	ddaF a4r class III md	is_a	abdominal 4 dorsal multidendritic neuron ddaF
+catmaid_l1em	2700681	ddaF a5r class III md	is_a	abdominal 5 dorsal multidendritic neuron ddaF
+catmaid_l1em	881861	desC_a5r	is_a	abdominal 5 desC neuron
+catmaid_l1em	9372642	PTTH 1 left	is_a	larval PTTH neuron of pars lateralis
+catmaid_l1em	9842000	PTTH 1 right	is_a	larval PTTH neuron of pars lateralis
+catmaid_l1em	3928522	PTTH 2 left	is_a	larval PTTH neuron of pars lateralis
+catmaid_l1em	7799610	v'ada_a2l	is_a	abdominal 2 anterior ventral multidendritic neuron vdaa
+catmaid_l1em	2629826	v'ada_a2r	is_a	abdominal 2 anterior ventral multidendritic neuron vdaa
+catmaid_l1em	203130	v'ada_a3l	is_a	abdominal 3 anterior ventral multidendritic neuron vdaa
+catmaid_l1em	2723184	v'ada_a3r	is_a	abdominal 3 anterior ventral multidendritic neuron vdaa
+catmaid_l1em	9170669	v'ada_a4l	is_a	abdominal 4 anterior ventral multidendritic neuron vdaa
+catmaid_l1em	2581860	v'ada_a4r 	is_a	abdominal 4 anterior ventral multidendritic neuron vdaa
+catmaid_l1em	954272	v'ada_a5r	is_a	abdominal 5 anterior ventral multidendritic neuron vdaa
+catmaid_l1em	367864	v'pda a2r class III md	is_a	abdominal 2 ventral multidendritic neuron v'dap
+catmaid_l1em	110633	v'pda a3l class III md	is_a	abdominal 3 ventral multidendritic neuron v'dap
+catmaid_l1em	2817021	v'pda a5l class III md	is_a	abdominal 5 ventral multidendritic neuron v'dap
+catmaid_l1em	2750739	v'pda a6l class III md	is_a	abdominal 6 ventral multidendritic neuron v'dap
+catmaid_l1em	15217212	vdaB_a2l	is_a	abdominal 2 ventral multidendritic neuron vdaB
+catmaid_l1em	2629819	vdaB_a2r	is_a	abdominal 2 ventral multidendritic neuron vdaB
+catmaid_l1em	202973	vdaB_a3l	is_a	abdominal 3 ventral multidendritic neuron vdaB
+catmaid_l1em	1278501	vdaB_a3r	is_a	abdominal 3 ventral multidendritic neuron vdaB
+catmaid_l1em	9151980	vdaB_a4l	is_a	abdominal 4 ventral multidendritic neuron vdaB
+catmaid_l1em	9146908	vdaB_a4r	is_a	abdominal 4 ventral multidendritic neuron vdaB
+catmaid_l1em	292913	vdaB_a5l	is_a	abdominal 5 ventral multidendritic neuron vdaB

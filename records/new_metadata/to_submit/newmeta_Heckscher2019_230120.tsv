@@ -1,0 +1,17 @@
+subject_external_db	subject_external_id	subject_name	relation	object
+catmaid_l1em	8602632	A08e1_a2l	is_a	larval abdominal 2 A08e1 local neuron
+catmaid_l1em	14201007	A08e1_a2r	is_a	larval abdominal 2 A08e1 local neuron
+catmaid_l1em	8374407	A08e2_a2l	is_a	larval abdominal 2 A08e2 local neuron
+catmaid_l1em	15879188	A08e2_a2r	is_a	larval abdominal 2 A08e2 local neuron
+catmaid_l1em	8026224	MN10 U2_a1l	is_a	larval DO2 motor neuron of abdominal 1 neuromere
+catmaid_l1em	14047760	MN10 U2_a1r	is_a	larval DO2 motor neuron of abdominal 1 neuromere
+catmaid_l1em	13875538	MN10 U2_a2r	is_a	larval DO2 motor neuron of abdominal 2 neuromere
+catmaid_l1em	13883598	MN10U2_a2l	is_a	larval DO2 motor neuron of abdominal 2 neuromere
+catmaid_l1em	14045016	MN14 RP1_a1l	is_a	larval VO2 motor neuron of abdominal 1 neuromere
+catmaid_l1em	14206438	MN14 RP1_a1r	is_a	larval VO2 motor neuron of abdominal 1 neuromere
+catmaid_l1em	4289773	MN23/24 (RF: LT3/LT4) LT4_a1l	is_a	larval LT4 motor neuron of abdominal 1 neuromere
+catmaid_l1em	4121534	MN23/24 (RF: LT3/LT4) LT4_a1r  	is_a	larval LT4 motor neuron of abdominal 1 neuromere
+catmaid_l1em	14194234	MN30 RP4_a1l	is_a	larval VO1 motor neuron of abdominal 1 neuromere
+catmaid_l1em	14087107	MN30 RP4_a1r	is_a	larval VO1 motor neuron of abdominal 1 neuromere
+catmaid_l1em	20901073	MN6/7 RP3_a1l	is_a	larval VL3/4 motor neuron of abdominal 1 neuromere
+catmaid_l1em	20901068	MN6/7 RP3_a1r	is_a	larval VL3/4 motor neuron of abdominal 1 neuromere

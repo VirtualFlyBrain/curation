@@ -1,0 +1,3 @@
+subject_external_db	subject_external_id	subject_name	relation	object
+catmaid_l1em	11024782	A08h2_a2l (Jupiter left, not NB3-3)	is_a	larval Jupiter neuron
+catmaid_l1em	4228864	A08h2_a2r (Jupiter right, not NB3-3)	is_a	larval Jupiter neuron
