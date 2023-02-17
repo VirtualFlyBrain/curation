@@ -1,0 +1,4 @@
+subject_external_db	subject_external_id	subject_name	relation	object
+catmaid_l1em	7165165	A00g_t3	is_a	larval metathoracic A00g neuron
+catmaid_l1em	9319255	A26f_a4l	is_a	larval abdominal 4 A26f neuron
+catmaid_l1em	2622540	A26f_a4r	is_a	larval abdominal 4 A26f neuron
