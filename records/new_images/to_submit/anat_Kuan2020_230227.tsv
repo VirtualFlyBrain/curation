@@ -668,8 +668,4 @@ filename	label	is_a	part_of	overlaps	comment	dbxrefs
 610968	neuron 100343 (T1LEG:610968)	prothoracic tibial bristle sensory neuron	female organism	prothoracic leg	"sensory neuron, tibial bristle"	vnc_harvard_catmaid_api:610968
 610980	muscle 94201 (T1LEG:610980)	muscle cell of prothoracic tibial levator muscle 39	female organism|prothoracic leg		"femur muscle 3, tibia extensor muscle fiber, femoral muscle fiber"	vnc_harvard_catmaid_api:610980
 610993	neuron 100349 (T1LEG:610993)	prothoracic tibial bristle sensory neuron	female organism	prothoracic leg	"sensory neuron, tibial bristle"	vnc_harvard_catmaid_api:610993
-611023	"Figure: Kuan, Phelps et al. 2020 Nat Neuro - Extended Data Figure 3i (T1LEG:611023)"		female organism|prothoracic leg			vnc_harvard_catmaid_api:611023
-611038	"Figure: Kuan, Phelps et al. 2020 Nat Neuro - Extended Data Figure 3h (T1LEG:611038)"		female organism|prothoracic leg			vnc_harvard_catmaid_api:611038
-611051	"Figure: Kuan, Phelps et al. 2020 Nat Neuro - Extended Data Figure 3j (T1LEG:611051)"		female organism|prothoracic leg			vnc_harvard_catmaid_api:611051
-611065	"Figure: Kuan, Phelps et al. 2020 Nat Neuro - Extended Data Figure 3k (T1LEG:611065)"		female organism|prothoracic leg			vnc_harvard_catmaid_api:611065
 611078	fast tibia flexor motor neuron (R81A07-Gal4) (T1LEG:611078)	fast tibial depressor motor neuron	female organism	prothoracic leg	"labeled by R81A07-Gal4, femoral motor neuron"	vnc_harvard_catmaid_api:611078
