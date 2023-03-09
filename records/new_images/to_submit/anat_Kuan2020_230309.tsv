@@ -1,0 +1,7 @@
+filename	label	is_a	comment	index	centre_point
+Leg40-110.obj	right prothoracic coxa	prothoracic coxa 		1	225.0253,561.4236,387.8104
+Leg40-111.obj right prothoracic trochanter	prothoracic trochanter		2	189.0944,641.3779,556.1445
+Leg40-112.obj right prothoracic femur	prothoracic femur		3	151.8006,497.5505,465.5436
+Leg40-113.obj right prothoracic tibia	prothoracic tibia		4	299.9332,162.6872,262.4267
+Leg40-114.obj left T1 leg neuropil	adult T1 leg neuropil	left	5	207.5201,568.6885,150.6810
+Leg40-115.obj right T1 leg neuropil	adult T1 leg neuropil	right	6	240.5740,675.8983,126.8692
