@@ -1,7 +1,7 @@
-index	label	filename	part_of	Curator	DataSet	Template	Imaging_type	synonyms	is_a
-1	prothoracic coxa	Leg40-110.obj	female organism|prothoracic leg	adm71	Kuan2020	Adult T1 Leg (Kuan2020)_c	computer graphic	prothoracic coxa on Adult T1 Leg (Kuan2020)	prothoracic coxa
-2	prothoracic trochanter	Leg40-111.obj	female organism|prothoracic leg	adm71	Kuan2020	Adult T1 Leg (Kuan2020)_c	computer graphic	prothoracic trochanter Adult T1 Leg (Kuan2020)	prothoracic trochanter
-3	prothoracic femur	Leg40-112.obj	female organism|prothoracic leg	adm71	Kuan2020	Adult T1 Leg (Kuan2020)_c	computer graphic	prothoracic femur Adult T1 Leg (Kuan2020)	prothoracic femur
-4	prothoracic tibia	Leg40-113.obj	female organism|prothoracic leg	adm71	Kuan2020	Adult T1 Leg (Kuan2020)_c	computer graphic	prothoracic tibia Adult T1 Leg (Kuan2020)	prothoracic tibia
-5	L-T1 leg neuropil	Leg40-114.obj	female organism|adult ventral nerve cord	adm71	Kuan2020	Adult T1 Leg (Kuan2020)_c	computer graphic	adult T1 leg neuropil Adult T1 Leg (Kuan2020)	adult T1 leg neuropil
-6	R-T1 leg neuropil	Leg40-115.obj	female organism|adult ventral nerve cord	adm71	Kuan2020	Adult T1 Leg (Kuan2020)_c	computer graphic	adult T1 leg neuropil Adult T1 Leg (Kuan2020)	adult T1 leg neuropil
+index	label	filename	part_of	synonyms	is_a
+1	prothoracic coxa	Leg40-110.obj	female organism|prothoracic leg	prothoracic coxa on Adult T1 Leg (Kuan2020)	prothoracic coxa
+2	prothoracic trochanter	Leg40-111.obj	female organism|prothoracic leg	prothoracic trochanter Adult T1 Leg (Kuan2020)	prothoracic trochanter
+3	prothoracic femur	Leg40-112.obj	female organism|prothoracic leg	prothoracic femur Adult T1 Leg (Kuan2020)	prothoracic femur
+4	prothoracic tibia	Leg40-113.obj	female organism|prothoracic leg	prothoracic tibia Adult T1 Leg (Kuan2020)	prothoracic tibia
+5	L-T1 leg neuropil	Leg40-114.obj	female organism|adult ventral nerve cord	adult T1 leg neuropil Adult T1 Leg (Kuan2020)	adult T1 leg neuropil
+6	R-T1 leg neuropil	Leg40-115.obj	female organism|adult ventral nerve cord	adult T1 leg neuropil Adult T1 Leg (Kuan2020)	adult T1 leg neuropil
