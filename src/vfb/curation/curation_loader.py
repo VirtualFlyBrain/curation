@@ -2,7 +2,7 @@ from .peevish import get_recs
 from .curation_writer import NewImageWriter, NewMetaDataWriter
 import warnings
 
-def load_recs(path_to_specs, path_to_recs, endpoint, usr, pwd, commit=False, verbose=False, import_filepath = ''):
+def load_recs(path_to_specs, path_to_recs, endpoint, usr, pwd, commit=False, verbose=False, import_filepath = '', allow_duplicates=False):
     records = [r for r in get_recs(path_to_recs=path_to_recs,
                                    spec_path=path_to_specs)]
     if False in records:
@@ -26,9 +26,9 @@ def load_recs(path_to_specs, path_to_recs, endpoint, usr, pwd, commit=False, ver
                 warnings.warn("%s is not a valid record, not attempting to write" % str(r.cr))
                 continue
             if 'Start' in r.y.keys():
-                niw.write_rows(start=r.y['Start'], verbose=verbose)
+                niw.write_rows(start=r.y['Start'], verbose=verbose, allow_duplicates=allow_duplicates)
             else:
-                niw.write_rows(verbose=verbose)
+                niw.write_rows(verbose=verbose, allow_duplicates=allow_duplicates)
             if not niw.stat:
                 stat = False
                 continue
@@ -44,7 +44,7 @@ def load_recs(path_to_specs, path_to_recs, endpoint, usr, pwd, commit=False, ver
                 # switch this to logging
                 warnings.warn("%s is not a valid record, not attempting to write" % str(r.cr))
                 continue
-            nmw.write_rows(verbose=verbose)
+            nmw.write_rows(verbose=verbose, allow_duplicates=allow_duplicates)
             if not nmw.stat:
                 stat = False
                 continue
