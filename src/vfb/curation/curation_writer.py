@@ -173,12 +173,12 @@ class CurationWriter:
                 print("*** Completed checks and buffer loading on %d rows after %s"
                       "" % (tot, str(timedelta(seconds=t))))
 
-    def write_rows(self, verbose=False, start='100000'):
+    def write_rows(self, verbose=False, start='100000', allow_duplicates=False):
         start_time = time.time()
         tot = len(self.record.tsv)
         # Assumes all empty cells in DataFrame replaced with empty string.
         for i, row in self.record.tsv.iterrows():
-            self.write_row(row, start=start)
+            self.write_row(row, start=start, allow_duplicates=allow_duplicates)
             if verbose:
                 if not i % 2500:
                     self._time(start_time, tot, i)
@@ -186,7 +186,7 @@ class CurationWriter:
             self._time(start_time, tot, i=0, final=True)
 
 
-    def write_row(self, row, start=None):
+    def write_row(self, row, start=None, allow_duplicates=False):
         # start as kwarg for consistent interface.  Feels a bit hacky.
         return False
 
@@ -510,9 +510,9 @@ class NewImageWriter(CurationWriter):
             self.stat = False
             return False
 
-    def write_row(self, row, start='100000'):
+    def write_row(self, row, start='100000', allow_duplicates=False):
         # Hard wired default start feels wrong here!
-        kwargs = self.gen_pw_args(row, start=start)  # added for testing
+        kwargs = self.gen_pw_args(row, start=start, hard_fail=not allow_duplicates)  # added for testing
         if kwargs:
             self.pattern_writer.add_anatomy_image_set(**kwargs)
 
