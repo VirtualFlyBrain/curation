@@ -231,7 +231,7 @@ class NewMetaDataWriter(CurationWriter):
         return edge_annotations
 
 
-    def write_row(self, row, start=None):
+    def write_row(self, row, start=None, allow_duplicates=False):
         # Start kwarg is not used - added for interface consistency
         # with dummy method on parent (meta) class
         # I'm sure this isn't good practice, but it makes for efficient
