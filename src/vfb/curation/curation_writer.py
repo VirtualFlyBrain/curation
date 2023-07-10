@@ -291,13 +291,21 @@ class NewMetaDataWriter(CurationWriter):
                 if o_is_ind:
                     self.warn(context_name="object",
                               context=o,
-                              message="You can't classify an individual with an individual")  # Better make exception ?
-                    self.stat = False  # Better try except here?
+                              message="You can't classify an individual with an individual")
+                    self.stat = False
                 else:
-                    self.ew.add_named_type_ax(s=subject_id,
-                                          o=object_id,
-                                          edge_annotations=edge_annotations,
-                                          match_on='short_form')
+                    # Check if object_id is a pipe-separated string of IDs
+                    if '|' in object_id:
+                        object_ids = object_id.split('|')
+                    else:
+                        object_ids = [object_id]
+        
+                    # Loop over each ID in object_ids and call add_named_type_ax for each one
+                    for oid in object_ids:
+                        self.ew.add_named_type_ax(s=subject_id,
+                                              o=oid.strip(),
+                                              edge_annotations=edge_annotations,
+                                              match_on='short_form')
                 return True
             elif r in self.relation_lookup.keys():
                 relation_id = self.relation_lookup[r]
