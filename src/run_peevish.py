@@ -30,6 +30,7 @@ parser.add_argument("--base_path", help="Optional", default="../")
 parser.add_argument("--test_mode", help="Optional", action='store_true', default=False)
 parser.add_argument("--commit",  help="Optional", action='store_true', default=False)
 parser.add_argument("--verbose",  help="Optional", action='store_true', default=False)
+parser.add_argument("--allow_duplicates",  help="Optional", action='store_true', default=False)
 args = parser.parse_args()
 
 
@@ -55,7 +56,7 @@ def load_records(path, load_dir = "to_submit"):
     records_path = os.path.abspath(os.path.join(current_dir, "../records", path))
     stat = load_recs(records_path + '/', rec_path + '/',
                      args.endpoint, args.usr, args.pwd, import_filepath=args.import_filepath,
-                     commit=args.commit, verbose=args.verbose)
+                     commit=args.commit, verbose=args.verbose, allow_duplicates=args.allow_duplicates)
     return stat
 
 
