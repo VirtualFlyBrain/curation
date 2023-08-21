@@ -443,7 +443,7 @@ class NewImageWriter(CurationWriter):
         out['anon_anatomical_types'] = []
 
         # Allow passing of predefined ids
-        if 'anat_id' in row and row['anat_id'] in self.object_lookup['anat_id'].keys():
+        if 'anat_id' in row and row['anat_id'] in in self.object_lookup.get('anat_id', {}):
             out['anat_id'] = self.object_lookup['anat_id'][row['anat_id']]
         
         # What's the flag for relation?  => lookup - in rel_spec
