@@ -1,2 +1,2 @@
 anat_id	filename	label	part_of	Template	comment	is_a
-VFB_alexalex	test_filename	test_label_3rd_load	female organism	JRC2018Unisex_c	This is a test load with a set id. This should not be seen. If the label is 'test_label_3rd_load' it has been overwritten twice.	expression pattern fragment
+VFB_alexalex	test_filename	test_label_4th_load	female organism	JRC2018Unisex_c	This is a test load with a set id. This should not be seen. If the label is 'test_label_4th_load' it has been overwritten three times.	expression pattern fragment
