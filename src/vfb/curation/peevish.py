@@ -140,13 +140,14 @@ class Record:
         self.stat = True
         self.y = False
         with open(spec_path + '/' + cur_recs[0].type + '_spec.yaml', 'r') as type_spec_file:
-            self.spec = ruamel_yaml.safe_load(type_spec_file.read())
+            yaml = ruamel_yaml.YAML(typ="safe", pure=True)
+            self.spec = yaml.load(type_spec_file.read())
             if os.path.isfile(spec_path + '/' + 'common_fields_spec.yaml'):
                 with open(spec_path + '/' + 'common_fields_spec.yaml', 'r') as general_spec_file:
-                    general_spec = ruamel_yaml.safe_load(general_spec_file.read())
+                    general_spec = yaml.load(general_spec_file.read())
                     self.spec.update(general_spec)
         with open(spec_path + '/' + 'relations_spec.yaml', 'r') as rel_spec_file:
-            self.rel_spec = ruamel_yaml.safe_load(rel_spec_file.read())
+            self.rel_spec = yaml.load(rel_spec_file.read())
         for cr in cur_recs:
             if cr.ext == 'tsv':
                 self.tsv = pd.read_csv(cr.path, sep="\t")
