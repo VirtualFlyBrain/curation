@@ -173,12 +173,12 @@ class CurationWriter:
                 print("*** Completed checks and buffer loading on %d rows after %s"
                       "" % (tot, str(timedelta(seconds=t))))
 
-    def write_rows(self, verbose=False, start='100000'):
+    def write_rows(self, verbose=False, start='100000', allow_duplicates=False):
         start_time = time.time()
         tot = len(self.record.tsv)
         # Assumes all empty cells in DataFrame replaced with empty string.
         for i, row in self.record.tsv.iterrows():
-            self.write_row(row, start=start)
+            self.write_row(row, start=start, allow_duplicates=allow_duplicates)
             if verbose:
                 if not i % 2500:
                     self._time(start_time, tot, i)
@@ -186,7 +186,7 @@ class CurationWriter:
             self._time(start_time, tot, i=0, final=True)
 
 
-    def write_row(self, row, start=None):
+    def write_row(self, row, start=None, allow_duplicates=False):
         # start as kwarg for consistent interface.  Feels a bit hacky.
         return False
 
@@ -231,7 +231,7 @@ class NewMetaDataWriter(CurationWriter):
         return edge_annotations
 
 
-    def write_row(self, row, start=None):
+    def write_row(self, row, start=None, allow_duplicates=False):
         # Start kwarg is not used - added for interface consistency
         # with dummy method on parent (meta) class
         # I'm sure this isn't good practice, but it makes for efficient
@@ -424,6 +424,10 @@ class NewImageWriter(CurationWriter):
 
         out['anon_anatomical_types'] = []
 
+        # Allow passing of predefined ids
+        if 'anat_id' in row and row['anat_id'] in self.object_lookup.get('anat_id', {}):
+            out['anat_id'] = self.object_lookup['anat_id'][row['anat_id']]
+        
         # What's the flag for relation?  => lookup - in rel_spec
 
         # part of
@@ -510,11 +514,11 @@ class NewImageWriter(CurationWriter):
             self.stat = False
             return False
 
-    def write_row(self, row, start='100000'):
+    def write_row(self, row, start='100000', allow_duplicates=False):
         # Hard wired default start feels wrong here!
         kwargs = self.gen_pw_args(row, start=start)  # added for testing
         if kwargs:
-            self.pattern_writer.add_anatomy_image_set(**kwargs)
+            self.pattern_writer.add_anatomy_image_set(**kwargs, hard_fail=not allow_duplicates)
 
 
     def commit(self, ew_chunk_length=1500, ni_chunk_length=1500, verbose=False):
