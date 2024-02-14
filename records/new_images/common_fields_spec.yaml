@@ -10,6 +10,16 @@ Imaging_type:
     If your image does not fit into these types, please post a ticket to request the list of supported types be extended.
   pattern_arg: imaging_type
 
+anat_id:
+  compulsory: False
+  description: >
+    The predefined VFB image anatomical individual ID (VFB_xxxxxxxx) for the entity in the KB and displayed on VFB.
+  yaml: False
+  uniq: True
+  type: String
+  multiple: False
+  pattern_arg: anat_id
+
 Template:
   compulsory: True
   description: >
