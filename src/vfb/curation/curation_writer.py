@@ -536,7 +536,7 @@ class NewImageWriter(CurationWriter):
         # Hard wired default start feels wrong here!
         kwargs = self.gen_pw_args(row, start=start)  # added for testing
         if kwargs:
-            self.pattern_writer.add_anatomy_image_set(**kwargs, hard_fail=not allow_duplicates)
+            self.pattern_writer.add_anatomy_image_set(**kwargs, hard_fail=not allow_duplicates, allow_duplicates=allow_duplicates)
 
 
     def commit(self, ew_chunk_length=1500, ni_chunk_length=1500, verbose=False):

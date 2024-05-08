@@ -150,6 +150,8 @@ class Record:
         for cr in cur_recs:
             if cr.ext == 'tsv':
                 self.tsv = pd.read_csv(cr.path, sep="\t")
+                # Convert the DataFrame to 'object' type before filling NaN values
+                self.tsv = self.tsv.astype(object)
                 self.tsv.fillna('', inplace=True)
                 self.cr = cr
                 self.type = self.cr.type
