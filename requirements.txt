@@ -1,3 +1,5 @@
 ruamel_yaml<0.18.0
 pandas
 requests
+base36
+better_profanity
