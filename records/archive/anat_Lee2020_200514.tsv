@@ -1,0 +1,465 @@
+filename	label	is_a	part_of	develops_from
+ALv1_P01(SEZ)_0_2018U	ALv1_P01(SEZ)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P02(DA1)_0_2018U	ALv1_P02(DA1)_0_2018U	adult antennal lobe projection neuron DA1 vPN	adult brain	neuroblast ALv1
+ALv1_P03(VL1)_0_2018U	ALv1_P03(VL1)_0_2018U	adult antennal lobe projection neuron VL1 vPN	adult brain	neuroblast ALv1
+ALv1_P04(VA1lm)_0_2018U	ALv1_P04(VA1lm)_0_2018U	adult antennal lobe projection neuron VA1v vPN	adult brain	neuroblast ALv1
+ALv1_P05(VA1d)_0_2018U	ALv1_P05(VA1d)_0_2018U	adult antennal lobe projection neuron vPN	adult brain	neuroblast ALv1
+ALv1_P06(DM1_4)_0_2018U	ALv1_P06(DM1_4)_0_2018U	adult antennal lobe projection neuron vPN	adult brain	neuroblast ALv1
+ALv1_P08(VL2p)_0_2018U	ALv1_P08(VL2p)_0_2018U	adult antennal lobe projection neuron vPN	adult brain	neuroblast ALv1
+ALv1_P09(DP1l_VL2p)_0_2018U	ALv1_P09(DP1l_VL2p)_0_2018U	adult antennal lobe projection neuron vPN	adult brain	neuroblast ALv1
+ALv1_P10(v)_0_2018U	ALv1_P10(v)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P11(a)_0_2018U	ALv1_P11(a)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P12(a)_0_2018U	ALv1_P12(a)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P13(dp_va)_0_2018U	ALv1_P13(dp_va)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P14(p)_0_2018U	ALv1_P14(p)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P15(p)_0_2018U	ALv1_P15(p)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P16(a)_0_2018U	ALv1_P16(a)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P17(p)_0_2018U	ALv1_P17(p)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P18(da)_0_2018U	ALv1_P18(da)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P19(v)_0_2018U	ALv1_P19(v)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P20(dp)_0_2018U	ALv1_P20(dp)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P21(d)_0_2018U	ALv1_P21(d)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P22(d)_0_2018U	ALv1_P22(d)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P23(dp)_0_2018U	ALv1_P23(dp)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P24(dp)_0_2018U	ALv1_P24(dp)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P25(dp)_0_2018U	ALv1_P25(dp)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P26(da)_0_2018U	ALv1_P26(da)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P27(da)_0_2018U	ALv1_P27(da)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P28(da)_0_2018U	ALv1_P28(da)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P29(vp)_0_2018U	ALv1_P29(vp)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P30(vp_d)_0_2018U	ALv1_P30(vp_d)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P31(a)_0_2018U	ALv1_P31(a)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P32(da)_0_2018U	ALv1_P32(da)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P33(d)_0_2018U	ALv1_P33(d)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P34(v)_0_2018U	ALv1_P34(v)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P35(p)_0_2018U	ALv1_P35(p)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P36(a)_0_2018U	ALv1_P36(a)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P37(vp)_0_2018U	ALv1_P37(vp)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P38(p)_0_2018U	ALv1_P38(p)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P39(v)_0_2018U	ALv1_P39(v)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P40(v)_0_2018U	ALv1_P40(v)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P41(p)_0_2018U	ALv1_P41(p)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P42(d)_0_2018U	ALv1_P42(d)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P43(SMP)_0_2018U	ALv1_P43(SMP)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P44(SLP)_0_2018U	ALv1_P44(SLP)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P45(SEZ)_0_2018U	ALv1_P45(SEZ)_0_2018U	neuron	adult brain	neuroblast ALv1
+ALv1_P46(Calyx)_0_2018U	ALv1_P46(Calyx)_0_2018U	neuron	adult brain	neuroblast ALv1
+AOTUv1A_H01(CRE)_0_2018U	AOTUv1A_H01(CRE)_0_2018U	neuron	adult brain	neuroblast AOTUv1
+AOTUv1A_P01(CRE)_0_2018U	AOTUv1A_P01(CRE)_0_2018U	neuron	adult brain	neuroblast AOTUv1
+AOTUv1A_P02(CRE)_0_2018U	AOTUv1A_P02(CRE)_0_2018U	neuron	adult brain	neuroblast AOTUv1
+AOTUv1A_P03(CRE)_0_2018U	AOTUv1A_P03(CRE)_0_2018U	neuron	adult brain	neuroblast AOTUv1
+AOTUv1A_P04(CRE)_0_2018U	AOTUv1A_P04(CRE)_0_2018U	neuron	adult brain	neuroblast AOTUv1
+AOTUv1A_P05(LAL)_0_2018U	AOTUv1A_P05(LAL)_0_2018U	neuron	adult brain	neuroblast AOTUv1
+AOTUv1A_P06(LAL)_0_2018U	AOTUv1A_P06(LAL)_0_2018U	neuron	adult brain	neuroblast AOTUv1
+AOTUv1A_T01(LAL)_0_2018U	AOTUv1A_T01(LAL)_0_2018U	neuron	adult brain	neuroblast AOTUv1
+AOTUv1B_P01(PS)_0_2018U	AOTUv1B_P01(PS)_0_2018U	neuron	adult brain	neuroblast AOTUv1
+AOTUv1B_P02(PS)_0_2018U	AOTUv1B_P02(PS)_0_2018U	neuron	adult brain	neuroblast AOTUv1
+AOTUv1B_P03(PS)_0_2018U	AOTUv1B_P03(PS)_0_2018U	neuron	adult brain	neuroblast AOTUv1
+AOTUv1B_P04(SAD)_0_2018U	AOTUv1B_P04(SAD)_0_2018U	neuron	adult brain	neuroblast AOTUv1
+AOTUv1B_S01(PS)_0_2018U	AOTUv1B_S01(PS)_0_2018U	neuron	adult brain	neuroblast AOTUv1
+AOTUv1B_S02(PS)_0_2018U	AOTUv1B_S02(PS)_0_2018U	neuron	adult brain	neuroblast AOTUv1
+AOTUv1B_S03(PS)_0_2018U	AOTUv1B_S03(PS)_0_2018U	neuron	adult brain	neuroblast AOTUv1
+AOTUv1B_S04(PS)_0_2018U	AOTUv1B_S04(PS)_0_2018U	neuron	adult brain	neuroblast AOTUv1
+AOTUv1B_S05(PS)_0_2018U	AOTUv1B_S05(PS)_0_2018U	neuron	adult brain	neuroblast AOTUv1
+AOTUv1B_S06(PS)_0_2018U	AOTUv1B_S06(PS)_0_2018U	neuron	adult brain	neuroblast AOTUv1
+AOTUv1B_S07(PS)_0_2018U	AOTUv1B_S07(PS)_0_2018U	neuron	adult brain	neuroblast AOTUv1
+AOTUv1B_S08(PS)_0_2018U	AOTUv1B_S08(PS)_0_2018U	neuron	adult brain	neuroblast AOTUv1
+AOTUv1B_S09(PS)_0_2018U	AOTUv1B_S09(PS)_0_2018U	neuron	adult brain	neuroblast AOTUv1
+AOTUv1B_S10(PS)_0_2018U	AOTUv1B_S10(PS)_0_2018U	neuron	adult brain	neuroblast AOTUv1
+AOTUv1B_S11(PS)_0_2018U	AOTUv1B_S11(PS)_0_2018U	neuron	adult brain	neuroblast AOTUv1
+AOTUv1B_S12(PS)_0_2018U	AOTUv1B_S12(PS)_0_2018U	neuron	adult brain	neuroblast AOTUv1
+AOTUv1B_S13(PS)_0_2018U	AOTUv1B_S13(PS)_0_2018U	neuron	adult brain	neuroblast AOTUv1
+AOTUv3A_H01(LAL)_0_2018U	AOTUv3A_H01(LAL)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3A_H02(LAL)_0_2018U	AOTUv3A_H02(LAL)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3A_H03(LAL)_0_2018U	AOTUv3A_H03(LAL)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3A_H04(LAL)_0_2018U	AOTUv3A_H04(LAL)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3A_H05(LAL)_0_2018U	AOTUv3A_H05(LAL)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3A_H06(LAL)_0_2018U	AOTUv3A_H06(LAL)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3A_H07(LAL)_0_2018U	AOTUv3A_H07(LAL)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3A_H08(LAL)_0_2018U	AOTUv3A_H08(LAL)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3A_H09(LAL)_0_2018U	AOTUv3A_H09(LAL)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3A_H10(PS)_0_2018U	AOTUv3A_H10(PS)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3A_H11(PS)_0_2018U	AOTUv3A_H11(PS)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3A_H12(PS)_0_2018U	AOTUv3A_H12(PS)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3A_H13(PS)_0_2018U	AOTUv3A_H13(PS)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3A_H14(PS)_0_2018U	AOTUv3A_H14(PS)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3A_H15(PLP)_0_2018U	AOTUv3A_H15(PLP)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3A_H16(ICLc)_0_2018U	AOTUv3A_H16(ICLc)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3A_H17(ICLc)_0_2018U	AOTUv3A_H17(ICLc)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3A_H18(SPSc)_0_2018U	AOTUv3A_H18(SPSc)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3A_T01(PS)_0_2018U	AOTUv3A_T01(PS)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3A_T02(PS)_0_2018U	AOTUv3A_T02(PS)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3A_T03(PS)_0_2018U	AOTUv3A_T03(PS)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3A_T04(ICL)_0_2018U	AOTUv3A_T04(ICL)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3B_M01(LAL)_0_2018U	AOTUv3B_M01(LAL)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3B_M02(IB)_0_2018U	AOTUv3B_M02(IB)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3B_M03(IB)_0_2018U	AOTUv3B_M03(IB)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3B_M04(IB)_0_2018U	AOTUv3B_M04(IB)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3B_M05(IB)_0_2018U	AOTUv3B_M05(IB)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3B_M06(IB)_0_2018U	AOTUv3B_M06(IB)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3B_M07(IB)_0_2018U	AOTUv3B_M07(IB)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3B_P01(LAL)_0_2018U	AOTUv3B_P01(LAL)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3B_P02(LAL)_0_2018U	AOTUv3B_P02(LAL)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3B_P03(LAL)_0_2018U	AOTUv3B_P03(LAL)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3B_P04(LAL)_0_2018U	AOTUv3B_P04(LAL)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3B_P05(LAL)_0_2018U	AOTUv3B_P05(LAL)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3B_P06(LAL)_0_2018U	AOTUv3B_P06(LAL)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3B_P07(CRE)_0_2018U	AOTUv3B_P07(CRE)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv3B_P08(BU)_0_2018U	AOTUv3B_P08(BU)_0_2018U	neuron	adult brain	neuroblast AOTUv3
+AOTUv4A_M01(FB)_0_2018U	AOTUv4A_M01(FB)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+AOTUv4A_M02(FB)_0_2018U	AOTUv4A_M02(FB)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+AOTUv4A_M03(FB)_0_2018U	AOTUv4A_M03(FB)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+AOTUv4A_M04(FB)_0_2018U	AOTUv4A_M04(FB)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+AOTUv4A_M05(FB)_0_2018U	AOTUv4A_M05(FB)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+AOTUv4A_M06(FB)_0_2018U	AOTUv4A_M06(FB)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+AOTUv4A_M07(FB)_0_2018U	AOTUv4A_M07(FB)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+AOTUv4A_M08(FB)_0_2018U	AOTUv4A_M08(FB)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+AOTUv4A_M09(FB)_0_2018U	AOTUv4A_M09(FB)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+AOTUv4A_M10(FB)_0_2018U	AOTUv4A_M10(FB)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+AOTUv4A_M11(FB)_0_2018U	AOTUv4A_M11(FB)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+AOTUv4A_M12(FB)_0_2018U	AOTUv4A_M12(FB)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+AOTUv4A_M13(FB)_0_2018U	AOTUv4A_M13(FB)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+AOTUv4A_M14(FB)_0_2018U	AOTUv4A_M14(FB)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+AOTUv4A_M15(FB)_0_2018U	AOTUv4A_M15(FB)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+AOTUv4A_M16(FB)_0_2018U	AOTUv4A_M16(FB)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+AOTUv4A_M17(FB)_0_2018U	AOTUv4A_M17(FB)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+AOTUv4A_M18(FB)_0_2018U	AOTUv4A_M18(FB)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+AOTUv4A_P01(SP)_0_2018U	AOTUv4A_P01(SP)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+AOTUv4A_P02(SP)_0_2018U	AOTUv4A_P02(SP)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+AOTUv4B_H01(LAL)_0_2018U	AOTUv4B_H01(LAL)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+AOTUv4B_H02(LAL)_0_2018U	AOTUv4B_H02(LAL)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+AOTUv4B_H03(LAL)_0_2018U	AOTUv4B_H03(LAL)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+AOTUv4B_H04(LAL)_0_2018U	AOTUv4B_H04(LAL)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+AOTUv4B_H06(CRE)_0_2018U	AOTUv4B_H06(CRE)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+AOTUv4B_H07(CRE)_0_2018U	AOTUv4B_H07(CRE)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+AOTUv4B_H08(CRE)_0_2018U	AOTUv4B_H08(CRE)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+AOTUv4B_H09(CRE)_0_2018U	AOTUv4B_H09(CRE)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+AOTUv4B_H10(CRE)_0_2018U	AOTUv4B_H10(CRE)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+AOTUv4B_P01(CRE)_0_2018U	AOTUv4B_P01(CRE)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+AOTUv4B_P02(CRE)_0_2018U	AOTUv4B_P02(CRE)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+AOTUv4B_P03(CRE)_0_2018U	AOTUv4B_P03(CRE)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+AOTUv4B_P04(BU)_0_2018U	AOTUv4B_P04(BU)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+AOTUv4B_T01(VES)_0_2018U	AOTUv4B_T01(VES)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+AOTUv4B_T02(VES)_0_2018U	AOTUv4B_T02(VES)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+AOTUv4B_T03(CRE)_0_2018U	AOTUv4B_T03(CRE)_0_2018U	neuron	adult brain	neuroblast AOTUv4
+CREa2A_H01(a1)_0_2018U	CREa2A_H01(a1)_0_2018U	dopaminergic PAM neuron 11	adult brain	neuroblast CREa2
+CREa2A_H02(b1ped)_0_2018U	CREa2A_H02(b1ped)_0_2018U	dopaminergic PAM neuron 9	adult brain	neuroblast CREa2
+CREa2A_H03(b1)_0_2018U	CREa2A_H03(b1)_0_2018U	dopaminergic PAM neuron 10	adult brain	neuroblast CREa2
+CREa2A_H04(b2)_0_2018U	CREa2A_H04(b2)_0_2018U	dopaminergic PAM neuron 4	adult brain	neuroblast CREa2
+CREa2A_H05(b2)_0_2018U	CREa2A_H05(b2)_0_2018U	dopaminergic PAM neuron	adult brain	neuroblast CREa2
+CREa2A_H06(r5)_0_2018U	CREa2A_H06(r5)_0_2018U	dopaminergic PAM neuron 1	adult brain	neuroblast CREa2
+CREa2A_H07(b'2r5)_0_2018U	CREa2A_H07(b'2r5)_0_2018U	dopaminergic PAM neuron	adult brain	neuroblast CREa2
+CREa2A_H08(b'2a)_0_2018U	CREa2A_H08(b'2a)_0_2018U	dopaminergic PAM neuron 2	adult brain	neuroblast CREa2
+CREa2A_H09(b'2m)_0_2018U	CREa2A_H09(b'2m)_0_2018U	dopaminergic PAM neuron 6	adult brain	neuroblast CREa2
+CREa2A_H10(r4)_0_2018U	CREa2A_H10(r4)_0_2018U	dopaminergic PAM neuron 8	adult brain	neuroblast CREa2
+CREa2A_H11(b'2p)_0_2018U	CREa2A_H11(b'2p)_0_2018U	dopaminergic PAM neuron 5	adult brain	neuroblast CREa2
+CREa2A_H12(b'2m)_0_2018U	CREa2A_H12(b'2m)_0_2018U	dopaminergic PAM neuron 6	adult brain	neuroblast CREa2
+CREa2A_H13(b'1m)_0_2018U	CREa2A_H13(b'1m)_0_2018U	dopaminergic PAM neuron 14	adult brain	neuroblast CREa2
+CREa2A_H14(b'1ap)_0_2018U	CREa2A_H14(b'1ap)_0_2018U	dopaminergic PAM neuron 13	adult brain	neuroblast CREa2
+CREa2A_H15(r3)_0_2018U	CREa2A_H15(r3)_0_2018U	mushroom body medial lobe arborizing neuron 2	adult brain	neuroblast CREa2
+CREa2A_H16(r4)_0_2018U	CREa2A_H16(r4)_0_2018U	dopaminergic PAM neuron 8	adult brain	neuroblast CREa2
+CREa2A_H17(r4_r2)_0_2018U	CREa2A_H17(r4_r2)_0_2018U	dopaminergic PAM neuron	adult brain	neuroblast CREa2
+CREa2A_H18(r4_r1r2)_0_2018U	CREa2A_H18(r4_r1r2)_0_2018U	dopaminergic PAM neuron 7	adult brain	neuroblast CREa2
+CREa2A_H19(r4_5)_0_2018U	CREa2A_H19(r4_5)_0_2018U	dopaminergic PAM neuron	adult brain	neuroblast CREa2
+CREa2A_H20(r5)_0_2018U	CREa2A_H20(r5)_0_2018U	dopaminergic PAM neuron 1	adult brain	neuroblast CREa2
+CREa2A_H21(b'2m)_0_2018U	CREa2A_H21(b'2m)_0_2018U	dopaminergic PAM neuron 6	adult brain	neuroblast CREa2
+CREa2A_H22(b2)_0_2018U	CREa2A_H22(b2)_0_2018U	dopaminergic PAM neuron	adult brain	neuroblast CREa2
+CREa2A_H23(b2b'2)_0_2018U	CREa2A_H23(b2b'2)_0_2018U	mushroom body medial lobe arborizing neuron 3	adult brain	neuroblast CREa2
+CREa2A_M01(FB)_0_2018U	CREa2A_M01(FB)_0_2018U	neuron	adult brain	neuroblast CREa2
+CREa2B_P01(PS)_0_2018U	CREa2B_P01(PS)_0_2018U	neuron	adult brain	neuroblast CREa2
+CREa2B_P02(PS)_0_2018U	CREa2B_P02(PS)_0_2018U	neuron	adult brain	neuroblast CREa2
+CREa2B_P03(PS)_0_2018U	CREa2B_P03(PS)_0_2018U	neuron	adult brain	neuroblast CREa2
+CREa2B_P04(PS)_0_2018U	CREa2B_P04(PS)_0_2018U	neuron	adult brain	neuroblast CREa2
+CREa2B_P05(PS)_0_2018U	CREa2B_P05(PS)_0_2018U	neuron	adult brain	neuroblast CREa2
+CREa2B_P06(PS)_0_2018U	CREa2B_P06(PS)_0_2018U	neuron	adult brain	neuroblast CREa2
+CREa2B_P07(PS)_0_2018U	CREa2B_P07(PS)_0_2018U	neuron	adult brain	neuroblast CREa2
+CREa2B_P08(PS)_0_2018U	CREa2B_P08(PS)_0_2018U	neuron	adult brain	neuroblast CREa2
+CREa2B_P09(PS)_0_2018U	CREa2B_P09(PS)_0_2018U	neuron	adult brain	neuroblast CREa2
+CREa2B_P10(PS)_0_2018U	CREa2B_P10(PS)_0_2018U	neuron	adult brain	neuroblast CREa2
+CREa2B_P11(PS)_0_2018U	CREa2B_P11(PS)_0_2018U	neuron	adult brain	neuroblast CREa2
+CREa2B_P12(LAL)_0_2018U	CREa2B_P12(LAL)_0_2018U	neuron	adult brain	neuroblast CREa2
+CREa2B_P13(LAL)_0_2018U	CREa2B_P13(LAL)_0_2018U	neuron	adult brain	neuroblast CREa2
+CREa2B_P14(LAL)_0_2018U	CREa2B_P14(LAL)_0_2018U	neuron	adult brain	neuroblast CREa2
+CREa2B_P15(LAL)_0_2018U	CREa2B_P15(LAL)_0_2018U	neuron	adult brain	neuroblast CREa2
+CREa2B_P16(LAL)_0_2018U	CREa2B_P16(LAL)_0_2018U	neuron	adult brain	neuroblast CREa2
+CREa2B_P17(LAL)_0_2018U	CREa2B_P17(LAL)_0_2018U	neuron	adult brain	neuroblast CREa2
+CREa2B_P18(CRE)_0_2018U	CREa2B_P18(CRE)_0_2018U	neuron	adult brain	neuroblast CREa2
+FLAa1_S01(SEG)_0_2018U	FLAa1_S01(SEG)_0_2018U	neuron	adult brain	neuroblast FLAa1
+FLAa1_S02(LAL)_0_2018U	FLAa1_S02(LAL)_0_2018U	neuron	adult brain	neuroblast FLAa1
+FLAa1_S03(VES)_0_2018U	FLAa1_S03(VES)_0_2018U	neuron	adult brain	neuroblast FLAa1
+FLAa1_S04(VES)_0_2018U	FLAa1_S04(VES)_0_2018U	neuron	adult brain	neuroblast FLAa1
+FLAa1_S05(VES)_0_2018U	FLAa1_S05(VES)_0_2018U	neuron	adult brain	neuroblast FLAa1
+FLAa2_H01(CL)_0_2018U	FLAa2_H01(CL)_0_2018U	neuron	adult brain	neuroblast FLAa2
+FLAa2_H02(SMP)_0_2018U	FLAa2_H02(SMP)_0_2018U	neuron	adult brain	neuroblast FLAa2
+FLAa2_H03(SMP)_0_2018U	FLAa2_H03(SMP)_0_2018U	neuron	adult brain	neuroblast FLAa2
+FLAa2_H04(SMP)_0_2018U	FLAa2_H04(SMP)_0_2018U	neuron	adult brain	neuroblast FLAa2
+FLAa2_H05(SMP)_0_2018U	FLAa2_H05(SMP)_0_2018U	neuron	adult brain	neuroblast FLAa2
+FLAa2_H06(SMP)_0_2018U	FLAa2_H06(SMP)_0_2018U	neuron	adult brain	neuroblast FLAa2
+FLAa2_H07(SMP)_0_2018U	FLAa2_H07(SMP)_0_2018U	neuron	adult brain	neuroblast FLAa2
+FLAa2_H08(SMP)_0_2018U	FLAa2_H08(SMP)_0_2018U	neuron	adult brain	neuroblast FLAa2
+FLAa2_P01(LH)_0_2018U	FLAa2_P01(LH)_0_2018U	neuron	adult brain	neuroblast FLAa2
+FLAa2_P02(SMP)_0_2018U	FLAa2_P02(SMP)_0_2018U	neuron	adult brain	neuroblast FLAa2
+FLAa2_P03(SMP)_0_2018U	FLAa2_P03(SMP)_0_2018U	neuron	adult brain	neuroblast FLAa2
+FLAa2_P04(SMP)_0_2018U	FLAa2_P04(SMP)_0_2018U	neuron	adult brain	neuroblast FLAa2
+FLAa2_P05(SMP)_0_2018U	FLAa2_P05(SMP)_0_2018U	neuron	adult brain	neuroblast FLAa2
+FLAa2_P06(MB)_0_2018U	FLAa2_P06(MB)_0_2018U	neuron	adult brain	neuroblast FLAa2
+FLAa2_P07(MB)_0_2018U	FLAa2_P07(MB)_0_2018U	neuron	adult brain	neuroblast FLAa2
+FLAa2_P08(MB)_0_2018U	FLAa2_P08(MB)_0_2018U	neuron	adult brain	neuroblast FLAa2
+FLAa3_H01(SP)_0_2018U	FLAa3_H01(SP)_0_2018U	neuron	adult brain	neuroblast FLAa3
+FLAa3_H02(SP)_0_2018U	FLAa3_H02(SP)_0_2018U	neuron	adult brain	neuroblast FLAa3
+FLAa3_H03(SP)_0_2018U	FLAa3_H03(SP)_0_2018U	neuron	adult brain	neuroblast FLAa3
+FLAa3_H04(SMP)_0_2018U	FLAa3_H04(SMP)_0_2018U	neuron	adult brain	neuroblast FLAa3
+FLAa3_H05(SMP)_0_2018U	FLAa3_H05(SMP)_0_2018U	neuron	adult brain	neuroblast FLAa3
+FLAa3_H06(SMP)_0_2018U	FLAa3_H06(SMP)_0_2018U	neuron	adult brain	neuroblast FLAa3
+FLAa3_H07(SMP)_0_2018U	FLAa3_H07(SMP)_0_2018U	neuron	adult brain	neuroblast FLAa3
+LALv1A_M01(NO)_0_2018U	LALv1A_M01(NO)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1A_M02(NO)_0_2018U	LALv1A_M02(NO)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1A_M03(NO)_0_2018U	LALv1A_M03(NO)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1A_M04(NO)_0_2018U	LALv1A_M04(NO)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1A_M05(NO)_0_2018U	LALv1A_M05(NO)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1A_M06(EB)_0_2018U	LALv1A_M06(EB)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1A_M07(EB)_0_2018U	LALv1A_M07(EB)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1A_M08(FB&NO)_0_2018U	LALv1A_M08(FB&NO)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1A_M09(FB&NO)_0_2018U	LALv1A_M09(FB&NO)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1A_M10(FB&NO)_0_2018U	LALv1A_M10(FB&NO)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1A_M11(FB)_0_2018U	LALv1A_M11(FB)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1A_M12(FB)_0_2018U	LALv1A_M12(FB)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1A_M13(FB)_0_2018U	LALv1A_M13(FB)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1A_M14(FB)_0_2018U	LALv1A_M14(FB)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1A_M15(FB)_0_2018U	LALv1A_M15(FB)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1A_M16(FB)_0_2018U	LALv1A_M16(FB)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1A_M17(FB)_0_2018U	LALv1A_M17(FB)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1A_M18(FB)_0_2018U	LALv1A_M18(FB)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1A_M19(FB)_0_2018U	LALv1A_M19(FB)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1A_M20(FB)_0_2018U	LALv1A_M20(FB)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1A_M21(FB)_0_2018U	LALv1A_M21(FB)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1A_M22(FB)_0_2018U	LALv1A_M22(FB)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1A_M23(FB)_0_2018U	LALv1A_M23(FB)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1A_M24(FB)_0_2018U	LALv1A_M24(FB)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1A_M25(FB)_0_2018U	LALv1A_M25(FB)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1A_M26(FB)_0_2018U	LALv1A_M26(FB)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1A_M27(FB)_0_2018U	LALv1A_M27(FB)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1A_M28(FB)_0_2018U	LALv1A_M28(FB)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1A_M29(FB)_0_2018U	LALv1A_M29(FB)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1B_H01(_IPS)_0_2018U	LALv1B_H01(_IPS)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1B_H02(_IPS)_0_2018U	LALv1B_H02(_IPS)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1B_H03(_CRE)_0_2018U	LALv1B_H03(_CRE)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1B_H04(_LO)_0_2018U	LALv1B_H04(_LO)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1B_H05(SP)_0_2018U	LALv1B_H05(SP)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1B_H06(_PLP)_0_2018U	LALv1B_H06(_PLP)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1B_H07(_PLP)_0_2018U	LALv1B_H07(_PLP)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1B_H08(_VLP)_0_2018U	LALv1B_H08(_VLP)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1B_H09(_VLP)_0_2018U	LALv1B_H09(_VLP)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1B_H10(_VLP)_0_2018U	LALv1B_H10(_VLP)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1B_H11(_VLP)_0_2018U	LALv1B_H11(_VLP)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1B_H12(_VLP)_0_2018U	LALv1B_H12(_VLP)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1B_H13(_VLP)_0_2018U	LALv1B_H13(_VLP)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1B_H14(_VLP)_0_2018U	LALv1B_H14(_VLP)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1B_H15(PS)_0_2018U	LALv1B_H15(PS)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1B_H16(PS)_0_2018U	LALv1B_H16(PS)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1B_H17(PS)_0_2018U	LALv1B_H17(PS)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1B_H18(PS)_0_2018U	LALv1B_H18(PS)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1B_P01(PS)_0_2018U	LALv1B_P01(PS)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1B_P02(PS)_0_2018U	LALv1B_P02(PS)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1B_P03(SP)_0_2018U	LALv1B_P03(SP)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1B_P04(PLP)_0_2018U	LALv1B_P04(PLP)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1B_P05(VLP)_0_2018U	LALv1B_P05(VLP)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1B_P06(VLP)_0_2018U	LALv1B_P06(VLP)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1B_S01(PS)_0_2018U	LALv1B_S01(PS)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1B_S02(PS)_0_2018U	LALv1B_S02(PS)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1B_S03(PS)_0_2018U	LALv1B_S03(PS)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1B_S04(PS)_0_2018U	LALv1B_S04(PS)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1B_S05(PS)_0_2018U	LALv1B_S05(PS)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1B_S06(PS)_0_2018U	LALv1B_S06(PS)_0_2018U	neuron	adult brain	neuroblast LALv1
+LALv1B_S07(PS)_0_2018U	LALv1B_S07(PS)_0_2018U	neuron	adult brain	neuroblast LALv1
+SLPpm3_H01(SMP)_0_2018U	SLPpm3_H01(SMP)_0_2018U	neuron	adult brain	neuroblast SLPpm3
+SLPpm3_H02(SIP)_0_2018U	SLPpm3_H02(SIP)_0_2018U	neuron	adult brain	neuroblast SLPpm3
+SLPpm3_P01(SP)_0_2018U	SLPpm3_P01(SP)_0_2018U	neuron	adult brain	neuroblast SLPpm3
+SLPpm3_P02(SP)_0_2018U	SLPpm3_P02(SP)_0_2018U	neuron	adult brain	neuroblast SLPpm3
+SLPpm3_P03(SP)_0_2018U	SLPpm3_P03(SP)_0_2018U	neuron	adult brain	neuroblast SLPpm3
+SLPpm3_P04(SP)_0_2018U	SLPpm3_P04(SP)_0_2018U	neuron	adult brain	neuroblast SLPpm3
+SLPpm3_P05(SP)_0_2018U	SLPpm3_P05(SP)_0_2018U	neuron	adult brain	neuroblast SLPpm3
+SLPpm3_P06(SP)_0_2018U	SLPpm3_P06(SP)_0_2018U	neuron	adult brain	neuroblast SLPpm3
+SLPpm3_P07(SP)_0_2018U	SLPpm3_P07(SP)_0_2018U	neuron	adult brain	neuroblast SLPpm3
+SLPpm3_S01(SP)_0_2018U	SLPpm3_S01(SP)_0_2018U	neuron	adult brain	neuroblast SLPpm3
+SLPpm3_S02(SP)_0_2018U	SLPpm3_S02(SP)_0_2018U	neuron	adult brain	neuroblast SLPpm3
+SMPp&v1A_H01(PS_CL)_0_2018U	SMPp&v1A_H01(PS_CL)_0_2018U	neuron	adult brain	neuroblast SMPp&v1
+SMPp&v1A_H02(_CRE)_0_2018U	SMPp&v1A_H02(_CRE)_0_2018U	neuron	adult brain	neuroblast SMPp&v1
+SMPp&v1A_H03(_SMP)_0_2018U	SMPp&v1A_H03(_SMP)_0_2018U	neuron	adult brain	neuroblast SMPp&v1
+SMPp&v1A_H04(_SMP)_0_2018U	SMPp&v1A_H04(_SMP)_0_2018U	neuron	adult brain	neuroblast SMPp&v1
+SMPp&v1A_H05(_CL)_0_2018U	SMPp&v1A_H05(_CL)_0_2018U	neuron	adult brain	neuroblast SMPp&v1
+SMPp&v1A_H06(_CL)_0_2018U	SMPp&v1A_H06(_CL)_0_2018U	neuron	adult brain	neuroblast SMPp&v1
+SMPp&v1A_H07(_CL)_0_2018U	SMPp&v1A_H07(_CL)_0_2018U	neuron	adult brain	neuroblast SMPp&v1
+SMPp&v1A_H08(_CL)_0_2018U	SMPp&v1A_H08(_CL)_0_2018U	neuron	adult brain	neuroblast SMPp&v1
+SMPp&v1A_P01(SP)_0_2018U	SMPp&v1A_P01(SP)_0_2018U	neuron	adult brain	neuroblast SMPp&v1
+SMPp&v1A_P02(SP)_0_2018U	SMPp&v1A_P02(SP)_0_2018U	neuron	adult brain	neuroblast SMPp&v1
+SMPp&v1A_P03(CL)_0_2018U	SMPp&v1A_P03(CL)_0_2018U	neuron	adult brain	neuroblast SMPp&v1
+SMPp&v1A_P04(CL)_0_2018U	SMPp&v1A_P04(CL)_0_2018U	neuron	adult brain	neuroblast SMPp&v1
+SMPp&v1A_P05(CL)_0_2018U	SMPp&v1A_P05(CL)_0_2018U	neuron	adult brain	neuroblast SMPp&v1
+SMPp&v1A_P06(CL)_0_2018U	SMPp&v1A_P06(CL)_0_2018U	neuron	adult brain	neuroblast SMPp&v1
+SMPp&v1A_P07(CL)_0_2018U	SMPp&v1A_P07(CL)_0_2018U	neuron	adult brain	neuroblast SMPp&v1
+SMPp&v1A_P08(CL)_0_2018U	SMPp&v1A_P08(CL)_0_2018U	neuron	adult brain	neuroblast SMPp&v1
+SMPp&v1A_P09(CL)_0_2018U	SMPp&v1A_P09(CL)_0_2018U	neuron	adult brain	neuroblast SMPp&v1
+SMPp&v1A_P10(CL)_0_2018U	SMPp&v1A_P10(CL)_0_2018U	neuron	adult brain	neuroblast SMPp&v1
+SMPp&v1A_P11(CL)_0_2018U	SMPp&v1A_P11(CL)_0_2018U	neuron	adult brain	neuroblast SMPp&v1
+SMPp&v1A_P12(VLP)_0_2018U	SMPp&v1A_P12(VLP)_0_2018U	neuron	adult brain	neuroblast SMPp&v1
+SMPp&v1A_S01(SP)_0_2018U	SMPp&v1A_S01(SP)_0_2018U	neuron	adult brain	neuroblast SMPp&v1
+SMPp&v1A_S02(SP)_0_2018U	SMPp&v1A_S02(SP)_0_2018U	neuron	adult brain	neuroblast SMPp&v1
+SMPp&v1A_S03(SP)_0_2018U	SMPp&v1A_S03(SP)_0_2018U	neuron	adult brain	neuroblast SMPp&v1
+SMPp&v1B_H01(LH)_0_2018U	SMPp&v1B_H01(LH)_0_2018U	neuron	adult brain	neuroblast SMPp&v1
+SMPp&v1B_H02(SP)_0_2018U	SMPp&v1B_H02(SP)_0_2018U	neuron	adult brain	neuroblast SMPp&v1
+SMPp&v1B_H03(SP)_0_2018U	SMPp&v1B_H03(SP)_0_2018U	neuron	adult brain	neuroblast SMPp&v1
+SMPp&v1B_H04(SMP)_0_2018U	SMPp&v1B_H04(SMP)_0_2018U	neuron	adult brain	neuroblast SMPp&v1
+SMPp&v1B_M01(IB)_0_2018U	SMPp&v1B_M01(IB)_0_2018U	neuron	adult brain	neuroblast SMPp&v1
+SMPp&v1B_M02(IB)_0_2018U	SMPp&v1B_M02(IB)_0_2018U	neuron	adult brain	neuroblast SMPp&v1
+SMPp&v1B_T01(ME)_0_2018U	SMPp&v1B_T01(ME)_0_2018U	neuron	adult brain	neuroblast SMPp&v1
+SMPp&v1B_T02(ME)_0_2018U	SMPp&v1B_T02(ME)_0_2018U	neuron	adult brain	neuroblast SMPp&v1
+VESa1_H01(_SEZ)_0_2018U	VESa1_H01(_SEZ)_0_2018U	neuron	adult brain	neuroblast VESa1
+VESa1_H02(_SEZ)_0_2018U	VESa1_H02(_SEZ)_0_2018U	neuron	adult brain	neuroblast VESa1
+VESa1_H03(_SEZ)_0_2018U	VESa1_H03(_SEZ)_0_2018U	neuron	adult brain	neuroblast VESa1
+VESa1_H04(_VES)_0_2018U	VESa1_H04(_VES)_0_2018U	neuron	adult brain	neuroblast VESa1
+VESa1_H05(_VES)_0_2018U	VESa1_H05(_VES)_0_2018U	neuron	adult brain	neuroblast VESa1
+VESa1_H06(_VES)_0_2018U	VESa1_H06(_VES)_0_2018U	neuron	adult brain	neuroblast VESa1
+VESa1_P01(SLP)_0_2018U	VESa1_P01(SLP)_0_2018U	neuron	adult brain	neuroblast VESa1
+VESa1_P02(VLP)_0_2018U	VESa1_P02(VLP)_0_2018U	neuron	adult brain	neuroblast VESa1
+VESa1_P03(PS)_0_2018U	VESa1_P03(PS)_0_2018U	neuron	adult brain	neuroblast VESa1
+VESa1_P04(PS)_0_2018U	VESa1_P04(PS)_0_2018U	neuron	adult brain	neuroblast VESa1
+VESa1_P05(PS)_0_2018U	VESa1_P05(PS)_0_2018U	neuron	adult brain	neuroblast VESa1
+VESa1_S01(PS)_0_2018U	VESa1_S01(PS)_0_2018U	neuron	adult brain	neuroblast VESa1
+VESa2_H01(PLP)_0_2018U	VESa2_H01(PLP)_0_2018U	neuron	adult brain	neuroblast VESa2
+VESa2_H02(PLP)_0_2018U	VESa2_H02(PLP)_0_2018U	neuron	adult brain	neuroblast VESa2
+VESa2_H03(PLP)_0_2018U	VESa2_H03(PLP)_0_2018U	neuron	adult brain	neuroblast VESa2
+VESa2_H04(VLP)_0_2018U	VESa2_H04(VLP)_0_2018U	neuron	adult brain	neuroblast VESa2
+VESa2_H05(SLP)_0_2018U	VESa2_H05(SLP)_0_2018U	neuron	adult brain	neuroblast VESa2
+VESa2_H06(SLP)_0_2018U	VESa2_H06(SLP)_0_2018U	neuron	adult brain	neuroblast VESa2
+VESa2_H07(SLP)_0_2018U	VESa2_H07(SLP)_0_2018U	neuron	adult brain	neuroblast VESa2
+VESa2_H08(CL)_0_2018U	VESa2_H08(CL)_0_2018U	neuron	adult brain	neuroblast VESa2
+VESa2_H09(CL)_0_2018U	VESa2_H09(CL)_0_2018U	neuron	adult brain	neuroblast VESa2
+VESa2_H10(CL)_0_2018U	VESa2_H10(CL)_0_2018U	neuron	adult brain	neuroblast VESa2
+VESa2_M01(IB_LO)_0_2018U	VESa2_M01(IB_LO)_0_2018U	neuron	adult brain	neuroblast VESa2
+VESa2_P01(SLP)_0_2018U	VESa2_P01(SLP)_0_2018U	neuron	adult brain	neuroblast VESa2
+VESa2_P02(SLP)_0_2018U	VESa2_P02(SLP)_0_2018U	neuron	adult brain	neuroblast VESa2
+VESa2_P03(SLP)_0_2018U	VESa2_P03(SLP)_0_2018U	neuron	adult brain	neuroblast VESa2
+VESa2_P04(SLP)_0_2018U	VESa2_P04(SLP)_0_2018U	neuron	adult brain	neuroblast VESa2
+VESa2_P05(PLP)_0_2018U	VESa2_P05(PLP)_0_2018U	neuron	adult brain	neuroblast VESa2
+VLPa2_H01(VLP)_0_2018U	VLPa2_H01(VLP)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_H02(VLP)_0_2018U	VLPa2_H02(VLP)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_H03(VLP)_0_2018U	VLPa2_H03(VLP)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_H04(VLP)_0_2018U	VLPa2_H04(VLP)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_H05(VLP)_0_2018U	VLPa2_H05(VLP)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_H06(VLP)_0_2018U	VLPa2_H06(VLP)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_H07(VLP)_0_2018U	VLPa2_H07(VLP)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_H08(VLP)_0_2018U	VLPa2_H08(VLP)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_H09(VLP)_0_2018U	VLPa2_H09(VLP)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_H10(VLP)_0_2018U	VLPa2_H10(VLP)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_H11(VLP)_0_2018U	VLPa2_H11(VLP)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_H12(VLP)_0_2018U	VLPa2_H12(VLP)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_H13(VLP)_0_2018U	VLPa2_H13(VLP)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_H14(VLP)_0_2018U	VLPa2_H14(VLP)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_H15(VLP)_0_2018U	VLPa2_H15(VLP)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_H16(VLP)_0_2018U	VLPa2_H16(VLP)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_H17(VLP)_0_2018U	VLPa2_H17(VLP)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_H18(VLP)_0_2018U	VLPa2_H18(VLP)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_H19(VLP)_0_2018U	VLPa2_H19(VLP)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_H20(VLP)_0_2018U	VLPa2_H20(VLP)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_H21(VLP)_0_2018U	VLPa2_H21(VLP)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_H22(VLP)_0_2018U	VLPa2_H22(VLP)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_H23(VLP)_0_2018U	VLPa2_H23(VLP)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_H24(VLP)_0_2018U	VLPa2_H24(VLP)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_H25(VLP)_0_2018U	VLPa2_H25(VLP)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_H26(VLP)_0_2018U	VLPa2_H26(VLP)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_H27(VLP)_0_2018U	VLPa2_H27(VLP)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_H28(VLP)_0_2018U	VLPa2_H28(VLP)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_H29(VLP)_0_2018U	VLPa2_H29(VLP)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_H30(VLP)_0_2018U	VLPa2_H30(VLP)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_H31(_WED)_0_2018U	VLPa2_H31(_WED)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_H32(_SAD)_0_2018U	VLPa2_H32(_SAD)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_H33(_SAD)_0_2018U	VLPa2_H33(_SAD)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_H34(_PS)_0_2018U	VLPa2_H34(_PS)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_P01(VLP)_0_2018U	VLPa2_P01(VLP)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_T01(SADi)_0_2018U	VLPa2_T01(SADi)_0_2018U	neuron	adult brain	neuroblast VLPa2
+VLPa2_T02(SADi)_0_2018U	VLPa2_T02(SADi)_0_2018U	neuron	adult brain	neuroblast VLPa2
+WEDa1_P01(SEZ)_0_2018U	WEDa1_P01(SEZ)_0_2018U	neuron	adult brain	neuroblast WEDa1
+WEDa1_P02(PLP)_0_2018U	WEDa1_P02(PLP)_0_2018U	neuron	adult brain	neuroblast WEDa1
+WEDa1_S01(SAD)_0_2018U	WEDa1_S01(SAD)_0_2018U	neuron	adult brain	neuroblast WEDa1
+WEDa1_S02(SAD)_0_2018U	WEDa1_S02(SAD)_0_2018U	neuron	adult brain	neuroblast WEDa1
+WEDa1_S03(SAD)_0_2018U	WEDa1_S03(SAD)_0_2018U	neuron	adult brain	neuroblast WEDa1
+WEDa1_S04(SAD)_0_2018U	WEDa1_S04(SAD)_0_2018U	neuron	adult brain	neuroblast WEDa1
+WEDa1_S05(SAD)_0_2018U	WEDa1_S05(SAD)_0_2018U	neuron	adult brain	neuroblast WEDa1
+WEDa1_S06(SAD)_0_2018U	WEDa1_S06(SAD)_0_2018U	neuron	adult brain	neuroblast WEDa1
+WEDa1_S07(SAD)_0_2018U	WEDa1_S07(SAD)_0_2018U	neuron	adult brain	neuroblast WEDa1
+WEDa1_S08(SAD)_0_2018U	WEDa1_S08(SAD)_0_2018U	neuron	adult brain	neuroblast WEDa1
+WEDa1_S09(SAD)_0_2018U	WEDa1_S09(SAD)_0_2018U	neuron	adult brain	neuroblast WEDa1
+WEDa1_S10(WED)_0_2018U	WEDa1_S10(WED)_0_2018U	neuron	adult brain	neuroblast WEDa1
+WEDa1_S11(WED)_0_2018U	WEDa1_S11(WED)_0_2018U	neuron	adult brain	neuroblast WEDa1
+WEDa1_S12(WED)_0_2018U	WEDa1_S12(WED)_0_2018U	neuron	adult brain	neuroblast WEDa1
+WEDa1_S13(WED)_0_2018U	WEDa1_S13(WED)_0_2018U	neuron	adult brain	neuroblast WEDa1
+WEDa1_S14(WED)_0_2018U	WEDa1_S14(WED)_0_2018U	neuron	adult brain	neuroblast WEDa1
+WEDa1_S15(WED)_0_2018U	WEDa1_S15(WED)_0_2018U	neuron	adult brain	neuroblast WEDa1
+WEDa1_S16(WED)_0_2018U	WEDa1_S16(WED)_0_2018U	neuron	adult brain	neuroblast WEDa1
+WEDa1_S17(WED)_0_2018U	WEDa1_S17(WED)_0_2018U	neuron	adult brain	neuroblast WEDa1
+WEDd1_E01(VNC)_0_2018U	WEDd1_E01(VNC)_0_2018U	neuron	adult nervous system	neuroblast WEDd1
+WEDd1_E02(VNC)_0_2018U	WEDd1_E02(VNC)_0_2018U	neuron	adult nervous system	neuroblast WEDd1
+WEDd1_H01(VES)_0_2018U	WEDd1_H01(VES)_0_2018U	neuron	adult brain	neuroblast WEDd1
+WEDd1_P01(PS)_0_2018U	WEDd1_P01(PS)_0_2018U	neuron	adult brain	neuroblast WEDd1
+WEDd1_P02(VES)_0_2018U	WEDd1_P02(VES)_0_2018U	neuron	adult brain	neuroblast WEDd1
+WEDd1_P03(SEZ)_0_2018U	WEDd1_P03(SEZ)_0_2018U	neuron	adult brain	neuroblast WEDd1
+WEDd1_P04(PLP)_0_2018U	WEDd1_P04(PLP)_0_2018U	neuron	adult brain	neuroblast WEDd1
+WEDd1_P05(PLP)_0_2018U	WEDd1_P05(PLP)_0_2018U	neuron	adult brain	neuroblast WEDd1
+WEDd1_P06(PLP)_0_2018U	WEDd1_P06(PLP)_0_2018U	neuron	adult brain	neuroblast WEDd1
+WEDd1_P07(PLP)_0_2018U	WEDd1_P07(PLP)_0_2018U	neuron	adult brain	neuroblast WEDd1
+WEDd1_P08(PLP)_0_2018U	WEDd1_P08(PLP)_0_2018U	neuron	adult brain	neuroblast WEDd1
+WEDd1_P09(SAD)_0_2018U	WEDd1_P09(SAD)_0_2018U	neuron	adult brain	neuroblast WEDd1
+WEDd1_P10(SAD)_0_2018U	WEDd1_P10(SAD)_0_2018U	neuron	adult brain	neuroblast WEDd1
+WEDd1_P11(SAD)_0_2018U	WEDd1_P11(SAD)_0_2018U	neuron	adult brain	neuroblast WEDd1
+WEDd1_S01(PS)_0_2018U	WEDd1_S01(PS)_0_2018U	neuron	adult brain	neuroblast WEDd1
+WEDd1_S02(PS)_0_2018U	WEDd1_S02(PS)_0_2018U	neuron	adult brain	neuroblast WEDd1
+CREa1A_H01(a1)_0_2018U	CREa1A_H01(a1)_0_2018U	dopaminergic PAM neuron 11	adult brain	
+CREa1A_H02(b1ped)_0_2018U	CREa1A_H02(b1ped)_0_2018U	dopaminergic PAM neuron 9	adult brain	
+CREa1A_H03(b1)_0_2018U	CREa1A_H03(b1)_0_2018U	dopaminergic PAM neuron 10	adult brain	
+CREa1A_H04(b2)_0_2018U	CREa1A_H04(b2)_0_2018U	dopaminergic PAM neuron 4	adult brain	
+CREa1A_H05(b2)_0_2018U	CREa1A_H05(b2)_0_2018U	dopaminergic PAM neuron	adult brain	
+CREa1A_H06(r5)_0_2018U	CREa1A_H06(r5)_0_2018U	dopaminergic PAM neuron 1	adult brain	
+CREa1A_H07(b'2r5)_0_2018U	CREa1A_H07(b'2r5)_0_2018U	dopaminergic PAM neuron	adult brain	
+CREa1A_H08(b'2a)_0_2018U	CREa1A_H08(b'2a)_0_2018U	dopaminergic PAM neuron 2	adult brain	
+CREa1A_H09(b'2m)_0_2018U	CREa1A_H09(b'2m)_0_2018U	dopaminergic PAM neuron 6	adult brain	
+CREa1A_H10(r4)_0_2018U	CREa1A_H10(r4)_0_2018U	dopaminergic PAM neuron 8	adult brain	
+CREa1A_H11(b'2p)_0_2018U	CREa1A_H11(b'2p)_0_2018U	dopaminergic PAM neuron 5	adult brain	
+CREa1A_H12(b'2m)_0_2018U	CREa1A_H12(b'2m)_0_2018U	dopaminergic PAM neuron 6	adult brain	
+CREa1A_H13(b'1m)_0_2018U	CREa1A_H13(b'1m)_0_2018U	dopaminergic PAM neuron 14	adult brain	
+CREa1A_H14(b'1ap)_0_2018U	CREa1A_H14(b'1ap)_0_2018U	dopaminergic PAM neuron 13	adult brain	
+CREa1A_H15(r3)_0_2018U	CREa1A_H15(r3)_0_2018U	mushroom body medial lobe arborizing neuron 2	adult brain	
+CREa1A_H16(r4)_0_2018U	CREa1A_H16(r4)_0_2018U	dopaminergic PAM neuron 8	adult brain	
+CREa1A_H17(r4_r2)_0_2018U	CREa1A_H17(r4_r2)_0_2018U	dopaminergic PAM neuron	adult brain	
+CREa1A_H18(r4_r1r2)_0_2018U	CREa1A_H18(r4_r1r2)_0_2018U	dopaminergic PAM neuron 7	adult brain	
+CREa1A_H19(r4_5)_0_2018U	CREa1A_H19(r4_5)_0_2018U	dopaminergic PAM neuron	adult brain	
+CREa1A_H20(r5)_0_2018U	CREa1A_H20(r5)_0_2018U	dopaminergic PAM neuron 1	adult brain	
+CREa1A_H21(b'2m)_0_2018U	CREa1A_H21(b'2m)_0_2018U	dopaminergic PAM neuron 6	adult brain	
+CREa1A_H22(b2)_0_2018U	CREa1A_H22(b2)_0_2018U	dopaminergic PAM neuron	adult brain	
+CREa1A_H23(b2b'2)_0_2018U	CREa1A_H23(b2b'2)_0_2018U	mushroom body medial lobe arborizing neuron 3	adult brain	
+CREa1A_M01(FB)_0_2018U	CREa1A_M01(FB)_0_2018U	neuron	adult brain	
+CREa1A_T01(IB)_0_2018U	CREa1A_T01(IB)_0_2018U	neuron	adult brain	
+CREa1B_H01(_SLPc)_0_2018U	CREa1B_H01(_SLPc)_0_2018U	neuron	adult brain	
+CREa1B_P01(LO)_0_2018U	CREa1B_P01(LO)_0_2018U	neuron	adult brain	
+CREa1B_P02(VLP)_0_2018U	CREa1B_P02(VLP)_0_2018U	neuron	adult brain	
+CREa1B_P03(VLP)_0_2018U	CREa1B_P03(VLP)_0_2018U	neuron	adult brain	
+CREa1B_P04(LH)_0_2018U	CREa1B_P04(LH)_0_2018U	neuron	adult brain	
+CREa1B_P05(SLP)_0_2018U	CREa1B_P05(SLP)_0_2018U	neuron	adult brain	
+CREa1B_P06(SLP)_0_2018U	CREa1B_P06(SLP)_0_2018U	neuron	adult brain	
+CREa1B_P07(SLP)_0_2018U	CREa1B_P07(SLP)_0_2018U	neuron	adult brain	
+CREa1B_P08(SLP)_0_2018U	CREa1B_P08(SLP)_0_2018U	neuron	adult brain	
+SMPad1_H01(_SMP)_0_2018U	SMPad1_H01(_SMP)_0_2018U	neuron	adult brain	
+SMPad1_H02(_SMP)_0_2018U	SMPad1_H02(_SMP)_0_2018U	neuron	adult brain	
+SMPad1_H03(SMP)_0_2018U	SMPad1_H03(SMP)_0_2018U	neuron	adult brain	
+SMPad1_H04(SMP)_0_2018U	SMPad1_H04(SMP)_0_2018U	neuron	adult brain	
+SMPad1_H05(SMP)_0_2018U	SMPad1_H05(SMP)_0_2018U	neuron	adult brain	
+SMPad1_H06(SMP)_0_2018U	SMPad1_H06(SMP)_0_2018U	neuron	adult brain	
+SMPad1_H07(SMP)_0_2018U	SMPad1_H07(SMP)_0_2018U	neuron	adult brain	
+SMPad1_H08(SMP)_0_2018U	SMPad1_H08(SMP)_0_2018U	neuron	adult brain	
+SMPad1_H09(SMP)_0_2018U	SMPad1_H09(SMP)_0_2018U	neuron	adult brain	
+SMPad1_H10(SMP)_0_2018U	SMPad1_H10(SMP)_0_2018U	neuron	adult brain	
+SMPad1_H11(SMP)_0_2018U	SMPad1_H11(SMP)_0_2018U	neuron	adult brain	
+SMPad1_H12(SMP)_0_2018U	SMPad1_H12(SMP)_0_2018U	neuron	adult brain	
+SMPad1_H13(SP)_0_2018U	SMPad1_H13(SP)_0_2018U	neuron	adult brain	
+SMPad1_H14(SP)_0_2018U	SMPad1_H14(SP)_0_2018U	neuron	adult brain	
+SMPad1_H15(SP)_0_2018U	SMPad1_H15(SP)_0_2018U	neuron	adult brain	

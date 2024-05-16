@@ -1,0 +1,13 @@
+filename	label	expresses_id	is_a	part_of	Template	comment
+Male_pC1	Male_pC1	FBti0168641	adult doublesex pC1 (male) neuron	male organism|adult brain	JRC2018Unisex_c	"effector genotype: 'y, w, has-flp(22); FRTG13, UAS-mCD8::GFP/FRTG13, tubP-Gal80; dsxGal4/UAS-mCD8::GFP'"
+Female_pC1	Female_pC1	FBti0168641	adult doublesex pC1 (female) neuron	female organism|adult brain	JRC2018Unisex_c	"effector genotype: 'y, w, has-flp(22); FRTG13, UAS-mCD8::GFP/FRTG13, tubP-Gal80; dsxGal4/UAS-mCD8::GFP'"
+Female_pC2l	Female_pC2l	FBti0168641	adult doublesex pC2l (female) neuron	female organism|adult brain	JRC2018Unisex_c	"effector genotype: 'y, w, has-flp(22); FRTG13, UAS-mCD8::GFP/FRTG13, tubP-Gal80; dsxGal4/UAS-mCD8::GFP'"
+Male_pCd-1	Male_pCd-1	FBti0168641	adult doublesex pCd-1 (male) neuron	male organism|adult brain	JRC2018Unisex_c	"effector genotype: 'y, w, has-flp(22); FRTG13, UAS-mCD8::GFP/FRTG13, tubP-Gal80; dsxGal4/UAS-mCD8::GFP'"
+Female_pCd-1	Female_pCd-1	FBti0168641	adult doublesex pCd-1 (female) neuron	female organism|adult brain	JRC2018Unisex_c	"effector genotype: 'y, w, has-flp(22); FRTG13, UAS-mCD8::GFP/FRTG13, tubP-Gal80; dsxGal4/UAS-mCD8::GFP'"
+Male_pCd-2	Male_pCd-2	FBti0168641	adult doublesex pCd-2 (male) neuron	male organism|adult brain	JRC2018Unisex_c	"effector genotype: 'y, w, has-flp(22); FRTG13, UAS-mCD8::GFP/FRTG13, tubP-Gal80; dsxGal4/UAS-mCD8::GFP'"
+Female_pCd-2	Female_pCd-2	FBti0168641	adult doublesex pCd-2 (female) neuron	female organism|adult brain	JRC2018Unisex_c	"effector genotype: 'y, w, has-flp(22); FRTG13, UAS-mCD8::GFP/FRTG13, tubP-Gal80; dsxGal4/UAS-mCD8::GFP'"
+Male_pC2m	Male_pC2m	FBti0168641	adult doublesex pC2m (male) neuron	male organism|adult brain	JRC2018Unisex_c	"effector genotype: 'y, w, has-flp(22); FRTG13, UAS-mCD8::GFP/FRTG13, tubP-Gal80; dsxGal4/UAS-mCD8::GFP'"
+Male_pMN3	Male_pMN3	FBti0168641	adult doublesex pMN3 (male) neuron	male organism|adult brain	JRC2018Unisex_c	"effector genotype: 'y, w, has-flp(22); FRTG13, UAS-mCD8::GFP/FRTG13, tubP-Gal80; dsxGal4/UAS-mCD8::GFP'"
+Male_pLN	Male_pLN	FBti0168641	adult doublesex pLN (male) neuron	male organism|adult brain	JRC2018Unisex_c	"effector genotype: 'y, w, has-flp(22); FRTG13, UAS-mCD8::GFP/FRTG13, tubP-Gal80; dsxGal4/UAS-mCD8::GFP'"
+Female_pMN2B	Female_pMN2B	FBti0168641	adult doublesex pMN2 (female) neuron	female organism|adult brain	JRC2018Unisex_c	"effector genotype: 'y, w, has-flp(22); FRTG13, UAS-mCD8::GFP/FRTG13, tubP-Gal80; dsxGal4/UAS-mCD8::GFP'"
+Female_pMN2V	Female_pMN2V	FBti0168641	adult doublesex pMN2 (female) neuron	female organism|adult ventral nerve cord	JRC2018UnisexVNC_c	"effector genotype: 'y, w, has-flp(22); FRTG13, UAS-mCD8::GFP/FRTG13, tubP-Gal80; dsxGal4/UAS-mCD8::GFP'"
