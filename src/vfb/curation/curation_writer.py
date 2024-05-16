@@ -15,7 +15,6 @@ import time
 from datetime import datetime, timedelta
 
 
-
 @dataclass
 class VfbInd:
     """VFB individual. Must have attributes:
@@ -60,7 +59,6 @@ class VfbInd:
 
             self._stat = False
 
-# Not sure this class still needed.
 @dataclass  # post init step addition of attribute prevents adding frozen=True
 class LConf:
     """field = node attribute  to which regex restriction applies"""
@@ -68,13 +66,11 @@ class LConf:
     regex: str
     labels: List[str]
 
-
     def __post_init__(self):
         if self.labels:
             self.neo_label_string = ':' + ':'.join(self.labels)
         else:
             self.neo_label_string = ''
-
 
 class CurationWriter:
     """A wrapper class for loading annotation curation tables to VFB KB"""
@@ -95,6 +91,7 @@ class CurationWriter:
         self.object_lookup = self.generate_object_lookups()
         self.relation_lookup = self.generate_relation_lookup()
         self.stat = True
+        logging.info(f"CurationWriter initialized for record: {record.cr.path}")
 
     def warn(self, context_name, context, message, stat=False):
         logging.warning("Error in record %s, %s\n %s\n:"
@@ -108,7 +105,6 @@ class CurationWriter:
         rl = self._generate_lookups(self._gen_lookup_config_by_rel())
         cl.update(rl)  # Might be better to have these as separate lookups?
         return cl  # return not being used?
-
 
     def _gen_lookup_config_by_rel(self):
         return {k: [LConf(field=v['restriction']['field'],
@@ -130,54 +126,44 @@ class CurationWriter:
                 if not (k == 'is_a')}  # Not keen on hard wiring here, but maybe unavoidable
 
     def _generate_lookups(self, conf):
-
         """Generate  :Class name:ID lookups from DB for loading by label.
          Lookups are defined by standard config that specifies a config:
          name:field:regex, e.g. {'part_of': {'short_form': 'FBbt_.+'}}
          name should match the kwarg for which it is to be used.
          """
-        # This is just rolling a relation lookup...
-
         lookup_config = conf
-
         lookup = {}
         if lookup_config:
-            # Add some type checking here?
             for name, lcs in lookup_config.items():
                 lookup[name] = {}
                 for c in lcs:
                     q = "MATCH (c%s) where c.%s =~ '%s' RETURN c.label as label" \
                         ", c.short_form as short_form" % (c.neo_label_string, c.field, c.regex)
-                    #print(q)
                     rr = self.ew.nc.commit_list([q])
                     r = results_2_dict_list(rr)
                     lookup[name].update({escape_string_for_neo(x['label']): x['short_form'] for x in r})
         return lookup
 
-
     def extend_lookup_from_flybase(self, features, key='expresses'):
-
         fu = "('"+"', '".join(features) + "')"
-        ## Notes - use uniq'd IDs from features columns for lookup.
         query = "SELECT f.uniquename AS short_form, f.name AS label" \
                 " FROM feature f WHERE f.name IN %s" \
                 " AND f.is_obsolete is FALSE"% fu
-        dc = self.feature_mover.query_fb(query)  # What does this return on fail?
+        dc = self.feature_mover.query_fb(query)
         self.object_lookup[key] = {escape_string_for_neo(d['label']): d['short_form'] for d in dc}
 
     def _time(self, start_time, tot, i, final=False):
-            t = round(time.time() - start_time, 3)
-            if not final:
-                print("On row %d of %d at %s"
-                      "" % (i, tot, timedelta(seconds=t)))
-            else:
-                print("*** Completed checks and buffer loading on %d rows after %s"
-                      "" % (tot, str(timedelta(seconds=t))))
+        t = round(time.time() - start_time, 3)
+        if not final:
+            print("On row %d of %d at %s"
+                  "" % (i, tot, timedelta(seconds=t)))
+        else:
+            print("*** Completed checks and buffer loading on %d rows after %s"
+                  "" % (tot, str(timedelta(seconds=t))))
 
     def write_rows(self, verbose=False, start='100000', allow_duplicates=False):
         start_time = time.time()
         tot = len(self.record.tsv)
-        # Assumes all empty cells in DataFrame replaced with empty string.
         for i, row in self.record.tsv.iterrows():
             self.write_row(row, start=start, allow_duplicates=allow_duplicates)
             if verbose:
@@ -186,9 +172,7 @@ class CurationWriter:
         if verbose:
             self._time(start_time, tot, i=0, final=True)
 
-
     def write_row(self, row, start=None, allow_duplicates=False):
-        # start as kwarg for consistent interface.  Feels a bit hacky.
         return False
 
 class NewSplitWriter(CurationWriter):
@@ -208,19 +192,18 @@ class NewSplitWriter(CurationWriter):
         else:
             return True
 
-
 class NewMetaDataWriter(CurationWriter):
 
-    """Wrapper object for adding new metatadata to existing entities.
-    Takes """
+    """Wrapper object for adding new metatadata to existing entities."""
 
     def __init__(self, *args, **kwargs):
         super(NewMetaDataWriter, self).__init__(*args, **kwargs)
-        self.rels = self.get_rels()  # May not need attribute
+        self.rels = self.get_rels()
+        logging.info(f"NewMetaDataWriter initialized for record: {self.record.cr.path}")
 
     def commit(self, chunk_length=1000, verbose=False):
         r = self.ew.commit(chunk_length=chunk_length, verbose=verbose)
-        if False in r:  # Doesn't really follow convention!
+        if False in r:
             self.stat = False
         return r
 
@@ -237,7 +220,6 @@ class NewMetaDataWriter(CurationWriter):
 
     def _generate_edge_annotations(self, r):
         """Generates edge annotation dict from pandas table row, using config as a lookup for edge annotation rows."""
-        # TODO - add lookup instead of relying on column header names matching AP names!
         edge_annotations = {}
         for k, v in r.items():
             if not v:
@@ -248,12 +230,7 @@ class NewMetaDataWriter(CurationWriter):
                 edge_annotations[k] = v
         return edge_annotations
 
-
     def write_row(self, row, start=None, allow_duplicates=False):
-        # Start kwarg is not used - added for interface consistency
-        # with dummy method on parent (meta) class
-        # I'm sure this isn't good practice, but it makes for efficient
-        # (non redundant) specification of write_rows method.
         def subject_kwarg_proc(rw):
             mapping = {'xref_db': 'subject_external_db',
                        'xref_acc': 'subject_external_id',
@@ -268,7 +245,6 @@ class NewMetaDataWriter(CurationWriter):
             return {k: rw[v] for k, v in mapping.items() if v in list(rw.keys())}
         s = VfbInd(**subject_kwarg_proc(row))
         edge_annotations = self._generate_edge_annotations(row)
-        # TODO: Refactor this to work from config
         r = row['relation']
         o_is_ind = False
         if ('object_external_id' in row.keys()) and ('object_external_db') in row.keys():
@@ -289,9 +265,7 @@ class NewMetaDataWriter(CurationWriter):
                 object_id = self.object_lookup[r][o]
         else:
             warnings.warn("Don't know how to process %s" % str(row))
-            #TODO - properly log exception
             return False
-        edge_annotations = edge_annotations
         if r not in self.rels:
             self.warn(context_name="row", context=dict(row),
                       message="Not attempting to write row due to"
@@ -302,15 +276,12 @@ class NewMetaDataWriter(CurationWriter):
             edge_annotations = {}
         subject_id = self.get_ind_id(s, 'subject')
         if subject_id and object_id:
-            # Need to know OWL ENTITY TYPES TO CHOOSE APPROPRIATE METHOD!
-            # Also - disturbing that this fails silently.
-
             if r == 'is_a':
                 if o_is_ind:
                     self.warn(context_name="object",
                               context=o,
-                              message="You can't classify an individual with an individual")  # Better make exception ?
-                    self.stat = False  # Better try except here?
+                              message="You can't classify an individual with an individual")
+                    self.stat = False
                 else:
                     self.ew.add_named_type_ax(s=subject_id,
                                           o=object_id,
@@ -342,7 +313,6 @@ class NewMetaDataWriter(CurationWriter):
 
     def get_ind_id(self, i: VfbInd, context):
         if i.xref_db and i.xref_acc:
-            # query to find id
             query = "MATCH (s:Site)<-[r:database_cross_reference]-(i:Individual) " \
                     "WHERE s.short_form = '%s' " \
                     "AND r.accession = ['%s']" \
@@ -351,8 +321,8 @@ class NewMetaDataWriter(CurationWriter):
             if not q:
                 self.warn(context_name="%s individual" % context,
                           context=i,
-                          message="VFB subject query fail") # Better make exception ?
-                self.stat = False  # Better try except here?
+                          message="VFB subject query fail")
+                self.stat = False
             else:
                 r = results_2_dict_list(q)
                 if len(r) == 1:
@@ -371,19 +341,15 @@ class NewMetaDataWriter(CurationWriter):
                                             i.xref_acc,
                                             str([x['vfb_id'] for x in r])))
                     self.stat = False
-
         elif i.id:
             if i.label:
-            # subject label used to double-check against DB when ID provided.
-            # Is this the behavior we want?
-            # TODO - Fix for new object schema
                 query = """MATCH (i:Individual { short_form: '%s'})
                            RETURN i.label as name""" % i.id
                 q = self.ew.nc.commit_list([query])
                 if not q:
                     self.warn(context_name="%s individual" % context,
                                 context=i,
-                                message="VFB %s query fail" % context)  # Better make exception ?
+                                message="VFB %s query fail" % context)
                     self.stat = False
                 else:
                     r = results_2_dict_list(q)
@@ -416,11 +382,9 @@ class NewImageWriter(CurationWriter):
     def __init__(self, *args, **kwargs):
         super(NewImageWriter, self).__init__(*args, **kwargs)
         self.set_flybase_lookups()
-
+        logging.info(f"NewImageWriter initialized for record: {self.record.cr.path}")
 
     def set_flybase_lookups(self):
-        # If any columns are spec'd as FB features - return a uniq'd list of all content of all these columns,
-        # Otherwise return and empty list
         fb_feat_columns = [k for k, v in self.record.spec.items()
                                    if 'flybase_feature' in v.keys()
                                    and v['flybase_feature']
@@ -442,16 +406,9 @@ class NewImageWriter(CurationWriter):
 
         out['anon_anatomical_types'] = []
 
-        # Allow passing of predefined ids
         if 'anat_id' in row and row['anat_id'] in self.object_lookup.get('anat_id', {}):
             out['anat_id'] = self.object_lookup['anat_id'][row['anat_id']]
-        
-        # What's the flag for relation?  => lookup - in rel_spec
 
-        # part of
-
-        # Need to deal with argument cardinality (value type) - perhaps better to have an object on pattern_arg ?
-        # Might  want to handle this switch outside?
         if self.record.type == 'split':
             if row['DBD'] in self.object_lookup['DBD'].keys():
                 dbd_id = self.object_lookup['DBD'][row['DBD']]
@@ -473,7 +430,6 @@ class NewImageWriter(CurationWriter):
                 out['anatomical_type'] = 'VFBexp_' + dbd_id + ad_id
 
         elif self.record.type == 'ep':
-            # Would be more efficient to add in bulk
             if row['driver'] in self.object_lookup['driver'].keys():
                 driver_id = self.object_lookup['driver'][row['driver']]
                 self.feature_mover.generate_expression_patterns(driver_id)
@@ -485,7 +441,6 @@ class NewImageWriter(CurationWriter):
                 return False
 
         for k, v in self.record.spec.items():
-            # Note - spec should already be stripped down to that used
             if not row[k]:
                 continue
             if 'multiple' in v.keys() and v['multiple']:
@@ -494,7 +449,6 @@ class NewImageWriter(CurationWriter):
             else:
                 value = [row[k]]
                 multiple = False
-            # Does this actually check and warn yet?!
 
             if 'restriction' in v.keys():
                 obj = []
@@ -511,7 +465,6 @@ class NewImageWriter(CurationWriter):
                 else:
                     value = obj
                 if k in self.record.rel_spec.keys():
-                    # Not keen on hard wired args here:
                     if k == 'is_a':
                         out['anatomical_type'] = value[0]
                     else:
@@ -533,21 +486,19 @@ class NewImageWriter(CurationWriter):
             return False
 
     def write_row(self, row, start='100000', allow_duplicates=False):
-        # Hard wired default start feels wrong here!
-        kwargs = self.gen_pw_args(row, start=start)  # added for testing
+        kwargs = self.gen_pw_args(row, start=start)
         if kwargs:
+            logging.debug(f"Writing row with arguments: {kwargs}")
             self.pattern_writer.add_anatomy_image_set(**kwargs, hard_fail=not allow_duplicates, allow_duplicates=allow_duplicates)
 
-
     def commit(self, ew_chunk_length=1500, ni_chunk_length=1500, verbose=False):
-        if not self.pattern_writer.commit(ew_chunk_length=ew_chunk_length,
-                                          ni_chunk_length=ni_chunk_length,
-                                          verbose=verbose):
+        if verbose:
+            logging.info(f"Committing changes with ew_chunk_length={ew_chunk_length} and ni_chunk_length={ni_chunk_length}")
+        if not self.pattern_writer.commit(ew_chunk_length=ew_chunk_length, ni_chunk_length=ni_chunk_length, verbose=verbose):
             self.stat = False
 
 
-
-# Strategies for rdfs:label matching
+        # Strategies for rdfs:label matching
 
         # 1. use match_on = label - some risk of choosing term from wrong ontology. This could potentially be managed in KB
         # via enforced label uniquenes.  This would require some clean up! We already have 7 pairs of :Class nodes with
