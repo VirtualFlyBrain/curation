@@ -178,19 +178,35 @@ class CurationWriter:
 class NewSplitWriter(CurationWriter):
 
     def write_row(self, row, start=None):
-        s = [split(dbd=self.object_lookup['driver'][row['DBD']],
-                             ad=self.object_lookup['driver'][row['AS']],
-                             synonyms=row['synonyms'],
-                             xrefs=row['dbxrefs'])]
-        self.feature_mover.gen_split_ep_feat(s, commit=False)
+        logging.debug(f"Processing row: {row}")
+        
+        try:
+            s = [split(dbd=self.object_lookup['driver'][row['DBD']],
+                       ad=self.object_lookup['driver'][row['AD']],
+                       synonyms=row.get('synonyms', ''),
+                       xrefs=row.get('dbxrefs', ''))]
+            logging.debug(f"Split object created: {s}")
+            
+            self.feature_mover.gen_split_ep_feat(s, commit=False)
+            logging.debug("Feature mover generated split expression pattern feature without committing.")
+        
+        except Exception as e:
+            logging.error(f"Exception occurred while processing row: {row}, error: {e}")
+            raise
 
     def commit(self):
+        logging.debug("Committing features...")
+        
         ni = self.feature_mover.ni.commit()
         ew = self.feature_mover.ew.commit()
-        if not ew or not ni: ## !!!! This needs work! Not confident in chain of return values here!
+        
+        if not ew or not ni:
+            logging.error("Commit failed: ew or ni returned False.")
             return False
         else:
+            logging.debug("Commit successful.")
             return True
+
 
 class NewMetaDataWriter(CurationWriter):
 
