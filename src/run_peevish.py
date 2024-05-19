@@ -35,25 +35,70 @@ else:
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 def check_records(path, check_dir="working"):
-    rec_path = '/'.join([args.base_path, path, check_dir]) + '/'
-    recs = get_recs(spec_path="../records/" + path, path_to_recs=rec_path)
-    stat = True
-    if len(recs) == 0:
-        print("No records to check in: " + rec_path)
-    else:
-        print("Testing syntax of %s curation records." % len(recs))
-    if False in recs:
-        stat = False
-    return stat
+    """
+    Checks the records in the specified directory.
+    
+    Parameters:
+    path (str): The base path to check records in.
+    check_dir (str): The directory within the base path to check records in.
+    
+    Returns:
+    bool: True if records pass the check, False otherwise.
+    """
+    try:
+        logging.debug("Starting check_records with path: %s and check_dir: %s", path, check_dir)
+        rec_path = '/'.join([args.base_path, path, check_dir]) + '/'
+        logging.debug("Constructed rec_path: %s", rec_path)
+        
+        recs = get_recs(spec_path="../records/" + path, path_to_recs=rec_path)
+        logging.debug("Retrieved records: %s", recs)
+        
+        stat = True
+        if len(recs) == 0:
+            logging.info("No records to check in: %s", rec_path)
+        else:
+            logging.info("Testing syntax of %s curation records.", len(recs))
+        
+        if False in recs:
+            logging.warning("Some records failed the check.")
+            stat = False
+        
+        return stat
+
+    except Exception as e:
+        logging.error("An error occurred in check_records: %s", e, exc_info=True)
+        return False
 
 def load_records(path, load_dir="to_submit"):
-    rec_path = os.path.abspath(os.path.join(args.base_path, path, load_dir))
-    current_dir = os.path.dirname(os.path.realpath(__file__))
-    records_path = os.path.abspath(os.path.join(current_dir, "../records", path))
-    stat = load_recs(records_path + '/', rec_path + '/',
-                     args.endpoint, args.usr, args.pwd, import_filepath=args.import_filepath,
-                     commit=args.commit, verbose=args.verbose, allow_duplicates=args.allow_duplicates)
-    return stat
+    """
+    Loads the records from the specified directory.
+    
+    Parameters:
+    path (str): The base path to load records from.
+    load_dir (str): The directory within the base path to load records from.
+    
+    Returns:
+    bool: True if records are successfully loaded, False otherwise.
+    """
+    try:
+        logging.debug("Starting load_records with path: %s and load_dir: %s", path, load_dir)
+        rec_path = os.path.abspath(os.path.join(args.base_path, path, load_dir))
+        logging.debug("Constructed rec_path: %s", rec_path)
+        
+        current_dir = os.path.dirname(os.path.realpath(__file__))
+        records_path = os.path.abspath(os.path.join(current_dir, "../records", path))
+        logging.debug("Constructed records_path: %s", records_path)
+        
+        stat = load_recs(records_path + '/', rec_path + '/',
+                         args.endpoint, args.usr, args.pwd, import_filepath=args.import_filepath,
+                         commit=args.commit, verbose=args.verbose, allow_duplicates=args.allow_duplicates)
+        
+        logging.debug("load_recs returned status: %s", stat)
+        return stat
+
+    except Exception as e:
+        logging.error("An error occurred in load_records: %s", e, exc_info=True)
+        return False
 
 stat = True
 
