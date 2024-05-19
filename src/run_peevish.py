@@ -26,13 +26,16 @@ parser.add_argument("--test_mode", help="Optional", action='store_true', default
 parser.add_argument("--commit", help="Optional", action='store_true', default=False)
 parser.add_argument("--verbose", help="Optional", action='store_true', default=False)
 parser.add_argument("--allow_duplicates", help="Optional", action='store_true', default=False)
+parser.add_argument("--debug", help="Enable debug logging", action='store_true', default=False)
 args = parser.parse_args()
 
 # Configure logging
-if args.verbose:
+if args.debug:
     logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
-else:
+elif args.verbose:
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+else:
+    logging.basicConfig(level=logging.WARNING, format='%(asctime)s - %(levelname)s - %(message)s')
 
 def check_records(path, check_dir="working"):
     """
