@@ -1,2 +1,5 @@
 *.DS_Store
-records/new_metadata/working/L1EM_mapping_notes.ods
+.DS_Store
+venv
+.idea
+*.pyc
