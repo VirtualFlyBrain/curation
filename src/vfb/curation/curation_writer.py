@@ -4,6 +4,7 @@ from typing import List
 from uk.ac.ebi.vfb.neo4j.neo4j_tools import escape_string as escape_string_for_neo
 from uk.ac.ebi.vfb.neo4j.KB_tools import kb_owl_edge_writer, KB_pattern_writer
 from uk.ac.ebi.vfb.neo4j.flybase2neo.feature_tools import FeatureMover
+from uk.ac.ebi.vfb.neo4j.flybase2neo.feature_tools import split
 from uk.ac.ebi.vfb.neo4j.flybase2neo.pub_tools import pubMover
 from .peevish import Record
 import numpy
@@ -174,6 +175,39 @@ class CurationWriter:
     def write_row(self, row, start=None, allow_duplicates=False):
         return False
 
+class NewSplitWriter(CurationWriter):
+
+    def write_row(self, row, start=None):
+        logging.debug(f"Processing row: {row}")
+        
+        try:
+            s = [split(dbd=self.object_lookup['driver'][row['DBD']],
+                       ad=self.object_lookup['driver'][row['AD']],
+                       synonyms=row.get('synonyms', ''),
+                       xrefs=row.get('dbxrefs', ''))]
+            logging.debug(f"Split object created: {s}")
+            
+            self.feature_mover.gen_split_ep_feat(s, commit=False)
+            logging.debug("Feature mover generated split expression pattern feature without committing.")
+        
+        except Exception as e:
+            logging.error(f"Exception occurred while processing row: {row}, error: {e}")
+            raise
+
+    def commit(self):
+        logging.debug("Committing features...")
+        
+        ni = self.feature_mover.ni.commit()
+        ew = self.feature_mover.ew.commit()
+        
+        if not ew or not ni:
+            logging.error("Commit failed: ew or ni returned False.")
+            return False
+        else:
+            logging.debug("Commit successful.")
+            return True
+
+
 class NewMetaDataWriter(CurationWriter):
 
     """Wrapper object for adding new metatadata to existing entities."""
@@ -213,50 +247,65 @@ class NewMetaDataWriter(CurationWriter):
         return edge_annotations
 
     def write_row(self, row, start=None, allow_duplicates=False):
+        logging.debug(f"Processing row: {row}")
+    
         def subject_kwarg_proc(rw):
             mapping = {'xref_db': 'subject_external_db',
                        'xref_acc': 'subject_external_id',
                        'id': 'subject_id',
                        'label': 'subject_name'}
             return {k: rw[v] for k, v in mapping.items() if v in list(rw.keys())}
+    
         def object_kwarg_proc(rw):
             mapping = {'xref_db': 'object_external_db',
                        'xref_acc': 'object_external_id',
                        'id': 'ind_object_id',
                        'label': 'object'}
             return {k: rw[v] for k, v in mapping.items() if v in list(rw.keys())}
+    
         s = VfbInd(**subject_kwarg_proc(row))
+        logging.debug(f"Subject: {s}")
+    
         edge_annotations = self._generate_edge_annotations(row)
+        logging.debug(f"Edge annotations: {edge_annotations}")
+    
         r = row['relation']
+        logging.debug(f"Relation: {r}")
         o_is_ind = False
+    
         if ('object_external_id' in row.keys()) and ('object_external_db') in row.keys():
             ind = VfbInd(**object_kwarg_proc(row))
+            logging.debug(f"Object individual: {ind}")
             object_id = self.get_ind_id(ind, 'object')
+            logging.debug(f"Object ID: {object_id}")
             o_is_ind = True
         elif 'ind_object_id' in row.keys():
             object_id = row['ind_object_id']
+            logging.debug(f"Object ID: {object_id}")
             o_is_ind = True
         elif 'object' in row.keys():
             o = escape_string_for_neo(row['object'])
             if not (o in self.object_lookup[r].keys()):
                 self.warn(context_name="row", context=dict(row),
-                          message="Not attempting to write row due to"
-                                  " invalid object '%s'." % row['object'])
+                          message="Not attempting to write row due to invalid object '%s'." % row['object'])
                 return False
             else:
                 object_id = self.object_lookup[r][o]
+                logging.debug(f"Object ID: {object_id}")
         else:
             warnings.warn("Don't know how to process %s" % str(row))
             return False
+    
         if r not in self.rels:
             self.warn(context_name="row", context=dict(row),
-                      message="Not attempting to write row due to"
-                              " invalid relation '%s'." % r)
+                      message="Not attempting to write row due to invalid relation '%s'." % r)
             return False
-
+    
         if edge_annotations is None:
             edge_annotations = {}
         subject_id = self.get_ind_id(s, 'subject')
+        logging.debug(f"Subject ID: {subject_id}")
+    
         if subject_id and object_id:
             if r == 'is_a':
                 if o_is_ind:
@@ -266,9 +315,10 @@ class NewMetaDataWriter(CurationWriter):
                     self.stat = False
                 else:
                     self.ew.add_named_type_ax(s=subject_id,
-                                          o=object_id,
-                                          edge_annotations=edge_annotations,
-                                          match_on='short_form')
+                                              o=object_id,
+                                              edge_annotations=edge_annotations,
+                                              match_on='short_form')
+                    logging.debug(f"Added named type axiom: {subject_id} -> {object_id}")
                 return True
             elif r in self.relation_lookup.keys():
                 relation_id = self.relation_lookup[r]
@@ -278,17 +328,17 @@ class NewMetaDataWriter(CurationWriter):
                                      o=object_id,
                                      edge_annotations=edge_annotations,
                                      match_on='short_form')
+                    logging.debug(f"Added fact: {subject_id} -[{relation_id}]-> {object_id}")
                 else:
                     self.ew.add_anon_type_ax(s=subject_id,
-                                         r=relation_id,
-                                         o=object_id,
-                                         edge_annotations=edge_annotations,
-                                         match_on='short_form')
+                                             r=relation_id,
+                                             o=object_id,
+                                             edge_annotations=edge_annotations,
+                                             match_on='short_form')
+                    logging.debug(f"Added anonymous type axiom: {subject_id} -[{relation_id}]-> {object_id}")
                 return True
             else:
-                warnings.warn("The relation name provided is not one of "
-                              "the list allowed for curation: %s"
-                              "" % str(self.relation_lookup.keys()))
+                warnings.warn("The relation name provided is not one of the list allowed for curation: %s" % str(self.relation_lookup.keys()))
                 return False
         else:
             return False
