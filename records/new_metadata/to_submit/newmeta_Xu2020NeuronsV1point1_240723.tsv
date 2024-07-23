@@ -1,4 +1,4 @@
-bodyId	subject_external_db	relation	object
+subject_external_id	subject_external_db	relation	object
 200326126	neuprint_JRC_Hemibrain_1point1	has_soma_location	right side of organism
 202916528	neuprint_JRC_Hemibrain_1point1	has_soma_location	right side of organism
 203253072	neuprint_JRC_Hemibrain_1point1	has_soma_location	right side of organism
