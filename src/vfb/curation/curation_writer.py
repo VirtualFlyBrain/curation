@@ -127,22 +127,25 @@ class CurationWriter:
 
     def _generate_lookups(self, conf):
         """Generate  :Class name:ID lookups from DB for loading by label.
-         Lookups are defined by standard config that specifies a config:
-         name:field:regex, e.g. {'part_of': {'short_form': 'FBbt_.+'}}
-         name should match the kwarg for which it is to be used.
-         """
+        Lookups are defined by standard config that specifies a config:
+        name:field:regex, e.g. {'part_of': {'short_form': 'FBbt_.+'}}
+        name should match the kwarg for which it is to be used.
+        """
         lookup_config = conf
         lookup = {}
         if lookup_config:
             for name, lcs in lookup_config.items():
                 lookup[name] = {}
+                queries = []
                 for c in lcs:
-                    q = "MATCH (c%s) where c.%s =~ '%s' RETURN c.label as label" \
-                        ", c.short_form as short_form" % (c.neo_label_string, c.field, c.regex)
-                    rr = self.ew.nc.commit_list([q])
-                    r = results_2_dict_list(rr)
-                    lookup[name].update({escape_string_for_neo(x['label']): x['short_form'] for x in r})
+                    q = "MATCH (c%s) where c.%s =~ '%s' RETURN c.label as label, c.short_form as short_form" % (c.neo_label_string, c.field, c.regex)
+                    queries.append(q)
+                results = self.ew.nc.commit_list(queries)
+                for r in results:
+                    r_dict = results_2_dict_list(r)
+                    lookup[name].update({escape_string_for_neo(x['label']): x['short_form'] for x in r_dict})
         return lookup
+
 
     def extend_lookup_from_flybase(self, features, key='expresses'):
         fu = "('"+"', '".join(features) + "')"
@@ -164,13 +167,22 @@ class CurationWriter:
     def write_rows(self, verbose=False, start='100000', allow_duplicates=False):
         start_time = time.time()
         tot = len(self.record.tsv)
+        batch_size = 1000  # Set batch size
+        batch = []
         for i, row in self.record.tsv.iterrows():
+            batch.append(row)
+            if len(batch) >= batch_size:
+                self.process_batch(batch, start=start, allow_duplicates=allow_duplicates, verbose=verbose, start_time=start_time, tot=tot, i=i)
+                batch = []
+        # Process any remaining rows
+        if batch:
+            self.process_batch(batch, start=start, allow_duplicates=allow_duplicates, verbose=verbose, start_time=start_time, tot=tot, i=tot)
+
+    def process_batch(self, batch, start, allow_duplicates, verbose, start_time, tot, i):
+        for row in batch:
             self.write_row(row, start=start, allow_duplicates=allow_duplicates)
-            if verbose:
-                if not i % 2500:
-                    self._time(start_time, tot, i)
         if verbose:
-            self._time(start_time, tot, i=0, final=True)
+            self._time(start_time, tot, i)
 
     def write_row(self, row, start=None, allow_duplicates=False):
         return False
