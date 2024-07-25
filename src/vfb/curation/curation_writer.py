@@ -126,7 +126,7 @@ class CurationWriter:
                 if not (k == 'is_a')}  # Not keen on hard wiring here, but maybe unavoidable
 
     def _generate_lookups(self, conf):
-        """Generate  :Class name:ID lookups from DB for loading by label.
+        """Generate :Class name:ID lookups from DB for loading by label.
         Lookups are defined by standard config that specifies a config:
         name:field:regex, e.g. {'part_of': {'short_form': 'FBbt_.+'}}
         name should match the kwarg for which it is to be used.
@@ -145,14 +145,10 @@ class CurationWriter:
                 if isinstance(results, str):
                     logging.error(f"Unexpected result type: {results}")
                     raise TypeError(f"Expected list of dicts but got string: {results}")
-                for r in results:
-                    if not isinstance(r, dict) or 'data' not in r:
-                        logging.error(f"Unexpected result format: {r}")
-                        raise TypeError(f"Unexpected result format: {r}")
-                    r_dict = results_2_dict_list(r)
-                    lookup[name].update({escape_string_for_neo(x['label']): x['short_form'] for x in r_dict})
+                # Process results
+                r_dict = results_2_dict_list(results)
+                lookup[name].update({escape_string_for_neo(x['label']): x['short_form'] for x in r_dict})
         return lookup
-
 
     def extend_lookup_from_flybase(self, features, key='expresses'):
         fu = "('"+"', '".join(features) + "')"
