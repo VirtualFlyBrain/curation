@@ -140,8 +140,15 @@ class CurationWriter:
                 for c in lcs:
                     q = "MATCH (c%s) where c.%s =~ '%s' RETURN c.label as label, c.short_form as short_form" % (c.neo_label_string, c.field, c.regex)
                     queries.append(q)
+                # Execute queries in batches
                 results = self.ew.nc.commit_list(queries)
+                if isinstance(results, str):
+                    logging.error(f"Unexpected result type: {results}")
+                    raise TypeError(f"Expected list of dicts but got string: {results}")
                 for r in results:
+                    if not isinstance(r, dict) or 'data' not in r:
+                        logging.error(f"Unexpected result format: {r}")
+                        raise TypeError(f"Unexpected result format: {r}")
                     r_dict = results_2_dict_list(r)
                     lookup[name].update({escape_string_for_neo(x['label']): x['short_form'] for x in r_dict})
         return lookup
