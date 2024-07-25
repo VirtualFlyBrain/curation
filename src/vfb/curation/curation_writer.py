@@ -177,12 +177,11 @@ class CurationWriter:
             if len(batch) >= batch_size:
                 self.process_batch(batch, start=start, allow_duplicates=allow_duplicates, verbose=verbose, start_time=start_time, tot=tot, i=i)
                 batch = []
-                start_time = time.time()
         # Process any remaining rows
         if batch:
-            self.process_batch(batch, start=start, allow_duplicates=allow_duplicates, verbose=verbose, start_time=start_time, tot=tot, i=tot)
+            self.process_batch(batch, start=start, allow_duplicates=allow_duplicates, verbose=verbose, start_time=start_time, tot=tot, i=tot, final=True)
 
-    def process_batch(self, batch, start, allow_duplicates, verbose, start_time, tot, i):
+    def process_batch(self, batch, start, allow_duplicates, verbose, start_time, tot, i, final=False):
         for row in batch:
             self.write_row(row, start=start, allow_duplicates=allow_duplicates)
         if verbose:
