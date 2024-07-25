@@ -174,6 +174,7 @@ class CurationWriter:
             if len(batch) >= batch_size:
                 self.process_batch(batch, start=start, allow_duplicates=allow_duplicates, verbose=verbose, start_time=start_time, tot=tot, i=i)
                 batch = []
+                start_time = time.time()
         # Process any remaining rows
         if batch:
             self.process_batch(batch, start=start, allow_duplicates=allow_duplicates, verbose=verbose, start_time=start_time, tot=tot, i=tot)
