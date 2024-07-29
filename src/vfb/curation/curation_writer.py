@@ -158,34 +158,33 @@ class CurationWriter:
         dc = self.feature_mover.query_fb(query)
         self.object_lookup[key] = {escape_string_for_neo(d['label']): d['short_form'] for d in dc}
 
-    def _time(self, start_time, tot, i, final=False):
-        t = round(time.time() - start_time, 3)
-        if not final:
-            print("On row %d of %d at %s"
-                  "" % (i, tot, timedelta(seconds=t)))
-        else:
-            print("*** Completed checks and buffer loading on %d rows after %s"
-                  "" % (tot, str(timedelta(seconds=t))))
-
     def write_rows(self, verbose=False, start='100000', allow_duplicates=False):
         start_time = time.time()
         tot = len(self.record.tsv)
         batch_size = 1000  # Set batch size
-        batch = []
-        for i, row in self.record.tsv.iterrows():
-            batch.append(row)
-            if len(batch) >= batch_size:
-                self.process_batch(batch, start=start, allow_duplicates=allow_duplicates, verbose=verbose, start_time=start_time, tot=tot, i=i)
-                batch = []
-        # Process any remaining rows
-        if batch:
-            self.process_batch(batch, start=start, allow_duplicates=allow_duplicates, verbose=verbose, start_time=start_time, tot=tot, i=tot, final=True)
+        # Split the DataFrame into chunks
+        chunks = numpy.array_split(self.record.tsv, numpy.ceil(tot / batch_size))
+        for i, chunk in enumerate(chunks):
+            self.process_batch(chunk, start=start, allow_duplicates=allow_duplicates, verbose=verbose, start_time=start_time, tot=tot, i=(i+1)*batch_size)
+        if verbose:
+            self._time(start_time, tot, i=0, final=True)
 
     def process_batch(self, batch, start, allow_duplicates, verbose, start_time, tot, i, final=False):
-        for row in batch:
+        for _, row in batch.iterrows():
             self.write_row(row, start=start, allow_duplicates=allow_duplicates)
         if verbose:
             self._time(start_time, tot, i)
+        # Clear the batch to free memory
+        del batch
+        import gc
+        gc.collect()
+
+    def _time(self, start_time, tot, i, final=False):
+        t = round(time.time() - start_time, 3)
+        if not final:
+            print(f"On row {i} of {tot} at {timedelta(seconds=t)}")
+        else:
+            print(f"*** Completed checks and buffer loading on {tot} rows after {str(timedelta(seconds=t))}")
 
     def write_row(self, row, start=None, allow_duplicates=False):
         return False
