@@ -1,0 +1,101 @@
+filename	is_a	part_of	label	comment	dbxrefs
+11601	adult neuron	male organism	5-HTPLP01_R (JRC_OpticLobe:11601)	status-Traced, status label-Prelim Roughly traced, Optic Lobe classification: type-5-HTPLP01	neuprint_JRC_OpticLobe_v1_0:11601
+14694	adult neuron	male organism	5-HTPMPV01_L (JRC_OpticLobe:14694)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-5-HTPMPV01	neuprint_JRC_OpticLobe_v1_0:14694
+10050	adult neuron	male organism	5-HTPMPV03_R (JRC_OpticLobe:10050)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-5-HTPMPV03	neuprint_JRC_OpticLobe_v1_0:10050
+10278	adult neuron	male organism	5-HTPMPV03_L (JRC_OpticLobe:10278)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-5-HTPMPV03	neuprint_JRC_OpticLobe_v1_0:10278
+11901	adult neuron	male organism	5thsLNv_LNd6_R (JRC_OpticLobe:11901)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-5thsLNv_LNd6	neuprint_JRC_OpticLobe_v1_0:11901
+12254	adult neuron	male organism	5thsLNv_LNd6_R (JRC_OpticLobe:12254)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-5thsLNv_LNd6	neuprint_JRC_OpticLobe_v1_0:12254
+15319	adult neuron	male organism	AOTU045_R (JRC_OpticLobe:15319)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-AOTU045	neuprint_JRC_OpticLobe_v1_0:15319
+521594	adult neuron	male organism	AOTU050_R (JRC_OpticLobe:521594)	status-Traced, status label-Prelim Roughly traced, Optic Lobe classification: type-AOTU050	neuprint_JRC_OpticLobe_v1_0:521594
+15606	adult neuron	male organism	AOTU050_R (JRC_OpticLobe:15606)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-AOTU050	neuprint_JRC_OpticLobe_v1_0:15606
+21886	adult neuron	male organism	AOTU050_R (JRC_OpticLobe:21886)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-AOTU050	neuprint_JRC_OpticLobe_v1_0:21886
+19929	adult neuron	male organism	AOTU050_R (JRC_OpticLobe:19929)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-AOTU050	neuprint_JRC_OpticLobe_v1_0:19929
+40643	adult neuron	male organism	AOTU056_R (JRC_OpticLobe:40643)	status-Traced, status label-Prelim Roughly traced, Optic Lobe classification: type-AOTU056	neuprint_JRC_OpticLobe_v1_0:40643
+66210	adult neuron	male organism	AOTU056_R (JRC_OpticLobe:66210)	status-Traced, status label-Prelim Roughly traced, Optic Lobe classification: type-AOTU056	neuprint_JRC_OpticLobe_v1_0:66210
+51470	adult neuron	male organism	AOTU056_R (JRC_OpticLobe:51470)	status-Traced, status label-Prelim Roughly traced, Optic Lobe classification: type-AOTU056	neuprint_JRC_OpticLobe_v1_0:51470
+65738	adult neuron	male organism	AOTU056_R (JRC_OpticLobe:65738)	status-Traced, status label-Prelim Roughly traced, Optic Lobe classification: type-AOTU056	neuprint_JRC_OpticLobe_v1_0:65738
+66291	adult neuron	male organism	AOTU058_R (JRC_OpticLobe:66291)	status-Traced, status label-Prelim Roughly traced, Optic Lobe classification: type-AOTU058	neuprint_JRC_OpticLobe_v1_0:66291
+54997	adult neuron	male organism	AOTU058_R (JRC_OpticLobe:54997)	status-Traced, status label-Prelim Roughly traced, Optic Lobe classification: type-AOTU058	neuprint_JRC_OpticLobe_v1_0:54997
+54864	adult neuron	male organism	AOTU058_R (JRC_OpticLobe:54864)	status-Traced, status label-Prelim Roughly traced, Optic Lobe classification: type-AOTU058	neuprint_JRC_OpticLobe_v1_0:54864
+16432	adult neuron	male organism	AOTU065_R (JRC_OpticLobe:16432)	status-Traced, status label-Prelim Roughly traced, Optic Lobe classification: type-AOTU065	neuprint_JRC_OpticLobe_v1_0:16432
+10540	adult neuron	male organism	APL_R (JRC_OpticLobe:10540)	status-Traced, status label-Prelim Roughly traced, Optic Lobe classification: type-APL	neuprint_JRC_OpticLobe_v1_0:10540
+521027	adult neuron	male organism	ATL015_R (JRC_OpticLobe:521027)	status-Traced, status label-Prelim Roughly traced, Optic Lobe classification: type-ATL015	neuprint_JRC_OpticLobe_v1_0:521027
+12125	adult neuron	male organism	AVLP029_R (JRC_OpticLobe:12125)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-AVLP029	neuprint_JRC_OpticLobe_v1_0:12125
+12561	adult neuron	male organism	AVLP030(no left?)_R (JRC_OpticLobe:12561)	status-Traced, status label-Prelim Roughly traced, Optic Lobe classification: type-AVLP030	neuprint_JRC_OpticLobe_v1_0:12561
+13208	adult neuron	male organism	AVLP098_R (JRC_OpticLobe:13208)	status-Traced, status label-Prelim Roughly traced, Optic Lobe classification: type-AVLP098	neuprint_JRC_OpticLobe_v1_0:13208
+17811	adult neuron	male organism	AVLP102_R (JRC_OpticLobe:17811)	status-Anchor, status label-Primary Anchor, Optic Lobe classification: type-AVLP102	neuprint_JRC_OpticLobe_v1_0:17811
+20281	adult neuron	male organism	AVLP105_R (JRC_OpticLobe:20281)	status-Anchor, status label-Primary Anchor, Optic Lobe classification: type-AVLP105	neuprint_JRC_OpticLobe_v1_0:20281
+17869	adult neuron	male organism	AVLP111_R (JRC_OpticLobe:17869)	status-Traced, status label-Prelim Roughly traced, Optic Lobe classification: type-AVLP111	neuprint_JRC_OpticLobe_v1_0:17869
+17467	adult neuron	male organism	AVLP111_R (JRC_OpticLobe:17467)	status-Traced, status label-Prelim Roughly traced, Optic Lobe classification: type-AVLP111	neuprint_JRC_OpticLobe_v1_0:17467
+15258	adult neuron	male organism	AVLP112_R (JRC_OpticLobe:15258)	status-Anchor, status label-Primary Anchor, Optic Lobe classification: type-AVLP112	neuprint_JRC_OpticLobe_v1_0:15258
+19621	adult neuron	male organism	AVLP180_R (JRC_OpticLobe:19621)	status-Traced, status label-Prelim Roughly traced, Optic Lobe classification: type-AVLP180	neuprint_JRC_OpticLobe_v1_0:19621
+14640	adult neuron	male organism	AVLP216_R (JRC_OpticLobe:14640)	status-Anchor, status label-Primary Anchor, Optic Lobe classification: type-AVLP216	neuprint_JRC_OpticLobe_v1_0:14640
+14470	adult neuron	male organism	AVLP257_R (JRC_OpticLobe:14470)	status-Anchor, status label-Primary Anchor, Optic Lobe classification: type-AVLP257	neuprint_JRC_OpticLobe_v1_0:14470
+11727	adult neuron	male organism	AVLP258_R (JRC_OpticLobe:11727)	status-Anchor, status label-Primary Anchor, Optic Lobe classification: type-AVLP258	neuprint_JRC_OpticLobe_v1_0:11727
+16887	adult neuron	male organism	AVLP259_R (JRC_OpticLobe:16887)	status-Traced, status label-Prelim Roughly traced, Optic Lobe classification: type-AVLP259	neuprint_JRC_OpticLobe_v1_0:16887
+14901	adult neuron	male organism	AVLP266_R (JRC_OpticLobe:14901)	status-Traced, status label-Prelim Roughly traced, Optic Lobe classification: type-AVLP266	neuprint_JRC_OpticLobe_v1_0:14901
+16135	adult neuron	male organism	AVLP317_R (JRC_OpticLobe:16135)	status-Anchor, status label-Primary Anchor, Optic Lobe classification: type-AVLP317	neuprint_JRC_OpticLobe_v1_0:16135
+22361	adult neuron	male organism	AVLP325_b_R (JRC_OpticLobe:22361)	status-Traced, status label-Prelim Roughly traced, Optic Lobe classification: type-AVLP325_b	neuprint_JRC_OpticLobe_v1_0:22361
+12916	adult neuron	male organism	AVLP339_R (JRC_OpticLobe:12916)	status-Anchor, status label-Primary Anchor, Optic Lobe classification: type-AVLP339	neuprint_JRC_OpticLobe_v1_0:12916
+16576	adult neuron	male organism	AVLP390_R (JRC_OpticLobe:16576)	status-Anchor, status label-Primary Anchor, Optic Lobe classification: type-AVLP390	neuprint_JRC_OpticLobe_v1_0:16576
+12041	adult neuron	male organism	AVLP396_R (JRC_OpticLobe:12041)	status-Traced, status label-Prelim Roughly traced, Optic Lobe classification: type-AVLP396	neuprint_JRC_OpticLobe_v1_0:12041
+12289	adult neuron	male organism	AVLP432_R (JRC_OpticLobe:12289)	status-Traced, status label-Prelim Roughly traced, Optic Lobe classification: type-AVLP432	neuprint_JRC_OpticLobe_v1_0:12289
+10659	adult neuron	male organism	AVLP433_R (JRC_OpticLobe:10659)	status-Traced, status label-Prelim Roughly traced, Optic Lobe classification: type-AVLP433	neuprint_JRC_OpticLobe_v1_0:10659
+13300	adult neuron	male organism	AVLP433_b_R (JRC_OpticLobe:13300)	status-Anchor, status label-Primary Anchor, Optic Lobe classification: type-AVLP433_b	neuprint_JRC_OpticLobe_v1_0:13300
+13200	adult neuron	male organism	AVLP434_b_R (JRC_OpticLobe:13200)	status-Anchor, status label-Primary Anchor, Optic Lobe classification: type-AVLP434_b	neuprint_JRC_OpticLobe_v1_0:13200
+13336	adult neuron	male organism	AVLP437_R (JRC_OpticLobe:13336)	status-Anchor, status label-Primary Anchor, Optic Lobe classification: type-AVLP437	neuprint_JRC_OpticLobe_v1_0:13336
+15523	adult neuron	male organism	AVLP438_R (JRC_OpticLobe:15523)	status-Traced, status label-Prelim Roughly traced, Optic Lobe classification: type-AVLP438	neuprint_JRC_OpticLobe_v1_0:15523
+15697	adult neuron	male organism	AVLP439_R (JRC_OpticLobe:15697)	status-Anchor, status label-Primary Anchor, Optic Lobe classification: type-AVLP439	neuprint_JRC_OpticLobe_v1_0:15697
+12153	adult neuron	male organism	AVLP464_R (JRC_OpticLobe:12153)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-AVLP464	neuprint_JRC_OpticLobe_v1_0:12153
+12856	adult neuron	male organism	AVLP534_R (JRC_OpticLobe:12856)	status-Anchor, status label-Primary Anchor, Optic Lobe classification: type-AVLP534	neuprint_JRC_OpticLobe_v1_0:12856
+12423	adult neuron	male organism	AVLP536_R (JRC_OpticLobe:12423)	status-Anchor, status label-Primary Anchor, Optic Lobe classification: type-AVLP536	neuprint_JRC_OpticLobe_v1_0:12423
+13080	adult neuron	male organism	AVLP537_R (JRC_OpticLobe:13080)	status-Anchor, status label-Primary Anchor, Optic Lobe classification: type-AVLP537	neuprint_JRC_OpticLobe_v1_0:13080
+10353	adult neuron	male organism	AVLP538_R (JRC_OpticLobe:10353)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-AVLP538	neuprint_JRC_OpticLobe_v1_0:10353
+519501	adult neuron	male organism	AVLP543_R (JRC_OpticLobe:519501)	status-Traced, status label-Prelim Roughly traced, Optic Lobe classification: type-AVLP543	neuprint_JRC_OpticLobe_v1_0:519501
+10902	adult neuron	male organism	AVLP544_R (JRC_OpticLobe:10902)	status-Traced, status label-Prelim Roughly traced, Optic Lobe classification: type-AVLP544	neuprint_JRC_OpticLobe_v1_0:10902
+12444	adult neuron	male organism	AVLP592_R (JRC_OpticLobe:12444)	status-Anchor, status label-Primary Anchor, Optic Lobe classification: type-AVLP592	neuprint_JRC_OpticLobe_v1_0:12444
+12181	adult neuron	male organism	AVLP593_R (JRC_OpticLobe:12181)	status-Traced, status label-Prelim Roughly traced, Optic Lobe classification: type-AVLP593	neuprint_JRC_OpticLobe_v1_0:12181
+11237	adult neuron	male organism	AVLP594_R (JRC_OpticLobe:11237)	status-Traced, status label-Prelim Roughly traced, Optic Lobe classification: type-AVLP594	neuprint_JRC_OpticLobe_v1_0:11237
+10093	adult neuron	male organism	Am1_R (JRC_OpticLobe:10093)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-Am1	neuprint_JRC_OpticLobe_v1_0:10093
+109648	adult neuron	male organism	C2_R (JRC_OpticLobe:109648)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:109648
+72965	adult neuron	male organism	C2_R (JRC_OpticLobe:72965)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:72965
+103806	adult neuron	male organism	C2_R (JRC_OpticLobe:103806)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:103806
+122002	adult neuron	male organism	C2_R (JRC_OpticLobe:122002)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:122002
+101175	adult neuron	male organism	C2_R (JRC_OpticLobe:101175)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:101175
+123476	adult neuron	male organism	C2_R (JRC_OpticLobe:123476)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:123476
+90104	adult neuron	male organism	C2_R (JRC_OpticLobe:90104)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:90104
+77471	adult neuron	male organism	C2_R (JRC_OpticLobe:77471)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:77471
+107228	adult neuron	male organism	C2_R (JRC_OpticLobe:107228)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:107228
+102606	adult neuron	male organism	C2_R (JRC_OpticLobe:102606)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:102606
+130331	adult neuron	male organism	C2_R (JRC_OpticLobe:130331)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:130331
+96228	adult neuron	male organism	C2_R (JRC_OpticLobe:96228)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:96228
+76337	adult neuron	male organism	C2_R (JRC_OpticLobe:76337)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:76337
+111226	adult neuron	male organism	C2_R (JRC_OpticLobe:111226)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:111226
+133983	adult neuron	male organism	C2_R (JRC_OpticLobe:133983)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:133983
+80600	adult neuron	male organism	C2_R (JRC_OpticLobe:80600)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:80600
+82660	adult neuron	male organism	C2_R (JRC_OpticLobe:82660)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:82660
+78424	adult neuron	male organism	C2_R (JRC_OpticLobe:78424)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:78424
+134781	adult neuron	male organism	C2_R (JRC_OpticLobe:134781)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:134781
+100380	adult neuron	male organism	C2_R (JRC_OpticLobe:100380)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:100380
+168756	adult neuron	male organism	C2_R (JRC_OpticLobe:168756)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:168756
+103796	adult neuron	male organism	C2_R (JRC_OpticLobe:103796)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:103796
+98537	adult neuron	male organism	C2_R (JRC_OpticLobe:98537)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:98537
+80910	adult neuron	male organism	C2_R (JRC_OpticLobe:80910)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:80910
+100254	adult neuron	male organism	C2_R (JRC_OpticLobe:100254)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:100254
+81464	adult neuron	male organism	C2_R (JRC_OpticLobe:81464)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:81464
+128068	adult neuron	male organism	C2_R (JRC_OpticLobe:128068)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:128068
+82156	adult neuron	male organism	C2_R (JRC_OpticLobe:82156)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:82156
+104205	adult neuron	male organism	C2_R (JRC_OpticLobe:104205)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:104205
+78077	adult neuron	male organism	C2_R (JRC_OpticLobe:78077)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:78077
+96668	adult neuron	male organism	C2_R (JRC_OpticLobe:96668)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:96668
+102011	adult neuron	male organism	C2_R (JRC_OpticLobe:102011)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:102011
+491695	adult neuron	male organism	C2_R (JRC_OpticLobe:491695)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:491695
+85894	adult neuron	male organism	C2_R (JRC_OpticLobe:85894)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:85894
+97218	adult neuron	male organism	C2_R (JRC_OpticLobe:97218)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:97218
+90951	adult neuron	male organism	C2_R (JRC_OpticLobe:90951)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:90951
+338424	adult neuron	male organism	C2_R (JRC_OpticLobe:338424)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:338424
+89124	adult neuron	male organism	C2_R (JRC_OpticLobe:89124)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:89124
+69025	adult neuron	male organism	C2_R (JRC_OpticLobe:69025)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:69025
+95360	adult neuron	male organism	C2_R (JRC_OpticLobe:95360)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:95360
+46214	adult neuron	male organism	C2_R (JRC_OpticLobe:46214)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:46214
+61400	adult neuron	male organism	C2_R (JRC_OpticLobe:61400)	status-Traced, status label-Roughly traced, Optic Lobe classification: type-C2	neuprint_JRC_OpticLobe_v1_0:61400
