@@ -1,6 +1,0 @@
-filename	synonyms	is_a	part_of	label
-LAL(-GA)(R)	LAL(-GA)(R)	adult lateral accessory lobe	adult brain	LAL(-GA)(R) on JRC_FlyEM_Hemibrain
-SAD(-AMMC)	SAD(-AMMC)	saddle	adult brain	SAD(-AMMC) on JRC_FlyEM_Hemibrain
-"CRE(-ROB,-RUB)(R)"	"CRE(-ROB,-RUB)(R)"	adult crepine	adult brain	"CRE(-ROB,-RUB)(R) on JRC_FlyEM_Hemibrain"
-CRE(-RUB)(L)	CRE(-RUB)(L)	adult crepine	adult brain	CRE(-RUB)(L) on JRC_FlyEM_Hemibrain
-FB-column3	FB-column3	fan-shaped body	adult brain	FB-column3 on JRC_FlyEM_Hemibrain
