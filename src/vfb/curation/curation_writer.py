@@ -126,22 +126,28 @@ class CurationWriter:
                 if not (k == 'is_a')}  # Not keen on hard wiring here, but maybe unavoidable
 
     def _generate_lookups(self, conf):
-        """Generate  :Class name:ID lookups from DB for loading by label.
-         Lookups are defined by standard config that specifies a config:
-         name:field:regex, e.g. {'part_of': {'short_form': 'FBbt_.+'}}
-         name should match the kwarg for which it is to be used.
-         """
+        """Generate :Class name:ID lookups from DB for loading by label.
+        Lookups are defined by standard config that specifies a config:
+        name:field:regex, e.g. {'part_of': {'short_form': 'FBbt_.+'}}
+        name should match the kwarg for which it is to be used.
+        """
         lookup_config = conf
         lookup = {}
         if lookup_config:
             for name, lcs in lookup_config.items():
                 lookup[name] = {}
+                queries = []
                 for c in lcs:
-                    q = "MATCH (c%s) where c.%s =~ '%s' RETURN c.label as label" \
-                        ", c.short_form as short_form" % (c.neo_label_string, c.field, c.regex)
-                    rr = self.ew.nc.commit_list([q])
-                    r = results_2_dict_list(rr)
-                    lookup[name].update({escape_string_for_neo(x['label']): x['short_form'] for x in r})
+                    q = "MATCH (c%s) where c.%s =~ '%s' RETURN c.label as label, c.short_form as short_form" % (c.neo_label_string, c.field, c.regex)
+                    queries.append(q)
+                # Execute queries in batches
+                results = self.ew.nc.commit_list(queries)
+                if isinstance(results, str):
+                    logging.error(f"Unexpected result type: {results}")
+                    raise TypeError(f"Expected list of dicts but got string: {results}")
+                # Process results
+                r_dict = results_2_dict_list(results)
+                lookup[name].update({escape_string_for_neo(x['label']): x['short_form'] for x in r_dict})
         return lookup
 
     def extend_lookup_from_flybase(self, features, key='expresses'):
@@ -152,25 +158,33 @@ class CurationWriter:
         dc = self.feature_mover.query_fb(query)
         self.object_lookup[key] = {escape_string_for_neo(d['label']): d['short_form'] for d in dc}
 
-    def _time(self, start_time, tot, i, final=False):
-        t = round(time.time() - start_time, 3)
-        if not final:
-            print("On row %d of %d at %s"
-                  "" % (i, tot, timedelta(seconds=t)))
-        else:
-            print("*** Completed checks and buffer loading on %d rows after %s"
-                  "" % (tot, str(timedelta(seconds=t))))
-
     def write_rows(self, verbose=False, start='100000', allow_duplicates=False):
         start_time = time.time()
         tot = len(self.record.tsv)
-        for i, row in self.record.tsv.iterrows():
-            self.write_row(row, start=start, allow_duplicates=allow_duplicates)
-            if verbose:
-                if not i % 2500:
-                    self._time(start_time, tot, i)
+        batch_size = 1000  # Set batch size
+        # Split the DataFrame into chunks
+        chunks = numpy.array_split(self.record.tsv, numpy.ceil(tot / batch_size))
+        for i, chunk in enumerate(chunks):
+            self.process_batch(chunk, start=start, allow_duplicates=allow_duplicates, verbose=verbose, start_time=start_time, tot=tot, i=(i+1)*batch_size)
         if verbose:
             self._time(start_time, tot, i=0, final=True)
+
+    def process_batch(self, batch, start, allow_duplicates, verbose, start_time, tot, i, final=False):
+        for _, row in batch.iterrows():
+            self.write_row(row, start=start, allow_duplicates=allow_duplicates)
+        if verbose:
+            self._time(start_time, tot, i)
+        # Clear the batch to free memory
+        del batch
+        import gc
+        gc.collect()
+
+    def _time(self, start_time, tot, i, final=False):
+        t = round(time.time() - start_time, 3)
+        if not final:
+            print(f"On row {i} of {tot} at {timedelta(seconds=t)}")
+        else:
+            print(f"*** Completed checks and buffer loading on {tot} rows after {str(timedelta(seconds=t))}")
 
     def write_row(self, row, start=None, allow_duplicates=False):
         return False
