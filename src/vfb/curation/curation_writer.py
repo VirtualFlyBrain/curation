@@ -268,6 +268,7 @@ class NewMetaDataWriter(CurationWriter):
                        'xref_acc': 'subject_external_id',
                        'id': 'subject_id',
                        'label': 'subject_name'}
+            logging.debug(f"Subject mapped: {mapping}")
             return {k: rw[v] for k, v in mapping.items() if v in list(rw.keys())}
     
         def object_kwarg_proc(rw):
@@ -275,6 +276,7 @@ class NewMetaDataWriter(CurationWriter):
                        'xref_acc': 'object_external_id',
                        'id': 'ind_object_id',
                        'label': 'object'}
+            logging.debug(f"Object mapped: {mapping}")
             return {k: rw[v] for k, v in mapping.items() if v in list(rw.keys())}
     
         s = VfbInd(**subject_kwarg_proc(row))
