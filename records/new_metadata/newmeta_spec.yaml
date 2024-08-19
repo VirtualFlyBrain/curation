@@ -80,6 +80,7 @@ comment:
 pub:
   description: >
       An identifier for a supporting publication - either a DOI (for preprints) or a FlyBase FBrf.
+      FBrf or DOI needs to be short form: FBrf short form example: "FBrf0246028" and DOI example: ""doi_10_1101__2023_05_31_542897".
   type: pub
   edge_annotation: true
 
