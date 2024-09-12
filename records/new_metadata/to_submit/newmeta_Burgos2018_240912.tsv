@@ -25,7 +25,7 @@ VFB_00101095	putative class III or es (L1EM:367872)	Burgos2018	part_of	larval ne
 VFB_00102203	A03g_a1r (L1EM:10855206)	Burgos2018	part_of	larval nervous system	cp390
 VFB_00101008	lesA_a1l (L1EM:7772437)	Burgos2018	part_of	larval nervous system	cp390
 VFB_00102249	A02e_a1r (L1EM:14858626)	Burgos2018	part_of	larval nervous system	cp390
-VFB_00101116	v'esA or v'esB or v'es2[1][2]_a1r (L1EM:7633929)	Burgos2018	part_of	larval nervous system	cp390
+VFB_00101116	v\'esA or v\'esB or v\'es2[1][2]_a1r (L1EM:7633929)	Burgos2018	part_of	larval nervous system	cp390
 VFB_00101123	lesA_A1r (L1EM:12140587)	Burgos2018	part_of	larval nervous system	cp390
 VFB_00101121	A18l_a1l (L1EM:10021175)	Burgos2018	part_of	larval nervous system	cp390
 VFB_00100689	Basin-3 a4r (L1EM:1401011)	Burgos2018	part_of	larval nervous system	cp390
@@ -47,7 +47,7 @@ VFB_00100614	Basin2_a1 (L1EM:3041612)	Burgos2018	part_of	larval nervous system	c
 VFB_00101103	A09l_a5r Down-and-back-1 (L1EM:3220573)	Burgos2018	part_of	larval nervous system	cp390
 VFB_00100618	Basin3_a1 (L1EM:3091943)	Burgos2018	part_of	larval nervous system	cp390
 VFB_00101120	A09c_a3r Basin-4 (L1EM:1815127)	Burgos2018	part_of	larval nervous system	cp390
-VFB_00101127	v'pda a1l (class III) (L1EM:16311520)	Burgos2018	part_of	larval nervous system	cp390
+VFB_00101127	v\'pda a1l (class III) (L1EM:16311520)	Burgos2018	part_of	larval nervous system	cp390
 VFB_00101111	A02o_t3r Wave-1 (L1EM:5310670)	Burgos2018	part_of	larval nervous system	cp390
 VFB_00100695	ppk_vdaB_a1 (L1EM:10273502)	Burgos2018	part_of	larval nervous system	cp390
 VFB_00102251	A02g_a1l (L1EM:14866842)	Burgos2018	part_of	larval nervous system	cp390
@@ -62,8 +62,8 @@ VFB_00100023	A03g_a1l (L1EM:5309932)	Burgos2018	part_of	larval nervous system	cp
 VFB_00100667	A23g_a1r (L1EM:5997121)	Burgos2018	part_of	larval nervous system	cp390
 VFB_00101079	A09a_a2r Basin-2 (L1EM:5114804)	Burgos2018	part_of	larval nervous system	cp390
 VFB_00101099	A09l_a5l_ Down-and-back-1 (L1EM:1115781)	Burgos2018	part_of	larval nervous system	cp390
-VFB_00100684	ppk_v'ada_a1 (L1EM:3786734)	Burgos2018	part_of	larval nervous system	cp390
-VFB_00100692	ppk_v'ada_a1 (L1EM:10110270)	Burgos2018	part_of	larval nervous system	cp390
+VFB_00100684	ppk_v\'ada_a1 (L1EM:3786734)	Burgos2018	part_of	larval nervous system	cp390
+VFB_00100692	ppk_v\'ada_a1 (L1EM:10110270)	Burgos2018	part_of	larval nervous system	cp390
 VFB_00101075	A09l_a1r (Down-and-back-1) (L1EM:4102844)	Burgos2018	part_of	larval nervous system	cp390
 VFB_00101106	vdaD class III md_a1r or es? (L1EM:2777891)	Burgos2018	part_of	larval nervous system	cp390
 VFB_00100694	Basin3_a1 (L1EM:10179501)	Burgos2018	part_of	larval nervous system	cp390
@@ -83,8 +83,8 @@ VFB_00101070	A09e_a5r (L1EM:2370290)	Burgos2018	part_of	larval nervous system	cp
 VFB_00102270	A02g_a1r (L1EM:18145093)	Burgos2018	part_of	larval nervous system	cp390
 VFB_00101092	"A09l_a2r Down-and-back-1	 (L1EM:17693220)"	Burgos2018	part_of	larval nervous system	cp390
 VFB_00100653	A23g_a1l (L1EM:5132886)	Burgos2018	part_of	larval nervous system	cp390
-VFB_00101117	v'pda a1r class III md (L1EM:7636004)	Burgos2018	part_of	larval nervous system	cp390
-VFB_00101126	v'esA or v'esB or v'es2[1][2]_a1l (L1EM:16311502)	Burgos2018	part_of	larval nervous system	cp390
+VFB_00101117	v\'pda a1r class III md (L1EM:7636004)	Burgos2018	part_of	larval nervous system	cp390
+VFB_00101126	v\'esA or v\'esB or v\'es2[1][2]_a1l (L1EM:16311502)	Burgos2018	part_of	larval nervous system	cp390
 VFB_00100657	gorogoro t2r (L1EM:5206247)	Burgos2018	part_of	larval nervous system	cp390
 VFB_00101064	A09e_a4 (L1EM:627858)	Burgos2018	part_of	larval nervous system	cp390
 VFB_00100641	A05q_a1l (L1EM:4740178)	Burgos2018	part_of	larval nervous system	cp390
