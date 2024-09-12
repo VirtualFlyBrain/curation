@@ -1,56 +1,56 @@
-subject_external_id	subject_id	subject_name	DataSet	subject_external_db	relation	object	Curator
-4262125	VFB_00101076	T10a t3l Chair-1 (L1EM:4262125)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-4049878	VFB_00100616	Basin4_a1 (L1EM:4049878)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-3281615	VFB_00101074	A09l_a2l Down-and-back-1 (L1EM:3281615)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-734837	VFB_00101083	A09q_a7r classIV-related projection D right (L1EM:734837)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-3056163	VFB_00101073	A09a_a2l Basin-2 (L1EM:3056163)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-14795007	VFB_00101090	TePn19 classIV-related projection B right (L1EM:14795007)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-3282869	VFB_00100615	Basin1_a1 (L1EM:3282869)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-1370785	VFB_00101067	A09e_a5l (L1EM:1370785)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-4717261	VFB_00101078	A02o_a2r Wave-1 (L1EM:4717261)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-6535161	VFB_00100671	A10a_a1l Chair-1 (L1EM:6535161)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-7124056	VFB_00101080	A09l_t3l Down-and-back-1 (L1EM:7124056)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-1927577	VFB_00101068	A08n (L1EM:1927577)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-14795310	VFB_00100877	A09e_a3 (L1EM:14795310)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-14728550	VFB_00100876	A09e_a3 (L1EM:14728550)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-3074106	VFB_00100617	Basin2_a1 (L1EM:3074106)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-12468812	VFB_00101088	A09l_a1l (Down-and-back-1) (L1EM:12468812)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-2558717	VFB_00101066	TePn05 classIV-related projection C right (L1EM:2558717)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-986460	VFB_00100621	ppk_ddaC_a1 (L1EM:986460)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-10053642	VFB_00101087	A09l_t3r Down-and-back-1 (L1EM:10053642)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-6062423	VFB_00101082	T10a t3r Chair-1 (L1EM:6062423)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-3546334	VFB_00100622	A02m_a1r Pseudolooper-3 (L1EM:3546334)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-8067524	VFB_00101065	SelN138 classIV-related descending sog right (L1EM:8067524)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-3034133	VFB_00100612	Basin1_a1 (L1EM:3034133)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-12946335	VFB_00100698	A02o_a3r Wave-1 (L1EM:12946335)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-18981220	VFB_00101094	TePn05 classIV-related projection C left (L1EM:18981220)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-10290529	VFB_00100696	ppk_vdaB_a1 (L1EM:10290529)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-4778439	VFB_00100644	A02m_a1l Pseudolooper-3 (L1EM:4778439)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-2583770	VFB_00101071	A10a_a2l Chair-1 (L1EM:2583770)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-3040481	VFB_00100613	Basin4_a1 (L1EM:3040481)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-7964684	VFB_00101062	TePn19 classIV-related projection B left (L1EM:7964684)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-3041612	VFB_00100614	Basin2_a1 (L1EM:3041612)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-10273502	VFB_00100695	ppk_vdaB_a1 (L1EM:10273502)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-12767923	VFB_00101089	A10a_a2r Chair-1 (L1EM:12767923)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-183502	VFB_00101085	A09e_a4 (L1EM:183502)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-2194374	VFB_00100595	A02o_a3l Wave-1 (L1EM:2194374)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-14899172	VFB_00101091	A08n (L1EM:14899172)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-5114804	VFB_00101079	A09a_a2r Basin-2 (L1EM:5114804)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-3786734	VFB_00100684	ppk_v'ada_a1 (L1EM:3786734)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-10110270	VFB_00100692	ppk_v'ada_a1 (L1EM:10110270)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-4102844	VFB_00101075	A09l_a1r (Down-and-back-1) (L1EM:4102844)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-3661586	VFB_00101063	SelN138 classIV-related descending sog left (L1EM:3661586)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-5690362	VFB_00100663	A10a_a1r Chair-1 (L1EM:5690362)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-3546835	VFB_00102103	A02n_a1l Pseudolooper-4 (L1EM:3546835)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-10110672	VFB_00100693	ppk_ddaC_a1 (L1EM:10110672)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-2637812	VFB_00100620	A02n_a1r Pseudolooper-4 (L1EM:2637812)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-2370290	VFB_00101070	A09e_a5r (L1EM:2370290)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-6660660	VFB_00101081	A00c_A8l? (L1EM:6660660)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-17693220	VFB_00101092	"A09l_a2r Down-and-back-1	 (L1EM:17693220)"	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-627858	VFB_00101064	A09e_a4 (L1EM:627858)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-1716788	VFB_00101069	A09o_a3l (L1EM:1716788)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-18322843	VFB_00101093	fragment (L1EM:18322843)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-5731368	VFB_00101086	A00c_A8l? (L1EM:5731368)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-4589092	VFB_00101077	A02o_a2l Wave-1 (L1EM:4589092)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-2693651	VFB_00101072	A09o_a3r (L1EM:2693651)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
-1362085	VFB_00101084	A09q_a7l classIV-related projection D left (L1EM:1362085)	Gerhard2017	catmaid_l1em	part_of	larval nervous system	cp390
+subject_id	subject_name	DataSet	relation	object	Curator
+VFB_00101076	T10a t3l Chair-1 (L1EM:4262125)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00100616	Basin4_a1 (L1EM:4049878)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00101074	A09l_a2l Down-and-back-1 (L1EM:3281615)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00101083	A09q_a7r classIV-related projection D right (L1EM:734837)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00101073	A09a_a2l Basin-2 (L1EM:3056163)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00101090	TePn19 classIV-related projection B right (L1EM:14795007)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00100615	Basin1_a1 (L1EM:3282869)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00101067	A09e_a5l (L1EM:1370785)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00101078	A02o_a2r Wave-1 (L1EM:4717261)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00100671	A10a_a1l Chair-1 (L1EM:6535161)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00101080	A09l_t3l Down-and-back-1 (L1EM:7124056)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00101068	A08n (L1EM:1927577)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00100877	A09e_a3 (L1EM:14795310)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00100876	A09e_a3 (L1EM:14728550)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00100617	Basin2_a1 (L1EM:3074106)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00101088	A09l_a1l (Down-and-back-1) (L1EM:12468812)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00101066	TePn05 classIV-related projection C right (L1EM:2558717)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00100621	ppk_ddaC_a1 (L1EM:986460)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00101087	A09l_t3r Down-and-back-1 (L1EM:10053642)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00101082	T10a t3r Chair-1 (L1EM:6062423)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00100622	A02m_a1r Pseudolooper-3 (L1EM:3546334)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00101065	SelN138 classIV-related descending sog right (L1EM:8067524)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00100612	Basin1_a1 (L1EM:3034133)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00100698	A02o_a3r Wave-1 (L1EM:12946335)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00101094	TePn05 classIV-related projection C left (L1EM:18981220)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00100696	ppk_vdaB_a1 (L1EM:10290529)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00100644	A02m_a1l Pseudolooper-3 (L1EM:4778439)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00101071	A10a_a2l Chair-1 (L1EM:2583770)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00100613	Basin4_a1 (L1EM:3040481)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00101062	TePn19 classIV-related projection B left (L1EM:7964684)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00100614	Basin2_a1 (L1EM:3041612)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00100695	ppk_vdaB_a1 (L1EM:10273502)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00101089	A10a_a2r Chair-1 (L1EM:12767923)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00101085	A09e_a4 (L1EM:183502)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00100595	A02o_a3l Wave-1 (L1EM:2194374)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00101091	A08n (L1EM:14899172)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00101079	A09a_a2r Basin-2 (L1EM:5114804)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00100684	ppk_v'ada_a1 (L1EM:3786734)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00100692	ppk_v'ada_a1 (L1EM:10110270)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00101075	A09l_a1r (Down-and-back-1) (L1EM:4102844)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00101063	SelN138 classIV-related descending sog left (L1EM:3661586)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00100663	A10a_a1r Chair-1 (L1EM:5690362)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00102103	A02n_a1l Pseudolooper-4 (L1EM:3546835)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00100693	ppk_ddaC_a1 (L1EM:10110672)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00100620	A02n_a1r Pseudolooper-4 (L1EM:2637812)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00101070	A09e_a5r (L1EM:2370290)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00101081	A00c_A8l? (L1EM:6660660)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00101092	"A09l_a2r Down-and-back-1	 (L1EM:17693220)"	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00101064	A09e_a4 (L1EM:627858)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00101069	A09o_a3l (L1EM:1716788)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00101093	fragment (L1EM:18322843)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00101086	A00c_A8l? (L1EM:5731368)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00101077	A02o_a2l Wave-1 (L1EM:4589092)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00101072	A09o_a3r (L1EM:2693651)	Gerhard2017	part_of	larval nervous system	cp390
+VFB_00101084	A09q_a7l classIV-related projection D left (L1EM:1362085)	Gerhard2017	part_of	larval nervous system	cp390

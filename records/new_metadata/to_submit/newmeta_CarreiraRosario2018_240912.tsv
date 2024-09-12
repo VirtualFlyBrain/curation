@@ -1,32 +1,32 @@
-subject_external_id	subject_id	subject_name	DataSet	subject_external_db	relation	object	Curator
-10728333	VFB_00101422	MDNa_left (L1EM:10728333)	CarreiraRosario2018	catmaid_l1em	part_of	larval nervous system	cp390
-10223754	VFB_00101418	DN_mx (Descending neuron_mx)_r (L1EM:10223754)	CarreiraRosario2018	catmaid_l1em	part_of	larval nervous system	cp390
-4835694	VFB_00101412	A27h_a4l (L1EM:4835694)	CarreiraRosario2018	catmaid_l1em	part_of	larval nervous system	cp390
-15700463	VFB_00101428	A27h_a7r (L1EM:15700463)	CarreiraRosario2018	catmaid_l1em	part_of	larval nervous system	cp390
-4542433	VFB_00101409	A18b_a1l (L1EM:4542433)	CarreiraRosario2018	catmaid_l1em	part_of	larval nervous system	cp390
-12247555	VFB_00101424	ThDN left (L1EM:12247555)	CarreiraRosario2018	catmaid_l1em	part_of	larval nervous system	cp390
-5308485	VFB_00101413	SEZ-DN1_left (L1EM:5308485)	CarreiraRosario2018	catmaid_l1em	part_of	larval nervous system	cp390
-4213417	VFB_00101394	A27k_a1l (L1EM:4213417)	CarreiraRosario2018	catmaid_l1em	part_of	larval nervous system	cp390
-10589761	VFB_00101420	A18b_a2l (L1EM:10589761)	CarreiraRosario2018	catmaid_l1em	part_of	larval nervous system	cp390
-17350421	VFB_00101431	SEZ-DN1_right (L1EM:17350421)	CarreiraRosario2018	catmaid_l1em	part_of	larval nervous system	cp390
-18628919	VFB_00101433	A27h_a5r (L1EM:18628919)	CarreiraRosario2018	catmaid_l1em	part_of	larval nervous system	cp390
-5355175	VFB_00101414	A27l_a2r (L1EM:5355175)	CarreiraRosario2018	catmaid_l1em	part_of	larval nervous system	cp390
-18464581	VFB_00101432	MDNa_right (L1EM:18464581)	CarreiraRosario2018	catmaid_l1em	part_of	larval nervous system	cp390
-10216846	VFB_00101415	A27h?_t3l (L1EM:10216846)	CarreiraRosario2018	catmaid_l1em	part_of	larval nervous system	cp390
-10728328	VFB_00101421	MDNb_left (L1EM:10728328)	CarreiraRosario2018	catmaid_l1em	part_of	larval nervous system	cp390
-10219170	VFB_00102195	A27l_a1l (L1EM:10219170)	CarreiraRosario2018	catmaid_l1em	part_of	larval nervous system	cp390
-13557064	VFB_00101425	MDNb_right (L1EM:13557064)	CarreiraRosario2018	catmaid_l1em	part_of	larval nervous system	cp390
-10223572	VFB_00102196	A27h_a1l (L1EM:10223572)	CarreiraRosario2018	catmaid_l1em	part_of	larval nervous system	cp390
-15756646	VFB_00101429	A27h_a7l (L1EM:15756646)	CarreiraRosario2018	catmaid_l1em	part_of	larval nervous system	cp390
-15695112	VFB_00101426	A27h_a6l (L1EM:15695112)	CarreiraRosario2018	catmaid_l1em	part_of	larval nervous system	cp390
-2072202	VFB_00101404	A27l_a3r (L1EM:2072202)	CarreiraRosario2018	catmaid_l1em	part_of	larval nervous system	cp390
-4113612	VFB_00102126	A27k_a2r (L1EM:4113612)	CarreiraRosario2018	catmaid_l1em	part_of	larval nervous system	cp390
-10499711	VFB_00102199	A27l_a1r (L1EM:10499711)	CarreiraRosario2018	catmaid_l1em	part_of	larval nervous system	cp390
-4038808	VFB_00101406	A27k_a2l (L1EM:4038808)	CarreiraRosario2018	catmaid_l1em	part_of	larval nervous system	cp390
-15696654	VFB_00101427	A27h_a6r (L1EM:15696654)	CarreiraRosario2018	catmaid_l1em	part_of	larval nervous system	cp390
-2111886	VFB_00101405	A27l_a3l (L1EM:2111886)	CarreiraRosario2018	catmaid_l1em	part_of	larval nervous system	cp390
-16002926	VFB_00101430	A18b_a2r (L1EM:16002926)	CarreiraRosario2018	catmaid_l1em	part_of	larval nervous system	cp390
-4727546	VFB_00101411	A18b_a1r (L1EM:4727546)	CarreiraRosario2018	catmaid_l1em	part_of	larval nervous system	cp390
-10004243	VFB_00100927	A27k_a1r (L1EM:10004243)	CarreiraRosario2018	catmaid_l1em	part_of	larval nervous system	cp390
-11541264	VFB_00101423	ThDN right (L1EM:11541264)	CarreiraRosario2018	catmaid_l1em	part_of	larval nervous system	cp390
-4719759	VFB_00101410	A27l_a2l (L1EM:4719759)	CarreiraRosario2018	catmaid_l1em	part_of	larval nervous system	cp390
+subject_id	subject_name	DataSet	relation	object	Curator
+VFB_00101422	MDNa_left (L1EM:10728333)	CarreiraRosario2018	part_of	larval nervous system	cp390
+VFB_00101418	DN_mx (Descending neuron_mx)_r (L1EM:10223754)	CarreiraRosario2018	part_of	larval nervous system	cp390
+VFB_00101412	A27h_a4l (L1EM:4835694)	CarreiraRosario2018	part_of	larval nervous system	cp390
+VFB_00101428	A27h_a7r (L1EM:15700463)	CarreiraRosario2018	part_of	larval nervous system	cp390
+VFB_00101409	A18b_a1l (L1EM:4542433)	CarreiraRosario2018	part_of	larval nervous system	cp390
+VFB_00101424	ThDN left (L1EM:12247555)	CarreiraRosario2018	part_of	larval nervous system	cp390
+VFB_00101413	SEZ-DN1_left (L1EM:5308485)	CarreiraRosario2018	part_of	larval nervous system	cp390
+VFB_00101394	A27k_a1l (L1EM:4213417)	CarreiraRosario2018	part_of	larval nervous system	cp390
+VFB_00101420	A18b_a2l (L1EM:10589761)	CarreiraRosario2018	part_of	larval nervous system	cp390
+VFB_00101431	SEZ-DN1_right (L1EM:17350421)	CarreiraRosario2018	part_of	larval nervous system	cp390
+VFB_00101433	A27h_a5r (L1EM:18628919)	CarreiraRosario2018	part_of	larval nervous system	cp390
+VFB_00101414	A27l_a2r (L1EM:5355175)	CarreiraRosario2018	part_of	larval nervous system	cp390
+VFB_00101432	MDNa_right (L1EM:18464581)	CarreiraRosario2018	part_of	larval nervous system	cp390
+VFB_00101415	A27h?_t3l (L1EM:10216846)	CarreiraRosario2018	part_of	larval nervous system	cp390
+VFB_00101421	MDNb_left (L1EM:10728328)	CarreiraRosario2018	part_of	larval nervous system	cp390
+VFB_00102195	A27l_a1l (L1EM:10219170)	CarreiraRosario2018	part_of	larval nervous system	cp390
+VFB_00101425	MDNb_right (L1EM:13557064)	CarreiraRosario2018	part_of	larval nervous system	cp390
+VFB_00102196	A27h_a1l (L1EM:10223572)	CarreiraRosario2018	part_of	larval nervous system	cp390
+VFB_00101429	A27h_a7l (L1EM:15756646)	CarreiraRosario2018	part_of	larval nervous system	cp390
+VFB_00101426	A27h_a6l (L1EM:15695112)	CarreiraRosario2018	part_of	larval nervous system	cp390
+VFB_00101404	A27l_a3r (L1EM:2072202)	CarreiraRosario2018	part_of	larval nervous system	cp390
+VFB_00102126	A27k_a2r (L1EM:4113612)	CarreiraRosario2018	part_of	larval nervous system	cp390
+VFB_00102199	A27l_a1r (L1EM:10499711)	CarreiraRosario2018	part_of	larval nervous system	cp390
+VFB_00101406	A27k_a2l (L1EM:4038808)	CarreiraRosario2018	part_of	larval nervous system	cp390
+VFB_00101427	A27h_a6r (L1EM:15696654)	CarreiraRosario2018	part_of	larval nervous system	cp390
+VFB_00101405	A27l_a3l (L1EM:2111886)	CarreiraRosario2018	part_of	larval nervous system	cp390
+VFB_00101430	A18b_a2r (L1EM:16002926)	CarreiraRosario2018	part_of	larval nervous system	cp390
+VFB_00101411	A18b_a1r (L1EM:4727546)	CarreiraRosario2018	part_of	larval nervous system	cp390
+VFB_00100927	A27k_a1r (L1EM:10004243)	CarreiraRosario2018	part_of	larval nervous system	cp390
+VFB_00101423	ThDN right (L1EM:11541264)	CarreiraRosario2018	part_of	larval nervous system	cp390
+VFB_00101410	A27l_a2l (L1EM:4719759)	CarreiraRosario2018	part_of	larval nervous system	cp390

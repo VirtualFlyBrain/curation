@@ -1,848 +1,848 @@
-subject_external_id	subject_id	subject_name	DataSet	subject_external_db	relation	object	Curator
-14546554	VFB_001001n7	DPMl12 ant s 5 Right (L1EM:14546554)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12498192	VFB_001001iw	DPMm2 ppFB ant dor s 2 Left  (L1EM:12498192)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14266415	VFB_001001ly	CM4 s GC 5 Left (L1EM:14266415)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729822	VFB_001001ya	CPa s 2 Left (L1EM:17729822)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14797204	VFB_001001po	DALcl12 d s 3 Right (L1EM:14797204)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13217639	VFB_001001k4	DPMl12 pos s 5 Right (L1EM:13217639)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547391	VFB_001001ou	CM13 lat s 4 Right (L1EM:14547391)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-9950816	VFB_001001g4	DPMm1 upp comm s 4 Left (L1EM:9950816)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10017669	VFB_001001gg	CM4 s short pos 2 Left (L1EM:10017669)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-11509767	VFB_001001hz	DPMpm1 s 2 Right (L1EM:11509767)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13454509	VFB_001001kt	DPMm1 s 2 (L1EM:13454509)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-16318947	VFB_001001rx	BAmas12 ven s 5 Right (L1EM:16318947)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17545744	VFB_001001uv	BAlc post s 6 Right (L1EM:17545744)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17557183	VFB_001001v7	DPLd s 7 Right (L1EM:17557183)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12205963	VFB_001001i2	DPMpm1 ppFB 2 - Right (L1EM:12205963)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14546624	VFB_001001nb	DPMpm1 s 1 Right (L1EM:14546624)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-21462953	VFB_001015gp	BLAv12 pos s (L1EM:21462953)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-9844278	VFB_001001fr	CM4 s MEFcom 3 Left  (L1EM:9844278)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14644884	VFB_001001p9	CM4 s dor pos com 1 Right (L1EM:14644884)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14266304	VFB_001001lt	CM13 med s 6 Left (L1EM:14266304)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14914127	VFB_001001q4	CPb s 2 Right (L1EM:14914127)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17562074	VFB_001001vf	DPLc post lat ant s 3 Right (L1EM:17562074)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547437	VFB_001001p1	CPd s 2 Right (L1EM:14547437)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14632529	VFB_001001p8	CM4 s GC 3 Right (L1EM:14632529)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728682	VFB_001001we	BAlp post s 2 Left  (L1EM:17728682)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17733478	VFB_001001z6	TR Balv s 3 Left (L1EM:17733478)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13556524	VFB_001001ku	DPMm1 desc s lat 1 Right (L1EM:13556524)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17371295	VFB_001001tc	BLP12 a s 5 Right (L1EM:17371295)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17352429	VFB_001001sx	BLP12 a s 2 Right (L1EM:17352429)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-7005152	VFB_001001eu	CPd s 3 Left (L1EM:7005152)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547006	VFB_001001o1	DPMpl3 s 3 Right (L1EM:14547006)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17544312	VFB_001001ul	BLAvm ant s 4 Right (L1EM:17544312)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547447	VFB_001001p3	CPf s 4 Right (L1EM:14547447)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17629170	VFB_001001vm	BAlp ant s 8 Right (L1EM:17629170)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14546986	VFB_001001nz	CM4 s GC 1 Right (L1EM:14546986)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17102874	VFB_001001so	DALcl12 v s 2 Left (L1EM:17102874)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-4127993	VFB_001001e3	BLP34 b s 1 Right (L1EM:4127993)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19560124	VFB_0010021n	DPMl34 pos s 2 Left (L1EM:19560124)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10924217	VFB_001001hb	DPMm1 s Left (L1EM:10924217)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19389329	VFB_0010020i	DPLd s 6 Left (L1EM:19389329)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15732533	VFB_001001rq	BAmv12 int s 6 Right (L1EM:15732533)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14504070	VFB_001001n2	BLP34 b s 4 Left (L1EM:14504070)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728798	VFB_001001wq	BLD x 3 Left (L1EM:17728798)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729239	VFB_001001xu	BLP12 a s 1 Left (L1EM:17729239)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547316	VFB_001001oq	CM13 med s 5 Right (L1EM:14547316)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-7005176	VFB_001001ex	CPd s 4 Left (L1EM:7005176)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13235092	VFB_001001ka	DPMm1 s Right (L1EM:13235092)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-3054794	VFB_001001dt	DPLal1-3 s 1 Left (L1EM:3054794)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15078595	VFB_001001qv	DALcl12 d s 9 Left (L1EM:15078595)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14267149	VFB_001001md	DAMd23 s 3 Left (L1EM:14267149)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19851505	VFB_0010021r	BAlp ant s 9 Right (L1EM:19851505)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729441	VFB_001001y7	BLVa34 a s 2 Left (L1EM:17729441)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12367292	VFB_001001il	CM4 s ppFB 8 Right - ends before 601  (L1EM:12367292)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547432	VFB_001001p0	CM13 lat s 1 Right (L1EM:14547432)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17732223	VFB_001001yo	DPLl p s 2 Left (L1EM:17732223)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17371133	VFB_001001t9	BLP12 b s 3 Right (L1EM:17371133)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-8368854	VFB_001001f5	BLP34 b s 6 Left (L1EM:8368854)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14403560	VFB_001001mi	DPMpm2 ppFB 1 - Left (L1EM:14403560)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-4127987	VFB_001001e2	BLP34 b s 2 Right (L1EM:4127987)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17102148	VFB_001001sh	DALcl12 d s 8 Left (L1EM:17102148)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-16698830	VFB_001001s7	BLAv12 pos s 1 right (L1EM:16698830)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12532127	VFB_001001iy	DPMm1 ppFB s 4 Right (L1EM:12532127)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-5593689	VFB_001001eg	BAmas12 dor s 2 Right (L1EM:5593689)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13950952	VFB_001001li	DAMd23 s 3 Right (L1EM:13950952)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12927136	VFB_001001jn	BAmd2 v s 3 Left (L1EM:12927136)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547416	VFB_001001oz	CM13 med s 6 Right (L1EM:14547416)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17380192	VFB_001001tx	BLVp2 s 3 Right (L1EM:17380192)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17371213	VFB_001001ta	BLP12 b s 4 Right (L1EM:17371213)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19376559	VFB_0010020c	DPMpm1 ppFB 6 - Left (L1EM:19376559)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13760579	VFB_001001lc	BAmd2 v s 6 Right (L1EM:13760579)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12494383	VFB_001001iv	CM4 s ppFB 7 Left (L1EM:12494383)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728556	VFB_001001vz	BAla34 s 5 Left (L1EM:17728556)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13411388	VFB_001001kq	DPMm1 s longit 2 (L1EM:13411388)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13733768	VFB_001001l1	BAmv12 dor s 3 Right (L1EM:13733768)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19393720	VFB_0010020n	BAmd2 v s 7 Left (L1EM:19393720)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14546879	VFB_001001nr	CM4 s ven 1 Right (L1EM:14546879)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729381	VFB_001001y2	BLP34 b s 5 Left (L1EM:17729381)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14546516	VFB_001001n5	DALcm12 m s 1 Right (L1EM:14546516)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15140015	VFB_001001rg	BAmv12 dor s 5 Left (L1EM:15140015)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17733190	VFB_001001z5	TR Balv s 8 Left (L1EM:17733190)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19352399	VFB_001001zm	DPLc post lat s 3 Left (L1EM:19352399)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15541956	VFB_001001rl	BAmd1 d s 1 Left (L1EM:15541956)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17562172	VFB_001001vh	BLAd dor med nb 1 (L1EM:17562172)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14423404	VFB_001001mn	CPf s 2 Left (L1EM:14423404)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17361570	VFB_001001t7	BLAv12 ant s 1 Right (L1EM:17361570)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13216296	VFB_001001k2	DPMl12 pos s 7 Right (L1EM:13216296)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13239550	VFB_001001ke	DPMm1 upp comm s 4 Right (L1EM:13239550)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-8573240	VFB_001001f8	DPMm1 ppFB s 6 Right (L1EM:8573240)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-8893368	VFB_001001fe	BLP34 a s 2 Right (L1EM:8893368)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-6047538	VFB_001001eq	DPMpm2 s loSM 2 Right (L1EM:6047538)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14630189	VFB_001001p5	CM4 s dor pos MEF 2 Right (L1EM:14630189)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17102418	VFB_001001si	DALcl12 d s 7 Left (L1EM:17102418)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12755280	VFB_001001jh	DPLl i s 2 Right (L1EM:12755280)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19395656	VFB_0010020u	BAmv12 dor s 9 Left (L1EM:19395656)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729078	VFB_001001xc	BLAv12 pos s 2 Left (L1EM:17729078)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12346676	VFB_001001ig	CM4 s ppFB 2 Right  (L1EM:12346676)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17379121	VFB_001001tu	BLAv12 ant s 2 Right (L1EM:17379121)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12847167	VFB_001001jk	DPLc post lat s 3 Right (L1EM:12847167)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17378530	VFB_001001tr	BLVa34 b s 1 Right (L1EM:17378530)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14788579	VFB_001001pn	DALcl12 d s 7 Right (L1EM:14788579)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19393756	VFB_0010020r	BAmd2 v s 5 Left (L1EM:19393756)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17355884	VFB_001001t3	BAla34 s 4 Right (L1EM:17355884)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14448530	VFB_001001mr	CPf s 7 Left (L1EM:14448530)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14761692	VFB_001001pj	DALl1 10 d SU  (L1EM:14761692)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19395562	VFB_0010020s	BAmd2 d s 1 Left (L1EM:19395562)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14546463	VFB_001001n4	DAMd23 s 1 Right (L1EM:14546463)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13364562	VFB_001001kl	DPMpm1 s 3 Right (L1EM:13364562)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17545795	VFB_001001uz	BAlc post s 4 Right (L1EM:17545795)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17378746	VFB_001001tt	DPLc ant lat s 1 Right (L1EM:17378746)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-18059690	VFB_001001ze	BLAv12 lat s 1 Left (L1EM:18059690)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15130939	VFB_001001rc	BLDd s 5 Left (L1EM:15130939)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-16544695	VFB_001001s1	BAmv12 int s 2 Left (L1EM:16544695)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10381874	VFB_001001gr	CM4 s GC 3 Left (L1EM:10381874)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14546910	VFB_001001nu	CM4 s MEFcom 4 Right (L1EM:14546910)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13341456	VFB_001001ki	DPMm1 s right (L1EM:13341456)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17380245	VFB_001001tz	BLVp2 s 2 Right (L1EM:17380245)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728771	VFB_001001wn	BAlp ant s 1 Left (L1EM:17728771)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12477165	VFB_001001it	BAlc post s 5 Left (L1EM:12477165)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-16952654	VFB_001001sd	DALd s 3 Left (L1EM:16952654)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729005	VFB_001001x8	BLAvm ant s 4 Left (L1EM:17729005)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17102996	VFB_001001sq	DALcl12 d s 2 Left (L1EM:17102996)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-7372611	VFB_001001ez	BAmd1 d s 1 Right (L1EM:7372611)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-8943031	VFB_001001ff	BLVa34 a s 2 Right (L1EM:8943031)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14546854	VFB_001001no	CM4 s short pos 2 Right (L1EM:14546854)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14266446	VFB_001001m0	CM4 s ven 4 Left (L1EM:14266446)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17545221	VFB_001001ur	BAlp ant s 2 Right (L1EM:17545221)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10282203	VFB_001001gl	DPMm1 s Left (L1EM:10282203)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17102750	VFB_001001sm	DALcl12 d s 3 Left (L1EM:17102750)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17658634	VFB_001001vu	BLVp2 s 6 Right (L1EM:17658634)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17730108	VFB_001001yc	CP23 v s 3 Left (L1EM:17730108)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14848137	VFB_001001pu	BAmd1 v s 3 Right (L1EM:14848137)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728637	VFB_001001w6	BAlc post s 3 Left (L1EM:17728637)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13451589	VFB_001001ks	DPMm1 ant comm s 2 Right (L1EM:13451589)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-11022929	VFB_001001hk	DPMpm2 s loSM 2 Left (L1EM:11022929)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17731977	VFB_001001yk	DPLal1-3 s 3 Left (L1EM:17731977)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17472091	VFB_001001ua	CPe s NB 1 Left (L1EM:17472091)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-8426335	VFB_001001f6	BAlp4 s 2 Left  (L1EM:8426335)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13362478	VFB_001001kk	DPMm1 s longit 1 (L1EM:13362478)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14267091	VFB_001001mc	DPMm1 ant comm s 2 Left (L1EM:14267091)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17544280	VFB_001001uk	BLAvm ant s 3 Right (L1EM:17544280)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-16950391	VFB_001001sa	DALd s 3 Right (L1EM:16950391)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-5166338	VFB_001001ee	BAmv12 ven s 1 Right (L1EM:5166338)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547041	VFB_001001o2	CM4 s dor pos MEF 3 Right (L1EM:14547041)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-4662552	VFB_001001e8	BLAd OL s 5 Right (L1EM:4662552)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12703528	VFB_001001ja	DPLd s 1 Right (L1EM:12703528)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17376829	VFB_001001tk	TR BAlv s 1 Right (L1EM:17376829)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-9864387	VFB_001001ft	CM4 s dor pos com 3 Left (L1EM:9864387)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17383068	VFB_001001u1	BLP34 a s 5 Right (L1EM:17383068)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547152	VFB_001001oa	CM4 s dor pos com 3 Right (L1EM:14547152)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17352452	VFB_001001sz	BLP12 b s 5 Right (L1EM:17352452)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14981285	VFB_001001qq	DPLc post med s 4 Left (L1EM:14981285)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729131	VFB_001001xg	BLDd s 3 Left (L1EM:17729131)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17733126	VFB_001001yz	TR BAlv s 4 Left (L1EM:17733126)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728707	VFB_001001wg	BAlp ant int s 1 Left  (L1EM:17728707)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14630424	VFB_001001p6	CM4 s MEFcom 6 Right (L1EM:14630424)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-9947504	VFB_001001fw	CM4 s short pos 3 Left (L1EM:9947504)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17545296	VFB_001001uu	BAlp ant s 5 Right (L1EM:17545296)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12570095	VFB_001001j3	DPLam s 1 Right (L1EM:12570095)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-3021394	VFB_001001ds	DPMl12 ant s 7 Right (L1EM:3021394)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728991	VFB_001001x6	BLAvm ant s 1 Left (L1EM:17728991)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17102618	VFB_001001sk	DALcl12 d s 5 Left (L1EM:17102618)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-4126720	VFB_001001dw	BLP34 a s 4 Right (L1EM:4126720)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19352403	VFB_001001zn	DPLc post lat s 5 Left (L1EM:19352403)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729056	VFB_001001x9	BLAv12 pos s 1 Left (L1EM:17729056)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14914152	VFB_001001q7	CPb s 1 Right (L1EM:14914152)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19806028	VFB_0010021q	BLAl s 2 Left (L1EM:19806028)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17629147	VFB_001001vk	BAlp ant s 6 Right (L1EM:17629147)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15078705	VFB_001001r9	DALcm12 v s 6 Left (L1EM:15078705)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13217452	VFB_001001k3	DPMl12 pos s 6 Right (L1EM:13217452)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14448535	VFB_001001ms	CP23 v 5 s Left (L1EM:14448535)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12446997	VFB_001001iq	CP23 ppFB s 1 Left (L1EM:12446997)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-9949264	VFB_001001g2	DPMm1 ppFB s 3 Left (L1EM:9949264)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-8066171	VFB_001001f2	BLVa34 a s 1 Right (L1EM:8066171)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17372894	VFB_001001ti	BLP34 a s 3 Right (L1EM:17372894)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728622	VFB_001001w4	BAlc post s 2 Left (L1EM:17728622)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17352476	VFB_001001t0	DPMpl12 s 2 loSM Right (L1EM:17352476)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12262871	VFB_001001i9	CM4 s ppFB 5 Right (L1EM:12262871)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19375118	VFB_001001zx	DPMm1 ppFB s 2 Right (L1EM:19375118)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10017683	VFB_001001gh	CM4 s dor pos MEF 6 Left (L1EM:10017683)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17583465	VFB_001001vi	BLAl s 4 Right (L1EM:17583465)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728927	VFB_001001wy	Close to BLVa s Left (L1EM:17728927)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17519292	VFB_001001ue	BLDd s 1 Right (L1EM:17519292)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15078624	VFB_001001qx	DALcm12 v s Left (L1EM:15078624)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19376581	VFB_0010020f	DPMpm1 ppFB 1 - Left (L1EM:19376581)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-11030926	VFB_001001hl	DPMpm2 s 3 Left (L1EM:11030926)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729814	VFB_001001y9	BLVa t s 3 Left (L1EM:17729814)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13731104	VFB_001001ky	BAmv12 int s 3 Right (L1EM:13731104)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-9951753	VFB_001001g7	DPMpm1 s 3 Left (L1EM:9951753)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10426321	VFB_001001gw	DALcl12 d s 2 Right (L1EM:10426321)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-8208038	VFB_001001f4	BLVa34 a s 4 Left (L1EM:8208038)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19395704	VFB_0010020w	BAmd2 v s 6 Left (L1EM:19395704)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14546609	VFB_001001n9	DPMl12 ant s 1 Right (L1EM:14546609)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17732880	VFB_001001yw	BAmas12 ven s 2 Left (L1EM:17732880)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547147	VFB_001001o9	CM4 s loSM 8 Right (L1EM:14547147)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17380214	VFB_001001ty	BLVp2 s 4 Right (L1EM:17380214)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13410891	VFB_001001kp	DPMm1 desc s med 2 Right (L1EM:13410891)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728902	VFB_001001ww	BLAv12 ant s 1 Left - GAP! (L1EM:17728902)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728627	VFB_001001w5	BAlc post s 1 Left (L1EM:17728627)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14267175	VFB_001001mg	BAmd1 d s 4 Left (L1EM:14267175)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12880792	VFB_001001jm	BLDc s 4 Right (L1EM:12880792)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12365683	VFB_001001ik	BLVa t s 1 Left (L1EM:12365683)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17519537	VFB_001001ug	BLDd s 3 Right (L1EM:17519537)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14914087	VFB_001001pz	CP23 v s 3 Right (L1EM:14914087)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14720288	VFB_001001pb	CPa s 3 Right (L1EM:14720288)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19361212	VFB_001001zt	DPLc5 s 3 Left (L1EM:19361212)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14751048	VFB_001001ph	DALl1 s 2 Right (L1EM:14751048)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-6156597	VFB_001001es	DALd s 6 Right (L1EM:6156597)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12474032	VFB_001001is	DPMpm1 ppFB 7 - Right (L1EM:12474032)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547406	VFB_001001ox	CPd s 1 Right (L1EM:14547406)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12256567	VFB_001001i8	DPMm1 ppFB s 7 Right (L1EM:12256567)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17560864	VFB_001001vb	DPLc post med s 1 Right (L1EM:17560864)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12488233	VFB_001001iu	DPMm1 ppFB s 7 Left (L1EM:12488233)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728766	VFB_001001wm	BAlp ant s 8 Left  (L1EM:17728766)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19376664	VFB_0010020g	DPMpm2 ppFB 1 - Right (L1EM:19376664)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17377891	VFB_001001tp	BLVa12 a s 1 Right (L1EM:17377891)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17679315	VFB_001001vx	DPLc post lat s 4 Right (L1EM:17679315)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729249	VFB_001001xw	BLP34 b s LEFT REVIEW (L1EM:17729249)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14822335	VFB_001001pr	DALcm12 v s 5 Right (L1EM:14822335)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17371651	VFB_001001tf	BLP12 a s 8 Right (L1EM:17371651)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729458	VFB_001001y8	BLVa34 b s 1 Left (L1EM:17729458)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14724804	VFB_001001pe	DALv23 s 1 Right (L1EM:14724804)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728803	VFB_001001wr	BLD x 3 Left (L1EM:17728803)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-5731448	VFB_001001ei	BAmv12 int s 4 Right (L1EM:5731448)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547296	VFB_001001om	CM13 lat s 3 Right (L1EM:14547296)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14266491	VFB_001001m5	CM4 s ppFB 3 Left (L1EM:14266491)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14822830	VFB_001001ps	DALcm12 m s 2 Right (L1EM:14822830)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13220541	VFB_001001k7	DPMl ant dor nb 1_TODO (L1EM:13220541)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728933	VFB_001001wz	Close to BLVa s Left (L1EM:17728933)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-4126726	VFB_001001dx	BLP34 a s 7 Right (L1EM:4126726)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-11190781	VFB_001001hs	BLVp2 s 1 Left (L1EM:11190781)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14847176	VFB_001001pt	DALcm12 v s 2 Right (L1EM:14847176)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-4663668	VFB_001001ec	BLAd OL s 3 Left (L1EM:4663668)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10994942	VFB_001001hi	DPMm1 upp comm s 2 Left (L1EM:10994942)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15732515	VFB_001001rp	BAmv12 ven s 2 Right (L1EM:15732515)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14265600	VFB_001001lq	CPf s 1 Left (L1EM:14265600)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-9947805	VFB_001001fx	CM4 s dor pos MEF 3 Left (L1EM:9947805)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17371245	VFB_001001tb	BLP12 a s 4 Right (L1EM:17371245)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14546951	VFB_001001nx	DPLc s 9 (L1EM:14546951)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19375193	VFB_0010020a	DPMpm2 ppFB 4 - Right (L1EM:19375193)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15152956	VFB_001001ri	DALd s 7 Right (L1EM:15152956)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728718	VFB_001001wh	BAlp int s 5 Left  (L1EM:17728718)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19393740	VFB_0010020p	BAmd2 v s 2 Left (L1EM:19393740)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12206139	VFB_001001i3	DPMm2 ppFB ant dor s 1 Right (L1EM:12206139)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19395698	VFB_0010020v	BAmd2 s left (L1EM:19395698)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-9856467	VFB_001001fs	CM4 s MEFcom 4 Left  (L1EM:9856467)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14786951	VFB_001001pl	DALcl12 d s 11 Right (L1EM:14786951)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14266277	VFB_001001lr	CM13 med s 4 Left (L1EM:14266277)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15079785	VFB_001001ra	CPb s 3 Left (L1EM:15079785)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17436919	VFB_001001u7	CP23 v s 1 Right (L1EM:17436919)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19539248	VFB_0010021m	DPLc post lat s 6 Left (L1EM:19539248)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12032517	VFB_001001i0	DPMl12 ant s 3 Right (L1EM:12032517)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15078697	VFB_001001r8	BAmv12 dor s 6 Left (L1EM:15078697)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-4204737	VFB_001001e4	DALcm12 v s 4 Right (L1EM:4204737)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19375103	VFB_001001zw	DPMm1 ppFB s 1 Right (L1EM:19375103)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12747607	VFB_001001je	DPLl p s 1 Right (L1EM:12747607)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15078692	VFB_001001r7	BAmv12 dor s 1 Left  (L1EM:15078692)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17634436	VFB_001001vp	TR BAlv s 7 Right (L1EM:17634436)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13345002	VFB_001001kj	DPMpm1 s 5 Right (L1EM:13345002)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14914102	VFB_001001q1	BLP34 b s 7 Right (L1EM:14914102)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19437159	VFB_0010021j	DPLm1 s 1 Left (L1EM:19437159)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728982	VFB_001001x4	SU Left - BL Lineage ? (L1EM:17728982)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14266400	VFB_001001lw	DPLc5 s 1 Left (L1EM:14266400)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17546995	VFB_001001v4	BAla34 s 5 Right (L1EM:17546995)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728879	VFB_001001wv	BLAd ven lat s 2 Left (L1EM:17728879)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-3384681	VFB_001001du	BLP34 a s 1 Right (L1EM:3384681)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12362682	VFB_001001ij	CP23 ppFB s 1 Right (L1EM:12362682)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13411400	VFB_001001kr	DPMm1 s desc med 1 (L1EM:13411400)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14504060	VFB_001001n0	BLP34 a s 3 Left (L1EM:14504060)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14628429	VFB_001001p4	CM4 s ppFB 9 Right (L1EM:14628429)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19539229	VFB_0010021l	DPLc post med s 2 Left (L1EM:19539229)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-8805521	VFB_001001fc	BLAl s 1 Right (L1EM:8805521)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19375183	VFB_001001zy	DPMpm2 ppFB 3 - Right (L1EM:19375183)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17486011	VFB_001001ud	DALcm12 m s 1 Left (L1EM:17486011)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17730115	VFB_001001yd	CPb s 4 Left (L1EM:17730115)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729216	VFB_001001xq	BLP12 a s 9 Left (L1EM:17729216)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17653988	VFB_001001vq	DALv23 s 1 Left (L1EM:17653988)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12727225	VFB_001001jc	BAla12 s 1 Left (L1EM:12727225)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14266559	VFB_001001m7	DPMpm2 s loSM 3 Left (L1EM:14266559)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547086	VFB_001001o6	CM4 s loSM 6 Right (L1EM:14547086)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14546724	VFB_001001ng	DPMpm2 s 2 Right (L1EM:14546724)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15078654	VFB_001001r3	DALcm12 v s 7 Left (L1EM:15078654)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14546885	VFB_001001ns	DPMpl3 s 2 Right (L1EM:14546885)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728642	VFB_001001w7	BAlc post s 4 Left (L1EM:17728642)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547178	VFB_001001oe	CM4 s dor pos com 4 Right (L1EM:14547178)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14977878	VFB_001001ql	DPMl12 ant s 2 Left (L1EM:14977878)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-9954547	VFB_001001gc	CM4 s dor pos com 1 Left (L1EM:9954547)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-9864461	VFB_001001fu	CM4 s dor pos com 4 Left (L1EM:9864461)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10714438	VFB_001001h2	DPMpm2 ppFB 2 - Left (L1EM:10714438)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12995472	VFB_001001jz	DPMl34 pos s 2 Right (L1EM:12995472)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17733134	VFB_001001z0	TR Balv s 1 Left (L1EM:17733134)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12449484	VFB_001001ir	DPMpm2 ppFB 3 - Left (L1EM:12449484)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19359287	VFB_001001zr	BAlv s 2 Left (L1EM:19359287)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-4332495	VFB_001001e7	BLAd OL s 2 Right (L1EM:4332495)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547001	VFB_001001o0	CM4 s GC 2 Right (L1EM:14547001)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17355495	VFB_001001t2	CPb s 1 Left (L1EM:17355495)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14546664	VFB_001001nc	DPMl12 pos s 2 Right (L1EM:14546664)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547396	VFB_001001ov	CP23 v s 6 Right (L1EM:14547396)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17352424	VFB_001001sw	BLP12 a s 1 Right (L1EM:17352424)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729178	VFB_001001xm	BLDc s 1 Left (L1EM:17729178)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17102687	VFB_001001sl	DALcl12 d s 4 Left (L1EM:17102687)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12345792	VFB_001001if	CM4 s ppFB 3 Right (L1EM:12345792)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17736450	VFB_001001z9	BAla34 s 1 Left (L1EM:17736450)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14976953	VFB_001001qj	DPLc ant lat s 1 Left (L1EM:14976953)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12204694	VFB_001001i1	DPMpm1 ppFB 1 - Right (L1EM:12204694)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14821704	VFB_001001pq	DALcm12 v s 7 Right (L1EM:14821704)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547219	VFB_001001oh	DPLc5 s 2 Right (L1EM:14547219)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17545806	VFB_001001v0	BAlc post s 3 Right (L1EM:17545806)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13950873	VFB_001001lh	DAMd23 s 2 Right (L1EM:13950873)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14267037	VFB_001001mb	DAMd1 s 1 Left (L1EM:14267037)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10764796	VFB_001001h4	DPMm1 s Left (L1EM:10764796)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-16461910	VFB_001001ry	BAlc post s 6 Left (L1EM:16461910)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17545878	VFB_001001v2	BAlc post s NB 1 Right  (L1EM:17545878)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10425159	VFB_001001gt	DALcl12 v s 2 Right (L1EM:10425159)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12996024	VFB_001001k0	DPMl34 pos s 1 Right (L1EM:12996024)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14546936	VFB_001001nw	CM4 s loSM 4 Right (L1EM:14546936)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15078590	VFB_001001qu	DALcl12 d s 1 Left (L1EM:15078590)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729073	VFB_001001xb	BLAv12 pos s 3 Left (L1EM:17729073)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13730666	VFB_001001kx	BAmv12 int s 5 Right (L1EM:13730666)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17472365	VFB_001001ub	BAmd1 v s 1 Left (L1EM:17472365)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17360026	VFB_001001t6	DPLal1-3 s 4 Left (L1EM:17360026)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12372419	VFB_001001in	BLVa t s 2 Left (L1EM:12372419)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-18925103	VFB_001001zh	BAlp post s 1 Right (L1EM:18925103)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-9951917	VFB_001001g8	DPMpm1 s 6 Left (L1EM:9951917)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728581	VFB_001001w2	BAla34 s 4 Left  (L1EM:17728581)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729223	VFB_001001xr	BLP12 a s 5 Left (L1EM:17729223)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-7005160	VFB_001001ev	CPd s 2 Left (L1EM:7005160)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14977871	VFB_001001qk	DPMl12 ant s 7 Left (L1EM:14977871)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12992011	VFB_001001jx	DPLc post lat s 7 Right (L1EM:12992011)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17733148	VFB_001001z1	TR BAlv s 5 Left (L1EM:17733148)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19396517	VFB_0010021a	BAmv12 int s 4 Left (L1EM:19396517)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-6192490	VFB_001001et	DALcl12 d s 4 Right (L1EM:6192490)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17882830	VFB_001001zc	DALl1 s 2 Left (L1EM:17882830)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12991032	VFB_001001jw	DPLc post lat s 6 Right (L1EM:12991032)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10903519	VFB_001001h8	DPMpm2 s 1 Left (L1EM:10903519)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-6152239	VFB_001001er	CM4 s MEFcom 1 Right (L1EM:6152239)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17732661	VFB_001001yt	DPMl12 pos s 1 Left (L1EM:17732661)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729141	VFB_001001xi	BLDc s 5 Left (L1EM:17729141)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17560904	VFB_001001vc	DPLc post med s 2 Right (L1EM:17560904)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13836912	VFB_001001ld	BAmd2 v s 1 Right  (L1EM:13836912)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12993051	VFB_001001jy	DPLc post lat s 5 Right (L1EM:12993051)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14423369	VFB_001001ml	CPf s 6 Left (L1EM:14423369)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12845026	VFB_001001ji	DPLc post lat s 1 Right (L1EM:12845026)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14504044	VFB_001001my	BLP34 a s 6 Left (L1EM:14504044)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728998	VFB_001001x7	BLAvm ant s 5 Left (L1EM:17728998)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-6046598	VFB_001001ep	DPMpm2 s loSM 3 Right (L1EM:6046598)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19404939	VFB_0010021e	BAmd1 v s 3 Left (L1EM:19404939)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-5770448	VFB_001001el	BLVp2 s 5 Left (L1EM:5770448)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729105	VFB_001001xd	BLAvm ant s 2 Left (L1EM:17729105)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15078600	VFB_001001qw	DALcm12 v s 7 Left (L1EM:15078600)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-18134183	VFB_001001zf	DALcm12 m s 2 Left (L1EM:18134183)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10466429	VFB_001001gx	DPMpm2 s loSM 1 Left (L1EM:10466429)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-16698716	VFB_001001s6	BLAv12 pos s 2 Right (L1EM:16698716)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17732966	VFB_001001yy	BAmas12 dor s 2 Left  (L1EM:17732966)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728561	VFB_001001w0	BAla34 s 6 Left (L1EM:17728561)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17733182	VFB_001001z4	TR Balv s 2 Left (L1EM:17733182)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15119833	VFB_001001rb	DALd s 4 Left (L1EM:15119833)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-16645923	VFB_001001s4	DPLl p s 4 Left (L1EM:16645923)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14720293	VFB_001001pc	CPf s 2 Right (L1EM:14720293)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13235454	VFB_001001kb	DPMm1 upp comm s 3 Right (L1EM:13235454)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17380305	VFB_001001u0	CP23 v s 5 Right (L1EM:17380305)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728793	VFB_001001wp	BLD x 3 Left (L1EM:17728793)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15387603	VFB_001001rk	CPe s 2 Left (L1EM:15387603)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13410103	VFB_001001ko	DPMm1 s longit med 1 (L1EM:13410103)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-9954421	VFB_001001gb	CM4 s MEFcom 1 Left (L1EM:9954421)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729136	VFB_001001xh	BLDd s 2 Left (L1EM:17729136)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547081	VFB_001001o5	CM4 s loSM 5 Right (L1EM:14547081)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12367466	VFB_001001im	CM4 s dor pos MEF 1 Right (L1EM:12367466)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-16950736	VFB_001001sc	DALd s 1 Right (L1EM:16950736)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728857	VFB_001001wu	BLAd OL s 1 Left (L1EM:17728857)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14504049	VFB_001001mz	BLP12 b s 5 Left (L1EM:14504049)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13238159	VFB_001001kd	DPMm1 s 3 (L1EM:13238159)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17731982	VFB_001001yl	DPLal1-3 s 2 Left (L1EM:17731982)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19433138	VFB_0010021h	DPMl34 ant s 2 Left (L1EM:19433138)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-9816042	VFB_001001fq	CPf s 1 Right (L1EM:9816042)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17355888	VFB_001001t4	BAla34 s 3 Right (L1EM:17355888)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12749099	VFB_001001jf	DPLl i s 1 Right (L1EM:12749099)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17658643	VFB_001001vv	BLVp2 s 8 Right (L1EM:17658643)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14973312	VFB_001001qf	DPLc ant lat s 2 Left (L1EM:14973312)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729311	VFB_001001xx	BLP34 b s 7 Left (L1EM:17729311)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-16938723	VFB_001001s9	CM4 s ppFB 8 Left (L1EM:16938723)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729244	VFB_001001xv	BLP12 a s 6 Left (L1EM:17729244)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17731956	VFB_001001yi	DALl1 s 4 Left (L1EM:17731956)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-8138520	VFB_001001f3	DPLc post med s 4 Right (L1EM:8138520)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14448545	VFB_001001mu	BLVp2 s 2 Left (L1EM:14448545)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19361208	VFB_001001zs	DPLc5 s 2 Left (L1EM:19361208)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17732231	VFB_001001yp	DPLl p s 3 Left (L1EM:17732231)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17777052	VFB_001001zb	DPLp s Left (L1EM:17777052)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728667	VFB_001001wb	BAlp int s 2 Left  (L1EM:17728667)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14546809	VFB_001001nl	CM4 s loSM 1 Right (L1EM:14546809)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-11215773	VFB_001001hu	BLVa12 b s 1 Right (L1EM:11215773)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12978829	VFB_001001jo	DPLc ant lat s 6 Right (L1EM:12978829)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17654936	VFB_001001vt	BLDc s 3 Right (L1EM:17654936)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728954	VFB_001001x3	BLD x 1 s Left (L1EM:17728954)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13217922	VFB_001001k5	DPMl12 pos s 4 Right (L1EM:13217922)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15078585	VFB_001001qt	DALd s 6 Left (L1EM:15078585)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14266395	VFB_001001lv	CM13 med s 7 Left (L1EM:14266395)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14914162	VFB_001001q9	CPc s 1 Right -  Lose at gap (L1EM:14914162)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10425974	VFB_001001gv	DALcl12 d s 1 Right (L1EM:10425974)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19402002	VFB_0010021b	BAmv12 dor s 2 Left (L1EM:19402002)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728761	VFB_001001wl	BAlp ant s 6 Left  (L1EM:17728761)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19139824	VFB_001001zi	DPMpm1 ppFB 4 - Left (L1EM:19139824)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-16491111	VFB_001001rz	DPLc5 s 4 Left (L1EM:16491111)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-9951607	VFB_001001g6	DPMpm2 s NB 2 Left  (L1EM:9951607)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729357	VFB_001001y0	BLP12 b s 3 Left (L1EM:17729357)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-9864536	VFB_001001fv	CM4 s dor pos MEF 2 Left  (L1EM:9864536)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19362116	VFB_001001zu	BLD x 1 s Left (L1EM:19362116)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12207291	VFB_001001i4	DPMpm1 ppFB 3 - Right (L1EM:12207291)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17560221	VFB_001001va	DPLc5 s 3 Right (L1EM:17560221)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12988149	VFB_001001jv	DPMl34 ant s 3 Right (L1EM:12988149)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-11085317	VFB_001001hn	CM4 s GC 1 Left (L1EM:11085317)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728986	VFB_001001x5	BLD x 1 s Left - Gap! (L1EM:17728986)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14546956	VFB_001001ny	CM4 s ven 5 Right (L1EM:14546956)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14266386	VFB_001001lu	CM13 med s 9 Left (L1EM:14266386)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14546714	VFB_001001nf	DPMpm2 s 3 Right (L1EM:14546714)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12343219	VFB_001001id	DPMpm2 ppFB 5 - Right (L1EM:12343219)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17562037	VFB_001001ve	DPLc post lat ant s 5 Right (L1EM:17562037)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14727248	VFB_001001pf	DALl1 s 1 Right (L1EM:14727248)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729316	VFB_001001xy	BLP12 a s 3 Left (L1EM:17729316)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-8706074	VFB_001001fb	BLAd OL s 1 Right (L1EM:8706074)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12702367	VFB_001001j8	DPLc ant lat s 4 Right (L1EM:12702367)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10297957	VFB_001001gn	DPMm1 ppFB s 5 Left (L1EM:10297957)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-4127978	VFB_001001e0	BLP34 b s 4 Right (L1EM:4127978)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17733517	VFB_001001z7	BAmas12 ven s 5 Left (L1EM:17733517)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10284042	VFB_001001gm	DPMm1 desc s med 2 Left (L1EM:10284042)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12283795	VFB_001001ia	CM4 s ppFB 6 Right (L1EM:12283795)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17390827	VFB_001001u5	BLVa t s 2 Right (L1EM:17390827)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14787518	VFB_001001pm	DALcl12 d s 10 Right (L1EM:14787518)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17557234	VFB_001001v8	DPLd s 6 Right (L1EM:17557234)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-11313556	VFB_001001hw	DPMm1 desc s lat 1 Left (L1EM:11313556)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12208050	VFB_001001i6	DPMpm1 ppFB 4 - Right (L1EM:12208050)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15078639	VFB_001001r0	BAmd1 d s 3 Left (L1EM:15078639)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17193070	VFB_001001su	CP1v a s 1 Left (L1EM:17193070)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14851773	VFB_001001pw	BAmd1 v s 2 Right (L1EM:14851773)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547442	VFB_001001p2	CPe s 2 Right (L1EM:14547442)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-21744903	VFB_00102efm	neuron 21744904 (L1EM:21744903)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-11179035	VFB_001001hq	BLVa12 b s 2 Right (L1EM:11179035)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14819319	VFB_001001pp	DALcm12 v s 1 Right (L1EM:14819319)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14266512	VFB_001001m6	DPMpl3 s 2 Left (L1EM:14266512)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13965334	VFB_001001lj	BAmas12 ven s 3 Right (L1EM:13965334)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17545271	VFB_001001ut	BAlp ant s 4 Right (L1EM:17545271)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14981280	VFB_001001qp	DPLc s Left (L1EM:14981280)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-8575183	VFB_001001fa	DPMm1 s 4 (L1EM:8575183)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13840191	VFB_001001lf	BAmd2 v s 8 Right (L1EM:13840191)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17048338	VFB_001001sg	SU neuron s 17048339 (L1EM:17048338)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14423438	VFB_001001mo	DPMpl3 s 1 Left (L1EM:14423438)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17192980	VFB_001001st	CP1v a s 2 Left (L1EM:17192980)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15131659	VFB_001001rd	BLDd s 4 Left (L1EM:15131659)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-4662725	VFB_001001e9	BLAd OL s 4 Right (L1EM:4662725)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15674294	VFB_001001ro	BAlp4 s 1 Right (L1EM:15674294)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14751624	VFB_001001pi	DALl1 s 3 Right (L1EM:14751624)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17354423	VFB_001001t1	DPMl12 ant s 6 Left (L1EM:17354423)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-9235768	VFB_001001fh	DPLc post med s 3 Left (L1EM:9235768)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728566	VFB_001001w1	BAla34 s 2 Left (L1EM:17728566)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14684577	VFB_001001pa	CM13 med s 2 Right (L1EM:14684577)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17376806	VFB_001001tj	TR BAlv s 3 Right (L1EM:17376806)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729211	VFB_001001xp	BLP12 a s 2 Left (L1EM:17729211)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19402006	VFB_0010021c	BAmv12 dor s 8 Left (L1EM:19402006)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13759971	VFB_001001la	BAmd2 v s 2 Right (L1EM:13759971)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19389324	VFB_0010020h	DPLd s 3 Left (L1EM:19389324)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13734435	VFB_001001l3	BAmv12 dor s 6 Right (L1EM:13734435)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17545782	VFB_001001uy	BAlc post s 2 Right (L1EM:17545782)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12751130	VFB_001001jg	DPLl i s 3 Right (L1EM:12751130)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10891371	VFB_001001h7	CM4 s dor pos MEF 5 Left (L1EM:10891371)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547173	VFB_001001od	CM4 s loSM 9 Right (L1EM:14547173)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17732858	VFB_001001yu	BAmas12 ven s 4 Left (L1EM:17732858)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547376	VFB_001001os	CM13 med s 1 Right (L1EM:14547376)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15078649	VFB_001001r2	DALcm12 v s 5 Left (L1EM:15078649)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14266761	VFB_001001m9	DPMl12 ant s 8 Left (L1EM:14266761)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728939	VFB_001001x0	Close to BLVa s Left (L1EM:17728939)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19422319	VFB_0010021f	BLP12 b s 4 Left (L1EM:19422319)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-18059683	VFB_001001zd	BLAd ven lat s 1 Left (L1EM:18059683)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13841014	VFB_001001lg	BAmd2 v s 7 Right (L1EM:13841014)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17545868	VFB_001001v1	BAlc post s 7 Right (sp) (L1EM:17545868)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547189	VFB_001001of	CM4 s loSM 10 Right (L1EM:14547189)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17378469	VFB_001001tq	DPLal1-3 s 2 Right (L1EM:17378469)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10712085	VFB_001001h1	DPMpm2 ppFB 4 - Left (L1EM:10712085)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728546	VFB_001001vy	BAla12 s 2 Left (L1EM:17728546)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17437048	VFB_001001u8	CPc s 2 Right- Lost at Gap (L1EM:17437048)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17545755	VFB_001001uw	BAlc post s 8 Right (L1EM:17545755)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-9948629	VFB_001001fz	DPMm1 ppFB s 1 Left (L1EM:9948629)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728662	VFB_001001wa	BAlp int s 6 Left (L1EM:17728662)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10995187	VFB_001001hj	DPMm1 Left (L1EM:10995187)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10300139	VFB_001001go	DPMm1 s NB 1 Left (L1EM:10300139)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13726190	VFB_001001kv	BAla34 s 2 Right (L1EM:13726190)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-4663662	VFB_001001eb	BLAd OL s 5 Left (L1EM:4663662)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19376564	VFB_0010020d	DPMpm1 ppFB 7 - Left (L1EM:19376564)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-7693659	VFB_001001f1	CPb s 4 Right CP2/3d obPl 13 (L1EM:7693659)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-9236353	VFB_001001fi	DPLc post med s 1 Left (L1EM:9236353)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14546895	VFB_001001nt	CM4 s ven 6 Right (L1EM:14546895)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-20443342	VFB_0010021s	BLP3/4 b s RIGHT SU Neuron* NEW (L1EM:20443342)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13760269	VFB_001001lb	BAmd2 v s 4 Right (L1EM:13760269)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19389333	VFB_0010020j	DPLd s 5 Left (L1EM:19389333)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728586	VFB_001001w3	BAla34 s 3 Left (L1EM:17728586)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13389208	VFB_001001km	DPLc post lat ant s 1 Right (L1EM:13389208)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17390746	VFB_001001u3	BLVa t s 4 Right (L1EM:17390746)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547066	VFB_001001o4	CM4 s ven 7 Right (L1EM:14547066)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19193066	VFB_001001zj	neuron 19193067 (L1EM:19193066)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12290287	VFB_001001ic	CM4 s ppFB 7 Right (L1EM:12290287)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729431	VFB_001001y5	BLVa34 a s 1 Left (L1EM:17729431)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13241784	VFB_001001kf	DPMm1 s 1 (L1EM:13241784)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17390884	VFB_001001u6	BLVa t s 3 Right (Lost to Gap) (L1EM:17390884)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14448540	VFB_001001mt	BLP34 a s 5 Left (L1EM:14448540)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14271622	VFB_001001mh	CM13 med s 3 Left (L1EM:14271622)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14749848	VFB_001001pg	DALl1 s 4 Right (L1EM:14749848)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17732203	VFB_001001ym	DPLl i s 2 Left (L1EM:17732203)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13202894	VFB_001001k1	DPLam s 1 Left (L1EM:13202894)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547401	VFB_001001ow	CPf s 3 Right (L1EM:14547401)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-9947921	VFB_001001fy	CM4 s ppFB 6 Left (L1EM:9947921)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17544330	VFB_001001um	BLAvm ant s 5 Right (L1EM:17544330)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-9954202	VFB_001001g9	CM4 s short pos 1 Left (L1EM:9954202)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17102940	VFB_001001sp	DALcl12 d s 10 Left (L1EM:17102940)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13967587	VFB_001001lm	BAmas12 ven s 1 Right (L1EM:13967587)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13734996	VFB_001001l6	BAmv12 dor s 8 Right (L1EM:13734996)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14914157	VFB_001001q8	CPb s 3 Right (L1EM:14914157)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-5759393	VFB_001001ek	BLVp2 s 3 Left (L1EM:5759393)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14266471	VFB_001001m2	CM4 s short pos 4 Left (L1EM:14266471)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10919351	VFB_001001h9	DPMpm2 s loSM 4 Left (L1EM:10919351)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-9954298	VFB_001001ga	CM4 s ven 1 Left (L1EM:9954298)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728809	VFB_001001ws	BLD x 3 Left (L1EM:17728809)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13734815	VFB_001001l5	BAmv12 dor s 7 Right (L1EM:13734815)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-11509597	VFB_001001hy	DPMpm1 s 4 Right (L1EM:11509597)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15078629	VFB_001001qy	DALcm12 v s 1 Left (L1EM:15078629)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14504039	VFB_001001mx	BLP12 b s 1 Left (L1EM:14504039)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547157	VFB_001001ob	CM4 s GC 4 Right (L1EM:14547157)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17545766	VFB_001001ux	BAlc post s 5 Right (L1EM:17545766)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14914072	VFB_001001py	CP23 v s 2 Right (L1EM:14914072)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14266481	VFB_001001m3	CM4 s ppFB 5 Left (L1EM:14266481)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17562001	VFB_001001vd	DPLc post lat ant s 2 Right (L1EM:17562001)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12984739	VFB_001001js	DPLd s 3 Right (L1EM:12984739)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19375019	VFB_001001zv	CM4 s ppFB 1 Right (L1EM:19375019)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14265548	VFB_001001lo	CM13 med s 2 Left (L1EM:14265548)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14423394	VFB_001001mm	CPf s 3 Left (L1EM:14423394)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17378636	VFB_001001ts	DPMl12 pos s 1 Right (L1EM:17378636)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12615701	VFB_001001j5	BLAl s 2 Right (L1EM:12615701)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19428881	VFB_0010021g	DPLc post lat ant s 1 Left (L1EM:19428881)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14914112	VFB_001001q2	BLP34 a s 9 Right (L1EM:14914112)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12345237	VFB_001001ie	DPMpm2 s 1 Right (L1EM:12345237)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729387	VFB_001001y3	BLP34 b s 1 Left (L1EM:17729387)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15077059	VFB_001001qr	DPMl12 ant s 3 Left (L1EM:15077059)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17732214	VFB_001001yn	DPLl p s 1 Left (L1EM:17732214)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14546864	VFB_001001np	DPMpl3 s 1 Right (L1EM:14546864)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547046	VFB_001001o3	CM4 s short pos 4 Right (L1EM:14547046)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17555058	VFB_001001v6	BAmv12 int s 2 Right (L1EM:17555058)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13729664	VFB_001001kw	BAmv12 dor s 4 Right (L1EM:13729664)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-5818143	VFB_001001em	DALcm12 v s 6 Right (L1EM:5818143)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547167	VFB_001001oc	DPLc5 s 4 Right (L1EM:14547167)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12361947	VFB_001001ii	DPMm1 ppFB s 6 Left (L1EM:12361947)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12445523	VFB_001001ip	CM4 s ppFB 2 Left (L1EM:12445523)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17343664	VFB_001001sv	CM13 med s 8 Left (L1EM:17343664)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13340343	VFB_001001kg	DPMm1 upp comm s 5 Right (L1EM:13340343)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10014485	VFB_001001ge	CM4 s loSM 5 Left (L1EM:10014485)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13218289	VFB_001001k6	DPMl12 pos s 3 Right (L1EM:13218289)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-11463379	VFB_001001hx	CM4 s ven 2 Right (L1EM:11463379)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-5594467	VFB_001001eh	BAmas12 dor s 1 Right (L1EM:5594467)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10888799	VFB_001001h6	CM4 s loSM 3 Left (L1EM:10888799)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10269309	VFB_001001gk	DPMm1 ppFB s 4 Left (L1EM:10269309)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17371662	VFB_001001tg	BLP12 a s 9 Right (L1EM:17371662)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14630736	VFB_001001p7	CM4 s dor pos MEF 6 Right (L1EM:14630736)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17733525	VFB_001001z8	BAmas12 ven s 1 Left (L1EM:17733525)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-16698702	VFB_001001s5	BLAv12 pos s 3 Right (L1EM:16698702)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17731961	VFB_001001yj	DALl1 s 1 Left (L1EM:17731961)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14977890	VFB_001001qm	DPMl12 ant s 1 Left (L1EM:14977890)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17732864	VFB_001001yv	BAmas12 ven s 3 Left (L1EM:17732864)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19376569	VFB_0010020e	DPMpm1 ppFB 3 - Left (L1EM:19376569)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547214	VFB_001001og	CM4 s MEFcom 2 Right (L1EM:14547214)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14973282	VFB_001001qa	DPMl34 ant s 2 Left (L1EM:14973282)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17562098	VFB_001001vg	DPLc post lat ant s 4 Right (L1EM:17562098)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12385468	VFB_001001io	BLVa t s 4 Left (L1EM:12385468)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19389343	VFB_0010020k	DPLd s 1 Left (L1EM:19389343)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14267170	VFB_001001mf	BAmd2 v s 1 Left (L1EM:14267170)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10945119	VFB_001001hd	BLVp2 s 5 Right (L1EM:10945119)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-9698215	VFB_001001fp	CM4 s MEFcom 2 Left  (L1EM:9698215)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14546674	VFB_001001nd	DPMpl12 s NB 1 Right (L1EM:14546674)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17376857	VFB_001001tn	TR BAlv s 5 Right (L1EM:17376857)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17730092	VFB_001001yb	CPb s 5 Left (L1EM:17730092)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19352392	VFB_001001zl	DPLc post lat s 1 Left (L1EM:19352392)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17545195	VFB_001001up	BAlp post s 4 Right (L1EM:17545195)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14423348	VFB_001001mk	CPc s 1 Left (L1EM:14423348)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547239	VFB_001001oj	CM13 med s 4 Right (L1EM:14547239)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-16544705	VFB_001001s2	BAmv12 ven s 1 Left (L1EM:16544705)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17731941	VFB_001001yg	DALl1 s 5 Left; NB? (L1EM:17731941)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13966425	VFB_001001lk	BAmas12 ven s 2 Right (L1EM:13966425)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15153709	VFB_001001rj	DALd s 8 Right (L1EM:15153709)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13732551	VFB_001001kz	BAmv12 dor s 1 Right (L1EM:13732551)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17730159	VFB_001001yf	CP23 v s 2 Left (L1EM:17730159)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-4127963	VFB_001001dy	BLP34 b s 5 Right (L1EM:4127963)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10015661	VFB_001001gf	CM4 s MEFcom 5 Left (L1EM:10015661)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729228	VFB_001001xs	BLP12 a s 4 Left (L1EM:17729228)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12702656	VFB_001001j9	DPLd s 4 Right (L1EM:12702656)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17370898	VFB_001001t8	BLP12 b s 1 Right (L1EM:17370898)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17544220	VFB_001001ui	BLAvm ant s 1 Right (L1EM:17544220)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-9696888	VFB_001001fo	CM4 s MEFcom 6 Left (L1EM:9696888)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17356020	VFB_001001t5	BAla34 s 1 Right (L1EM:17356020)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14504024	VFB_001001mv	BLP34 b s 3 Left (L1EM:14504024)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14914117	VFB_001001q3	CP23 v s 4 Right (L1EM:14914117)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14979933	VFB_001001qn	DPLc ant lat s 5 Left (L1EM:14979933)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19375188	VFB_001001zz	DPMpm2 ppFB 2 - Right (L1EM:19375188)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12704599	VFB_001001jb	DPLd s 5 Right (L1EM:12704599)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547254	VFB_001001ok	CM13 med s 9 Right (L1EM:14547254)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728776	VFB_001001wo	BAlp4 s 1 Left   (L1EM:17728776)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14914142	VFB_001001q6	CP23 v s 7 Right (L1EM:14914142)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17634397	VFB_001001vn	BAlv s 1 Right (L1EM:17634397)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10920017	VFB_001001ha	DPMpm2 s NB 1 Left (L1EM:10920017)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729062	VFB_001001xa	BLAv12 pos s 4 Left (L1EM:17729062)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729146	VFB_001001xj	BLDc s 6 Left (L1EM:17729146)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14546614	VFB_001001na	DPMl12 ant s 2 Right (L1EM:14546614)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728852	VFB_001001wt	BLAd OL s 2 Left (L1EM:17728852)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-4663219	VFB_001001ea	BLAd OL s 4 Left (L1EM:4663219)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13407007	VFB_001001kn	DPMm1 s longit med 2 (L1EM:13407007)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14546579	VFB_001001n8	DPMl12 ant s 4 Right (L1EM:14546579)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12570525	VFB_001001j4	DALl1 s 6 Right (L1EM:12570525)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12347886	VFB_001001ih	CM4 s ppFB 4 Right (L1EM:12347886)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12530013	VFB_001001ix	CM4 s ppFB 1 Left (L1EM:12530013)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12981110	VFB_001001jq	DPLc ant lat s 5 Right (L1EM:12981110)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17377722	VFB_001001to	DALl1 s 7 Right (L1EM:17377722)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10011972	VFB_001001gd	CM4 s loSM 4 Left (L1EM:10011972)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-4224044	VFB_001001e6	BLAd OL s 3 Right (L1EM:4224044)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17730121	VFB_001001ye	CPb s 2 Left (L1EM:17730121)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19806024	VFB_0010021p	BLAl s 1 Left (L1EM:19806024)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729370	VFB_001001y1	BLP34 a s 1 Left (L1EM:17729370)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13734645	VFB_001001l4	BAmv12 int s 1 Right (L1EM:13734645)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12846265	VFB_001001jj	DPLc post lat s 2 Right (L1EM:12846265)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14973453	VFB_001001qh	DPMl34 pos s 1 Left (L1EM:14973453)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14423489	VFB_001001mp	s Left (L1EM:14423489)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17390766	VFB_001001u4	BLVa t s 1 Right (L1EM:17390766)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19396494	VFB_0010020x	BAmv12 dor s 7 Left (L1EM:19396494)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17544238	VFB_001001uj	BLAvm ant s 2 Right (L1EM:17544238)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17102547	VFB_001001sj	DALcl12 d s 6 Left (L1EM:17102547)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17371530	VFB_001001te	BLP12 a s 10 Right (L1EM:17371530)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17545234	VFB_001001us	BAlp ant s 3 Right (L1EM:17545234)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12618333	VFB_001001j6	BLAl s 3 Right (L1EM:12618333)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17545164	VFB_001001un	BAlp post s 2 Right (L1EM:17545164)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12549257	VFB_001001j2	DPLal1-3 s 1 Right (L1EM:12549257)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547336	VFB_001001or	CM13 med s 10 Right (L1EM:14547336)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17560205	VFB_001001v9	DPLc5 s 1 Right (L1EM:17560205)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728907	VFB_001001wx	BLAv12 ant s 2Left - Gap (L1EM:17728907)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10138514	VFB_001001gj	DALcl12 v s 1 Right (L1EM:10138514)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19437152	VFB_0010021i	DPLm2 s 1 Left (L1EM:19437152)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19357994	VFB_001001zp	BAmas12 dor s 3 Left (possible ven) (L1EM:19357994)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14849956	VFB_001001pv	BAmd1 v s 1 Right (L1EM:14849956)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13234841	VFB_001001k9	DPMm1 s Right (L1EM:13234841)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-7373095	VFB_001001f0	BAmd1 d s 3 Right (L1EM:7373095)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13341065	VFB_001001kh	DPMm1 ant comm s 1 Right (L1EM:13341065)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-8814452	VFB_001001fd	BAmv12 int s 6 Left (L1EM:8814452)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15867651	VFB_001001rt	DPLc post lat ant s 2 Left (L1EM:15867651)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10017968	VFB_001001gi	CM4 s ven 2 Left (L1EM:10017968)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12745233	VFB_001001jd	DPLl a s 1 (L1EM:12745233)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14546829	VFB_001001nm	CM4 s loSM 2 Right (L1EM:14546829)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17732251	VFB_001001yq	DPLl i s 1 Left (L1EM:17732251)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728677	VFB_001001wd	BAlp post s 1 Left  (L1EM:17728677)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14720300	VFB_001001pd	CPd s 3 Right (L1EM:14720300)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-8943298	VFB_001001fg	BLVa34 a s 3 Right (L1EM:8943298)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17732486	VFB_001001yr	DPMl12 pos s 2 Left (L1EM:17732486)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14914097	VFB_001001q0	BLP12 b s 2 Right (L1EM:14914097)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12289177	VFB_001001ib	CM4 s ven 3 Right (L1EM:12289177)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19359257	VFB_001001zq	BAlv s 1 Left (L1EM:19359257)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14504029	VFB_001001mw	CP23 v s 1 Left (L1EM:14504029)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15078659	VFB_001001r4	DALcm12 v s 2 Left (L1EM:15078659)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17634407	VFB_001001vo	BAlv s 2 Right (L1EM:17634407)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10302790	VFB_001001gp	BLAd ven lat s 2 Right (L1EM:10302790)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14914137	VFB_001001q5	CPb s 5 Right (L1EM:14914137)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14504065	VFB_001001n1	BLP34 a s 2 Left  (L1EM:14504065)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729116	VFB_001001xe	BLAvm ant s 3 Left (L1EM:17729116)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728672	VFB_001001wc	BAlp int s 4 Left  (L1EM:17728672)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17371351	VFB_001001td	BLP12 a s 6 Right (L1EM:17371351)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12532152	VFB_001001iz	DPMm1 ppFB s 5 Right (L1EM:12532152)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12979804	VFB_001001jp	DPLc ant lat s 3 Right (L1EM:12979804)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-16547306	VFB_001001s3	BAmv12 ven s 3 Left (L1EM:16547306)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14973297	VFB_001001qc	DPMl12 ant s 5 Left (L1EM:14973297)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10303172	VFB_001001gq	BLAd ven lat s 1 Right (L1EM:10303172)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547291	VFB_001001ol	CM13 med s 8 Right (L1EM:14547291)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17470004	VFB_001001u9	DPMpm1 s 1 Left (L1EM:17470004)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14266565	VFB_001001m8	CM4 s GC 4 Left (L1EM:14266565)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19393736	VFB_0010020o	BAmd2 v s 4 Left (L1EM:19393736)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-16014372	VFB_001001rv	BLD x 3 Left (L1EM:16014372)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14546734	VFB_001001nh	CM4 s MEFcom 5 Right (L1EM:14546734)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14786448	VFB_001001pk	DALcl12 d s 8 Right (L1EM:14786448)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14265559	VFB_001001lp	CM13 med s 1 Left (L1EM:14265559)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15139341	VFB_001001re	BAmd1 d s 2 Left (L1EM:15139341)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729206	VFB_001001xo	BLP12 a s 8 Left (L1EM:17729206)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14973307	VFB_001001qe	DPLc ant lat s 3 Left (L1EM:14973307)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14546926	VFB_001001nv	CM4 s dor pos MEF 5 Right (L1EM:14546926)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14973317	VFB_001001qg	DPLc ant lat s 4 Left (L1EM:14973317)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12985971	VFB_001001jt	DPMl34 ant s 1 Right (L1EM:12985971)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19395651	VFB_0010020t	BAmv12 int s 5 Left (L1EM:19395651)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728950	VFB_001001x2	BLD x 1 s Left (L1EM:17728950)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17114027	VFB_001001ss	BLVa12 a s 1 Left (L1EM:17114027)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10414455	VFB_001001gs	CM4 s loSM 1 Left (L1EM:10414455)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14976461	VFB_001001qi	DPLc ant lat s 6 Left (L1EM:14976461)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-7005168	VFB_001001ew	CPd s 1 Left (L1EM:7005168)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19389353	VFB_0010020m	DPLd s 2 Left (L1EM:19389353)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17732589	VFB_001001ys	DPMl12 pos s 3 Left (L1EM:17732589)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-11190809	VFB_001001ht	BLP34 b s 2 Left (L1EM:11190809)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14504075	VFB_001001n3	BLVp2 s 4 Left (L1EM:14504075)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728747	VFB_001001wj	BAlp ant s 5 Left  (L1EM:17728747)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13758977	VFB_001001l9	BAmd2 v s 5 Right (L1EM:13758977)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17733172	VFB_001001z3	TR BAlv s 6 Left (L1EM:17733172)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14546874	VFB_001001nq	CM4 s loSM 3 Right (L1EM:14546874)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547381	VFB_001001ot	CM13 med s 3 Right (L1EM:14547381)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12986939	VFB_001001ju	DPMl34 ant s 2 Right (L1EM:12986939)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-11126336	VFB_001001hp	DPMm1 ppFB s 3 Right (L1EM:11126336)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19352379	VFB_001001zk	BLAl s 5 Left (L1EM:19352379)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19393744	VFB_0010020q	BAmd2 v s 8 Left (L1EM:19393744)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-11095260	VFB_001001ho	CM4 s loSM 6 Left (L1EM:11095260)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547101	VFB_001001o8	CM4 s dor pos com 2 Right (L1EM:14547101)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17475177	VFB_001001uc	DPMm1 s Left (L1EM:17475177)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-9949160	VFB_001001g0	Close to DPM SU Left (L1EM:9949160)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547306	VFB_001001oo	CPf s 5 Right (L1EM:14547306)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15078580	VFB_001001qs	DALd s 5 Left (L1EM:15078580)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-18853138	VFB_001001zg	CM4 s short pos 3 Right (L1EM:18853138)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-4127975	VFB_001001dz	BLP34 b s 6 Right (L1EM:4127975)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19701236	VFB_0010021o	BLAl s 3 Left (L1EM:19701236)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-9347019	VFB_001001fm	DALcl12 d s 9 Right (L1EM:9347019)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19396502	VFB_0010020y	BAmv12 int s 3 Left (L1EM:19396502)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17390677	VFB_001001u2	BLVa t s 5 Right (L1EM:17390677)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14973287	VFB_001001qb	DPMl34 ant s 1 Left (L1EM:14973287)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547301	VFB_001001on	CM13 lat s 5 Right (L1EM:14547301)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14877179	VFB_001001px	DAMd1 s 1 Right (L1EM:14877179)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14266405	VFB_001001lx	DPLc5 s 5 Left (L1EM:14266405)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14423494	VFB_001001mq	DAMd23 s 2 Left (L1EM:14423494)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-9689371	VFB_001001fn	CM13 lat s 2 Right (L1EM:9689371)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13734146	VFB_001001l2	BAmv12 dor s 5 Right (L1EM:13734146)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17545179	VFB_001001uo	BAlp post s 3 Right (L1EM:17545179)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-8574334	VFB_001001f9	DPMm1 upp comm s 2 Right (L1EM:8574334)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17022787	VFB_001001se	DALd s 2 Right (L1EM:17022787)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729394	VFB_001001y4	BLVa12 a s 2 Left (L1EM:17729394)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17352444	VFB_001001sy	BLP12 a s 3 Right (L1EM:17352444)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17110221	VFB_001001sr	DALcl12 v s 1 Left (L1EM:17110221)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17731951	VFB_001001yh	DALl1 s 3 Left (L1EM:17731951)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-9345728	VFB_001001fl	DALcl12 d s 6 Right (L1EM:9345728)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14266451	VFB_001001m1	CM4 s dor pos MEF 1 Left (L1EM:14266451)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19389347	VFB_0010020l	DPLd s 4 Left (L1EM:19389347)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-16784307	VFB_001001s8	CP23 v s 8 Right (L1EM:16784307)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17545203	VFB_001001uq	BAlp ant s 1 Right (L1EM:17545203)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17629156	VFB_001001vl	BAlp ant s 7 Right (L1EM:17629156)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547234	VFB_001001oi	CM4 s dor pos MEF 4 Right (L1EM:14547234)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10711658	VFB_001001h0	DPMpm2 s 2 Left (L1EM:10711658)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729151	VFB_001001xk	BLDc s 2 Left (L1EM:17729151)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729190	VFB_001001xn	BLDc s 4 Left (L1EM:17729190)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17372181	VFB_001001th	BLP12 a s 7 Right (L1EM:17372181)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-4990529	VFB_001001ed	neuron  s 4990530 (L1EM:4990529)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19402010	VFB_0010021d	BAmv12 ven s 2 Left (L1EM:19402010)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14423343	VFB_001001mj	CPf s 4 Left (L1EM:14423343)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12207495	VFB_001001i5	DPMm2 ppFB ant dor s 2 Right  (L1EM:12207495)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17547011	VFB_001001v5	BAla34 s 6 Right (L1EM:17547011)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17732900	VFB_001001yx	BAmas12 dor s 1 Left (L1EM:17732900)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12877880	VFB_001001jl	BLDc s 1 Right (L1EM:12877880)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12546782	VFB_001001j0	DPLal-13 s 3 Right (L1EM:12546782)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17376835	VFB_001001tl	TR BAlv s 6 Right (L1EM:17376835)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12982435	VFB_001001jr	DPLd s 2 Right (L1EM:12982435)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-8555954	VFB_001001f7	BLP34 a s 8 Right (L1EM:8555954)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15868439	VFB_001001ru	DPLc post lat ant s 4 Left (L1EM:15868439)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-9951197	VFB_001001g5	DPMm1 Left (L1EM:9951197)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-11032107	VFB_001001hm	SU neuron s 11032108 left (L1EM:11032107)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-16046580	VFB_001001rw	BLVa12 b s 1 Left (L1EM:16046580)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-9289231	VFB_001001fj	DPLm1 s 1 Right (L1EM:9289231)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15078687	VFB_001001r6	BAmd1 v s 4 Left (L1EM:15078687)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17654911	VFB_001001vr	BLDc s 5 Right (L1EM:17654911)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17380013	VFB_001001tw	BLVp2 s 1 Right (L1EM:17380013)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-5904499	VFB_001001en	DALcl12 d s 11 Left (L1EM:5904499)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729233	VFB_001001xt	BLP12 a s 7 Left (L1EM:17729233)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728737	VFB_001001wi	BAlp ant s 3 Left  (L1EM:17728737)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15139746	VFB_001001rf	BAmv12 dor s 4 Left (L1EM:15139746)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14546779	VFB_001001nk	DPMpl12 s 1 Right (L1EM:14546779)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14546549	VFB_001001n6	DPMl12 ant s 6 Right (L1EM:14546549)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729156	VFB_001001xl	BLDc s 3 Left (L1EM:17729156)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728944	VFB_001001x1	BLD x 1 s Left (L1EM:17728944)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19538646	VFB_0010021k	BLAl s 4 Left (L1EM:19538646)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15582537	VFB_001001rm	CPe s 1 Right (L1EM:15582537)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14546749	VFB_001001ni	CM4 s ven 4 Right (L1EM:14546749)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17654921	VFB_001001vs	BLDc s 2 Right (L1EM:17654921)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-9950404	VFB_001001g3	DPMm1 Left (L1EM:9950404)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17545905	VFB_001001v3	BAlc post s 1 Right (L1EM:17545905)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17523403	VFB_001001uh	DPLl p s 2 Right (L1EM:17523403)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728657	VFB_001001w9	BAlp int s 3 Left  (L1EM:17728657)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17519416	VFB_001001uf	BLDd s 2 Right (L1EM:17519416)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19352411	VFB_001001zo	DPLc post lat s 2 Left (L1EM:19352411)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15078644	VFB_001001r1	DALcm12 v s 4 Left (L1EM:15078644)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14266430	VFB_001001lz	CM4 s ppFB 4 Left (L1EM:14266430)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547311	VFB_001001op	CM13 med s 7 Right (L1EM:14547311)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-16544689	VFB_001001s0	BAmv12 int s 7 Left (L1EM:16544689)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14266284	VFB_001001ls	CM13 med s 5 Left (L1EM:14266284)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-4127984	VFB_001001e1	BLP34 b s 3 Right (L1EM:4127984)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17376845	VFB_001001tm	TR BAlv s 2 Right (L1EM:17376845)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13967121	VFB_001001ll	BAmas12 ven s 4 Right (L1EM:13967121)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13234578	VFB_001001k8	DPMm1 s Right (L1EM:13234578)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15078682	VFB_001001r5	BAmd1 v s 2 Left (L1EM:15078682)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17379283	VFB_001001tv	CM4-dm Tiny a right; CM4 dor med_r; CM4 dor ant 5 (L1EM:17379283)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10425567	VFB_001001gu	DALcl12 d s 5 Right (L1EM:10425567)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17658847	VFB_001001vw	BLV x 1 s Right (L1EM:17658847)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-9318513	VFB_001001fk	CP23 v s 6 Left (L1EM:9318513)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-4211235	VFB_001001e5	DALcm12 v s 3 Right (L1EM:4211235)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729436	VFB_001001y6	BLVa34 a s 3 Left (L1EM:17729436)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12208798	VFB_001001i7	DPMpm1 ppFB 6 - Right (L1EM:12208798)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-11190385	VFB_001001hr	BLP34 a s 4 Left (L1EM:11190385)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-16950404	VFB_001001sb	DALd s 4 Right (L1EM:16950404)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13974142	VFB_001001ln	TR BAlv s 4 Right (L1EM:13974142)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-7371869	VFB_001001ey	BAmd1 d s 2 Right (L1EM:7371869)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14546704	VFB_001001ne	DPMpm2 s NB 2 Right (L1EM:14546704)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12701593	VFB_001001j7	DPLc ant lat s 2 Right (L1EM:12701593)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19396510	VFB_0010020z	BAmv12 int s 1 Left (L1EM:19396510)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10961772	VFB_001001he	DPMm2 ppFB ant dor s 1 Left (L1EM:10961772)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14546834	VFB_001001nn	CM4 s MEFcom 3 Right (L1EM:14546834)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15078634	VFB_001001qz	DALcm12 v s 3 Left (L1EM:15078634)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10763235	VFB_001001h3	DPMm1 s NB Left (L1EM:10763235)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15825924	VFB_001001rs	DPLc post lat s 4 Left (L1EM:15825924)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10533010	VFB_001001gy	BLP34 b s 8 Left (L1EM:10533010)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729126	VFB_001001xf	BLDd s 1 Left (L1EM:17729126)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15825481	VFB_001001rr	DPLc post lat ant s 3 Left (L1EM:15825481)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-9949223	VFB_001001g1	DPMm1 ppFB s 2 Left (L1EM:9949223)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17588631	VFB_001001vj	DPLc post med s 3 Right (L1EM:17588631)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728690	VFB_001001wf	BAlp int s 1 Left  (L1EM:17728690)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547091	VFB_001001o7	CM4 s loSM 7 Right (L1EM:14547091)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-5517913	VFB_001001ef	BAla12 s 1 Right (L1EM:5517913)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728756	VFB_001001wk	BAlp ant s 7 Left  (L1EM:17728756)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14266486	VFB_001001m4	CM4 s ven 3 Left (L1EM:14266486)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-11311591	VFB_001001hv	DPMm1 Left (L1EM:11311591)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17733164	VFB_001001z2	TR BAlv s 7 Left (L1EM:17733164)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14547411	VFB_001001oy	CPd s 4 Right (L1EM:14547411)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17729341	VFB_001001xz	BLP12 b s 2 Left (L1EM:17729341)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13756873	VFB_001001l8	BAmd2 d s 1 Right (L1EM:13756873)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14267160	VFB_001001me	DAMd23 s 1 Left (L1EM:14267160)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14981042	VFB_001001qo	DPMl12 pos s 5 Left (L1EM:14981042)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-19376548	VFB_0010020b	DPMpm1 ppFB 2 - Left (L1EM:19376548)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17102765	VFB_001001sn	DALcl12 v s 3 Left (L1EM:17102765)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17744059	VFB_001001za	BLDd s 4 Right (L1EM:17744059)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-12549053	VFB_001001j1	DPLal1-3 s 4 Right (L1EM:12549053)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17728647	VFB_001001w8	BAlp ant s 2  Left  (L1EM:17728647)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13838330	VFB_001001le	BAmd2 v s 3 Right (L1EM:13838330)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14266964	VFB_001001ma	DPMm1 ant comm s 1 Left (L1EM:14266964)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14546774	VFB_001001nj	CM4 s short pos 1 Right (L1EM:14546774)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10974309	VFB_001001hf	DPMpm1 s 4 Left (L1EM:10974309)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-14973302	VFB_001001qd	DPMl12 pos s 4 Left (L1EM:14973302)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10939614	VFB_001001hc	non-neuron? 10939615 (L1EM:10939614)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13733436	VFB_001001l0	BAmv12 dor s 2 Right (L1EM:13733436)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-17048093	VFB_001001sf	Neuron 17048094 immature (L1EM:17048093)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10794801	VFB_001001h5	DPMpm1 ppFB 5 - Right (L1EM:10794801)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-5999941	VFB_001001eo	DPMpm2 s loSM 1 Right (L1EM:5999941)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15140301	VFB_001001rh	BAmv12 dor s 3 Left (L1EM:15140301)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13237321	VFB_001001kc	DPMm1 upp comm s 1 Right (L1EM:13237321)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-5757817	VFB_001001ej	BLVp2 s 7 Right ; telegoro-like (L1EM:5757817)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-15583282	VFB_001001rn	CPe s 1 Left (L1EM:15583282)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10993787	VFB_001001hh	DPMm1 upp comm s 1 Left (L1EM:10993787)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-13735199	VFB_001001l7	BAmv12 dor s 9 Right (L1EM:13735199)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-3755622	VFB_001001dv	DPMpm1 s left (L1EM:3755622)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10993782	VFB_001001hg	DPMm1 upp comm s 3 Left (L1EM:10993782)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
-10577349	VFB_001001gz	DPMm1 upp comm s 5 Left (L1EM:10577349)	Andrade2019	catmaid_l1em	part_of	larval nervous system	cp390
+subject_id	subject_name	DataSet	relation	object	Curator
+VFB_001001n7	DPMl12 ant s 5 Right (L1EM:14546554)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001iw	DPMm2 ppFB ant dor s 2 Left  (L1EM:12498192)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ly	CM4 s GC 5 Left (L1EM:14266415)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ya	CPa s 2 Left (L1EM:17729822)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001po	DALcl12 d s 3 Right (L1EM:14797204)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001k4	DPMl12 pos s 5 Right (L1EM:13217639)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ou	CM13 lat s 4 Right (L1EM:14547391)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001g4	DPMm1 upp comm s 4 Left (L1EM:9950816)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001gg	CM4 s short pos 2 Left (L1EM:10017669)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001hz	DPMpm1 s 2 Right (L1EM:11509767)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001kt	DPMm1 s 2 (L1EM:13454509)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001rx	BAmas12 ven s 5 Right (L1EM:16318947)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001uv	BAlc post s 6 Right (L1EM:17545744)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001v7	DPLd s 7 Right (L1EM:17557183)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001i2	DPMpm1 ppFB 2 - Right (L1EM:12205963)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001nb	DPMpm1 s 1 Right (L1EM:14546624)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001015gp	BLAv12 pos s (L1EM:21462953)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001fr	CM4 s MEFcom 3 Left  (L1EM:9844278)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001p9	CM4 s dor pos com 1 Right (L1EM:14644884)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001lt	CM13 med s 6 Left (L1EM:14266304)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001q4	CPb s 2 Right (L1EM:14914127)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001vf	DPLc post lat ant s 3 Right (L1EM:17562074)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001p1	CPd s 2 Right (L1EM:14547437)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001p8	CM4 s GC 3 Right (L1EM:14632529)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001we	BAlp post s 2 Left  (L1EM:17728682)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001z6	TR Balv s 3 Left (L1EM:17733478)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ku	DPMm1 desc s lat 1 Right (L1EM:13556524)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001tc	BLP12 a s 5 Right (L1EM:17371295)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001sx	BLP12 a s 2 Right (L1EM:17352429)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001eu	CPd s 3 Left (L1EM:7005152)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001o1	DPMpl3 s 3 Right (L1EM:14547006)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ul	BLAvm ant s 4 Right (L1EM:17544312)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001p3	CPf s 4 Right (L1EM:14547447)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001vm	BAlp ant s 8 Right (L1EM:17629170)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001nz	CM4 s GC 1 Right (L1EM:14546986)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001so	DALcl12 v s 2 Left (L1EM:17102874)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001e3	BLP34 b s 1 Right (L1EM:4127993)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010021n	DPMl34 pos s 2 Left (L1EM:19560124)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001hb	DPMm1 s Left (L1EM:10924217)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010020i	DPLd s 6 Left (L1EM:19389329)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001rq	BAmv12 int s 6 Right (L1EM:15732533)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001n2	BLP34 b s 4 Left (L1EM:14504070)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001wq	BLD x 3 Left (L1EM:17728798)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001xu	BLP12 a s 1 Left (L1EM:17729239)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001oq	CM13 med s 5 Right (L1EM:14547316)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ex	CPd s 4 Left (L1EM:7005176)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ka	DPMm1 s Right (L1EM:13235092)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001dt	DPLal1-3 s 1 Left (L1EM:3054794)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001qv	DALcl12 d s 9 Left (L1EM:15078595)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001md	DAMd23 s 3 Left (L1EM:14267149)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010021r	BAlp ant s 9 Right (L1EM:19851505)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001y7	BLVa34 a s 2 Left (L1EM:17729441)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001il	CM4 s ppFB 8 Right - ends before 601  (L1EM:12367292)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001p0	CM13 lat s 1 Right (L1EM:14547432)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001yo	DPLl p s 2 Left (L1EM:17732223)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001t9	BLP12 b s 3 Right (L1EM:17371133)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001f5	BLP34 b s 6 Left (L1EM:8368854)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001mi	DPMpm2 ppFB 1 - Left (L1EM:14403560)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001e2	BLP34 b s 2 Right (L1EM:4127987)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001sh	DALcl12 d s 8 Left (L1EM:17102148)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001s7	BLAv12 pos s 1 right (L1EM:16698830)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001iy	DPMm1 ppFB s 4 Right (L1EM:12532127)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001eg	BAmas12 dor s 2 Right (L1EM:5593689)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001li	DAMd23 s 3 Right (L1EM:13950952)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001jn	BAmd2 v s 3 Left (L1EM:12927136)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001oz	CM13 med s 6 Right (L1EM:14547416)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001tx	BLVp2 s 3 Right (L1EM:17380192)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ta	BLP12 b s 4 Right (L1EM:17371213)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010020c	DPMpm1 ppFB 6 - Left (L1EM:19376559)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001lc	BAmd2 v s 6 Right (L1EM:13760579)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001iv	CM4 s ppFB 7 Left (L1EM:12494383)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001vz	BAla34 s 5 Left (L1EM:17728556)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001kq	DPMm1 s longit 2 (L1EM:13411388)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001l1	BAmv12 dor s 3 Right (L1EM:13733768)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010020n	BAmd2 v s 7 Left (L1EM:19393720)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001nr	CM4 s ven 1 Right (L1EM:14546879)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001y2	BLP34 b s 5 Left (L1EM:17729381)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001n5	DALcm12 m s 1 Right (L1EM:14546516)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001rg	BAmv12 dor s 5 Left (L1EM:15140015)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001z5	TR Balv s 8 Left (L1EM:17733190)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001zm	DPLc post lat s 3 Left (L1EM:19352399)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001rl	BAmd1 d s 1 Left (L1EM:15541956)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001vh	BLAd dor med nb 1 (L1EM:17562172)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001mn	CPf s 2 Left (L1EM:14423404)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001t7	BLAv12 ant s 1 Right (L1EM:17361570)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001k2	DPMl12 pos s 7 Right (L1EM:13216296)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ke	DPMm1 upp comm s 4 Right (L1EM:13239550)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001f8	DPMm1 ppFB s 6 Right (L1EM:8573240)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001fe	BLP34 a s 2 Right (L1EM:8893368)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001eq	DPMpm2 s loSM 2 Right (L1EM:6047538)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001p5	CM4 s dor pos MEF 2 Right (L1EM:14630189)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001si	DALcl12 d s 7 Left (L1EM:17102418)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001jh	DPLl i s 2 Right (L1EM:12755280)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010020u	BAmv12 dor s 9 Left (L1EM:19395656)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001xc	BLAv12 pos s 2 Left (L1EM:17729078)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ig	CM4 s ppFB 2 Right  (L1EM:12346676)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001tu	BLAv12 ant s 2 Right (L1EM:17379121)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001jk	DPLc post lat s 3 Right (L1EM:12847167)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001tr	BLVa34 b s 1 Right (L1EM:17378530)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001pn	DALcl12 d s 7 Right (L1EM:14788579)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010020r	BAmd2 v s 5 Left (L1EM:19393756)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001t3	BAla34 s 4 Right (L1EM:17355884)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001mr	CPf s 7 Left (L1EM:14448530)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001pj	DALl1 10 d SU  (L1EM:14761692)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010020s	BAmd2 d s 1 Left (L1EM:19395562)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001n4	DAMd23 s 1 Right (L1EM:14546463)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001kl	DPMpm1 s 3 Right (L1EM:13364562)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001uz	BAlc post s 4 Right (L1EM:17545795)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001tt	DPLc ant lat s 1 Right (L1EM:17378746)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ze	BLAv12 lat s 1 Left (L1EM:18059690)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001rc	BLDd s 5 Left (L1EM:15130939)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001s1	BAmv12 int s 2 Left (L1EM:16544695)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001gr	CM4 s GC 3 Left (L1EM:10381874)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001nu	CM4 s MEFcom 4 Right (L1EM:14546910)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ki	DPMm1 s right (L1EM:13341456)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001tz	BLVp2 s 2 Right (L1EM:17380245)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001wn	BAlp ant s 1 Left (L1EM:17728771)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001it	BAlc post s 5 Left (L1EM:12477165)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001sd	DALd s 3 Left (L1EM:16952654)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001x8	BLAvm ant s 4 Left (L1EM:17729005)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001sq	DALcl12 d s 2 Left (L1EM:17102996)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ez	BAmd1 d s 1 Right (L1EM:7372611)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ff	BLVa34 a s 2 Right (L1EM:8943031)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001no	CM4 s short pos 2 Right (L1EM:14546854)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001m0	CM4 s ven 4 Left (L1EM:14266446)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ur	BAlp ant s 2 Right (L1EM:17545221)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001gl	DPMm1 s Left (L1EM:10282203)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001sm	DALcl12 d s 3 Left (L1EM:17102750)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001vu	BLVp2 s 6 Right (L1EM:17658634)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001yc	CP23 v s 3 Left (L1EM:17730108)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001pu	BAmd1 v s 3 Right (L1EM:14848137)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001w6	BAlc post s 3 Left (L1EM:17728637)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ks	DPMm1 ant comm s 2 Right (L1EM:13451589)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001hk	DPMpm2 s loSM 2 Left (L1EM:11022929)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001yk	DPLal1-3 s 3 Left (L1EM:17731977)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ua	CPe s NB 1 Left (L1EM:17472091)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001f6	BAlp4 s 2 Left  (L1EM:8426335)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001kk	DPMm1 s longit 1 (L1EM:13362478)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001mc	DPMm1 ant comm s 2 Left (L1EM:14267091)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001uk	BLAvm ant s 3 Right (L1EM:17544280)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001sa	DALd s 3 Right (L1EM:16950391)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ee	BAmv12 ven s 1 Right (L1EM:5166338)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001o2	CM4 s dor pos MEF 3 Right (L1EM:14547041)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001e8	BLAd OL s 5 Right (L1EM:4662552)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ja	DPLd s 1 Right (L1EM:12703528)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001tk	TR BAlv s 1 Right (L1EM:17376829)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ft	CM4 s dor pos com 3 Left (L1EM:9864387)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001u1	BLP34 a s 5 Right (L1EM:17383068)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001oa	CM4 s dor pos com 3 Right (L1EM:14547152)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001sz	BLP12 b s 5 Right (L1EM:17352452)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001qq	DPLc post med s 4 Left (L1EM:14981285)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001xg	BLDd s 3 Left (L1EM:17729131)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001yz	TR BAlv s 4 Left (L1EM:17733126)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001wg	BAlp ant int s 1 Left  (L1EM:17728707)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001p6	CM4 s MEFcom 6 Right (L1EM:14630424)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001fw	CM4 s short pos 3 Left (L1EM:9947504)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001uu	BAlp ant s 5 Right (L1EM:17545296)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001j3	DPLam s 1 Right (L1EM:12570095)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ds	DPMl12 ant s 7 Right (L1EM:3021394)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001x6	BLAvm ant s 1 Left (L1EM:17728991)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001sk	DALcl12 d s 5 Left (L1EM:17102618)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001dw	BLP34 a s 4 Right (L1EM:4126720)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001zn	DPLc post lat s 5 Left (L1EM:19352403)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001x9	BLAv12 pos s 1 Left (L1EM:17729056)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001q7	CPb s 1 Right (L1EM:14914152)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010021q	BLAl s 2 Left (L1EM:19806028)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001vk	BAlp ant s 6 Right (L1EM:17629147)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001r9	DALcm12 v s 6 Left (L1EM:15078705)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001k3	DPMl12 pos s 6 Right (L1EM:13217452)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ms	CP23 v 5 s Left (L1EM:14448535)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001iq	CP23 ppFB s 1 Left (L1EM:12446997)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001g2	DPMm1 ppFB s 3 Left (L1EM:9949264)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001f2	BLVa34 a s 1 Right (L1EM:8066171)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ti	BLP34 a s 3 Right (L1EM:17372894)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001w4	BAlc post s 2 Left (L1EM:17728622)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001t0	DPMpl12 s 2 loSM Right (L1EM:17352476)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001i9	CM4 s ppFB 5 Right (L1EM:12262871)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001zx	DPMm1 ppFB s 2 Right (L1EM:19375118)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001gh	CM4 s dor pos MEF 6 Left (L1EM:10017683)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001vi	BLAl s 4 Right (L1EM:17583465)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001wy	Close to BLVa s Left (L1EM:17728927)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ue	BLDd s 1 Right (L1EM:17519292)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001qx	DALcm12 v s Left (L1EM:15078624)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010020f	DPMpm1 ppFB 1 - Left (L1EM:19376581)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001hl	DPMpm2 s 3 Left (L1EM:11030926)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001y9	BLVa t s 3 Left (L1EM:17729814)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ky	BAmv12 int s 3 Right (L1EM:13731104)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001g7	DPMpm1 s 3 Left (L1EM:9951753)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001gw	DALcl12 d s 2 Right (L1EM:10426321)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001f4	BLVa34 a s 4 Left (L1EM:8208038)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010020w	BAmd2 v s 6 Left (L1EM:19395704)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001n9	DPMl12 ant s 1 Right (L1EM:14546609)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001yw	BAmas12 ven s 2 Left (L1EM:17732880)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001o9	CM4 s loSM 8 Right (L1EM:14547147)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ty	BLVp2 s 4 Right (L1EM:17380214)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001kp	DPMm1 desc s med 2 Right (L1EM:13410891)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ww	BLAv12 ant s 1 Left - GAP! (L1EM:17728902)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001w5	BAlc post s 1 Left (L1EM:17728627)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001mg	BAmd1 d s 4 Left (L1EM:14267175)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001jm	BLDc s 4 Right (L1EM:12880792)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ik	BLVa t s 1 Left (L1EM:12365683)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ug	BLDd s 3 Right (L1EM:17519537)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001pz	CP23 v s 3 Right (L1EM:14914087)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001pb	CPa s 3 Right (L1EM:14720288)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001zt	DPLc5 s 3 Left (L1EM:19361212)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ph	DALl1 s 2 Right (L1EM:14751048)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001es	DALd s 6 Right (L1EM:6156597)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001is	DPMpm1 ppFB 7 - Right (L1EM:12474032)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ox	CPd s 1 Right (L1EM:14547406)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001i8	DPMm1 ppFB s 7 Right (L1EM:12256567)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001vb	DPLc post med s 1 Right (L1EM:17560864)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001iu	DPMm1 ppFB s 7 Left (L1EM:12488233)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001wm	BAlp ant s 8 Left  (L1EM:17728766)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010020g	DPMpm2 ppFB 1 - Right (L1EM:19376664)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001tp	BLVa12 a s 1 Right (L1EM:17377891)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001vx	DPLc post lat s 4 Right (L1EM:17679315)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001xw	BLP34 b s LEFT REVIEW (L1EM:17729249)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001pr	DALcm12 v s 5 Right (L1EM:14822335)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001tf	BLP12 a s 8 Right (L1EM:17371651)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001y8	BLVa34 b s 1 Left (L1EM:17729458)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001pe	DALv23 s 1 Right (L1EM:14724804)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001wr	BLD x 3 Left (L1EM:17728803)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ei	BAmv12 int s 4 Right (L1EM:5731448)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001om	CM13 lat s 3 Right (L1EM:14547296)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001m5	CM4 s ppFB 3 Left (L1EM:14266491)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ps	DALcm12 m s 2 Right (L1EM:14822830)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001k7	DPMl ant dor nb 1_TODO (L1EM:13220541)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001wz	Close to BLVa s Left (L1EM:17728933)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001dx	BLP34 a s 7 Right (L1EM:4126726)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001hs	BLVp2 s 1 Left (L1EM:11190781)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001pt	DALcm12 v s 2 Right (L1EM:14847176)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ec	BLAd OL s 3 Left (L1EM:4663668)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001hi	DPMm1 upp comm s 2 Left (L1EM:10994942)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001rp	BAmv12 ven s 2 Right (L1EM:15732515)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001lq	CPf s 1 Left (L1EM:14265600)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001fx	CM4 s dor pos MEF 3 Left (L1EM:9947805)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001tb	BLP12 a s 4 Right (L1EM:17371245)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001nx	DPLc s 9 (L1EM:14546951)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010020a	DPMpm2 ppFB 4 - Right (L1EM:19375193)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ri	DALd s 7 Right (L1EM:15152956)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001wh	BAlp int s 5 Left  (L1EM:17728718)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010020p	BAmd2 v s 2 Left (L1EM:19393740)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001i3	DPMm2 ppFB ant dor s 1 Right (L1EM:12206139)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010020v	BAmd2 s left (L1EM:19395698)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001fs	CM4 s MEFcom 4 Left  (L1EM:9856467)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001pl	DALcl12 d s 11 Right (L1EM:14786951)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001lr	CM13 med s 4 Left (L1EM:14266277)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ra	CPb s 3 Left (L1EM:15079785)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001u7	CP23 v s 1 Right (L1EM:17436919)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010021m	DPLc post lat s 6 Left (L1EM:19539248)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001i0	DPMl12 ant s 3 Right (L1EM:12032517)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001r8	BAmv12 dor s 6 Left (L1EM:15078697)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001e4	DALcm12 v s 4 Right (L1EM:4204737)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001zw	DPMm1 ppFB s 1 Right (L1EM:19375103)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001je	DPLl p s 1 Right (L1EM:12747607)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001r7	BAmv12 dor s 1 Left  (L1EM:15078692)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001vp	TR BAlv s 7 Right (L1EM:17634436)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001kj	DPMpm1 s 5 Right (L1EM:13345002)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001q1	BLP34 b s 7 Right (L1EM:14914102)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010021j	DPLm1 s 1 Left (L1EM:19437159)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001x4	SU Left - BL Lineage ? (L1EM:17728982)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001lw	DPLc5 s 1 Left (L1EM:14266400)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001v4	BAla34 s 5 Right (L1EM:17546995)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001wv	BLAd ven lat s 2 Left (L1EM:17728879)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001du	BLP34 a s 1 Right (L1EM:3384681)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ij	CP23 ppFB s 1 Right (L1EM:12362682)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001kr	DPMm1 s desc med 1 (L1EM:13411400)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001n0	BLP34 a s 3 Left (L1EM:14504060)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001p4	CM4 s ppFB 9 Right (L1EM:14628429)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010021l	DPLc post med s 2 Left (L1EM:19539229)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001fc	BLAl s 1 Right (L1EM:8805521)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001zy	DPMpm2 ppFB 3 - Right (L1EM:19375183)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ud	DALcm12 m s 1 Left (L1EM:17486011)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001yd	CPb s 4 Left (L1EM:17730115)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001xq	BLP12 a s 9 Left (L1EM:17729216)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001vq	DALv23 s 1 Left (L1EM:17653988)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001jc	BAla12 s 1 Left (L1EM:12727225)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001m7	DPMpm2 s loSM 3 Left (L1EM:14266559)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001o6	CM4 s loSM 6 Right (L1EM:14547086)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ng	DPMpm2 s 2 Right (L1EM:14546724)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001r3	DALcm12 v s 7 Left (L1EM:15078654)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ns	DPMpl3 s 2 Right (L1EM:14546885)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001w7	BAlc post s 4 Left (L1EM:17728642)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001oe	CM4 s dor pos com 4 Right (L1EM:14547178)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ql	DPMl12 ant s 2 Left (L1EM:14977878)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001gc	CM4 s dor pos com 1 Left (L1EM:9954547)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001fu	CM4 s dor pos com 4 Left (L1EM:9864461)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001h2	DPMpm2 ppFB 2 - Left (L1EM:10714438)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001jz	DPMl34 pos s 2 Right (L1EM:12995472)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001z0	TR Balv s 1 Left (L1EM:17733134)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ir	DPMpm2 ppFB 3 - Left (L1EM:12449484)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001zr	BAlv s 2 Left (L1EM:19359287)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001e7	BLAd OL s 2 Right (L1EM:4332495)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001o0	CM4 s GC 2 Right (L1EM:14547001)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001t2	CPb s 1 Left (L1EM:17355495)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001nc	DPMl12 pos s 2 Right (L1EM:14546664)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ov	CP23 v s 6 Right (L1EM:14547396)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001sw	BLP12 a s 1 Right (L1EM:17352424)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001xm	BLDc s 1 Left (L1EM:17729178)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001sl	DALcl12 d s 4 Left (L1EM:17102687)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001if	CM4 s ppFB 3 Right (L1EM:12345792)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001z9	BAla34 s 1 Left (L1EM:17736450)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001qj	DPLc ant lat s 1 Left (L1EM:14976953)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001i1	DPMpm1 ppFB 1 - Right (L1EM:12204694)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001pq	DALcm12 v s 7 Right (L1EM:14821704)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001oh	DPLc5 s 2 Right (L1EM:14547219)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001v0	BAlc post s 3 Right (L1EM:17545806)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001lh	DAMd23 s 2 Right (L1EM:13950873)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001mb	DAMd1 s 1 Left (L1EM:14267037)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001h4	DPMm1 s Left (L1EM:10764796)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ry	BAlc post s 6 Left (L1EM:16461910)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001v2	BAlc post s NB 1 Right  (L1EM:17545878)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001gt	DALcl12 v s 2 Right (L1EM:10425159)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001k0	DPMl34 pos s 1 Right (L1EM:12996024)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001nw	CM4 s loSM 4 Right (L1EM:14546936)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001qu	DALcl12 d s 1 Left (L1EM:15078590)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001xb	BLAv12 pos s 3 Left (L1EM:17729073)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001kx	BAmv12 int s 5 Right (L1EM:13730666)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ub	BAmd1 v s 1 Left (L1EM:17472365)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001t6	DPLal1-3 s 4 Left (L1EM:17360026)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001in	BLVa t s 2 Left (L1EM:12372419)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001zh	BAlp post s 1 Right (L1EM:18925103)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001g8	DPMpm1 s 6 Left (L1EM:9951917)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001w2	BAla34 s 4 Left  (L1EM:17728581)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001xr	BLP12 a s 5 Left (L1EM:17729223)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ev	CPd s 2 Left (L1EM:7005160)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001qk	DPMl12 ant s 7 Left (L1EM:14977871)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001jx	DPLc post lat s 7 Right (L1EM:12992011)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001z1	TR BAlv s 5 Left (L1EM:17733148)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010021a	BAmv12 int s 4 Left (L1EM:19396517)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001et	DALcl12 d s 4 Right (L1EM:6192490)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001zc	DALl1 s 2 Left (L1EM:17882830)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001jw	DPLc post lat s 6 Right (L1EM:12991032)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001h8	DPMpm2 s 1 Left (L1EM:10903519)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001er	CM4 s MEFcom 1 Right (L1EM:6152239)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001yt	DPMl12 pos s 1 Left (L1EM:17732661)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001xi	BLDc s 5 Left (L1EM:17729141)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001vc	DPLc post med s 2 Right (L1EM:17560904)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ld	BAmd2 v s 1 Right  (L1EM:13836912)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001jy	DPLc post lat s 5 Right (L1EM:12993051)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ml	CPf s 6 Left (L1EM:14423369)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ji	DPLc post lat s 1 Right (L1EM:12845026)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001my	BLP34 a s 6 Left (L1EM:14504044)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001x7	BLAvm ant s 5 Left (L1EM:17728998)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ep	DPMpm2 s loSM 3 Right (L1EM:6046598)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010021e	BAmd1 v s 3 Left (L1EM:19404939)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001el	BLVp2 s 5 Left (L1EM:5770448)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001xd	BLAvm ant s 2 Left (L1EM:17729105)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001qw	DALcm12 v s 7 Left (L1EM:15078600)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001zf	DALcm12 m s 2 Left (L1EM:18134183)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001gx	DPMpm2 s loSM 1 Left (L1EM:10466429)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001s6	BLAv12 pos s 2 Right (L1EM:16698716)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001yy	BAmas12 dor s 2 Left  (L1EM:17732966)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001w0	BAla34 s 6 Left (L1EM:17728561)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001z4	TR Balv s 2 Left (L1EM:17733182)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001rb	DALd s 4 Left (L1EM:15119833)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001s4	DPLl p s 4 Left (L1EM:16645923)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001pc	CPf s 2 Right (L1EM:14720293)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001kb	DPMm1 upp comm s 3 Right (L1EM:13235454)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001u0	CP23 v s 5 Right (L1EM:17380305)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001wp	BLD x 3 Left (L1EM:17728793)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001rk	CPe s 2 Left (L1EM:15387603)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ko	DPMm1 s longit med 1 (L1EM:13410103)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001gb	CM4 s MEFcom 1 Left (L1EM:9954421)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001xh	BLDd s 2 Left (L1EM:17729136)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001o5	CM4 s loSM 5 Right (L1EM:14547081)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001im	CM4 s dor pos MEF 1 Right (L1EM:12367466)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001sc	DALd s 1 Right (L1EM:16950736)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001wu	BLAd OL s 1 Left (L1EM:17728857)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001mz	BLP12 b s 5 Left (L1EM:14504049)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001kd	DPMm1 s 3 (L1EM:13238159)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001yl	DPLal1-3 s 2 Left (L1EM:17731982)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010021h	DPMl34 ant s 2 Left (L1EM:19433138)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001fq	CPf s 1 Right (L1EM:9816042)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001t4	BAla34 s 3 Right (L1EM:17355888)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001jf	DPLl i s 1 Right (L1EM:12749099)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001vv	BLVp2 s 8 Right (L1EM:17658643)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001qf	DPLc ant lat s 2 Left (L1EM:14973312)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001xx	BLP34 b s 7 Left (L1EM:17729311)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001s9	CM4 s ppFB 8 Left (L1EM:16938723)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001xv	BLP12 a s 6 Left (L1EM:17729244)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001yi	DALl1 s 4 Left (L1EM:17731956)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001f3	DPLc post med s 4 Right (L1EM:8138520)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001mu	BLVp2 s 2 Left (L1EM:14448545)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001zs	DPLc5 s 2 Left (L1EM:19361208)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001yp	DPLl p s 3 Left (L1EM:17732231)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001zb	DPLp s Left (L1EM:17777052)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001wb	BAlp int s 2 Left  (L1EM:17728667)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001nl	CM4 s loSM 1 Right (L1EM:14546809)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001hu	BLVa12 b s 1 Right (L1EM:11215773)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001jo	DPLc ant lat s 6 Right (L1EM:12978829)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001vt	BLDc s 3 Right (L1EM:17654936)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001x3	BLD x 1 s Left (L1EM:17728954)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001k5	DPMl12 pos s 4 Right (L1EM:13217922)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001qt	DALd s 6 Left (L1EM:15078585)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001lv	CM13 med s 7 Left (L1EM:14266395)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001q9	CPc s 1 Right -  Lose at gap (L1EM:14914162)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001gv	DALcl12 d s 1 Right (L1EM:10425974)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010021b	BAmv12 dor s 2 Left (L1EM:19402002)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001wl	BAlp ant s 6 Left  (L1EM:17728761)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001zi	DPMpm1 ppFB 4 - Left (L1EM:19139824)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001rz	DPLc5 s 4 Left (L1EM:16491111)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001g6	DPMpm2 s NB 2 Left  (L1EM:9951607)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001y0	BLP12 b s 3 Left (L1EM:17729357)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001fv	CM4 s dor pos MEF 2 Left  (L1EM:9864536)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001zu	BLD x 1 s Left (L1EM:19362116)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001i4	DPMpm1 ppFB 3 - Right (L1EM:12207291)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001va	DPLc5 s 3 Right (L1EM:17560221)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001jv	DPMl34 ant s 3 Right (L1EM:12988149)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001hn	CM4 s GC 1 Left (L1EM:11085317)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001x5	BLD x 1 s Left - Gap! (L1EM:17728986)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ny	CM4 s ven 5 Right (L1EM:14546956)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001lu	CM13 med s 9 Left (L1EM:14266386)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001nf	DPMpm2 s 3 Right (L1EM:14546714)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001id	DPMpm2 ppFB 5 - Right (L1EM:12343219)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ve	DPLc post lat ant s 5 Right (L1EM:17562037)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001pf	DALl1 s 1 Right (L1EM:14727248)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001xy	BLP12 a s 3 Left (L1EM:17729316)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001fb	BLAd OL s 1 Right (L1EM:8706074)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001j8	DPLc ant lat s 4 Right (L1EM:12702367)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001gn	DPMm1 ppFB s 5 Left (L1EM:10297957)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001e0	BLP34 b s 4 Right (L1EM:4127978)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001z7	BAmas12 ven s 5 Left (L1EM:17733517)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001gm	DPMm1 desc s med 2 Left (L1EM:10284042)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ia	CM4 s ppFB 6 Right (L1EM:12283795)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001u5	BLVa t s 2 Right (L1EM:17390827)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001pm	DALcl12 d s 10 Right (L1EM:14787518)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001v8	DPLd s 6 Right (L1EM:17557234)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001hw	DPMm1 desc s lat 1 Left (L1EM:11313556)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001i6	DPMpm1 ppFB 4 - Right (L1EM:12208050)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001r0	BAmd1 d s 3 Left (L1EM:15078639)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001su	CP1v a s 1 Left (L1EM:17193070)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001pw	BAmd1 v s 2 Right (L1EM:14851773)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001p2	CPe s 2 Right (L1EM:14547442)	Andrade2019	part_of	larval nervous system	cp390
+VFB_00102efm	neuron 21744904 (L1EM:21744903)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001hq	BLVa12 b s 2 Right (L1EM:11179035)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001pp	DALcm12 v s 1 Right (L1EM:14819319)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001m6	DPMpl3 s 2 Left (L1EM:14266512)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001lj	BAmas12 ven s 3 Right (L1EM:13965334)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ut	BAlp ant s 4 Right (L1EM:17545271)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001qp	DPLc s Left (L1EM:14981280)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001fa	DPMm1 s 4 (L1EM:8575183)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001lf	BAmd2 v s 8 Right (L1EM:13840191)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001sg	SU neuron s 17048339 (L1EM:17048338)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001mo	DPMpl3 s 1 Left (L1EM:14423438)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001st	CP1v a s 2 Left (L1EM:17192980)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001rd	BLDd s 4 Left (L1EM:15131659)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001e9	BLAd OL s 4 Right (L1EM:4662725)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ro	BAlp4 s 1 Right (L1EM:15674294)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001pi	DALl1 s 3 Right (L1EM:14751624)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001t1	DPMl12 ant s 6 Left (L1EM:17354423)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001fh	DPLc post med s 3 Left (L1EM:9235768)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001w1	BAla34 s 2 Left (L1EM:17728566)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001pa	CM13 med s 2 Right (L1EM:14684577)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001tj	TR BAlv s 3 Right (L1EM:17376806)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001xp	BLP12 a s 2 Left (L1EM:17729211)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010021c	BAmv12 dor s 8 Left (L1EM:19402006)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001la	BAmd2 v s 2 Right (L1EM:13759971)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010020h	DPLd s 3 Left (L1EM:19389324)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001l3	BAmv12 dor s 6 Right (L1EM:13734435)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001uy	BAlc post s 2 Right (L1EM:17545782)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001jg	DPLl i s 3 Right (L1EM:12751130)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001h7	CM4 s dor pos MEF 5 Left (L1EM:10891371)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001od	CM4 s loSM 9 Right (L1EM:14547173)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001yu	BAmas12 ven s 4 Left (L1EM:17732858)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001os	CM13 med s 1 Right (L1EM:14547376)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001r2	DALcm12 v s 5 Left (L1EM:15078649)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001m9	DPMl12 ant s 8 Left (L1EM:14266761)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001x0	Close to BLVa s Left (L1EM:17728939)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010021f	BLP12 b s 4 Left (L1EM:19422319)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001zd	BLAd ven lat s 1 Left (L1EM:18059683)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001lg	BAmd2 v s 7 Right (L1EM:13841014)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001v1	BAlc post s 7 Right (sp) (L1EM:17545868)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001of	CM4 s loSM 10 Right (L1EM:14547189)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001tq	DPLal1-3 s 2 Right (L1EM:17378469)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001h1	DPMpm2 ppFB 4 - Left (L1EM:10712085)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001vy	BAla12 s 2 Left (L1EM:17728546)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001u8	CPc s 2 Right- Lost at Gap (L1EM:17437048)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001uw	BAlc post s 8 Right (L1EM:17545755)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001fz	DPMm1 ppFB s 1 Left (L1EM:9948629)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001wa	BAlp int s 6 Left (L1EM:17728662)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001hj	DPMm1 Left (L1EM:10995187)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001go	DPMm1 s NB 1 Left (L1EM:10300139)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001kv	BAla34 s 2 Right (L1EM:13726190)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001eb	BLAd OL s 5 Left (L1EM:4663662)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010020d	DPMpm1 ppFB 7 - Left (L1EM:19376564)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001f1	CPb s 4 Right CP2/3d obPl 13 (L1EM:7693659)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001fi	DPLc post med s 1 Left (L1EM:9236353)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001nt	CM4 s ven 6 Right (L1EM:14546895)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010021s	BLP3/4 b s RIGHT SU Neuron* NEW (L1EM:20443342)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001lb	BAmd2 v s 4 Right (L1EM:13760269)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010020j	DPLd s 5 Left (L1EM:19389333)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001w3	BAla34 s 3 Left (L1EM:17728586)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001km	DPLc post lat ant s 1 Right (L1EM:13389208)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001u3	BLVa t s 4 Right (L1EM:17390746)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001o4	CM4 s ven 7 Right (L1EM:14547066)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001zj	neuron 19193067 (L1EM:19193066)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ic	CM4 s ppFB 7 Right (L1EM:12290287)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001y5	BLVa34 a s 1 Left (L1EM:17729431)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001kf	DPMm1 s 1 (L1EM:13241784)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001u6	BLVa t s 3 Right (Lost to Gap) (L1EM:17390884)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001mt	BLP34 a s 5 Left (L1EM:14448540)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001mh	CM13 med s 3 Left (L1EM:14271622)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001pg	DALl1 s 4 Right (L1EM:14749848)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ym	DPLl i s 2 Left (L1EM:17732203)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001k1	DPLam s 1 Left (L1EM:13202894)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ow	CPf s 3 Right (L1EM:14547401)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001fy	CM4 s ppFB 6 Left (L1EM:9947921)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001um	BLAvm ant s 5 Right (L1EM:17544330)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001g9	CM4 s short pos 1 Left (L1EM:9954202)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001sp	DALcl12 d s 10 Left (L1EM:17102940)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001lm	BAmas12 ven s 1 Right (L1EM:13967587)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001l6	BAmv12 dor s 8 Right (L1EM:13734996)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001q8	CPb s 3 Right (L1EM:14914157)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ek	BLVp2 s 3 Left (L1EM:5759393)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001m2	CM4 s short pos 4 Left (L1EM:14266471)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001h9	DPMpm2 s loSM 4 Left (L1EM:10919351)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ga	CM4 s ven 1 Left (L1EM:9954298)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ws	BLD x 3 Left (L1EM:17728809)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001l5	BAmv12 dor s 7 Right (L1EM:13734815)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001hy	DPMpm1 s 4 Right (L1EM:11509597)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001qy	DALcm12 v s 1 Left (L1EM:15078629)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001mx	BLP12 b s 1 Left (L1EM:14504039)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ob	CM4 s GC 4 Right (L1EM:14547157)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ux	BAlc post s 5 Right (L1EM:17545766)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001py	CP23 v s 2 Right (L1EM:14914072)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001m3	CM4 s ppFB 5 Left (L1EM:14266481)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001vd	DPLc post lat ant s 2 Right (L1EM:17562001)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001js	DPLd s 3 Right (L1EM:12984739)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001zv	CM4 s ppFB 1 Right (L1EM:19375019)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001lo	CM13 med s 2 Left (L1EM:14265548)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001mm	CPf s 3 Left (L1EM:14423394)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ts	DPMl12 pos s 1 Right (L1EM:17378636)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001j5	BLAl s 2 Right (L1EM:12615701)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010021g	DPLc post lat ant s 1 Left (L1EM:19428881)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001q2	BLP34 a s 9 Right (L1EM:14914112)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ie	DPMpm2 s 1 Right (L1EM:12345237)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001y3	BLP34 b s 1 Left (L1EM:17729387)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001qr	DPMl12 ant s 3 Left (L1EM:15077059)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001yn	DPLl p s 1 Left (L1EM:17732214)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001np	DPMpl3 s 1 Right (L1EM:14546864)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001o3	CM4 s short pos 4 Right (L1EM:14547046)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001v6	BAmv12 int s 2 Right (L1EM:17555058)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001kw	BAmv12 dor s 4 Right (L1EM:13729664)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001em	DALcm12 v s 6 Right (L1EM:5818143)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001oc	DPLc5 s 4 Right (L1EM:14547167)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ii	DPMm1 ppFB s 6 Left (L1EM:12361947)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ip	CM4 s ppFB 2 Left (L1EM:12445523)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001sv	CM13 med s 8 Left (L1EM:17343664)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001kg	DPMm1 upp comm s 5 Right (L1EM:13340343)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ge	CM4 s loSM 5 Left (L1EM:10014485)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001k6	DPMl12 pos s 3 Right (L1EM:13218289)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001hx	CM4 s ven 2 Right (L1EM:11463379)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001eh	BAmas12 dor s 1 Right (L1EM:5594467)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001h6	CM4 s loSM 3 Left (L1EM:10888799)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001gk	DPMm1 ppFB s 4 Left (L1EM:10269309)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001tg	BLP12 a s 9 Right (L1EM:17371662)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001p7	CM4 s dor pos MEF 6 Right (L1EM:14630736)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001z8	BAmas12 ven s 1 Left (L1EM:17733525)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001s5	BLAv12 pos s 3 Right (L1EM:16698702)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001yj	DALl1 s 1 Left (L1EM:17731961)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001qm	DPMl12 ant s 1 Left (L1EM:14977890)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001yv	BAmas12 ven s 3 Left (L1EM:17732864)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010020e	DPMpm1 ppFB 3 - Left (L1EM:19376569)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001og	CM4 s MEFcom 2 Right (L1EM:14547214)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001qa	DPMl34 ant s 2 Left (L1EM:14973282)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001vg	DPLc post lat ant s 4 Right (L1EM:17562098)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001io	BLVa t s 4 Left (L1EM:12385468)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010020k	DPLd s 1 Left (L1EM:19389343)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001mf	BAmd2 v s 1 Left (L1EM:14267170)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001hd	BLVp2 s 5 Right (L1EM:10945119)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001fp	CM4 s MEFcom 2 Left  (L1EM:9698215)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001nd	DPMpl12 s NB 1 Right (L1EM:14546674)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001tn	TR BAlv s 5 Right (L1EM:17376857)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001yb	CPb s 5 Left (L1EM:17730092)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001zl	DPLc post lat s 1 Left (L1EM:19352392)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001up	BAlp post s 4 Right (L1EM:17545195)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001mk	CPc s 1 Left (L1EM:14423348)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001oj	CM13 med s 4 Right (L1EM:14547239)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001s2	BAmv12 ven s 1 Left (L1EM:16544705)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001yg	DALl1 s 5 Left; NB? (L1EM:17731941)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001lk	BAmas12 ven s 2 Right (L1EM:13966425)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001rj	DALd s 8 Right (L1EM:15153709)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001kz	BAmv12 dor s 1 Right (L1EM:13732551)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001yf	CP23 v s 2 Left (L1EM:17730159)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001dy	BLP34 b s 5 Right (L1EM:4127963)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001gf	CM4 s MEFcom 5 Left (L1EM:10015661)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001xs	BLP12 a s 4 Left (L1EM:17729228)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001j9	DPLd s 4 Right (L1EM:12702656)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001t8	BLP12 b s 1 Right (L1EM:17370898)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ui	BLAvm ant s 1 Right (L1EM:17544220)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001fo	CM4 s MEFcom 6 Left (L1EM:9696888)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001t5	BAla34 s 1 Right (L1EM:17356020)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001mv	BLP34 b s 3 Left (L1EM:14504024)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001q3	CP23 v s 4 Right (L1EM:14914117)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001qn	DPLc ant lat s 5 Left (L1EM:14979933)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001zz	DPMpm2 ppFB 2 - Right (L1EM:19375188)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001jb	DPLd s 5 Right (L1EM:12704599)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ok	CM13 med s 9 Right (L1EM:14547254)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001wo	BAlp4 s 1 Left   (L1EM:17728776)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001q6	CP23 v s 7 Right (L1EM:14914142)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001vn	BAlv s 1 Right (L1EM:17634397)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ha	DPMpm2 s NB 1 Left (L1EM:10920017)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001xa	BLAv12 pos s 4 Left (L1EM:17729062)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001xj	BLDc s 6 Left (L1EM:17729146)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001na	DPMl12 ant s 2 Right (L1EM:14546614)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001wt	BLAd OL s 2 Left (L1EM:17728852)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ea	BLAd OL s 4 Left (L1EM:4663219)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001kn	DPMm1 s longit med 2 (L1EM:13407007)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001n8	DPMl12 ant s 4 Right (L1EM:14546579)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001j4	DALl1 s 6 Right (L1EM:12570525)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ih	CM4 s ppFB 4 Right (L1EM:12347886)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ix	CM4 s ppFB 1 Left (L1EM:12530013)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001jq	DPLc ant lat s 5 Right (L1EM:12981110)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001to	DALl1 s 7 Right (L1EM:17377722)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001gd	CM4 s loSM 4 Left (L1EM:10011972)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001e6	BLAd OL s 3 Right (L1EM:4224044)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ye	CPb s 2 Left (L1EM:17730121)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010021p	BLAl s 1 Left (L1EM:19806024)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001y1	BLP34 a s 1 Left (L1EM:17729370)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001l4	BAmv12 int s 1 Right (L1EM:13734645)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001jj	DPLc post lat s 2 Right (L1EM:12846265)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001qh	DPMl34 pos s 1 Left (L1EM:14973453)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001mp	s Left (L1EM:14423489)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001u4	BLVa t s 1 Right (L1EM:17390766)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010020x	BAmv12 dor s 7 Left (L1EM:19396494)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001uj	BLAvm ant s 2 Right (L1EM:17544238)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001sj	DALcl12 d s 6 Left (L1EM:17102547)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001te	BLP12 a s 10 Right (L1EM:17371530)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001us	BAlp ant s 3 Right (L1EM:17545234)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001j6	BLAl s 3 Right (L1EM:12618333)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001un	BAlp post s 2 Right (L1EM:17545164)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001j2	DPLal1-3 s 1 Right (L1EM:12549257)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001or	CM13 med s 10 Right (L1EM:14547336)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001v9	DPLc5 s 1 Right (L1EM:17560205)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001wx	BLAv12 ant s 2Left - Gap (L1EM:17728907)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001gj	DALcl12 v s 1 Right (L1EM:10138514)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010021i	DPLm2 s 1 Left (L1EM:19437152)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001zp	BAmas12 dor s 3 Left (possible ven) (L1EM:19357994)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001pv	BAmd1 v s 1 Right (L1EM:14849956)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001k9	DPMm1 s Right (L1EM:13234841)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001f0	BAmd1 d s 3 Right (L1EM:7373095)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001kh	DPMm1 ant comm s 1 Right (L1EM:13341065)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001fd	BAmv12 int s 6 Left (L1EM:8814452)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001rt	DPLc post lat ant s 2 Left (L1EM:15867651)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001gi	CM4 s ven 2 Left (L1EM:10017968)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001jd	DPLl a s 1 (L1EM:12745233)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001nm	CM4 s loSM 2 Right (L1EM:14546829)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001yq	DPLl i s 1 Left (L1EM:17732251)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001wd	BAlp post s 1 Left  (L1EM:17728677)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001pd	CPd s 3 Right (L1EM:14720300)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001fg	BLVa34 a s 3 Right (L1EM:8943298)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001yr	DPMl12 pos s 2 Left (L1EM:17732486)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001q0	BLP12 b s 2 Right (L1EM:14914097)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ib	CM4 s ven 3 Right (L1EM:12289177)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001zq	BAlv s 1 Left (L1EM:19359257)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001mw	CP23 v s 1 Left (L1EM:14504029)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001r4	DALcm12 v s 2 Left (L1EM:15078659)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001vo	BAlv s 2 Right (L1EM:17634407)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001gp	BLAd ven lat s 2 Right (L1EM:10302790)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001q5	CPb s 5 Right (L1EM:14914137)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001n1	BLP34 a s 2 Left  (L1EM:14504065)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001xe	BLAvm ant s 3 Left (L1EM:17729116)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001wc	BAlp int s 4 Left  (L1EM:17728672)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001td	BLP12 a s 6 Right (L1EM:17371351)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001iz	DPMm1 ppFB s 5 Right (L1EM:12532152)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001jp	DPLc ant lat s 3 Right (L1EM:12979804)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001s3	BAmv12 ven s 3 Left (L1EM:16547306)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001qc	DPMl12 ant s 5 Left (L1EM:14973297)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001gq	BLAd ven lat s 1 Right (L1EM:10303172)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ol	CM13 med s 8 Right (L1EM:14547291)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001u9	DPMpm1 s 1 Left (L1EM:17470004)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001m8	CM4 s GC 4 Left (L1EM:14266565)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010020o	BAmd2 v s 4 Left (L1EM:19393736)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001rv	BLD x 3 Left (L1EM:16014372)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001nh	CM4 s MEFcom 5 Right (L1EM:14546734)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001pk	DALcl12 d s 8 Right (L1EM:14786448)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001lp	CM13 med s 1 Left (L1EM:14265559)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001re	BAmd1 d s 2 Left (L1EM:15139341)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001xo	BLP12 a s 8 Left (L1EM:17729206)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001qe	DPLc ant lat s 3 Left (L1EM:14973307)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001nv	CM4 s dor pos MEF 5 Right (L1EM:14546926)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001qg	DPLc ant lat s 4 Left (L1EM:14973317)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001jt	DPMl34 ant s 1 Right (L1EM:12985971)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010020t	BAmv12 int s 5 Left (L1EM:19395651)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001x2	BLD x 1 s Left (L1EM:17728950)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ss	BLVa12 a s 1 Left (L1EM:17114027)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001gs	CM4 s loSM 1 Left (L1EM:10414455)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001qi	DPLc ant lat s 6 Left (L1EM:14976461)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ew	CPd s 1 Left (L1EM:7005168)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010020m	DPLd s 2 Left (L1EM:19389353)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ys	DPMl12 pos s 3 Left (L1EM:17732589)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ht	BLP34 b s 2 Left (L1EM:11190809)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001n3	BLVp2 s 4 Left (L1EM:14504075)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001wj	BAlp ant s 5 Left  (L1EM:17728747)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001l9	BAmd2 v s 5 Right (L1EM:13758977)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001z3	TR BAlv s 6 Left (L1EM:17733172)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001nq	CM4 s loSM 3 Right (L1EM:14546874)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ot	CM13 med s 3 Right (L1EM:14547381)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ju	DPMl34 ant s 2 Right (L1EM:12986939)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001hp	DPMm1 ppFB s 3 Right (L1EM:11126336)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001zk	BLAl s 5 Left (L1EM:19352379)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010020q	BAmd2 v s 8 Left (L1EM:19393744)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ho	CM4 s loSM 6 Left (L1EM:11095260)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001o8	CM4 s dor pos com 2 Right (L1EM:14547101)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001uc	DPMm1 s Left (L1EM:17475177)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001g0	Close to DPM SU Left (L1EM:9949160)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001oo	CPf s 5 Right (L1EM:14547306)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001qs	DALd s 5 Left (L1EM:15078580)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001zg	CM4 s short pos 3 Right (L1EM:18853138)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001dz	BLP34 b s 6 Right (L1EM:4127975)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010021o	BLAl s 3 Left (L1EM:19701236)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001fm	DALcl12 d s 9 Right (L1EM:9347019)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010020y	BAmv12 int s 3 Left (L1EM:19396502)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001u2	BLVa t s 5 Right (L1EM:17390677)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001qb	DPMl34 ant s 1 Left (L1EM:14973287)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001on	CM13 lat s 5 Right (L1EM:14547301)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001px	DAMd1 s 1 Right (L1EM:14877179)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001lx	DPLc5 s 5 Left (L1EM:14266405)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001mq	DAMd23 s 2 Left (L1EM:14423494)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001fn	CM13 lat s 2 Right (L1EM:9689371)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001l2	BAmv12 dor s 5 Right (L1EM:13734146)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001uo	BAlp post s 3 Right (L1EM:17545179)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001f9	DPMm1 upp comm s 2 Right (L1EM:8574334)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001se	DALd s 2 Right (L1EM:17022787)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001y4	BLVa12 a s 2 Left (L1EM:17729394)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001sy	BLP12 a s 3 Right (L1EM:17352444)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001sr	DALcl12 v s 1 Left (L1EM:17110221)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001yh	DALl1 s 3 Left (L1EM:17731951)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001fl	DALcl12 d s 6 Right (L1EM:9345728)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001m1	CM4 s dor pos MEF 1 Left (L1EM:14266451)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010020l	DPLd s 4 Left (L1EM:19389347)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001s8	CP23 v s 8 Right (L1EM:16784307)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001uq	BAlp ant s 1 Right (L1EM:17545203)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001vl	BAlp ant s 7 Right (L1EM:17629156)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001oi	CM4 s dor pos MEF 4 Right (L1EM:14547234)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001h0	DPMpm2 s 2 Left (L1EM:10711658)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001xk	BLDc s 2 Left (L1EM:17729151)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001xn	BLDc s 4 Left (L1EM:17729190)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001th	BLP12 a s 7 Right (L1EM:17372181)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ed	neuron  s 4990530 (L1EM:4990529)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010021d	BAmv12 ven s 2 Left (L1EM:19402010)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001mj	CPf s 4 Left (L1EM:14423343)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001i5	DPMm2 ppFB ant dor s 2 Right  (L1EM:12207495)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001v5	BAla34 s 6 Right (L1EM:17547011)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001yx	BAmas12 dor s 1 Left (L1EM:17732900)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001jl	BLDc s 1 Right (L1EM:12877880)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001j0	DPLal-13 s 3 Right (L1EM:12546782)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001tl	TR BAlv s 6 Right (L1EM:17376835)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001jr	DPLd s 2 Right (L1EM:12982435)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001f7	BLP34 a s 8 Right (L1EM:8555954)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ru	DPLc post lat ant s 4 Left (L1EM:15868439)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001g5	DPMm1 Left (L1EM:9951197)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001hm	SU neuron s 11032108 left (L1EM:11032107)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001rw	BLVa12 b s 1 Left (L1EM:16046580)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001fj	DPLm1 s 1 Right (L1EM:9289231)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001r6	BAmd1 v s 4 Left (L1EM:15078687)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001vr	BLDc s 5 Right (L1EM:17654911)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001tw	BLVp2 s 1 Right (L1EM:17380013)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001en	DALcl12 d s 11 Left (L1EM:5904499)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001xt	BLP12 a s 7 Left (L1EM:17729233)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001wi	BAlp ant s 3 Left  (L1EM:17728737)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001rf	BAmv12 dor s 4 Left (L1EM:15139746)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001nk	DPMpl12 s 1 Right (L1EM:14546779)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001n6	DPMl12 ant s 6 Right (L1EM:14546549)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001xl	BLDc s 3 Left (L1EM:17729156)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001x1	BLD x 1 s Left (L1EM:17728944)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010021k	BLAl s 4 Left (L1EM:19538646)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001rm	CPe s 1 Right (L1EM:15582537)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ni	CM4 s ven 4 Right (L1EM:14546749)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001vs	BLDc s 2 Right (L1EM:17654921)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001g3	DPMm1 Left (L1EM:9950404)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001v3	BAlc post s 1 Right (L1EM:17545905)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001uh	DPLl p s 2 Right (L1EM:17523403)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001w9	BAlp int s 3 Left  (L1EM:17728657)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001uf	BLDd s 2 Right (L1EM:17519416)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001zo	DPLc post lat s 2 Left (L1EM:19352411)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001r1	DALcm12 v s 4 Left (L1EM:15078644)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001lz	CM4 s ppFB 4 Left (L1EM:14266430)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001op	CM13 med s 7 Right (L1EM:14547311)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001s0	BAmv12 int s 7 Left (L1EM:16544689)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ls	CM13 med s 5 Left (L1EM:14266284)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001e1	BLP34 b s 3 Right (L1EM:4127984)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001tm	TR BAlv s 2 Right (L1EM:17376845)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ll	BAmas12 ven s 4 Right (L1EM:13967121)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001k8	DPMm1 s Right (L1EM:13234578)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001r5	BAmd1 v s 2 Left (L1EM:15078682)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001tv	CM4-dm Tiny a right; CM4 dor med_r; CM4 dor ant 5 (L1EM:17379283)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001gu	DALcl12 d s 5 Right (L1EM:10425567)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001vw	BLV x 1 s Right (L1EM:17658847)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001fk	CP23 v s 6 Left (L1EM:9318513)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001e5	DALcm12 v s 3 Right (L1EM:4211235)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001y6	BLVa34 a s 3 Left (L1EM:17729436)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001i7	DPMpm1 ppFB 6 - Right (L1EM:12208798)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001hr	BLP34 a s 4 Left (L1EM:11190385)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001sb	DALd s 4 Right (L1EM:16950404)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ln	TR BAlv s 4 Right (L1EM:13974142)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ey	BAmd1 d s 2 Right (L1EM:7371869)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ne	DPMpm2 s NB 2 Right (L1EM:14546704)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001j7	DPLc ant lat s 2 Right (L1EM:12701593)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010020z	BAmv12 int s 1 Left (L1EM:19396510)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001he	DPMm2 ppFB ant dor s 1 Left (L1EM:10961772)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001nn	CM4 s MEFcom 3 Right (L1EM:14546834)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001qz	DALcm12 v s 3 Left (L1EM:15078634)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001h3	DPMm1 s NB Left (L1EM:10763235)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001rs	DPLc post lat s 4 Left (L1EM:15825924)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001gy	BLP34 b s 8 Left (L1EM:10533010)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001xf	BLDd s 1 Left (L1EM:17729126)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001rr	DPLc post lat ant s 3 Left (L1EM:15825481)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001g1	DPMm1 ppFB s 2 Left (L1EM:9949223)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001vj	DPLc post med s 3 Right (L1EM:17588631)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001wf	BAlp int s 1 Left  (L1EM:17728690)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001o7	CM4 s loSM 7 Right (L1EM:14547091)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ef	BAla12 s 1 Right (L1EM:5517913)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001wk	BAlp ant s 7 Left  (L1EM:17728756)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001m4	CM4 s ven 3 Left (L1EM:14266486)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001hv	DPMm1 Left (L1EM:11311591)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001z2	TR BAlv s 7 Left (L1EM:17733164)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001oy	CPd s 4 Right (L1EM:14547411)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001xz	BLP12 b s 2 Left (L1EM:17729341)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001l8	BAmd2 d s 1 Right (L1EM:13756873)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001me	DAMd23 s 1 Left (L1EM:14267160)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001qo	DPMl12 pos s 5 Left (L1EM:14981042)	Andrade2019	part_of	larval nervous system	cp390
+VFB_0010020b	DPMpm1 ppFB 2 - Left (L1EM:19376548)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001sn	DALcl12 v s 3 Left (L1EM:17102765)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001za	BLDd s 4 Right (L1EM:17744059)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001j1	DPLal1-3 s 4 Right (L1EM:12549053)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001w8	BAlp ant s 2  Left  (L1EM:17728647)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001le	BAmd2 v s 3 Right (L1EM:13838330)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ma	DPMm1 ant comm s 1 Left (L1EM:14266964)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001nj	CM4 s short pos 1 Right (L1EM:14546774)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001hf	DPMpm1 s 4 Left (L1EM:10974309)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001qd	DPMl12 pos s 4 Left (L1EM:14973302)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001hc	non-neuron? 10939615 (L1EM:10939614)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001l0	BAmv12 dor s 2 Right (L1EM:13733436)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001sf	Neuron 17048094 immature (L1EM:17048093)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001h5	DPMpm1 ppFB 5 - Right (L1EM:10794801)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001eo	DPMpm2 s loSM 1 Right (L1EM:5999941)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001rh	BAmv12 dor s 3 Left (L1EM:15140301)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001kc	DPMm1 upp comm s 1 Right (L1EM:13237321)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001ej	BLVp2 s 7 Right ; telegoro-like (L1EM:5757817)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001rn	CPe s 1 Left (L1EM:15583282)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001hh	DPMm1 upp comm s 1 Left (L1EM:10993787)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001l7	BAmv12 dor s 9 Right (L1EM:13735199)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001dv	DPMpm1 s left (L1EM:3755622)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001hg	DPMm1 upp comm s 3 Left (L1EM:10993782)	Andrade2019	part_of	larval nervous system	cp390
+VFB_001001gz	DPMm1 upp comm s 5 Left (L1EM:10577349)	Andrade2019	part_of	larval nervous system	cp390

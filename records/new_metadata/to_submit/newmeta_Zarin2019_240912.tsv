@@ -1,193 +1,193 @@
-subject_external_id	subject_id	subject_name	DataSet	subject_external_db	relation	object	Curator
-5084467	VFB_00102169	A01c2_a1l (ipsi_dendrite) (L1EM:5084467)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-14047130	VFB_00102226	MN2 ISN(U3-NB7-1?)_a1l (L1EM:14047130)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-16226512	VFB_00102259	A01c2_a1r (ipsi_dendrite) (L1EM:16226512)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-12809152	VFB_00100941	A31d_a1l (L1EM:12809152)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-14242929	VFB_00102246	A03a3_t3l (was T03a1) (L1EM:14242929)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4382895	VFB_00101463	MN29 (SN MN VA3)_a1r (L1EM:4382895)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4038469	VFB_00102117	A01x_a1r (L1EM:4038469)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-10678017	VFB_00102202	MN12-III (ISN VL1 V-MN NB5-2)_a1l (L1EM:10678017)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4123145	VFB_00102128	A01x_a1l (L1EM:4123145)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-14047554	VFB_00102227	MN9 U1_a1r (L1EM:14047554)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-8688631	VFB_00102187	A03a4_a1l (L1EM:8688631)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-14048538	VFB_00102231	MN15/16 VO4/5 (NB7-1? ISN)_a1r (L1EM:14048538)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-10090269	VFB_00102194	A27e(2)_a1l (L1EM:10090269)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-14866379	VFB_00102250	A02h_a1r (L1EM:14866379)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-14045854	VFB_00102224	MN3 (ISN U4 DA3 NB7-1?)_a1r (L1EM:14045854)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-7987962	VFB_00102183	A03g2_t3r (T03g2) (L1EM:7987962)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-13057994	VFB_00101482	MNISN-Is RP2_a1r (L1EM:13057994)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-12809874	VFB_00100942	feagment (L1EM:12809874)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-10053304	VFB_00100929	A05k_a1r (L1EM:10053304)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4102728	VFB_00102278	MN22/23 (RF:LT2/LT3) LT1_a1r   (L1EM:4102728)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-14087107	VFB_00102235	MN30 RP4_a1r (L1EM:14087107)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4542433	VFB_00101409	A18b_a1l (L1EM:4542433)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-5899328	VFB_00101470	MN28 ISN_a1l (L1EM:5899328)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-11106522	VFB_00102206	A01x2_a1l (L1EM:11106522)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-6535161	VFB_00100671	A10a_a1l Chair-1 (L1EM:6535161)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-16264802	VFB_00102262	MN6/7 RP3_a2l (L1EM:16264802)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-15290335	VFB_00102255	A27e(2)_a1r (L1EM:15290335)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-17071666	VFB_00102267	A26f_a1r (L1EM:17071666)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4881629	VFB_00102291	MN8 (RF:SBM) LT3_a1r  (L1EM:4881629)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4990880	VFB_00100913	A05k_a1l (L1EM:4990880)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4538738	VFB_00102143	A23a_a1l (L1EM:4538738)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-12820178	VFB_00101563	A02h_a1l (L1EM:12820178)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4274364	VFB_00102131	MN29 (SN MN VA3)_a1l (L1EM:4274364)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-14085813	VFB_00102233	MN9 U1_a1l (L1EM:14085813)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4732074	VFB_00102157	T01d4_t3r (L1EM:4732074)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4121534	VFB_00102127	MN23/24 (RF: LT3/LT4) LT4_a1r   (L1EM:4121534)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-10089252	VFB_00102193	A03EGB_a2l (EGHBAL) (L1EM:10089252)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-16515841	VFB_00102264	A18b3_a1r (L1EM:16515841)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-14086309	VFB_00102234	MN19 (ISN NB3-2)_a1l (L1EM:14086309)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4543281	VFB_00102289	A03a4_a1r (L1EM:4543281)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4538681	VFB_00102142	A03a3_t3r (was T03a1) (L1EM:4538681)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-7992966	VFB_00102184	A02e_a1l (L1EM:7992966)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-14088451	VFB_00102238	MN11 (ISN NB3-2)_a1l (L1EM:14088451)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-12468812	VFB_00101088	A09l_a1l (Down-and-back-1) (L1EM:12468812)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-14199565	VFB_00102242	MNISNb/d-Is RP5_a1r (L1EM:14199565)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-19139253	VFB_00102315	MN15/16/17 VO4–6 (NB7-1? )_a1l (L1EM:19139253)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-12873722	VFB_00100945	A31d_a1r (L1EM:12873722)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4101976	VFB_00102122	MN27 (SN MN VA2)_a1r (L1EM:4101976)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-3180525	VFB_00100686	A03o_a1r (L1EM:3180525)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4289773	VFB_00102132	MN23/24 (RF: LT3/LT4) LT4_a1l (L1EM:4289773)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4730042	VFB_00102155	A18b3_a1l (L1EM:4730042)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4326468	VFB_00101461	MN8 (RF:SBM) LT3_a1l (L1EM:4326468)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-10089193	VFB_00102192	A03a6_a1l  (L1EM:10089193)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4729046	VFB_00102290	A23a_a1r (L1EM:4729046)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-16433395	VFB_00102263	MN20 ISN_a1l (L1EM:16433395)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-12809923	VFB_00101027	A08e2_a1l (L1EM:12809923)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4978454	VFB_00102165	A19l_a1r (L1EM:4978454)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-12949240	VFB_00100950	T01d4_t3l (L1EM:12949240)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4936149	VFB_00102292	A01c1_a1r (L1EM:4936149)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-8421329	VFB_00100925	A08e3_a1l  (L1EM:8421329)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-10013402	VFB_00101474	MN11 (ISN NB3-2)_a1r (L1EM:10013402)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4717729	VFB_00102150	MN25 (TN)_a2l (L1EM:4717729)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4541716	VFB_00102145	A03a1_a1r (pre dMNs)  (L1EM:4541716)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-10855206	VFB_00102203	A03g_a1r (L1EM:10855206)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-3546334	VFB_00100622	A02m_a1r Pseudolooper-3 (L1EM:3546334)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-14045016	VFB_00102223	MN14 RP1_a1l (L1EM:14045016)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-14858626	VFB_00102249	A02e_a1r (L1EM:14858626)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4791651	VFB_00102104	MN6/7 RP3_a2r (L1EM:4791651)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-1100936	VFB_00102112	A01j_a1l (L1EM:1100936)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-12809976	VFB_00101562	A06c_a1l (L1EM:12809976)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4488976	VFB_00101465	MN1 aCC_a1r (L1EM:4488976)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-5085455	VFB_00101469	MN20 ISN_a1r (L1EM:5085455)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-16181494	VFB_00102258	MN19 (ISN NB3-2)_a1r (L1EM:16181494)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4535767	VFB_00101467	MN5 LO1_a1r (L1EM:4535767)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-13331383	VFB_00102221	A07f2_a1l (marathon)  (L1EM:13331383)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-8039617	VFB_00100922	A08e3_a1r (L1EM:8039617)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-5351821	VFB_00100914	A05a_a1r (L1EM:5351821)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4124563	VFB_00102130	A27n_a1r (L1EM:4124563)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-8026224	VFB_00101473	MN10 U2_a1l (L1EM:8026224)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-8263821	VFB_00102186	a03d/e_a1r (L1EM:8263821)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4028114	VFB_00102115	MN5 LO1_a1l (L1EM:4028114)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-12820277	VFB_00101564	A14a_a1l (L1EM:12820277)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-14199031	VFB_00102241	MN18 (ISN DT1)_a1l (L1EM:14199031)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4123487	VFB_00102129	T01d2_t3l (L1EM:4123487)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4778439	VFB_00100644	A02m_a1l Pseudolooper-3 (L1EM:4778439)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4848300	VFB_00102161	A03EGB_a2r (EGHBAL) (L1EM:4848300)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-15290305	VFB_00102254	A03xKT_a1r (L1EM:15290305)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4104476	VFB_00102279	T01d1_t3l (L1EM:4104476)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-6570401	VFB_00102177	a03d/e_a1l (L1EM:6570401)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-14048287	VFB_00102230	MN2 ISN(U3-NB7-1?)_a1r (L1EM:14048287)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4991402	VFB_00102166	A18a_a1r  (L1EM:4991402)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4789092	VFB_00102158	A01j_a1r (L1EM:4789092)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-14206438	VFB_00102244	MN14 RP1_a1r (L1EM:14206438)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-17872154	VFB_00101129	A01d3_a1r (L1EM:17872154)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4478328	VFB_00102138	A06x1_a1r (L1EM:4478328)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-14088149	VFB_00102237	MN3 (ISN U4 DA3 NB7-1?)_a1l  (L1EM:14088149)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-16274373	VFB_00100967	A02j_a3l (L1EM:16274373)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-6970942	VFB_00101472	MN18 (ISN DT1)_a1r (L1EM:6970942)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-5358138	VFB_00102173	A19l_a1l (L1EM:5358138)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-5298032	VFB_00102172	A14a_a1r (L1EM:5298032)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-10219170	VFB_00102195	A27l_a1l (L1EM:10219170)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-14826752	VFB_00102248	A01d3_t3l (T01d3) (L1EM:14826752)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-12705004	VFB_00102211	A31b_a1l  (L1EM:12705004)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-5078760	VFB_00102168	A18j_a1l (L1EM:5078760)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-17435371	VFB_00102268	A06l_a1r (Saaghi-1) (L1EM:17435371)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-10185585	VFB_00100024	T01d1_t3r (L1EM:10185585)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-14048876	VFB_00102232	MN28 ISN_a1r (L1EM:14048876)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4071032	VFB_00102277	A02f_a1l  (L1EM:4071032)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-14203725	VFB_00102243	MN15/16 VO4/5 (NB7-1? ISN)_a1l (L1EM:14203725)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-14047760	VFB_00102228	MN10 U2_a1r (L1EM:14047760)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-14866842	VFB_00102251	A02g_a1l (L1EM:14866842)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-14044614	VFB_00102222	MNISNb/d-Is RP5_a1l (L1EM:14044614)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-6467481	VFB_00101471	MN21/22 (RF:LT1/LT2) LT2_a1l (L1EM:6467481)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-10223572	VFB_00102196	A27h_a1l (L1EM:10223572)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-18425292	VFB_00102272	A18b2_a1l (L1EM:18425292)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-15094230	VFB_00102252	DLN2_a1r  (L1EM:15094230)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-17904627	VFB_00102269	A27j_a1l (L1EM:17904627)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-10858401	VFB_00102204	A06a_a1l (L1EM:10858401)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-5904833	VFB_00102106	A03a5_a1l (L1EM:5904833)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-6578062	VFB_00102178	A02b_a1l  (L1EM:6578062)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-5309932	VFB_00100023	A03g_a1l (L1EM:5309932)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-14194234	VFB_00102239	MN30 RP4_a1l (L1EM:14194234)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4326520	VFB_00101462	MN27 (SN MN VA2)_a1l (L1EM:4326520)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-15571023	VFB_00102256	A31k_a1l (L1EM:15571023)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4584506	VFB_00102149	T01d2_t3r (L1EM:4584506)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-12825902	VFB_00101481	Neuron 20725668_fragment (L1EM:12825902)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-2798040	VFB_00102113	A02i_a1l (L1EM:2798040)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4935973	VFB_00102163	A10e_a2r  (L1EM:4935973)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-7876385	VFB_00101009	A08e1_a1l  (L1EM:7876385)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4728865	VFB_00102153	A03a1_a1l (pre dMNs)  (L1EM:4728865)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-10312570	VFB_00102197	A01x2_a1r  (L1EM:10312570)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-14046720	VFB_00102225	MN12-III (ISN VL1 V-MN NB5-2)_a1r (L1EM:14046720)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4102844	VFB_00101075	A09l_a1r (Down-and-back-1) (L1EM:4102844)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4113533	VFB_00102125	A01c1_a1l (L1EM:4113533)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-3995976	VFB_00101107	A01d3_a1l (L1EM:3995976)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-12683525	VFB_00102209	A03a3_a1r (pre dMNs) (L1EM:12683525)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-14045489	VFB_00102312	MN15/16/17 VO4–6 (NB7-1? )_a1r (L1EM:14045489)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-8899200	VFB_00102188	A31b_a1r  (L1EM:8899200)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-10649843	VFB_00101476	MN1 aCC_a1l (L1EM:10649843)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-16257962	VFB_00102261	A03a6_a1r (L1EM:16257962)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-12944478	VFB_00102216	A31k_a1r (L1EM:12944478)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4034528	VFB_00102116	A06a_a1r (L1EM:4034528)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4113612	VFB_00102126	A27k_a2r (L1EM:4113612)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4070588	VFB_00102120	A18b2_a1r (L1EM:4070588)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-5690362	VFB_00100663	A10a_a1r Chair-1 (L1EM:5690362)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-16240665	VFB_00102260	A03xKT_a1l  (L1EM:16240665)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-8198957	VFB_00101013	A08e1_a1r (L1EM:8198957)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-10499711	VFB_00102199	A27l_a1r (L1EM:10499711)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-13522678	VFB_00100955	A05a_a1l (L1EM:13522678)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-7280270	VFB_00102180	A06c_a1r (L1EM:7280270)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4386719	VFB_00102136	A06f_a1l (Saaghi-2) (L1EM:4386719)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-7926496	VFB_00100921	A02j_a3r (L1EM:7926496)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-3546835	VFB_00102103	A02n_a1l Pseudolooper-4 (L1EM:3546835)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-14047945	VFB_00102229	MN4 (ISN U5 NB7-1?)_a1r (L1EM:14047945)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-5057361	VFB_00102167	A02i_a1r (L1EM:5057361)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-11065546	VFB_00102205	A06e_t3r (Saaghi-3) (L1EM:11065546)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-7867016	VFB_00102181	DLN2_a1l (L1EM:7867016)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-13058240	VFB_00102219	MNISN-Is RP2_a1l (L1EM:13058240)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4038808	VFB_00101406	A27k_a2l (L1EM:4038808)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-16690920	VFB_00102265	A18j_a1r (L1EM:16690920)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-18418512	VFB_00101574	A06l_a1l (Saaghi-1) (L1EM:18418512)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-14194703	VFB_00102240	MN13 ISN MN-VL2_a1r (L1EM:14194703)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-2637812	VFB_00100620	A02n_a1r Pseudolooper-4 (L1EM:2637812)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4397287	VFB_00101464	MN26 (SN MN VA1)_a1r (L1EM:4397287)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-10398171	VFB_00102198	A27h_a1r (L1EM:10398171)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4840830	VFB_00102160	A01x2_t3r (T01x2) (L1EM:4840830)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-18145093	VFB_00102270	A02g_a1r (L1EM:18145093)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4302562	VFB_00100635	A03o_a1l (L1EM:4302562)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-10642320	VFB_00102200	A18a_a1l  (L1EM:10642320)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-14087339	VFB_00102236	MN4 (ISN U5 NB7-1?)_a1l (L1EM:14087339)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-13258642	VFB_00102220	A26f_a1l (L1EM:13258642)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4542822	VFB_00102147	A06x1_a1l (L1EM:4542822)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-19111930	VFB_00102111	MN13 ISN MN-VL2_a1l  (L1EM:19111930)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-12036009	VFB_00102207	A06f_a1r (Saaghi-2) (L1EM:12036009)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-5297998	VFB_00102105	A03a5_a1r (L1EM:5297998)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4541202	VFB_00102144	A10e_a2l (L1EM:4541202)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-16713121	VFB_00102266	MN21/22 (RF:LT1/LT2) LT2_a1r   (L1EM:16713121)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4727546	VFB_00101411	A18b_a1r (L1EM:4727546)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-12096730	VFB_00102208	A01x2_t3l (T01x2) (L1EM:12096730)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4524871	VFB_00101466	MN26 (SN MN VA1)_a1l (L1EM:4524871)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-15233041	VFB_00102253	A02b_a1r  (L1EM:15233041)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-12704772	VFB_00102210	A03a3_a1l (pre dMNs)  (L1EM:12704772)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-7934159	VFB_00102182	A27n_a1l (L1EM:7934159)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-12953345	VFB_00102217	A02f_a1r (L1EM:12953345)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-9544992	VFB_00102189	A01x3_a1l (L1EM:9544992)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4731383	VFB_00102156	A01d3_t3r (T01d3) (L1EM:4731383)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-10015769	VFB_00102191	A27j_a1r (L1EM:10015769)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-8234099	VFB_00101011	A08e2_a1r  (L1EM:8234099)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-6811349	VFB_00100916	A01x3_a1r (L1EM:6811349)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-16080562	VFB_00102257	MN25 (TN)_a2r (L1EM:16080562)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4725907	VFB_00102151	A07f2_a1r (marathon) (L1EM:4725907)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
-4042315	VFB_00101392	MN22/23 (RF:LT2/LT3) LT1_a1l (L1EM:4042315)	Zarin2019	catmaid_l1em	part_of	larval nervous system	cp390
+subject_id	subject_name	DataSet	relation	object	Curator
+VFB_00102169	A01c2_a1l (ipsi_dendrite) (L1EM:5084467)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102226	MN2 ISN(U3-NB7-1?)_a1l (L1EM:14047130)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102259	A01c2_a1r (ipsi_dendrite) (L1EM:16226512)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00100941	A31d_a1l (L1EM:12809152)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102246	A03a3_t3l (was T03a1) (L1EM:14242929)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00101463	MN29 (SN MN VA3)_a1r (L1EM:4382895)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102117	A01x_a1r (L1EM:4038469)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102202	MN12-III (ISN VL1 V-MN NB5-2)_a1l (L1EM:10678017)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102128	A01x_a1l (L1EM:4123145)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102227	MN9 U1_a1r (L1EM:14047554)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102187	A03a4_a1l (L1EM:8688631)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102231	MN15/16 VO4/5 (NB7-1? ISN)_a1r (L1EM:14048538)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102194	A27e(2)_a1l (L1EM:10090269)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102250	A02h_a1r (L1EM:14866379)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102224	MN3 (ISN U4 DA3 NB7-1?)_a1r (L1EM:14045854)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102183	A03g2_t3r (T03g2) (L1EM:7987962)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00101482	MNISN-Is RP2_a1r (L1EM:13057994)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00100942	feagment (L1EM:12809874)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00100929	A05k_a1r (L1EM:10053304)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102278	MN22/23 (RF:LT2/LT3) LT1_a1r   (L1EM:4102728)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102235	MN30 RP4_a1r (L1EM:14087107)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00101409	A18b_a1l (L1EM:4542433)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00101470	MN28 ISN_a1l (L1EM:5899328)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102206	A01x2_a1l (L1EM:11106522)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00100671	A10a_a1l Chair-1 (L1EM:6535161)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102262	MN6/7 RP3_a2l (L1EM:16264802)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102255	A27e(2)_a1r (L1EM:15290335)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102267	A26f_a1r (L1EM:17071666)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102291	MN8 (RF:SBM) LT3_a1r  (L1EM:4881629)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00100913	A05k_a1l (L1EM:4990880)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102143	A23a_a1l (L1EM:4538738)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00101563	A02h_a1l (L1EM:12820178)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102131	MN29 (SN MN VA3)_a1l (L1EM:4274364)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102233	MN9 U1_a1l (L1EM:14085813)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102157	T01d4_t3r (L1EM:4732074)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102127	MN23/24 (RF: LT3/LT4) LT4_a1r   (L1EM:4121534)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102193	A03EGB_a2l (EGHBAL) (L1EM:10089252)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102264	A18b3_a1r (L1EM:16515841)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102234	MN19 (ISN NB3-2)_a1l (L1EM:14086309)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102289	A03a4_a1r (L1EM:4543281)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102142	A03a3_t3r (was T03a1) (L1EM:4538681)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102184	A02e_a1l (L1EM:7992966)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102238	MN11 (ISN NB3-2)_a1l (L1EM:14088451)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00101088	A09l_a1l (Down-and-back-1) (L1EM:12468812)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102242	MNISNb/d-Is RP5_a1r (L1EM:14199565)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102315	MN15/16/17 VO4–6 (NB7-1? )_a1l (L1EM:19139253)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00100945	A31d_a1r (L1EM:12873722)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102122	MN27 (SN MN VA2)_a1r (L1EM:4101976)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00100686	A03o_a1r (L1EM:3180525)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102132	MN23/24 (RF: LT3/LT4) LT4_a1l (L1EM:4289773)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102155	A18b3_a1l (L1EM:4730042)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00101461	MN8 (RF:SBM) LT3_a1l (L1EM:4326468)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102192	A03a6_a1l  (L1EM:10089193)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102290	A23a_a1r (L1EM:4729046)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102263	MN20 ISN_a1l (L1EM:16433395)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00101027	A08e2_a1l (L1EM:12809923)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102165	A19l_a1r (L1EM:4978454)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00100950	T01d4_t3l (L1EM:12949240)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102292	A01c1_a1r (L1EM:4936149)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00100925	A08e3_a1l  (L1EM:8421329)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00101474	MN11 (ISN NB3-2)_a1r (L1EM:10013402)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102150	MN25 (TN)_a2l (L1EM:4717729)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102145	A03a1_a1r (pre dMNs)  (L1EM:4541716)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102203	A03g_a1r (L1EM:10855206)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00100622	A02m_a1r Pseudolooper-3 (L1EM:3546334)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102223	MN14 RP1_a1l (L1EM:14045016)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102249	A02e_a1r (L1EM:14858626)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102104	MN6/7 RP3_a2r (L1EM:4791651)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102112	A01j_a1l (L1EM:1100936)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00101562	A06c_a1l (L1EM:12809976)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00101465	MN1 aCC_a1r (L1EM:4488976)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00101469	MN20 ISN_a1r (L1EM:5085455)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102258	MN19 (ISN NB3-2)_a1r (L1EM:16181494)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00101467	MN5 LO1_a1r (L1EM:4535767)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102221	A07f2_a1l (marathon)  (L1EM:13331383)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00100922	A08e3_a1r (L1EM:8039617)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00100914	A05a_a1r (L1EM:5351821)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102130	A27n_a1r (L1EM:4124563)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00101473	MN10 U2_a1l (L1EM:8026224)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102186	a03d/e_a1r (L1EM:8263821)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102115	MN5 LO1_a1l (L1EM:4028114)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00101564	A14a_a1l (L1EM:12820277)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102241	MN18 (ISN DT1)_a1l (L1EM:14199031)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102129	T01d2_t3l (L1EM:4123487)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00100644	A02m_a1l Pseudolooper-3 (L1EM:4778439)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102161	A03EGB_a2r (EGHBAL) (L1EM:4848300)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102254	A03xKT_a1r (L1EM:15290305)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102279	T01d1_t3l (L1EM:4104476)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102177	a03d/e_a1l (L1EM:6570401)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102230	MN2 ISN(U3-NB7-1?)_a1r (L1EM:14048287)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102166	A18a_a1r  (L1EM:4991402)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102158	A01j_a1r (L1EM:4789092)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102244	MN14 RP1_a1r (L1EM:14206438)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00101129	A01d3_a1r (L1EM:17872154)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102138	A06x1_a1r (L1EM:4478328)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102237	MN3 (ISN U4 DA3 NB7-1?)_a1l  (L1EM:14088149)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00100967	A02j_a3l (L1EM:16274373)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00101472	MN18 (ISN DT1)_a1r (L1EM:6970942)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102173	A19l_a1l (L1EM:5358138)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102172	A14a_a1r (L1EM:5298032)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102195	A27l_a1l (L1EM:10219170)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102248	A01d3_t3l (T01d3) (L1EM:14826752)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102211	A31b_a1l  (L1EM:12705004)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102168	A18j_a1l (L1EM:5078760)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102268	A06l_a1r (Saaghi-1) (L1EM:17435371)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00100024	T01d1_t3r (L1EM:10185585)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102232	MN28 ISN_a1r (L1EM:14048876)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102277	A02f_a1l  (L1EM:4071032)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102243	MN15/16 VO4/5 (NB7-1? ISN)_a1l (L1EM:14203725)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102228	MN10 U2_a1r (L1EM:14047760)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102251	A02g_a1l (L1EM:14866842)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102222	MNISNb/d-Is RP5_a1l (L1EM:14044614)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00101471	MN21/22 (RF:LT1/LT2) LT2_a1l (L1EM:6467481)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102196	A27h_a1l (L1EM:10223572)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102272	A18b2_a1l (L1EM:18425292)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102252	DLN2_a1r  (L1EM:15094230)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102269	A27j_a1l (L1EM:17904627)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102204	A06a_a1l (L1EM:10858401)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102106	A03a5_a1l (L1EM:5904833)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102178	A02b_a1l  (L1EM:6578062)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00100023	A03g_a1l (L1EM:5309932)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102239	MN30 RP4_a1l (L1EM:14194234)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00101462	MN27 (SN MN VA2)_a1l (L1EM:4326520)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102256	A31k_a1l (L1EM:15571023)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102149	T01d2_t3r (L1EM:4584506)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00101481	Neuron 20725668_fragment (L1EM:12825902)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102113	A02i_a1l (L1EM:2798040)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102163	A10e_a2r  (L1EM:4935973)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00101009	A08e1_a1l  (L1EM:7876385)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102153	A03a1_a1l (pre dMNs)  (L1EM:4728865)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102197	A01x2_a1r  (L1EM:10312570)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102225	MN12-III (ISN VL1 V-MN NB5-2)_a1r (L1EM:14046720)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00101075	A09l_a1r (Down-and-back-1) (L1EM:4102844)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102125	A01c1_a1l (L1EM:4113533)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00101107	A01d3_a1l (L1EM:3995976)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102209	A03a3_a1r (pre dMNs) (L1EM:12683525)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102312	MN15/16/17 VO4–6 (NB7-1? )_a1r (L1EM:14045489)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102188	A31b_a1r  (L1EM:8899200)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00101476	MN1 aCC_a1l (L1EM:10649843)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102261	A03a6_a1r (L1EM:16257962)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102216	A31k_a1r (L1EM:12944478)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102116	A06a_a1r (L1EM:4034528)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102126	A27k_a2r (L1EM:4113612)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102120	A18b2_a1r (L1EM:4070588)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00100663	A10a_a1r Chair-1 (L1EM:5690362)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102260	A03xKT_a1l  (L1EM:16240665)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00101013	A08e1_a1r (L1EM:8198957)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102199	A27l_a1r (L1EM:10499711)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00100955	A05a_a1l (L1EM:13522678)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102180	A06c_a1r (L1EM:7280270)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102136	A06f_a1l (Saaghi-2) (L1EM:4386719)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00100921	A02j_a3r (L1EM:7926496)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102103	A02n_a1l Pseudolooper-4 (L1EM:3546835)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102229	MN4 (ISN U5 NB7-1?)_a1r (L1EM:14047945)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102167	A02i_a1r (L1EM:5057361)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102205	A06e_t3r (Saaghi-3) (L1EM:11065546)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102181	DLN2_a1l (L1EM:7867016)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102219	MNISN-Is RP2_a1l (L1EM:13058240)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00101406	A27k_a2l (L1EM:4038808)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102265	A18j_a1r (L1EM:16690920)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00101574	A06l_a1l (Saaghi-1) (L1EM:18418512)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102240	MN13 ISN MN-VL2_a1r (L1EM:14194703)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00100620	A02n_a1r Pseudolooper-4 (L1EM:2637812)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00101464	MN26 (SN MN VA1)_a1r (L1EM:4397287)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102198	A27h_a1r (L1EM:10398171)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102160	A01x2_t3r (T01x2) (L1EM:4840830)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102270	A02g_a1r (L1EM:18145093)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00100635	A03o_a1l (L1EM:4302562)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102200	A18a_a1l  (L1EM:10642320)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102236	MN4 (ISN U5 NB7-1?)_a1l (L1EM:14087339)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102220	A26f_a1l (L1EM:13258642)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102147	A06x1_a1l (L1EM:4542822)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102111	MN13 ISN MN-VL2_a1l  (L1EM:19111930)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102207	A06f_a1r (Saaghi-2) (L1EM:12036009)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102105	A03a5_a1r (L1EM:5297998)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102144	A10e_a2l (L1EM:4541202)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102266	MN21/22 (RF:LT1/LT2) LT2_a1r   (L1EM:16713121)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00101411	A18b_a1r (L1EM:4727546)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102208	A01x2_t3l (T01x2) (L1EM:12096730)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00101466	MN26 (SN MN VA1)_a1l (L1EM:4524871)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102253	A02b_a1r  (L1EM:15233041)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102210	A03a3_a1l (pre dMNs)  (L1EM:12704772)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102182	A27n_a1l (L1EM:7934159)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102217	A02f_a1r (L1EM:12953345)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102189	A01x3_a1l (L1EM:9544992)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102156	A01d3_t3r (T01d3) (L1EM:4731383)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102191	A27j_a1r (L1EM:10015769)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00101011	A08e2_a1r  (L1EM:8234099)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00100916	A01x3_a1r (L1EM:6811349)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102257	MN25 (TN)_a2r (L1EM:16080562)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00102151	A07f2_a1r (marathon) (L1EM:4725907)	Zarin2019	part_of	larval nervous system	cp390
+VFB_00101392	MN22/23 (RF:LT2/LT3) LT1_a1l (L1EM:4042315)	Zarin2019	part_of	larval nervous system	cp390

@@ -1,739 +1,739 @@
-subject_external_id	subject_id	subject_name	DataSet	subject_external_db	relation	object	Curator
-13429045	VFB_00100869	AF4: TOH right; Large Spider Neuron right (L1EM:13429045)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3315001	VFB_00100767	hugin-PC right 1 (L1EM:3315001)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-4400767	VFB_00100784	DH44 2 left (L1EM:4400767)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15409328	VFB_00101800	AN-R-Sens-B2-ACp-08 (L1EM:15409328)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-18371412	VFB_00102084	SEZ-IN-03-left (L1EM:18371412)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-5378683	VFB_00100796	T1l Ascending into PC_left (L1EM:5378683)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3991518	VFB_00100199	Thermo PN 3 (L1EM:3991518)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15573331	VFB_00101836	AN-R-Sens-B2-ACp-16 (L1EM:15573331)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15595950	VFB_00101858	MN-R-Sens-B2-ACpl-01 (Awesome MN sensory 2) (L1EM:15595950)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-9853425	VFB_00101763	AN-R-Sens-B3-ACp-09 (gustatory pheromone neuron) (L1EM:9853425)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-6703240	VFB_00100258	MBON-n1 (L1EM:6703240)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-4119387	VFB_00100077	Multiglomerular PN 7 (L1EM:4119387)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3945232	VFB_00101682	FFN-4 (L1EM:3945232)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15730645	VFB_00101970	MN-L-Sens-B3-VM-05 (L1EM:15730645)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15724385	VFB_00101962	MN-L-Sens-B3-AVp-01 (L1EM:15724385)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2147157	VFB_00101625	BC: presynaptic -medial - paired with #3801211 (L1EM:2147157)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-5057916	VFB_00101702	AN-L-Sens-B3-VM-11 (L1EM:5057916)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8111135	VFB_00100189	Vision PN 1 (L1EM:8111135)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15618756	VFB_00101877	MN-R-Sens-B2-VM-20 (L1EM:15618756)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15618976	VFB_00101878	MN-R-Sens-B2-VM-12 (L1EM:15618976)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15997983	VFB_00102010	AN-L-Sens-B2-ACp-06 (L1EM:15997983)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17267282	VFB_00102050	neuron 17267283 (L1EM:17267282)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15612241	VFB_00101868	MN-R-Sens-B2-VM-19 (L1EM:15612241)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15638520	VFB_00101885	MN-R-Sens-B3-VM-06 (L1EM:15638520)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-19816278	VFB_00102101	MB2IN-204 (L1EM:19816278)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-18934019	VFB_00102093	MN-L-Sens-B2-ACp-17 (L1EM:18934019)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15678833	VFB_00101918	MN-L-Sens-B2-VM-21 (L1EM:15678833)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-768233	VFB_00101586	Interneuron--35 in total (strong to MN motor neurons) (L1EM:768233)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15673925	VFB_00101911	MN-L-Sens-B2-ACpl-03 (L1EM:15673925)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-9805520	VFB_00100840	hugin-PC left 3 (L1EM:9805520)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15609427	VFB_00101863	MN-R-Sens-B2-?-00 (L1EM:15609427)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8244823	VFB_00100134	13a PN (L1EM:8244823)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15531033	VFB_00101813	AN-R-Sens-B2-ACp-03 (L1EM:15531033)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15508735	VFB_00101809	AN-R-Sens-B2-ACp-01 (L1EM:15508735)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2369444	VFB_00100739	MB2IN-199 (L1EM:2369444)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-12634154	VFB_00100865	IPC 3 left (L1EM:12634154)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15983156	VFB_00101989	AN-L-Sens-B1-AVa-39 (L1EM:15983156)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2426397	VFB_00101637	MB2ON-150 (L1EM:2426397)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-7020344	VFB_00100260	Gustatory PN 3 (L1EM:7020344)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15730680	VFB_00101971	MN-L-Sens-B2-VM-20 (L1EM:15730680)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15564661	VFB_00101828	AN-R-Sens-B1-AVa-29 (L1EM:15564661)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-9796597	VFB_00100839	hugin-PC left 2 (L1EM:9796597)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15640548	VFB_00101893	MN-R-Sens-B3-AVp-02 (L1EM:15640548)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3477008	VFB_00101664	SEZ-X-left (L1EM:3477008)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-7840791	VFB_00100353	MBON-e1 (L1EM:7840791)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2921933	VFB_00100359	V1: possible PVL005 - 3 Right (L1EM:2921933)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15615305	VFB_00101871	MN-R-Sens-B2-VM-11 (L1EM:15615305)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-14273873	VFB_00101792	ASB Ascending left 14273874  (L1EM:14273873)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15984797	VFB_00101992	AN-L-Sens-B1-AVa-23 (L1EM:15984797)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-13589251	VFB_00100170	33a PN (L1EM:13589251)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-4354933	VFB_00100082	85c PN (L1EM:4354933)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-7935088	VFB_00100119	35a PN (L1EM:7935088)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15556081	VFB_00101823	MN-R-Sens-B2-ACp-11 (L1EM:15556081)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3966683	VFB_00101687	AN-R-Sens-B3-ACal-07 (upstream of Multig. Olfactory PN 3) right (L1EM:3966683)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15716309	VFB_00101951	MN-L-Sens-B2-ACp-03 (L1EM:15716309)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15641926	VFB_00101897	MN-R-Sens-B3-ACp-01 (L1EM:15641926)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15531916	VFB_00101814	AN-R-Sens-B2-ACp-04 (L1EM:15531916)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-18403155	VFB_00102085	SEZ-IN-18-left (L1EM:18403155)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-4391978	VFB_00100083	Multiglomerular PN 3 (L1EM:4391978)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15561413	VFB_00101826	AN-R-Sens-B1-ACa-13 (L1EM:15561413)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3732322	VFB_00101676	SEZ-IN-32-right (L1EM:3732322)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15998913	VFB_00102021	AN-L-Sens-B2-VM-04 (L1EM:15998913)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17248923	VFB_00102045	AN-R-motor-05 (L1EM:17248923)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15620432	VFB_00101879	MN-R-Sens-B2-VM-17 (L1EM:15620432)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15998100	VFB_00102011	AN-L-Sens-B2-ACp-13 (L1EM:15998100)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2852273	VFB_00100733	_IPC 2 (L1EM:2852273)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15680710	VFB_00101923	MN-L-Sens-B2-VM-03 (L1EM:15680710)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-5614978	VFB_00100805	T1l asc contra 01 (L1EM:5614978)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15690955	VFB_00101933	MN-L-Sens-B2-VM-06 (L1EM:15690955)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15724636	VFB_00101964	MN-L-Sens-B3-VM-08 (L1EM:15724636)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-4338596	VFB_00101698	MN-L-Sens-B2-ACp-01 (L1EM:4338596)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8438283	VFB_00101746	MB2ON-153 (L1EM:8438283)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17225493	VFB_00102044	fork of GPhN (left) former SEZ IN - unfinished (L1EM:17225493)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15690711	VFB_00101932	MN-L-Sens-B2-VM-14 (L1EM:15690711)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15575327	VFB_00100894	AN-R-Sens-B1-AVa-26 (L1EM:15575327)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3276003	VFB_00100764	MB2IN-150 (L1EM:3276003)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1351125	VFB_00101606	AN-L-Sens-B1-AVa-40 (L1EM:1351125)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3650600	VFB_00101673	AN-R-Sens-B3-ACal-01 (temp sensing right neuron alone) (L1EM:3650600)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-9838294	VFB_00100844	AN-L-Sens-B1-ACa-13 (L1EM:9838294)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15588691	VFB_00101848	MN-R-Sens-B2-ACp-12 (L1EM:15588691)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8208555	VFB_00101742	MxN-L-motor-01 - SGDO (L1EM:8208555)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2505675	VFB_00101640	PaN-L-Sens-B1-VM-04 (L1EM:2505675)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2597151	VFB_00100744	AF5: Short-presynaptic-D-1R (L1EM:2597151)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-945309	VFB_00101598	AN-R-Sens-B1-AVa-44 (L1EM:945309)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1575789	VFB_00101617	SEZ-X-right (L1EM:1575789)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-9748579	VFB_00100833	hugin-PC right 3 (L1EM:9748579)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15250080	VFB_00101798	BAmas12_ven descending 4 right (L1EM:15250080)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-18225324	VFB_00102077	Neuron 18225325 (L1EM:18225324)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15202263	VFB_00100878	IPC 4 right (L1EM:15202263)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8246750	VFB_00100141	47a&33b PN (L1EM:8246750)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15594038	VFB_00101854	AN-R-Sens-B2-VM-05 (L1EM:15594038)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-9748269	VFB_00100832	AN-R-Sens-B1-AVa-18 (L1EM:9748269)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8435311	VFB_00101745	MxN-L-motor-09 - MHD-C (L1EM:8435311)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-7865696	VFB_00100114	1a PN (L1EM:7865696)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15615776	VFB_00101874	MN-R-Sens-B2-ACpl-03 (L1EM:15615776)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3762060	VFB_00101677	Bubsy Right (L1EM:3762060)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15770945	VFB_00101983	AN-L-Sens-B1-AVa-25 (L1EM:15770945)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17220054	VFB_00102043	SEZ-IN-A07-left (L1EM:17220054)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15769419	VFB_00100895	AN-L-Sens-B1-ACa-08 (L1EM:15769419)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-7865652	VFB_00100113	22c PN (L1EM:7865652)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15607180	VFB_00101862	MN-R-Sens-B2-VM-07 (L1EM:15607180)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-4284106	VFB_00100781	MB2ON-151 (L1EM:4284106)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-11642879	VFB_00101772	MB2ON-216 (L1EM:11642879)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15995309	VFB_00101995	SE0 L4 (L1EM:15995309)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-16500055	VFB_00102035	SEZ to brain left - gap todo (L1EM:16500055)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15995394	VFB_00101999	AN-L-motor-14 (L1EM:15995394)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15525858	VFB_00101811	AN-R-Sens-B2-ACp-14 (L1EM:15525858)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15998469	VFB_00102016	AN-L-Sens-B2-ACp-05 (L1EM:15998469)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15532105	VFB_00100881	AN-R-Sens-B2-AVa-24 (PPS mechano) (L1EM:15532105)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-4603253	VFB_00101699	neuron 4603254 (L1EM:4603253)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1706716	VFB_00100729	AN-L-Sens-B2-ACp-19 (L1EM:1706716)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15573283	VFB_00101835	AN-R-Sens-B2-ACp-13 (L1EM:15573283)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3556191	VFB_00101667	AN-R-Sens-B1-ACa-03 (L1EM:3556191)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-16288872	VFB_00102028	MN-L-Sens-B3-ACp-02 (L1EM:16288872)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1429969	VFB_00100727	AN-L-Sens-B1-AVa-20 (L1EM:1429969)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-13535387	VFB_00100871	DH44 3 right (L1EM:13535387)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-18239021	VFB_00102079	Neuron 18239022 (L1EM:18239021)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-16468935	VFB_00102034	gate1_left (L1EM:16468935)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-14604028	VFB_00100176	85c PN (L1EM:14604028)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-5404887	VFB_00100798	MB2ON-214 (L1EM:5404887)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15769680	VFB_00100896	AN-L-Sens-B1-AVa-19 (L1EM:15769680)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-5450669	VFB_00101717	MxN-L-motor-05 - MHE-B (L1EM:5450669)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15718275	VFB_00101958	MN-L-Sens-B3-ACp-06 (J Neuron) (L1EM:15718275)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15690392	VFB_00101931	MN-L-Sens-B2-VM-11 (L1EM:15690392)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3709977	VFB_00100204	Gustatory PN 2 (L1EM:3709977)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15615081	VFB_00101870	MN-R-Sens-B2-ACp-16 (L1EM:15615081)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15599768	VFB_00101859	BAmas12 contra right (L1EM:15599768)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15458316	VFB_00101804	AN-R-Sens-B2-ACp-10 (L1EM:15458316)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-11941255	VFB_00101777	Inter2 right (L1EM:11941255)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-896562	VFB_00101595	SE0 R1 (L1EM:896562)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2612527	VFB_00100033	Multiglomerular PN 3 (L1EM:2612527)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8752697	VFB_00101748	FAN-1 (L1EM:8752697)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3728746	VFB_00101675	MB2IN-205 (L1EM:3728746)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-10459723	VFB_00100850	_IPC 2 (L1EM:10459723)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-9730269	VFB_00101755	SEZ-IN-13-right (L1EM:9730269)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3299767	VFB_00100766	hugin-PC right 2 (L1EM:3299767)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-16341966	VFB_00102032	AN-R-Sens-B2-ACp-07 (L1EM:16341966)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-9935752	VFB_00100846	T1r asc contra 01 (L1EM:9935752)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-4393049	VFB_00100229	Gustatory PN 4 (L1EM:4393049)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15542354	VFB_00101817	AN-R-Sens-B1-AVa-42 (L1EM:15542354)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-16868923	VFB_00100502	CN-60 (L1EM:16868923)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-7864823	VFB_00100112	59a PN (L1EM:7864823)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15997645	VFB_00102006	AN-L-Sens-B2-ACp-14 (L1EM:15997645)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15688358	VFB_00101928	MN-L-Sens-B2-ACp-20 (L1EM:15688358)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-6369544	VFB_00101722	t2r medial soma 1 (L1EM:6369544)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2610744	VFB_00101642	AN-L-Sens-B3-ACal-05 (Non-ORN 1) (L1EM:2610744)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15567466	VFB_00101833	AN-R-Sens-B1-AVa-41 (L1EM:15567466)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17254278	VFB_00102046	Pre-PMN-L-08 (L1EM:17254278)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8245692	VFB_00100138	42b PN (L1EM:8245692)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15998218	VFB_00102012	AN-L-Sens-B2-ACp-08 (L1EM:15998218)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-5088293	VFB_00101703	AN-L-Sens-B3-ACpl-10 (L1EM:5088293)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-19731864	VFB_00102100	Neuron 19731865 (L1EM:19731864)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8297018	VFB_00100247	MBON-e2 (L1EM:8297018)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1391179	VFB_00101607	AN-L-Sens-B1-ACa-15 (L1EM:1391179)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15564882	VFB_00101830	AN-R-Sens-B1-AVa-37 (L1EM:15564882)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15727304	VFB_00101968	MN-L-Sens-B3-VM-04 (L1EM:15727304)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15984231	VFB_00101991	AN-L-Sens-B1-AVa-35 (L1EM:15984231)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15617459	VFB_00101876	MN-R-Sens-B2-VM-06 (L1EM:15617459)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-12260696	VFB_00101782	MN-L-Sens-B2-ACp-06 (L1EM:12260696)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15672153	VFB_00101908	MN-R-Sens-B3-VM-04 (L1EM:15672153)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3652587	VFB_00101674	AN-L-Sens-B3-ACp-08 (L1EM:3652587)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17267348	VFB_00102052	neuron 17267349 (L1EM:17267348)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-19912140	VFB_00100908	T1r asc contra 02 (L1EM:19912140)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17651480	VFB_00102068	SEZ-IN-01-right (L1EM:17651480)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3795498	VFB_00101678	AN-R-Sens-B2-ACp-12 (L1EM:3795498)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15611642	VFB_00101866	MN-R-Sens-B2-VM-09 (L1EM:15611642)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-4044654	VFB_00101692	AN-R-Sens-B3-VM-13 (L1EM:4044654)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-4120910	VFB_00101696	SEZ-IN-04-left (L1EM:4120910)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17884299	VFB_00100520	Gustatory PN 1 (L1EM:17884299)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1428271	VFB_00100726	AN-L-Sens-B1-AVa-22 (L1EM:1428271)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-4876704	VFB_00100238	Unknown PN 1 (L1EM:4876704)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15543068	VFB_00100884	AN-R-Sens-B1-AVa-21 (L1EM:15543068)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15711289	VFB_00101938	MN-L-Sens-B2-VM-16 (L1EM:15711289)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-4992273	VFB_00101700	neuron 4992274 (L1EM:4992273)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15253921	VFB_00100419	MBON-f1 (L1EM:15253921)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15572414	VFB_00100889	AN-R-Sens-B1-AVa-25 (L1EM:15572414)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-873148	VFB_00101590	AN-R-motor-13 (L1EM:873148)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-7439388	VFB_00101727	Interneuron--35 in total (L1EM:7439388)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15717229	VFB_00101954	MN-L-Sens-B2-VM-15 (L1EM:15717229)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-14812545	VFB_00101794	MB2ON-145 (L1EM:14812545)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8238322	VFB_00101744	LHN-2 (L1EM:8238322)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-875613	VFB_00101592	AN-R-motor-09 (L1EM:875613)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1398253	VFB_00100722	AN-L-Sens-B1-ACa-05 (L1EM:1398253)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17421902	VFB_00102063	neuron 17421903 (L1EM:17421902)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15714845	VFB_00101945	MN-L-Sens-B2-VM-10 (L1EM:15714845)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15541976	VFB_00100883	AN-R-Sens-B2-ACp-19 (L1EM:15541976)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2268281	VFB_00101629	PaN-R-Sens-B1-VM-02 (L1EM:2268281)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-10563755	VFB_00100851	DH44 3 left (L1EM:10563755)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-9787672	VFB_00101757	SEZ-IN-11-left (L1EM:9787672)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-9934374	VFB_00101764	neuron 9934375: incomplete neuron with soma; unidentified (L1EM:9934374)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15595823	VFB_00101857	MN-R-Sens-B2-ACp-15 (L1EM:15595823)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1414206	VFB_00100725	AN-L-Sens-B1-AVa-16 (L1EM:1414206)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1218587	VFB_00101603	AN-R-motor-08 (L1EM:1218587)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-6133702	VFB_00101721	AF6 right - ASB TODO 1.1 (L1EM:6133702)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15573428	VFB_00101838	SE0 R4 (L1EM:15573428)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-19099536	VFB_00102095	neuron 19099537 (L1EM:19099536)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15564911	VFB_00101831	AN-R-Sens-B1-AVa-27 (L1EM:15564911)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15983118	VFB_00101988	SE0 L3 (L1EM:15983118)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15658013	VFB_00101905	MN-R-Sens-B2-AVp-01 (L1EM:15658013)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3613276	VFB_00100775	Interneuron W right - Inputs from SE0 Serotonin - paired with #9787565 (L1EM:3613276)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15769638	VFB_00101980	SE0 L2 (L1EM:15769638)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2524026	VFB_00101641	PaN-L-Sens-B2-VM-02 (L1EM:2524026)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15769490	VFB_00101978	AN-L-motor-06 (L1EM:15769490)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-407869	VFB_00101583	AN-L-motor-08 (L1EM:407869)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1939616	VFB_00101622	neuron 1939617--1 (L1EM:1939616)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8245146	VFB_00100136	82a PN (L1EM:8245146)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-10263287	VFB_00101765	SEZ-IN-07-right (L1EM:10263287)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2189894	VFB_00101626	neuron 2189895--5 (L1EM:2189894)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15590761	VFB_00101852	AN-L-Sens-B2-ACp-07 (L1EM:15590761)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-855719	VFB_00101588	AN-R-motor-14 (L1EM:855719)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3281684	VFB_00100765	IPC 5 left (L1EM:3281684)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15225589	VFB_00101797	MB2IN-146 (L1EM:15225589)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2355126	VFB_00100732	IPC 7 right (L1EM:2355126)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17698681	VFB_00102069	BAmas12 midline neuron 1 right (L1EM:17698681)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8810739	VFB_00101749	MN-R-Sens-B2-AVp-02 (L1EM:8810739)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-7439909	VFB_00101728	AN-L-Sens-B2-ACp-03 (L1EM:7439909)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15679577	VFB_00101921	MN-L-Sens-B2-ACp-10 (L1EM:15679577)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2289486	VFB_00101630	neuron 2289487--11 (L1EM:2289486)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-16123983	VFB_00102025	PaN-R-Sens-B1-VM-03 (L1EM:16123983)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-10418394	VFB_00100849	DH44 1 left (L1EM:10418394)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17511972	VFB_00102065	SEZ-IN-? left (L1EM:17511972)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2302816	VFB_00101631	PaN-R-Sens-B2-VM-01 (L1EM:2302816)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15639275	VFB_00101890	MN-R-Sens-B3-VM-08 (L1EM:15639275)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15421363	VFB_00100422	MBON-j1 (L1EM:15421363)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-12073881	VFB_00101779	MN-L-Sens-B2-ACp-16 (L1EM:12073881)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15914721	VFB_00101984	MN-R-Sens-B3-VM-14 (L1EM:15914721)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-19431430	VFB_00102098	_SOG IN (L1EM:19431430)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-9712223	VFB_00101754	KS LN 1 right (L1EM:9712223)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-11736972	VFB_00101775	MN-L-Sens-B2-ACp-15 (L1EM:11736972)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15541944	VFB_00100882	AN-R-Sens-B2-ACp-02 (L1EM:15541944)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17271471	VFB_00102053	neuron 17271472 (L1EM:17271471)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3356289	VFB_00101660	SEZ-IN-A06-right (L1EM:3356289)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15640893	VFB_00101896	MN-R-Sens-B3-ACp-03 (L1EM:15640893)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8012953	VFB_00100272	Unknown PN 2 (L1EM:8012953)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-7107433	VFB_00100105	45b PN (L1EM:7107433)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-7865767	VFB_00100115	83a PN (L1EM:7865767)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-18679889	VFB_00102090	MN-R-Sens-B2-VM-16 (L1EM:18679889)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15996518	VFB_00102004	AN-L-Sens-B2-ACp-11 (L1EM:15996518)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-4096703	VFB_00101694	AN-R-Sens-B3-VM-12 (L1EM:4096703)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-7136254	VFB_00100815	MB2ON-149 (L1EM:7136254)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15564706	VFB_00100886	AN-R-Sens-B1-AVa-24 (L1EM:15564706)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-7852250	VFB_00100109	45a PN (L1EM:7852250)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1400725	VFB_00101609	AN-L-Sens-B1-ACa-12 (L1EM:1400725)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15589411	VFB_00101851	MN-R-Sens-B2-ACp-21 (L1EM:15589411)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15674262	VFB_00101913	MN-L-Sens-B2-ACp-11 (Olfactory Gustatory connector 2) (L1EM:15674262)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17380936	VFB_00102055	AN-L-Sens-B1-AVa-33 (L1EM:17380936)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15997068	VFB_00102005	AN-L-motor-18 (L1EM:15997068)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2357110	VFB_00100740	IPC 6 right (L1EM:2357110)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2669832	VFB_00101644	PaN-L-Sens-B1-VM-03 (L1EM:2669832)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8256186	VFB_00100146	30a PN (L1EM:8256186)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3267019	VFB_00101658	MN-L-Sens-B2-VM-19 (L1EM:3267019)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15677030	VFB_00101915	MN-L-Sens-B2-VM-05 (L1EM:15677030)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3044500	VFB_00101649	MB2IN-172 (L1EM:3044500)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3561724	VFB_00100770	IPC 5 right (L1EM:3561724)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-255222	VFB_00101581	MB2ON-223 (L1EM:255222)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15434200	VFB_00101801	AN-R-Sens-B2-ACp-06 (L1EM:15434200)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15615475	VFB_00101872	MN-R-Sens-B2-VM-10 (L1EM:15615475)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-865801	VFB_00101589	AN-R-motor-17 (L1EM:865801)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3032520	VFB_00101647	MN-L-Sens-B3-AVp-03 (L1EM:3032520)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-5437704	VFB_00101713	MxN-R-motor-06 - MHE-C (L1EM:5437704)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15998817	VFB_00102019	AN-L-Sens-B2-ACp-12 (L1EM:15998817)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15672957	VFB_00101909	MN-R-Sens-B3-VM-12 (L1EM:15672957)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1067653	VFB_00101600	Interneuron--35 in total (L1EM:1067653)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-5440613	VFB_00101715	MxN-R-motor-08 - MHD-B (L1EM:5440613)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3586984	VFB_00101669	AN-L-Sens-B3-ACal-07 (upstream of Multig. Olfactory PN 3)  (L1EM:3586984)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15770867	VFB_00101982	AN-L-motor-16 (L1EM:15770867)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-12948470	VFB_00100406	Thermo PN 1 (L1EM:12948470)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1427012	VFB_00101612	AN-L-Sens-B1-AVa-32 (L1EM:1427012)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15995404	VFB_00102000	AN-L-Sens-B2-ACp-22 (L1EM:15995404)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-16124082	VFB_00102027	PaN-R-Sens-B1-VM-05 (L1EM:16124082)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3420915	VFB_00100768	FFN-18 (L1EM:3420915)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-11210000	VFB_00101768	LHN-2 (L1EM:11210000)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15716934	VFB_00101953	MN-L-Sens-B2-ACpl-02 (Awesome MN sensory 1) (L1EM:15716934)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15564695	VFB_00101829	SE0 R3 (L1EM:15564695)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15686512	VFB_00101927	MN-L-Sens-B2-ACp-14 (L1EM:15686512)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-16341399	VFB_00102030	MN-R-Sens-B2-ACp-04 (L1EM:16341399)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-13535380	VFB_00100870	IPC 1 right (L1EM:13535380)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-19120853	VFB_00100907	MB2IN-202 (L1EM:19120853)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-18440675	VFB_00102086	BAmas12 midline 3 left (L1EM:18440675)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-5095269	VFB_00101705	AN-L-Sens-B3-VM-14 (L1EM:5095269)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1156684	VFB_00101602	Interneuron--35 in total (L1EM:1156684)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3450751	VFB_00100195	Multiglomerular PN 5 (L1EM:3450751)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15994926	VFB_00101993	AN-L-Sens-B1-AVa-36 (L1EM:15994926)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-13645610	VFB_00101790	DPMl Skis right (L1EM:13645610)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15717426	VFB_00101955	MN-L-Sens-B2-AVp-02 (L1EM:15717426)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-16115501	VFB_00102024	AN-R-Sens-B3-VM-11 (L1EM:16115501)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-616176	VFB_00101584	SEZ-IN-10-left (L1EM:616176)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3946364	VFB_00101685	AF6: Munin Output left (L1EM:3946364)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15690093	VFB_00101930	MN-L-Sens-B2-ACp-09 (L1EM:15690093)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15997692	VFB_00102007	AN-L-Sens-B2-ACp-18 (L1EM:15997692)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15746421	VFB_00101974	MN-R-Sens-B2-ACpl-02 (Awesome MN sensory 1) (L1EM:15746421)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-19341122	VFB_00102097	Neuron 19341123 (L1EM:19341122)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-7198338	VFB_00100106	24a PN (L1EM:7198338)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-12253020	VFB_00101781	MN-R-Sens-B2-ACp-14 (L1EM:12253020)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-19180425	VFB_00102096	MN-L-Sens-B2-VM-24 (L1EM:19180425)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15451084	VFB_00101803	AN-R-Sens-B2-ACp-09 (L1EM:15451084)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-7557604	VFB_00100821	MB2IN-150 (L1EM:7557604)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15674083	VFB_00101912	MN-L-Sens-B2-VM-02 (L1EM:15674083)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-12199926	VFB_00101780	SEZ-IN-10-right (L1EM:12199926)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15543394	VFB_00101818	AN-R-Sens-B1-AVa-31 (L1EM:15543394)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8134938	VFB_00101736	MxN-R-motor-07 - MHD-A (L1EM:8134938)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-9787565	VFB_00100836	Interneuron W left - Inputs from SE0 Serotonin - paired with #3613276 (L1EM:9787565)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15637893	VFB_00101884	MN-R-Sens-B3-VM-05 (L1EM:15637893)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-7971031	VFB_00100337	Thermo PN 1 (L1EM:7971031)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-5453143	VFB_00101719	MxN-L-motor-04 - MHE-A (L1EM:5453143)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1709802	VFB_00101618	AN-L-Sens-B2-AVa-24 (PPS mechano) (L1EM:1709802)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-38147	VFB_00101579	PaN-L-motor-02 (L1EM:38147)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15998261	VFB_00102013	AN-L-Sens-B2-ACp-15 (L1EM:15998261)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2340336	VFB_00100752	AN-R-Sens-B1-ACa-02 (L1EM:2340336)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3801211	VFB_00101679	BC: neuron 3801212 - paired with #2147157 (L1EM:3801211)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-5186461	VFB_00101710	AN-L-Sens-B3-ACp-09 (gustatory pheromone neuron) (L1EM:5186461)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8248631	VFB_00100143	22c PN (L1EM:8248631)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8252067	VFB_00100144	1a PN (L1EM:8252067)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15724520	VFB_00101963	MN-L-Sens-B3-VM-06 (L1EM:15724520)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-6794664	VFB_00101723	SEZ-IN-medial projections right (L1EM:6794664)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1435466	VFB_00100728	AN-L-Sens-B1-AVa-21 (L1EM:1435466)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-40152	VFB_00100717	AN-L-Sens-B1-ACa-10 (L1EM:40152)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15610387	VFB_00101865	MN-R-Sens-B2-VM-08 (L1EM:15610387)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1392771	VFB_00101608	AN-L-Sens-B1-ACa-06 (L1EM:1392771)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15982951	VFB_00101987	AN-L-motor-10 (L1EM:15982951)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3050645	VFB_00101650	MN-L-Sens-B3-VM-14 (L1EM:3050645)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-14962387	VFB_00101796	_SOG IN (L1EM:14962387)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2260755	VFB_00100738	DH44 1 right (L1EM:2260755)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-16018123	VFB_00102022	T2r asc contra 01 (L1EM:16018123)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15995327	VFB_00101996	AN-L-Sens-B1-AVa-37 (L1EM:15995327)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-9813902	VFB_00100842	hugin-PC left 4 (L1EM:9813902)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-5558724	VFB_00101720	Input to both Munin PC 3 right; BAmas d 4 neuron 5558725 (L1EM:5558724)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15574199	VFB_00101839	AN-R-Sens-B1-ACa-06 (L1EM:15574199)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-9808022	VFB_00101760	MN-L-Sens-B2-AVp-01 (L1EM:9808022)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15998768	VFB_00102017	AN-L-Sens-B2-ACp-09 (L1EM:15998768)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15728017	VFB_00101969	MN-L-Sens-B3-VM-13 (L1EM:15728017)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-9291474	VFB_00100351	Thermo PN 2 (L1EM:9291474)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15640724	VFB_00101895	MN-R-Sens-B3-VM-11 (L1EM:15640724)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-882339	VFB_00101593	AN-R-motor-06 (L1EM:882339)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8245513	VFB_00100137	63a PN (L1EM:8245513)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8254894	VFB_00100285	Unknown PN 2 (L1EM:8254894)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-16751955	VFB_00102037	FFN-28 (L1EM:16751955)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2037005	VFB_00101623	neuron 2037006 (L1EM:2037005)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17147698	VFB_00100509	MBON-b1 (L1EM:17147698)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-5434746	VFB_00101711	MxN-R-motor-05 - MHE-B (L1EM:5434746)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15587166	VFB_00101847	AN-R-Sens-B1-AVa-39 (L1EM:15587166)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17096642	VFB_00102040	FFN-28 (L1EM:17096642)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-16621864	VFB_00100179	mPN (L1EM:16621864)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17717854	VFB_00102072	KS LN 1 left (L1EM:17717854)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-14930784	VFB_00101795	SEZ-IN-12-left (L1EM:14930784)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1715990	VFB_00101619	AN-L-Sens-B2-ACp-17 (L1EM:1715990)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3609202	VFB_00101671	AN-L-Sens-B3-ACal-03 (temp sensing left neuron together 1) (L1EM:3609202)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15594123	VFB_00101855	MN-R-Sens-B1-VM-02 (L1EM:15594123)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-11671564	VFB_00101773	AN-L-Sens-B2-ACp-21 (L1EM:11671564)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2456826	VFB_00100734	AN-R-Sens-B1-ACa-01 (L1EM:2456826)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15445198	VFB_00101802	AN-R-Sens-B2-VM-08 (L1EM:15445198)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15713374	VFB_00101941	MN-L-Sens-B2-VM-17 (L1EM:15713374)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-7515491	VFB_00100103	49a PN (L1EM:7515491)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3562954	VFB_00101668	MN-R-Sens-B2-VM-21 (L1EM:3562954)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15546924	VFB_00101819	AN-R-Sens-B1-AVa-30 (L1EM:15546924)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-5311299	VFB_00100794	T1r Ascending into PC_right (L1EM:5311299)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-7092086	VFB_00100262	Unknown PN 1 (L1EM:7092086)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3158123	VFB_00101655	presynaptic-D-2-MAP-L left (L1EM:3158123)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15725127	VFB_00101965	MN-L-Sens-B3-VM-10 (L1EM:15725127)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17405603	VFB_00102060	AN-L-motor-13 (L1EM:17405603)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8246081	VFB_00100140	67b PN (L1EM:8246081)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2283495	VFB_00100735	IPC 3 right (L1EM:2283495)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-9275210	VFB_00100279	Thermo PN 6 (L1EM:9275210)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17587794	VFB_00102066	neuron 17587795 (L1EM:17587794)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15700147	VFB_00101936	MN-L-Sens-B1-VM-04 (L1EM:15700147)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15563553	VFB_00101827	AN-R-Sens-B1-ACa-05 (L1EM:15563553)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-9805588	VFB_00100841	MB2ON-152 (L1EM:9805588)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15995929	VFB_00100899	AN-L-Sens-B2-ACp-20 (L1EM:15995929)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3189407	VFB_00101656	T2l asc contra 01 (L1EM:3189407)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2376542	VFB_00101635	SEZ-IN-12-right--14 (L1EM:2376542)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15725673	VFB_00101967	MN-L-Sens-B3-VM-07 (L1EM:15725673)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15998753	VFB_00100901	AN-L-Sens-B2-AVa-25 (PPS mechano) (L1EM:15998753)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15645825	VFB_00101898	MN-R-Sens-B3-ACp-06 (L1EM:15645825)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17816986	VFB_00102075	handle maxillar SEZ (L1EM:17816986)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15564782	VFB_00100887	AN-R-Sens-B1-AVa-23 (L1EM:15564782)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-4030526	VFB_00101691	AN-R-Sens-B3-VM-14 (L1EM:4030526)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-16259595	VFB_00100177	67b PN (L1EM:16259595)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1149968	VFB_00101601	Interneuron--35 in total (L1EM:1149968)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-18028397	VFB_00100521	MBON-k1 (L1EM:18028397)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15605657	VFB_00101860	AN-R-Sens-B2-AVp-03 (L1EM:15605657)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15717935	VFB_00101957	MN-L-Sens-B3-ACpl-07 (L1EM:15717935)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15723727	VFB_00101960	MN-L-Sens-B3-ACp-01 (L1EM:15723727)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-4249897	VFB_00101697	NPF_t3l (L1EM:4249897)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15997807	VFB_00102008	AN-L-Sens-B2-ACp-16 (L1EM:15997807)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1347886	VFB_00101605	AN-L-Sens-B2-AVp-01 (L1EM:1347886)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-7845346	VFB_00100110	63a PN (L1EM:7845346)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-11687553	VFB_00101774	T3l asc contra 01 (L1EM:11687553)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3985829	VFB_00101688	AN-R-Sens-B3-ACal-05 (Non-ORN 1) (L1EM:3985829)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1405493	VFB_00100723	AN-L-Sens-B1-ACa-09 (L1EM:1405493)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-18356793	VFB_00102083	SEZ-IN-04-right (L1EM:18356793)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8169737	VFB_00101739	Input to MN motor neurons left - inputs to motor neurons on both sides (L1EM:8169737)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-4154421	VFB_00100215	Thermo PN 4 (L1EM:4154421)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15716701	VFB_00101952	MN-L-Sens-B2-ACp-02 (L1EM:15716701)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1375101	VFB_00100830	AN-L-Sens-B1-AVa-17 (L1EM:1375101)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15717736	VFB_00101956	MN-L-Sens-B3-ACp-05 (L1EM:15717736)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15508475	VFB_00101808	AN-R-Sens-B2-VM-04 (L1EM:15508475)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-5116147	VFB_00101706	AN-L-Sens-B3-ACal-06 (degraded alone temperature partner neuron) (L1EM:5116147)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15714330	VFB_00101943	MN-L-Sens-B1-VM-03 (L1EM:15714330)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3157405	VFB_00101654	FAN-1 (L1EM:3157405)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3498479	VFB_00101666	contra-vine right (L1EM:3498479)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15638968	VFB_00101887	MN-R-Sens-B3-AVp-01 (L1EM:15638968)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15573396	VFB_00100890	AN-R-Sens-B1-ACa-09 (L1EM:15573396)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3340561	VFB_00101659	AN-R-motor-10 (L1EM:3340561)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8177700	VFB_00101740	MxN-R-motor-03 - LR-B (L1EM:8177700)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-16988779	VFB_00102039	MB2IN-203 (L1EM:16988779)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8167773	VFB_00101738	MxN-R-motor-02 - LR-A (L1EM:8167773)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15530882	VFB_00101812	AN-R-Sens-B2-ACp-15 (L1EM:15530882)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-16317330	VFB_00102029	SEZ-IN-02-right (L1EM:16317330)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17213784	VFB_00102041	Neuron 17213785 (L1EM:17213784)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-5452286	VFB_00101718	MxN-L-motor-06 - MHE-C (L1EM:5452286)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15998782	VFB_00102018	AN-L-Sens-B2-ACp-04 (L1EM:15998782)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1554836	VFB_00101616	Interneuron--35 in total (L1EM:1554836)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15461769	VFB_00101805	AN-R-Sens-B2-ACp-22 (L1EM:15461769)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8021456	VFB_00100078	33a PN (L1EM:8021456)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15629355	VFB_00101882	MN-R-Sens-B2-VM-03 (L1EM:15629355)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-4620453	VFB_00100341	AVL011 PN Right 2? (L1EM:4620453)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15548694	VFB_00101822	AN-R-Sens-B1-ACa-10 (L1EM:15548694)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17716979	VFB_00102071	SEZ-IN-09-right (L1EM:17716979)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3487306	VFB_00101665	AN-R-Sens-B3-ACal-03 (temp sensing right neuron together 1) (L1EM:3487306)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15651438	VFB_00101899	MN-R-Sens-B2-ACp-22 (L1EM:15651438)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15615877	VFB_00101875	MN-R-Sens-B2-VM-22 (L1EM:15615877)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-10934438	VFB_00101767	MN-R-Sens-B2-ACp-18 (L1EM:10934438)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-4023881	VFB_00101690	AN-R-Sens-B3-ACal-04 (Non-ORN 2) (L1EM:4023881)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-7851153	VFB_00100111	82a PN (L1EM:7851153)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2284021	VFB_00100758	AN-L-Sens-B1-ACa-01 (L1EM:2284021)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2668719	VFB_00101643	PaN-L-Sens-B1-VM-02 (L1EM:2668719)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-16442344	VFB_00100902	AN-R-Sens-B1-AVa-20 (L1EM:16442344)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-4992322	VFB_00101701	neuron 4992323 (MNB in SEZ?) (L1EM:4992322)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-16744167	VFB_00102036	SEZ-IN-11-right (L1EM:16744167)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-7843730	VFB_00100096	74a PN (L1EM:7843730)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-11279244	VFB_00100166	49a PN (L1EM:11279244)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15998307	VFB_00102014	AN-L-Sens-B2-ACp-10 (L1EM:15998307)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15398807	VFB_00101799	AN-R-Sens-B2-ACp-17 (L1EM:15398807)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-16341507	VFB_00102031	AN-R-Sens-B2-ACp-05 (L1EM:16341507)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-10329208	VFB_00100848	IPC 1 left (L1EM:10329208)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1540458	VFB_00101615	Interneuron--35 in total (L1EM:1540458)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3123905	VFB_00101653	MN-R-Sens-B3-ACpl-07 (L1EM:3123905)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3071301	VFB_00101652	MN-R-Sens-B2-ACp-13 (L1EM:3071301)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8247451	VFB_00100142	45a PN (L1EM:8247451)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1822302	VFB_00101620	Interneuron--35 in total (L1EM:1822302)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-13168715	VFB_00101787	SEZ-IN-09-left (L1EM:13168715)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15609885	VFB_00101864	MN-R-Sens-B2-ACp-17 (L1EM:15609885)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1432836	VFB_00101614	AN-L-Sens-B1-AVa-18 (L1EM:1432836)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-4785242	VFB_00100829	AF3 thermo 3rd left (L1EM:4785242)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-19042617	VFB_00102094	SEZ-IN-A14-left (L1EM:19042617)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-14082322	VFB_00100408	MBON-e1 (L1EM:14082322)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15573450	VFB_00100891	AN-R-Sens-B1-ACa-14 (L1EM:15573450)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2200182	VFB_00101627	neuron 2200183--7 (L1EM:2200182)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-13190771	VFB_00101788	fork of GPhN (right) (L1EM:13190771)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15938337	VFB_00101985	MN-L-Sens-B2-ACp-08 (L1EM:15938337)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3822523	VFB_00101680	AN-R-Sens-B3-ACp-08 (L1EM:3822523)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3199456	VFB_00101657	MN-R-Sens-B3-ACp-05 (L1EM:3199456)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3454765	VFB_00101663	SEZ-IN-A04-right (L1EM:3454765)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-5435750	VFB_00101712	MxN-R-motor-04 - MHE-A (L1EM:5435750)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15714639	VFB_00101944	MN-L-Sens-B2-ACpl-01 (Awesome MN sensory 2) (L1EM:15714639)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15736147	VFB_00101972	MN-R-Sens-B2-ACp-03 (L1EM:15736147)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-16018440	VFB_00102023	SEZ to brain right (L1EM:16018440)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8253413	VFB_00100145	45b PN (L1EM:8253413)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8199012	VFB_00101741	MN-R-Sens-B3-?-00 (L1EM:8199012)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15574231	VFB_00100892	AN-R-Sens-B1-ACa-08 (L1EM:15574231)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17641913	VFB_00100904	AF4: TOH left (L1EM:17641913)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15640567	VFB_00101894	MN-R-Sens-B3-VM-13 (L1EM:15640567)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15639171	VFB_00101889	MN-R-Sens-B3-ACp-02 (L1EM:15639171)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2679035	VFB_00100753	SEZ-IN-15-right (L1EM:2679035)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15743905	VFB_00101973	MN-R-Sens-B1-VM-04 (L1EM:15743905)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-13581830	VFB_00100872	hugin-PC right 4 (L1EM:13581830)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15652529	VFB_00101900	MN-R-Sens-B2-ACp-01 (L1EM:15652529)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-4493199	VFB_00100084	13a PN (L1EM:4493199)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15656435	VFB_00101904	MN-R-Sens-B2-VM-05 (L1EM:15656435)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3443129	VFB_00101662	T3r asc contra 01 (L1EM:3443129)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15982306	VFB_00101986	AN-L-Sens-B1-AVa-28 (L1EM:15982306)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15640425	VFB_00101892	MN-R-Sens-B3-AVp-03 (L1EM:15640425)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-4152020	VFB_00100214	Multiglomerular PN 6 (L1EM:4152020)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3036249	VFB_00101648	MN-L-Sens-B3-VM-12 (L1EM:3036249)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15997929	VFB_00102009	AN-L-Sens-B2-ACp-23 (L1EM:15997929)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-9820270	VFB_00101761	AN-L-Sens-B1-AVa-29 (L1EM:9820270)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15996160	VFB_00102002	AN-L-Sens-B2-AVp-03 (L1EM:15996160)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17013073	VFB_00100506	CN-60 (L1EM:17013073)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-16575803	VFB_00100903	MB2ON-146 (L1EM:16575803)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15562137	VFB_00100885	AN-R-Sens-B1-ACa-07 (L1EM:15562137)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15715796	VFB_00101948	MN-L-Sens-B2-VM-04 (L1EM:15715796)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15639548	VFB_00101891	MN-R-Sens-B3-VM-10 (L1EM:15639548)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15573381	VFB_00101837	AN-R-Sens-B1-ACa-12 (L1EM:15573381)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3046503	VFB_00100761	IPC 7 left (L1EM:3046503)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3054101	VFB_00101651	MN-L-Sens-B3-ACp-04 (L1EM:3054101)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-7873135	VFB_00100116	42b PN (L1EM:7873135)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-4523803	VFB_00100788	DMS 2 left (L1EM:4523803)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-11639192	VFB_00101771	contra-vine 2 left (L1EM:11639192)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15611791	VFB_00101867	MN-R-Sens-B2-VM-02 (L1EM:15611791)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8213784	VFB_00101743	MB2ON-213 (L1EM:8213784)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15574941	VFB_00101841	AN-R-Sens-B1-AVa-34 (L1EM:15574941)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-6885133	VFB_00101724	SEZ-IN-A05-left - paired with #18354200 (L1EM:6885133)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15567384	VFB_00101832	AN-R-motor-07 (L1EM:15567384)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15638742	VFB_00101886	MN-R-Sens-B1-VM-03 (L1EM:15638742)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15569561	VFB_00101834	AN-R-Sens-B1-AVa-28 (L1EM:15569561)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15678441	VFB_00101917	MN-L-Sens-B2-VM-09 (L1EM:15678441)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15680093	VFB_00101922	MN-L-Sens-B2-ACp-19 (L1EM:15680093)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15581428	VFB_00101845	SEZ-IN-08-left (L1EM:15581428)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15723479	VFB_00101959	MN-L-Sens-B3-AVp-02 (L1EM:15723479)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15995861	VFB_00102001	AN-L-Sens-B2-VM-08 (L1EM:15995861)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-18231999	VFB_00102078	AN-R-Sens-B1-AVa-45 (L1EM:18231999)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8574714	VFB_00101747	PaN-R-motor-02 (L1EM:8574714)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15716127	VFB_00101950	MN-L-Sens-B2-ACp-13 (L1EM:15716127)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-4097554	VFB_00101695	AN-R-Sens-B3-ACpl-10 (L1EM:4097554)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3639968	VFB_00101672	AN-L-Sens-B3-ACal-02 (temp sensing left neuron together 2) (L1EM:3639968)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-13538010	VFB_00101789	SEZ-IN-A07-right (L1EM:13538010)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-4985759	VFB_00100330	Thermo PN 2 (L1EM:4985759)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-7160160	VFB_00101725	AN-R-Sens-B2-AVp-01 (L1EM:7160160)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15681740	VFB_00101925	MN-L-Sens-B2-ACp-21 (L1EM:15681740)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-11067379	VFB_00100390	Gustatory PN 4 (L1EM:11067379)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3859195	VFB_00101681	Munin left 2 (L1EM:3859195)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1924051	VFB_00101621	BAmas12 midline neuron 1 left (L1EM:1924051)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1415168	VFB_00101610	AN-L-Sens-B1-AVa-26 (L1EM:1415168)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-18625446	VFB_00102088	MN-R-Sens-B2-ACp-10 (L1EM:18625446)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-887905	VFB_00101594	SE0 R2 (L1EM:887905)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15548107	VFB_00101821	AN-R-Sens-B1-ACa-17 (L1EM:15548107)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1334471	VFB_00101604	Interneuron--35 in total (L1EM:1334471)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15574328	VFB_00100893	AN-R-Sens-B1-AVa-15 (L1EM:15574328)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-12740290	VFB_00101784	SEZ-IN-A01-left (L1EM:12740290)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-14313750	VFB_00101793	CN-12 (L1EM:14313750)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15698623	VFB_00101934	MN-L-Sens-B1-VM-02 (L1EM:15698623)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15629241	VFB_00101881	MN-R-Sens-B2-VM-15 (L1EM:15629241)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15556868	VFB_00101824	MN-R-Sens-B2-ACp-02 (L1EM:15556868)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-7916593	VFB_00100117	30a PN (L1EM:7916593)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8061047	VFB_00101732	MxN-L-motor-07 - MHD-A (L1EM:8061047)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1395971	VFB_00100721	AN-L-Sens-B1-ACa-11 (L1EM:1395971)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-13142932	VFB_00101786	MB2ON-153 (L1EM:13142932)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15675901	VFB_00101914	MN-L-Sens-B2-VM-22 (L1EM:15675901)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-4651929	VFB_00100085	94a&94b PN (L1EM:4651929)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15588800	VFB_00101849	MN-R-Sens-B2-ACp-20 (L1EM:15588800)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15615589	VFB_00101873	MN-R-Sens-B2-ACp-05 (L1EM:15615589)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15995360	VFB_00101997	AN-L-motor-09 (L1EM:15995360)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15689373	VFB_00101929	MN-L-Sens-B2-ACp-12 (L1EM:15689373)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-4017089	VFB_00101689	AN-R-Sens-B3-ACal-06 (Degraded? Temp?) (L1EM:4017089)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3414508	VFB_00101661	contra-vine left (L1EM:3414508)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17415439	VFB_00102062	presynaptic-D-2-MAP right (L1EM:17415439)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15677323	VFB_00101916	MN-L-Sens-B2-ACp-18 (L1EM:15677323)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-9747418	VFB_00100367	PPLV - 2 Left (maybe PVL014c) (L1EM:9747418)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-7571966	VFB_00101730	MB2ON-218 (L1EM:7571966)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15769596	VFB_00101979	AN-L-motor-05 (L1EM:15769596)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3736500	VFB_00100051	mPN (L1EM:3736500)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17500791	VFB_00102064	AN-L-motor-12 (L1EM:17500791)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-375785	VFB_00101582	Interneuron--35 in total (L1EM:375785)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15996271	VFB_00102003	AN-L-Sens-B2-VM-06 (L1EM:15996271)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15542199	VFB_00101816	AN-R-Sens-B2-?-00 (L1EM:15542199)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8094859	VFB_00100277	MBON-b1 (L1EM:8094859)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-13793212	VFB_00100875	DMS 2 right (L1EM:13793212)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15653432	VFB_00101902	MN-R-Sens-B2-ACp-07 (L1EM:15653432)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-11637858	VFB_00101769	Y Neuron-right (L1EM:11637858)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17434825	VFB_00100512	CN-47 (L1EM:17434825)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-18354200	VFB_00102082	SEZ-IN-A05-right - paired with #6885133 (L1EM:18354200)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15681246	VFB_00101924	Bubsy Left (L1EM:15681246)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15699715	VFB_00101935	MN-L-Sens-B2-VM-23 (L1EM:15699715)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-9716858	VFB_00100831	AN-R-Sens-B1-AVa-19 (L1EM:9716858)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-13751194	VFB_00100874	DH44 2 right (L1EM:13751194)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1011675	VFB_00101599	AN-L-Sens-B2-ACp-02 (L1EM:1011675)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-873782	VFB_00101591	AN-R-motor-16 (L1EM:873782)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17385045	VFB_00102056	neuron 17385046 (L1EM:17385045)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-16124048	VFB_00102026	PaN-R-Sens-B1-VM-04 (L1EM:16124048)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15673867	VFB_00101910	MN-L-Sens-B2-ACp-22 (L1EM:15673867)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-16774287	VFB_00102038	MB2IN-203 (L1EM:16774287)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15762568	VFB_00101976	MN-R-Sens-B2-VM-14 (L1EM:15762568)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15564807	VFB_00100888	AN-R-Sens-B1-AVa-22 (L1EM:15564807)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8105236	VFB_00101735	MxN-L-motor-02 - LR-A (L1EM:8105236)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15576194	VFB_00101844	AN-R-Sens-B1-AVa-40 (L1EM:15576194)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15639020	VFB_00101888	MN-R-Sens-B3-ACp-04 (L1EM:15639020)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-5448622	VFB_00101716	MN-R-Sens-B1-ACpl-01 (L1EM:5448622)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-19470184	VFB_00102099	PC-IN-left (L1EM:19470184)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15998899	VFB_00102020	AN-L-Sens-B2-AVp-02 (L1EM:15998899)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17706915	VFB_00102070	neuron 17706916 (L1EM:17706915)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15398730	VFB_00100420	MBON-n1 (L1EM:15398730)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17415321	VFB_00102061	AN-L-motor-11 (L1EM:17415321)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15574508	VFB_00101840	AN-R-Sens-B1-AVa-38 (L1EM:15574508)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15995012	VFB_00101994	SE0 L1 (L1EM:15995012)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15715643	VFB_00101947	MN-L-Sens-B2-ACp-04 (L1EM:15715643)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-4635057	VFB_00100230	Thermo PN 6 (L1EM:4635057)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2659386	VFB_00100754	DMS 1 right (L1EM:2659386)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1367171	VFB_00100719	AN-L-Sens-B1-ACa-04 (L1EM:1367171)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-853526	VFB_00101587	AN-R-motor-15 (L1EM:853526)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-13744425	VFB_00100873	AN-L-Sens-B1-ACa-02 (L1EM:13744425)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-5120990	VFB_00101709	AN-L-Sens-B3-VM-13 (L1EM:5120990)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17721400	VFB_00102074	neuron 17721401 (L1EM:17721400)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8092228	VFB_00101734	MxN-L-motor-03 - LR-B (L1EM:8092228)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-9583435	VFB_00101753	FFN-14 (L1EM:9583435)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3945454	VFB_00101683	FFN-5 (L1EM:3945454)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-9015745	VFB_00101750	FFN-14 (L1EM:9015745)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-12156009	VFB_00100400	Gustatory PN 3 (L1EM:12156009)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15748726	VFB_00101975	AN-R-Sens-B1-AVa-43 (L1EM:15748726)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17267288	VFB_00102051	SEZ-IN-A14-right (L1EM:17267288)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-6445994	VFB_00100810	Pre PMN left (L1EM:6445994)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-10119916	VFB_00100847	MB2IN-199 (L1EM:10119916)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15505837	VFB_00101806	AN-R-Sens-B2-AVp-06 (L1EM:15505837)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3946166	VFB_00101684	MB2IN-206 (L1EM:3946166)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15615042	VFB_00101869	MN-R-Sens-B2-ACp-09 (L1EM:15615042)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-18630153	VFB_00102089	AN-R-Sens-B3-ACal-02 (temp sensing right neuron together 2) (L1EM:18630153)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-18329062	VFB_00102080	SEZ-IN-A04-left (L1EM:18329062)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3756659	VFB_00100205	Thermo PN 5 (L1EM:3756659)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-16362243	VFB_00102033	AN-R-Sens-B2-VM-07 (L1EM:16362243)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-9109799	VFB_00100328	MBON-d3 (L1EM:9109799)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15586536	VFB_00101846	AN-R-Sens-B1-ACa-11 (L1EM:15586536)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17399867	VFB_00102057	neuron 17399868 (L1EM:17399867)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1419315	VFB_00101611	AN-L-Sens-B1-AVa-31 (L1EM:1419315)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15770032	VFB_00100897	AN-L-Sens-B1-ACa-03 (L1EM:15770032)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15679484	VFB_00101920	MN-L-Sens-B2-VM-08 (L1EM:15679484)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-4059758	VFB_00101693	AN-R-Sens-B3-VM-15 (L1EM:4059758)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15533421	VFB_00101815	AN-R-Sens-B2-AVp-02 (L1EM:15533421)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-12901662	VFB_00101785	AN-R-motor-12 (L1EM:12901662)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15770904	VFB_00100898	AN-L-Sens-B1-AVa-24 (L1EM:15770904)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15522777	VFB_00101810	AN-R-Sens-B2-ACp-21 (L1EM:15522777)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15766999	VFB_00101977	AN-L-Sens-B1-AVa-38 (L1EM:15766999)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-9789130	VFB_00100837	hugin-PC left 1 (L1EM:9789130)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-9787592	VFB_00101756	BAmas12_ven descending 3 left (L1EM:9787592)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15711222	VFB_00101937	MN-L-Sens-B2-VM-07 (L1EM:15711222)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-9074101	VFB_00100327	MBON-d3 (L1EM:9074101)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8399890	VFB_00100102	94a&94b PN (L1EM:8399890)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-6802553	VFB_00100813	T1l asc contra 02 (L1EM:6802553)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15547732	VFB_00101820	AN-R-Sens-B1-AVa-33 (L1EM:15547732)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-16485079	VFB_00100480	CN-47 (L1EM:16485079)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3486381	VFB_00100041	42a PN (L1EM:3486381)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-7424178	VFB_00101726	AN-L-Sens-B1-AVa-30 (L1EM:7424178)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-18785124	VFB_00102091	MN-R-Sens-B3-VM-07 (L1EM:18785124)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17608754	VFB_00102067	AN-L-Sens-B2-VM-07 (L1EM:17608754)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-20152212	VFB_00102102	Neuron 20152213 (L1EM:20152212)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-7556564	VFB_00101729	MN-L-Sens-B3-ACp-03 (L1EM:7556564)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3712893	VFB_00100049	Multiglomerular PN 2 (L1EM:3712893)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2305234	VFB_00101632	PaN-R-Sens-B1-VM-01 (L1EM:2305234)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-4453485	VFB_00100785	IPC 4 left (L1EM:4453485)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-5116861	VFB_00101707	AN-L-Sens-B3-VM-15 (L1EM:5116861)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3436420	VFB_00100769	Pre PMN right (L1EM:3436420)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-9842383	VFB_00101762	UNK anterior basal 1 left (L1EM:9842383)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-4598109	VFB_00100255	MBON-f1 (L1EM:4598109)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8149490	VFB_00101737	MxN-R-motor-01 - SGDO (L1EM:8149490)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15983225	VFB_00101990	AN-L-Sens-B1-AVa-34 (L1EM:15983225)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-11868260	VFB_00100862	MB2ON-152 (L1EM:11868260)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8084863	VFB_00101733	MxN-L-motor-08 - MHD-B (L1EM:8084863)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15998319	VFB_00102015	AN-L-Sens-B2-VM-05 (L1EM:15998319)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-4506509	VFB_00100786	IPC 6 left (L1EM:4506509)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-236151	VFB_00101580	Interneuron--35 in total (L1EM:236151)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15671848	VFB_00101907	MN-R-Sens-B3-VM-09 (L1EM:15671848)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15724175	VFB_00101961	MN-L-Sens-B3-VM-11 (L1EM:15724175)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-7555968	VFB_00100188	Vision PN 1 (L1EM:7555968)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-9801441	VFB_00101759	MB2ON-215 (L1EM:9801441)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15507888	VFB_00101807	AN-R-Sens-B2-ACp-20 (L1EM:15507888)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3948033	VFB_00101686	SOG interneuron (L1EM:3948033)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15995368	VFB_00101998	AN-L-motor-17 (L1EM:15995368)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15559195	VFB_00101825	AN-R-Sens-B1-ACa-04 (L1EM:15559195)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3622234	VFB_00100774	FFN-18 (L1EM:3622234)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-11638511	VFB_00101770	MB2ON-147 (L1EM:11638511)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-18620885	VFB_00102087	AN-R-Sens-B2-ACp-23 (L1EM:18620885)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-937332	VFB_00101597	AN-R-motor-18 (L1EM:937332)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-5120097	VFB_00101708	AN-L-Sens-B3-VM-12 (L1EM:5120097)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15997666	VFB_00100900	AN-L-Sens-B2-ACp-01 (L1EM:15997666)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-11333054	VFB_00100391	Gustatory PN 1 (L1EM:11333054)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15606918	VFB_00101861	MN-R-Sens-B2-VM-04 (L1EM:15606918)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-4523584	VFB_00100787	DMS 1 left (L1EM:4523584)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15678849	VFB_00101919	MN-L-Sens-B2-VM-12 (L1EM:15678849)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17260593	VFB_00102049	neuron 17260594 (L1EM:17260593)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8140109	VFB_00100125	74a PN (L1EM:8140109)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2495308	VFB_00101639	PaN-L-Sens-B1-VM-01 (L1EM:2495308)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-9455820	VFB_00100828	MB2ON-219 (L1EM:9455820)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2142817	VFB_00101624	MB2IN-146 (L1EM:2142817)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1406463	VFB_00100724	AN-L-Sens-B1-ACa-14 (L1EM:1406463)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-5093516	VFB_00101704	AN-L-Sens-B3-ACal-04 (Non-ORN 2) (L1EM:5093516)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15620606	VFB_00101880	MN-R-Sens-B2-VM-13 (L1EM:15620606)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15686444	VFB_00101926	DPlal bilateral 1 left (L1EM:15686444)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2936857	VFB_00101646	neuron 2936858 (L1EM:2936857)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8055671	VFB_00101731	MN-L-Sens-B1-ACpl-01 (L1EM:8055671)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8245869	VFB_00100139	24a PN (L1EM:8245869)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-18347336	VFB_00102081	SEZ-IN-05-right (L1EM:18347336)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15575232	VFB_00101843	AN-R-Sens-B1-AVa-35 (L1EM:15575232)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3608397	VFB_00101670	AN-L-Sens-B3-ACal-01 (temp sensing left neuron alone) (L1EM:3608397)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-11745381	VFB_00101776	MN-L-Sens-B2-ACp-07 (L1EM:11745381)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17399886	VFB_00102058	neuron 17399887 (L1EM:17399886)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-9503414	VFB_00101752	MB2IN-175 (L1EM:9503414)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-16223537	VFB_00100457	CN-59 (L1EM:16223537)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17718177	VFB_00102073	MB2ON-223 (L1EM:17718177)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15595607	VFB_00101856	MN-R-Sens-B2-ACp-08 (L1EM:15595607)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-4595609	VFB_00100789	MB2IN-202 (L1EM:4595609)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-7934904	VFB_00100118	35a PN (L1EM:7934904)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15671481	VFB_00101906	MN-R-Sens-B1-VM-05 (L1EM:15671481)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15716094	VFB_00101949	MN-L-Sens-B2-ACp-05 (L1EM:15716094)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-692877	VFB_00101585	Interneuron--35 in total (L1EM:692877)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15715151	VFB_00101946	MN-L-Sens-B2-VM-01 (L1EM:15715151)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-10768709	VFB_00101766	Bilateral near MB_right (L1EM:10768709)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15714173	VFB_00101942	MN-L-Sens-B1-VM-05 (L1EM:15714173)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-9455885	VFB_00101751	MB2ON-145 (L1EM:9455885)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15592696	VFB_00101853	AN-R-Sens-B2-ACp-11 (L1EM:15592696)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3158085	VFB_00100762	AF5: Short-presynaptic-D-1L (L1EM:3158085)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-14035921	VFB_00101791	SEZ-IN-08-right (L1EM:14035921)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3690921	VFB_00100203	Thermo PN 4 (L1EM:3690921)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-9747710	VFB_00100368	Thermo PN 3 (L1EM:9747710)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-16846805	VFB_00100500	MBON-k1 (L1EM:16846805)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2220573	VFB_00101628	PaN-R-motor-01 (L1EM:2220573)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-11105182	VFB_00100165	mPN (L1EM:11105182)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-4108016	VFB_00100211	Thermo PN 7 (L1EM:4108016)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15506094	VFB_00100880	AN-R-Sens-B2-ACp-18 (L1EM:15506094)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-6883831	VFB_00100814	AN-R-Sens-B1-AVa-16 (L1EM:6883831)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8598886	VFB_00100191	3rd-order Thermo right; CPLd interneuron (L1EM:8598886)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-3192952	VFB_00100763	AN-R-Sens-B2-AVa-25 (PPS mechano) (L1EM:3192952)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-910064	VFB_00101596	AN-R-motor-11 (L1EM:910064)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15712024	VFB_00101939	MN-L-Sens-B2-VM-13 (L1EM:15712024)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8243455	VFB_00100132	83a PN (L1EM:8243455)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-16795838	VFB_00100182	Multiglomerular PN 1 (L1EM:16795838)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17254290	VFB_00102047	Pre-PMN-R-05 (L1EM:17254290)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15713206	VFB_00101940	MN-L-Sens-B2-VM-18 (L1EM:15713206)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-13789482	VFB_00100407	Gustatory PN 2 (L1EM:13789482)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17951153	VFB_00102076	AN-R-Sens-B1-AVa-32 (L1EM:17951153)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15629888	VFB_00101883	MN-R-Sens-B2-VM-18 (L1EM:15629888)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8922644	VFB_00100245	MBON-e2 (L1EM:8922644)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8245014	VFB_00100135	59a PN (L1EM:8245014)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2799380	VFB_00101645	PaN-L-Sens-B2-VM-01 (L1EM:2799380)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17256674	VFB_00102048	neuron 17256675 (L1EM:17256674)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2391092	VFB_00101636	PaN-L-motor-01 (L1EM:2391092)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17369376	VFB_00102054	AN-L-motor-07 (L1EM:17369376)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17219367	VFB_00102042	SEZ-IN-06-right (L1EM:17219367)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15653927	VFB_00101903	MN-R-Sens-B2-VM-01 (L1EM:15653927)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1377586	VFB_00100720	AN-L-Sens-B1-ACa-07 (L1EM:1377586)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-16795524	VFB_00100181	Multiglomerular PN 1 (L1EM:16795524)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-11543212	VFB_00100167	Multiglomerular PN 2 (L1EM:11543212)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-9795662	VFB_00101758	BAmas12_ven descending 4 left (L1EM:9795662)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-10160250	VFB_00100381	Multiglomerular PN 5 (L1EM:10160250)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-1431256	VFB_00101613	AN-L-Sens-B1-AVa-27 (L1EM:1431256)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2320454	VFB_00101633	neuron 2320455--12 (L1EM:2320454)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-7092417	VFB_00100104	47a&33b PN (L1EM:7092417)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2432564	VFB_00101638	SEZ-IN-A01-right (L1EM:2432564)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-17400231	VFB_00102059	neuron 17400232 (L1EM:17400231)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-8244723	VFB_00100133	42a PN (L1EM:8244723)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-2321929	VFB_00101634	interneuron missing cell bodies 5 (L1EM:2321929)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15653288	VFB_00101901	MN-R-Sens-B2-ACp-19 (L1EM:15653288)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-18833414	VFB_00102092	MN-R-Sens-B2-VM-23 (L1EM:18833414)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-12335381	VFB_00101783	BAmas12 midline 3 right (L1EM:12335381)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15575052	VFB_00101842	AN-R-Sens-B1-AVa-36 (L1EM:15575052)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15725545	VFB_00101966	MN-L-Sens-B3-VM-09 (L1EM:15725545)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15589362	VFB_00101850	MN-R-Sens-B2-ACp-06 (L1EM:15589362)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-11946903	VFB_00101778	MB2IN-158 (L1EM:11946903)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-5439602	VFB_00101714	MxN-R-motor-09 - MHD-C (L1EM:5439602)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-15770521	VFB_00101981	AN-L-motor-15 (L1EM:15770521)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
-9748981	VFB_00100834	MB2ON-149 (L1EM:9748981)	Miroschnikow2018	catmaid_l1em	part_of	larval nervous system	cp390
+subject_id	subject_name	DataSet	relation	object	Curator
+VFB_00100869	AF4: TOH right; Large Spider Neuron right (L1EM:13429045)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100767	hugin-PC right 1 (L1EM:3315001)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100784	DH44 2 left (L1EM:4400767)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101800	AN-R-Sens-B2-ACp-08 (L1EM:15409328)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102084	SEZ-IN-03-left (L1EM:18371412)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100796	T1l Ascending into PC_left (L1EM:5378683)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100199	Thermo PN 3 (L1EM:3991518)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101836	AN-R-Sens-B2-ACp-16 (L1EM:15573331)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101858	MN-R-Sens-B2-ACpl-01 (Awesome MN sensory 2) (L1EM:15595950)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101763	AN-R-Sens-B3-ACp-09 (gustatory pheromone neuron) (L1EM:9853425)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100258	MBON-n1 (L1EM:6703240)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100077	Multiglomerular PN 7 (L1EM:4119387)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101682	FFN-4 (L1EM:3945232)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101970	MN-L-Sens-B3-VM-05 (L1EM:15730645)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101962	MN-L-Sens-B3-AVp-01 (L1EM:15724385)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101625	BC: presynaptic -medial - paired with #3801211 (L1EM:2147157)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101702	AN-L-Sens-B3-VM-11 (L1EM:5057916)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100189	Vision PN 1 (L1EM:8111135)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101877	MN-R-Sens-B2-VM-20 (L1EM:15618756)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101878	MN-R-Sens-B2-VM-12 (L1EM:15618976)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102010	AN-L-Sens-B2-ACp-06 (L1EM:15997983)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102050	neuron 17267283 (L1EM:17267282)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101868	MN-R-Sens-B2-VM-19 (L1EM:15612241)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101885	MN-R-Sens-B3-VM-06 (L1EM:15638520)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102101	MB2IN-204 (L1EM:19816278)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102093	MN-L-Sens-B2-ACp-17 (L1EM:18934019)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101918	MN-L-Sens-B2-VM-21 (L1EM:15678833)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101586	Interneuron--35 in total (strong to MN motor neurons) (L1EM:768233)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101911	MN-L-Sens-B2-ACpl-03 (L1EM:15673925)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100840	hugin-PC left 3 (L1EM:9805520)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101863	MN-R-Sens-B2-?-00 (L1EM:15609427)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100134	13a PN (L1EM:8244823)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101813	AN-R-Sens-B2-ACp-03 (L1EM:15531033)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101809	AN-R-Sens-B2-ACp-01 (L1EM:15508735)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100739	MB2IN-199 (L1EM:2369444)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100865	IPC 3 left (L1EM:12634154)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101989	AN-L-Sens-B1-AVa-39 (L1EM:15983156)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101637	MB2ON-150 (L1EM:2426397)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100260	Gustatory PN 3 (L1EM:7020344)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101971	MN-L-Sens-B2-VM-20 (L1EM:15730680)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101828	AN-R-Sens-B1-AVa-29 (L1EM:15564661)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100839	hugin-PC left 2 (L1EM:9796597)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101893	MN-R-Sens-B3-AVp-02 (L1EM:15640548)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101664	SEZ-X-left (L1EM:3477008)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100353	MBON-e1 (L1EM:7840791)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100359	V1: possible PVL005 - 3 Right (L1EM:2921933)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101871	MN-R-Sens-B2-VM-11 (L1EM:15615305)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101792	ASB Ascending left 14273874  (L1EM:14273873)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101992	AN-L-Sens-B1-AVa-23 (L1EM:15984797)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100170	33a PN (L1EM:13589251)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100082	85c PN (L1EM:4354933)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100119	35a PN (L1EM:7935088)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101823	MN-R-Sens-B2-ACp-11 (L1EM:15556081)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101687	AN-R-Sens-B3-ACal-07 (upstream of Multig. Olfactory PN 3) right (L1EM:3966683)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101951	MN-L-Sens-B2-ACp-03 (L1EM:15716309)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101897	MN-R-Sens-B3-ACp-01 (L1EM:15641926)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101814	AN-R-Sens-B2-ACp-04 (L1EM:15531916)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102085	SEZ-IN-18-left (L1EM:18403155)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100083	Multiglomerular PN 3 (L1EM:4391978)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101826	AN-R-Sens-B1-ACa-13 (L1EM:15561413)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101676	SEZ-IN-32-right (L1EM:3732322)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102021	AN-L-Sens-B2-VM-04 (L1EM:15998913)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102045	AN-R-motor-05 (L1EM:17248923)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101879	MN-R-Sens-B2-VM-17 (L1EM:15620432)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102011	AN-L-Sens-B2-ACp-13 (L1EM:15998100)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100733	_IPC 2 (L1EM:2852273)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101923	MN-L-Sens-B2-VM-03 (L1EM:15680710)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100805	T1l asc contra 01 (L1EM:5614978)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101933	MN-L-Sens-B2-VM-06 (L1EM:15690955)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101964	MN-L-Sens-B3-VM-08 (L1EM:15724636)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101698	MN-L-Sens-B2-ACp-01 (L1EM:4338596)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101746	MB2ON-153 (L1EM:8438283)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102044	fork of GPhN (left) former SEZ IN - unfinished (L1EM:17225493)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101932	MN-L-Sens-B2-VM-14 (L1EM:15690711)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100894	AN-R-Sens-B1-AVa-26 (L1EM:15575327)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100764	MB2IN-150 (L1EM:3276003)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101606	AN-L-Sens-B1-AVa-40 (L1EM:1351125)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101673	AN-R-Sens-B3-ACal-01 (temp sensing right neuron alone) (L1EM:3650600)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100844	AN-L-Sens-B1-ACa-13 (L1EM:9838294)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101848	MN-R-Sens-B2-ACp-12 (L1EM:15588691)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101742	MxN-L-motor-01 - SGDO (L1EM:8208555)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101640	PaN-L-Sens-B1-VM-04 (L1EM:2505675)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100744	AF5: Short-presynaptic-D-1R (L1EM:2597151)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101598	AN-R-Sens-B1-AVa-44 (L1EM:945309)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101617	SEZ-X-right (L1EM:1575789)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100833	hugin-PC right 3 (L1EM:9748579)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101798	BAmas12_ven descending 4 right (L1EM:15250080)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102077	Neuron 18225325 (L1EM:18225324)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100878	IPC 4 right (L1EM:15202263)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100141	47a&33b PN (L1EM:8246750)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101854	AN-R-Sens-B2-VM-05 (L1EM:15594038)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100832	AN-R-Sens-B1-AVa-18 (L1EM:9748269)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101745	MxN-L-motor-09 - MHD-C (L1EM:8435311)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100114	1a PN (L1EM:7865696)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101874	MN-R-Sens-B2-ACpl-03 (L1EM:15615776)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101677	Bubsy Right (L1EM:3762060)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101983	AN-L-Sens-B1-AVa-25 (L1EM:15770945)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102043	SEZ-IN-A07-left (L1EM:17220054)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100895	AN-L-Sens-B1-ACa-08 (L1EM:15769419)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100113	22c PN (L1EM:7865652)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101862	MN-R-Sens-B2-VM-07 (L1EM:15607180)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100781	MB2ON-151 (L1EM:4284106)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101772	MB2ON-216 (L1EM:11642879)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101995	SE0 L4 (L1EM:15995309)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102035	SEZ to brain left - gap todo (L1EM:16500055)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101999	AN-L-motor-14 (L1EM:15995394)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101811	AN-R-Sens-B2-ACp-14 (L1EM:15525858)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102016	AN-L-Sens-B2-ACp-05 (L1EM:15998469)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100881	AN-R-Sens-B2-AVa-24 (PPS mechano) (L1EM:15532105)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101699	neuron 4603254 (L1EM:4603253)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100729	AN-L-Sens-B2-ACp-19 (L1EM:1706716)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101835	AN-R-Sens-B2-ACp-13 (L1EM:15573283)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101667	AN-R-Sens-B1-ACa-03 (L1EM:3556191)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102028	MN-L-Sens-B3-ACp-02 (L1EM:16288872)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100727	AN-L-Sens-B1-AVa-20 (L1EM:1429969)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100871	DH44 3 right (L1EM:13535387)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102079	Neuron 18239022 (L1EM:18239021)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102034	gate1_left (L1EM:16468935)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100176	85c PN (L1EM:14604028)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100798	MB2ON-214 (L1EM:5404887)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100896	AN-L-Sens-B1-AVa-19 (L1EM:15769680)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101717	MxN-L-motor-05 - MHE-B (L1EM:5450669)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101958	MN-L-Sens-B3-ACp-06 (J Neuron) (L1EM:15718275)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101931	MN-L-Sens-B2-VM-11 (L1EM:15690392)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100204	Gustatory PN 2 (L1EM:3709977)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101870	MN-R-Sens-B2-ACp-16 (L1EM:15615081)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101859	BAmas12 contra right (L1EM:15599768)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101804	AN-R-Sens-B2-ACp-10 (L1EM:15458316)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101777	Inter2 right (L1EM:11941255)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101595	SE0 R1 (L1EM:896562)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100033	Multiglomerular PN 3 (L1EM:2612527)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101748	FAN-1 (L1EM:8752697)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101675	MB2IN-205 (L1EM:3728746)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100850	_IPC 2 (L1EM:10459723)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101755	SEZ-IN-13-right (L1EM:9730269)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100766	hugin-PC right 2 (L1EM:3299767)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102032	AN-R-Sens-B2-ACp-07 (L1EM:16341966)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100846	T1r asc contra 01 (L1EM:9935752)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100229	Gustatory PN 4 (L1EM:4393049)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101817	AN-R-Sens-B1-AVa-42 (L1EM:15542354)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100502	CN-60 (L1EM:16868923)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100112	59a PN (L1EM:7864823)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102006	AN-L-Sens-B2-ACp-14 (L1EM:15997645)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101928	MN-L-Sens-B2-ACp-20 (L1EM:15688358)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101722	t2r medial soma 1 (L1EM:6369544)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101642	AN-L-Sens-B3-ACal-05 (Non-ORN 1) (L1EM:2610744)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101833	AN-R-Sens-B1-AVa-41 (L1EM:15567466)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102046	Pre-PMN-L-08 (L1EM:17254278)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100138	42b PN (L1EM:8245692)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102012	AN-L-Sens-B2-ACp-08 (L1EM:15998218)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101703	AN-L-Sens-B3-ACpl-10 (L1EM:5088293)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102100	Neuron 19731865 (L1EM:19731864)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100247	MBON-e2 (L1EM:8297018)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101607	AN-L-Sens-B1-ACa-15 (L1EM:1391179)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101830	AN-R-Sens-B1-AVa-37 (L1EM:15564882)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101968	MN-L-Sens-B3-VM-04 (L1EM:15727304)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101991	AN-L-Sens-B1-AVa-35 (L1EM:15984231)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101876	MN-R-Sens-B2-VM-06 (L1EM:15617459)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101782	MN-L-Sens-B2-ACp-06 (L1EM:12260696)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101908	MN-R-Sens-B3-VM-04 (L1EM:15672153)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101674	AN-L-Sens-B3-ACp-08 (L1EM:3652587)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102052	neuron 17267349 (L1EM:17267348)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100908	T1r asc contra 02 (L1EM:19912140)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102068	SEZ-IN-01-right (L1EM:17651480)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101678	AN-R-Sens-B2-ACp-12 (L1EM:3795498)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101866	MN-R-Sens-B2-VM-09 (L1EM:15611642)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101692	AN-R-Sens-B3-VM-13 (L1EM:4044654)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101696	SEZ-IN-04-left (L1EM:4120910)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100520	Gustatory PN 1 (L1EM:17884299)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100726	AN-L-Sens-B1-AVa-22 (L1EM:1428271)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100238	Unknown PN 1 (L1EM:4876704)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100884	AN-R-Sens-B1-AVa-21 (L1EM:15543068)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101938	MN-L-Sens-B2-VM-16 (L1EM:15711289)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101700	neuron 4992274 (L1EM:4992273)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100419	MBON-f1 (L1EM:15253921)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100889	AN-R-Sens-B1-AVa-25 (L1EM:15572414)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101590	AN-R-motor-13 (L1EM:873148)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101727	Interneuron--35 in total (L1EM:7439388)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101954	MN-L-Sens-B2-VM-15 (L1EM:15717229)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101794	MB2ON-145 (L1EM:14812545)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101744	LHN-2 (L1EM:8238322)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101592	AN-R-motor-09 (L1EM:875613)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100722	AN-L-Sens-B1-ACa-05 (L1EM:1398253)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102063	neuron 17421903 (L1EM:17421902)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101945	MN-L-Sens-B2-VM-10 (L1EM:15714845)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100883	AN-R-Sens-B2-ACp-19 (L1EM:15541976)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101629	PaN-R-Sens-B1-VM-02 (L1EM:2268281)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100851	DH44 3 left (L1EM:10563755)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101757	SEZ-IN-11-left (L1EM:9787672)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101764	neuron 9934375: incomplete neuron with soma; unidentified (L1EM:9934374)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101857	MN-R-Sens-B2-ACp-15 (L1EM:15595823)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100725	AN-L-Sens-B1-AVa-16 (L1EM:1414206)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101603	AN-R-motor-08 (L1EM:1218587)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101721	AF6 right - ASB TODO 1.1 (L1EM:6133702)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101838	SE0 R4 (L1EM:15573428)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102095	neuron 19099537 (L1EM:19099536)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101831	AN-R-Sens-B1-AVa-27 (L1EM:15564911)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101988	SE0 L3 (L1EM:15983118)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101905	MN-R-Sens-B2-AVp-01 (L1EM:15658013)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100775	Interneuron W right - Inputs from SE0 Serotonin - paired with #9787565 (L1EM:3613276)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101980	SE0 L2 (L1EM:15769638)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101641	PaN-L-Sens-B2-VM-02 (L1EM:2524026)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101978	AN-L-motor-06 (L1EM:15769490)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101583	AN-L-motor-08 (L1EM:407869)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101622	neuron 1939617--1 (L1EM:1939616)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100136	82a PN (L1EM:8245146)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101765	SEZ-IN-07-right (L1EM:10263287)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101626	neuron 2189895--5 (L1EM:2189894)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101852	AN-L-Sens-B2-ACp-07 (L1EM:15590761)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101588	AN-R-motor-14 (L1EM:855719)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100765	IPC 5 left (L1EM:3281684)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101797	MB2IN-146 (L1EM:15225589)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100732	IPC 7 right (L1EM:2355126)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102069	BAmas12 midline neuron 1 right (L1EM:17698681)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101749	MN-R-Sens-B2-AVp-02 (L1EM:8810739)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101728	AN-L-Sens-B2-ACp-03 (L1EM:7439909)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101921	MN-L-Sens-B2-ACp-10 (L1EM:15679577)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101630	neuron 2289487--11 (L1EM:2289486)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102025	PaN-R-Sens-B1-VM-03 (L1EM:16123983)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100849	DH44 1 left (L1EM:10418394)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102065	SEZ-IN-? left (L1EM:17511972)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101631	PaN-R-Sens-B2-VM-01 (L1EM:2302816)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101890	MN-R-Sens-B3-VM-08 (L1EM:15639275)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100422	MBON-j1 (L1EM:15421363)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101779	MN-L-Sens-B2-ACp-16 (L1EM:12073881)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101984	MN-R-Sens-B3-VM-14 (L1EM:15914721)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102098	_SOG IN (L1EM:19431430)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101754	KS LN 1 right (L1EM:9712223)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101775	MN-L-Sens-B2-ACp-15 (L1EM:11736972)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100882	AN-R-Sens-B2-ACp-02 (L1EM:15541944)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102053	neuron 17271472 (L1EM:17271471)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101660	SEZ-IN-A06-right (L1EM:3356289)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101896	MN-R-Sens-B3-ACp-03 (L1EM:15640893)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100272	Unknown PN 2 (L1EM:8012953)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100105	45b PN (L1EM:7107433)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100115	83a PN (L1EM:7865767)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102090	MN-R-Sens-B2-VM-16 (L1EM:18679889)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102004	AN-L-Sens-B2-ACp-11 (L1EM:15996518)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101694	AN-R-Sens-B3-VM-12 (L1EM:4096703)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100815	MB2ON-149 (L1EM:7136254)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100886	AN-R-Sens-B1-AVa-24 (L1EM:15564706)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100109	45a PN (L1EM:7852250)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101609	AN-L-Sens-B1-ACa-12 (L1EM:1400725)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101851	MN-R-Sens-B2-ACp-21 (L1EM:15589411)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101913	MN-L-Sens-B2-ACp-11 (Olfactory Gustatory connector 2) (L1EM:15674262)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102055	AN-L-Sens-B1-AVa-33 (L1EM:17380936)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102005	AN-L-motor-18 (L1EM:15997068)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100740	IPC 6 right (L1EM:2357110)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101644	PaN-L-Sens-B1-VM-03 (L1EM:2669832)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100146	30a PN (L1EM:8256186)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101658	MN-L-Sens-B2-VM-19 (L1EM:3267019)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101915	MN-L-Sens-B2-VM-05 (L1EM:15677030)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101649	MB2IN-172 (L1EM:3044500)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100770	IPC 5 right (L1EM:3561724)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101581	MB2ON-223 (L1EM:255222)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101801	AN-R-Sens-B2-ACp-06 (L1EM:15434200)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101872	MN-R-Sens-B2-VM-10 (L1EM:15615475)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101589	AN-R-motor-17 (L1EM:865801)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101647	MN-L-Sens-B3-AVp-03 (L1EM:3032520)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101713	MxN-R-motor-06 - MHE-C (L1EM:5437704)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102019	AN-L-Sens-B2-ACp-12 (L1EM:15998817)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101909	MN-R-Sens-B3-VM-12 (L1EM:15672957)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101600	Interneuron--35 in total (L1EM:1067653)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101715	MxN-R-motor-08 - MHD-B (L1EM:5440613)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101669	AN-L-Sens-B3-ACal-07 (upstream of Multig. Olfactory PN 3)  (L1EM:3586984)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101982	AN-L-motor-16 (L1EM:15770867)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100406	Thermo PN 1 (L1EM:12948470)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101612	AN-L-Sens-B1-AVa-32 (L1EM:1427012)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102000	AN-L-Sens-B2-ACp-22 (L1EM:15995404)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102027	PaN-R-Sens-B1-VM-05 (L1EM:16124082)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100768	FFN-18 (L1EM:3420915)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101768	LHN-2 (L1EM:11210000)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101953	MN-L-Sens-B2-ACpl-02 (Awesome MN sensory 1) (L1EM:15716934)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101829	SE0 R3 (L1EM:15564695)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101927	MN-L-Sens-B2-ACp-14 (L1EM:15686512)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102030	MN-R-Sens-B2-ACp-04 (L1EM:16341399)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100870	IPC 1 right (L1EM:13535380)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100907	MB2IN-202 (L1EM:19120853)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102086	BAmas12 midline 3 left (L1EM:18440675)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101705	AN-L-Sens-B3-VM-14 (L1EM:5095269)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101602	Interneuron--35 in total (L1EM:1156684)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100195	Multiglomerular PN 5 (L1EM:3450751)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101993	AN-L-Sens-B1-AVa-36 (L1EM:15994926)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101790	DPMl Skis right (L1EM:13645610)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101955	MN-L-Sens-B2-AVp-02 (L1EM:15717426)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102024	AN-R-Sens-B3-VM-11 (L1EM:16115501)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101584	SEZ-IN-10-left (L1EM:616176)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101685	AF6: Munin Output left (L1EM:3946364)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101930	MN-L-Sens-B2-ACp-09 (L1EM:15690093)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102007	AN-L-Sens-B2-ACp-18 (L1EM:15997692)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101974	MN-R-Sens-B2-ACpl-02 (Awesome MN sensory 1) (L1EM:15746421)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102097	Neuron 19341123 (L1EM:19341122)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100106	24a PN (L1EM:7198338)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101781	MN-R-Sens-B2-ACp-14 (L1EM:12253020)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102096	MN-L-Sens-B2-VM-24 (L1EM:19180425)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101803	AN-R-Sens-B2-ACp-09 (L1EM:15451084)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100821	MB2IN-150 (L1EM:7557604)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101912	MN-L-Sens-B2-VM-02 (L1EM:15674083)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101780	SEZ-IN-10-right (L1EM:12199926)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101818	AN-R-Sens-B1-AVa-31 (L1EM:15543394)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101736	MxN-R-motor-07 - MHD-A (L1EM:8134938)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100836	Interneuron W left - Inputs from SE0 Serotonin - paired with #3613276 (L1EM:9787565)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101884	MN-R-Sens-B3-VM-05 (L1EM:15637893)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100337	Thermo PN 1 (L1EM:7971031)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101719	MxN-L-motor-04 - MHE-A (L1EM:5453143)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101618	AN-L-Sens-B2-AVa-24 (PPS mechano) (L1EM:1709802)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101579	PaN-L-motor-02 (L1EM:38147)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102013	AN-L-Sens-B2-ACp-15 (L1EM:15998261)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100752	AN-R-Sens-B1-ACa-02 (L1EM:2340336)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101679	BC: neuron 3801212 - paired with #2147157 (L1EM:3801211)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101710	AN-L-Sens-B3-ACp-09 (gustatory pheromone neuron) (L1EM:5186461)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100143	22c PN (L1EM:8248631)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100144	1a PN (L1EM:8252067)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101963	MN-L-Sens-B3-VM-06 (L1EM:15724520)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101723	SEZ-IN-medial projections right (L1EM:6794664)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100728	AN-L-Sens-B1-AVa-21 (L1EM:1435466)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100717	AN-L-Sens-B1-ACa-10 (L1EM:40152)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101865	MN-R-Sens-B2-VM-08 (L1EM:15610387)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101608	AN-L-Sens-B1-ACa-06 (L1EM:1392771)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101987	AN-L-motor-10 (L1EM:15982951)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101650	MN-L-Sens-B3-VM-14 (L1EM:3050645)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101796	_SOG IN (L1EM:14962387)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100738	DH44 1 right (L1EM:2260755)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102022	T2r asc contra 01 (L1EM:16018123)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101996	AN-L-Sens-B1-AVa-37 (L1EM:15995327)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100842	hugin-PC left 4 (L1EM:9813902)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101720	Input to both Munin PC 3 right; BAmas d 4 neuron 5558725 (L1EM:5558724)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101839	AN-R-Sens-B1-ACa-06 (L1EM:15574199)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101760	MN-L-Sens-B2-AVp-01 (L1EM:9808022)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102017	AN-L-Sens-B2-ACp-09 (L1EM:15998768)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101969	MN-L-Sens-B3-VM-13 (L1EM:15728017)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100351	Thermo PN 2 (L1EM:9291474)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101895	MN-R-Sens-B3-VM-11 (L1EM:15640724)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101593	AN-R-motor-06 (L1EM:882339)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100137	63a PN (L1EM:8245513)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100285	Unknown PN 2 (L1EM:8254894)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102037	FFN-28 (L1EM:16751955)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101623	neuron 2037006 (L1EM:2037005)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100509	MBON-b1 (L1EM:17147698)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101711	MxN-R-motor-05 - MHE-B (L1EM:5434746)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101847	AN-R-Sens-B1-AVa-39 (L1EM:15587166)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102040	FFN-28 (L1EM:17096642)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100179	mPN (L1EM:16621864)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102072	KS LN 1 left (L1EM:17717854)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101795	SEZ-IN-12-left (L1EM:14930784)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101619	AN-L-Sens-B2-ACp-17 (L1EM:1715990)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101671	AN-L-Sens-B3-ACal-03 (temp sensing left neuron together 1) (L1EM:3609202)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101855	MN-R-Sens-B1-VM-02 (L1EM:15594123)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101773	AN-L-Sens-B2-ACp-21 (L1EM:11671564)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100734	AN-R-Sens-B1-ACa-01 (L1EM:2456826)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101802	AN-R-Sens-B2-VM-08 (L1EM:15445198)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101941	MN-L-Sens-B2-VM-17 (L1EM:15713374)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100103	49a PN (L1EM:7515491)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101668	MN-R-Sens-B2-VM-21 (L1EM:3562954)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101819	AN-R-Sens-B1-AVa-30 (L1EM:15546924)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100794	T1r Ascending into PC_right (L1EM:5311299)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100262	Unknown PN 1 (L1EM:7092086)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101655	presynaptic-D-2-MAP-L left (L1EM:3158123)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101965	MN-L-Sens-B3-VM-10 (L1EM:15725127)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102060	AN-L-motor-13 (L1EM:17405603)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100140	67b PN (L1EM:8246081)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100735	IPC 3 right (L1EM:2283495)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100279	Thermo PN 6 (L1EM:9275210)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102066	neuron 17587795 (L1EM:17587794)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101936	MN-L-Sens-B1-VM-04 (L1EM:15700147)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101827	AN-R-Sens-B1-ACa-05 (L1EM:15563553)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100841	MB2ON-152 (L1EM:9805588)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100899	AN-L-Sens-B2-ACp-20 (L1EM:15995929)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101656	T2l asc contra 01 (L1EM:3189407)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101635	SEZ-IN-12-right--14 (L1EM:2376542)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101967	MN-L-Sens-B3-VM-07 (L1EM:15725673)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100901	AN-L-Sens-B2-AVa-25 (PPS mechano) (L1EM:15998753)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101898	MN-R-Sens-B3-ACp-06 (L1EM:15645825)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102075	handle maxillar SEZ (L1EM:17816986)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100887	AN-R-Sens-B1-AVa-23 (L1EM:15564782)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101691	AN-R-Sens-B3-VM-14 (L1EM:4030526)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100177	67b PN (L1EM:16259595)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101601	Interneuron--35 in total (L1EM:1149968)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100521	MBON-k1 (L1EM:18028397)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101860	AN-R-Sens-B2-AVp-03 (L1EM:15605657)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101957	MN-L-Sens-B3-ACpl-07 (L1EM:15717935)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101960	MN-L-Sens-B3-ACp-01 (L1EM:15723727)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101697	NPF_t3l (L1EM:4249897)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102008	AN-L-Sens-B2-ACp-16 (L1EM:15997807)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101605	AN-L-Sens-B2-AVp-01 (L1EM:1347886)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100110	63a PN (L1EM:7845346)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101774	T3l asc contra 01 (L1EM:11687553)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101688	AN-R-Sens-B3-ACal-05 (Non-ORN 1) (L1EM:3985829)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100723	AN-L-Sens-B1-ACa-09 (L1EM:1405493)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102083	SEZ-IN-04-right (L1EM:18356793)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101739	Input to MN motor neurons left - inputs to motor neurons on both sides (L1EM:8169737)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100215	Thermo PN 4 (L1EM:4154421)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101952	MN-L-Sens-B2-ACp-02 (L1EM:15716701)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100830	AN-L-Sens-B1-AVa-17 (L1EM:1375101)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101956	MN-L-Sens-B3-ACp-05 (L1EM:15717736)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101808	AN-R-Sens-B2-VM-04 (L1EM:15508475)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101706	AN-L-Sens-B3-ACal-06 (degraded alone temperature partner neuron) (L1EM:5116147)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101943	MN-L-Sens-B1-VM-03 (L1EM:15714330)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101654	FAN-1 (L1EM:3157405)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101666	contra-vine right (L1EM:3498479)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101887	MN-R-Sens-B3-AVp-01 (L1EM:15638968)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100890	AN-R-Sens-B1-ACa-09 (L1EM:15573396)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101659	AN-R-motor-10 (L1EM:3340561)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101740	MxN-R-motor-03 - LR-B (L1EM:8177700)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102039	MB2IN-203 (L1EM:16988779)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101738	MxN-R-motor-02 - LR-A (L1EM:8167773)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101812	AN-R-Sens-B2-ACp-15 (L1EM:15530882)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102029	SEZ-IN-02-right (L1EM:16317330)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102041	Neuron 17213785 (L1EM:17213784)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101718	MxN-L-motor-06 - MHE-C (L1EM:5452286)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102018	AN-L-Sens-B2-ACp-04 (L1EM:15998782)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101616	Interneuron--35 in total (L1EM:1554836)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101805	AN-R-Sens-B2-ACp-22 (L1EM:15461769)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100078	33a PN (L1EM:8021456)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101882	MN-R-Sens-B2-VM-03 (L1EM:15629355)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100341	AVL011 PN Right 2? (L1EM:4620453)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101822	AN-R-Sens-B1-ACa-10 (L1EM:15548694)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102071	SEZ-IN-09-right (L1EM:17716979)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101665	AN-R-Sens-B3-ACal-03 (temp sensing right neuron together 1) (L1EM:3487306)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101899	MN-R-Sens-B2-ACp-22 (L1EM:15651438)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101875	MN-R-Sens-B2-VM-22 (L1EM:15615877)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101767	MN-R-Sens-B2-ACp-18 (L1EM:10934438)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101690	AN-R-Sens-B3-ACal-04 (Non-ORN 2) (L1EM:4023881)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100111	82a PN (L1EM:7851153)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100758	AN-L-Sens-B1-ACa-01 (L1EM:2284021)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101643	PaN-L-Sens-B1-VM-02 (L1EM:2668719)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100902	AN-R-Sens-B1-AVa-20 (L1EM:16442344)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101701	neuron 4992323 (MNB in SEZ?) (L1EM:4992322)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102036	SEZ-IN-11-right (L1EM:16744167)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100096	74a PN (L1EM:7843730)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100166	49a PN (L1EM:11279244)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102014	AN-L-Sens-B2-ACp-10 (L1EM:15998307)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101799	AN-R-Sens-B2-ACp-17 (L1EM:15398807)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102031	AN-R-Sens-B2-ACp-05 (L1EM:16341507)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100848	IPC 1 left (L1EM:10329208)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101615	Interneuron--35 in total (L1EM:1540458)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101653	MN-R-Sens-B3-ACpl-07 (L1EM:3123905)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101652	MN-R-Sens-B2-ACp-13 (L1EM:3071301)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100142	45a PN (L1EM:8247451)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101620	Interneuron--35 in total (L1EM:1822302)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101787	SEZ-IN-09-left (L1EM:13168715)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101864	MN-R-Sens-B2-ACp-17 (L1EM:15609885)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101614	AN-L-Sens-B1-AVa-18 (L1EM:1432836)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100829	AF3 thermo 3rd left (L1EM:4785242)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102094	SEZ-IN-A14-left (L1EM:19042617)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100408	MBON-e1 (L1EM:14082322)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100891	AN-R-Sens-B1-ACa-14 (L1EM:15573450)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101627	neuron 2200183--7 (L1EM:2200182)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101788	fork of GPhN (right) (L1EM:13190771)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101985	MN-L-Sens-B2-ACp-08 (L1EM:15938337)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101680	AN-R-Sens-B3-ACp-08 (L1EM:3822523)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101657	MN-R-Sens-B3-ACp-05 (L1EM:3199456)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101663	SEZ-IN-A04-right (L1EM:3454765)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101712	MxN-R-motor-04 - MHE-A (L1EM:5435750)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101944	MN-L-Sens-B2-ACpl-01 (Awesome MN sensory 2) (L1EM:15714639)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101972	MN-R-Sens-B2-ACp-03 (L1EM:15736147)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102023	SEZ to brain right (L1EM:16018440)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100145	45b PN (L1EM:8253413)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101741	MN-R-Sens-B3-?-00 (L1EM:8199012)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100892	AN-R-Sens-B1-ACa-08 (L1EM:15574231)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100904	AF4: TOH left (L1EM:17641913)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101894	MN-R-Sens-B3-VM-13 (L1EM:15640567)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101889	MN-R-Sens-B3-ACp-02 (L1EM:15639171)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100753	SEZ-IN-15-right (L1EM:2679035)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101973	MN-R-Sens-B1-VM-04 (L1EM:15743905)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100872	hugin-PC right 4 (L1EM:13581830)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101900	MN-R-Sens-B2-ACp-01 (L1EM:15652529)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100084	13a PN (L1EM:4493199)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101904	MN-R-Sens-B2-VM-05 (L1EM:15656435)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101662	T3r asc contra 01 (L1EM:3443129)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101986	AN-L-Sens-B1-AVa-28 (L1EM:15982306)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101892	MN-R-Sens-B3-AVp-03 (L1EM:15640425)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100214	Multiglomerular PN 6 (L1EM:4152020)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101648	MN-L-Sens-B3-VM-12 (L1EM:3036249)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102009	AN-L-Sens-B2-ACp-23 (L1EM:15997929)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101761	AN-L-Sens-B1-AVa-29 (L1EM:9820270)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102002	AN-L-Sens-B2-AVp-03 (L1EM:15996160)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100506	CN-60 (L1EM:17013073)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100903	MB2ON-146 (L1EM:16575803)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100885	AN-R-Sens-B1-ACa-07 (L1EM:15562137)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101948	MN-L-Sens-B2-VM-04 (L1EM:15715796)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101891	MN-R-Sens-B3-VM-10 (L1EM:15639548)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101837	AN-R-Sens-B1-ACa-12 (L1EM:15573381)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100761	IPC 7 left (L1EM:3046503)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101651	MN-L-Sens-B3-ACp-04 (L1EM:3054101)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100116	42b PN (L1EM:7873135)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100788	DMS 2 left (L1EM:4523803)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101771	contra-vine 2 left (L1EM:11639192)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101867	MN-R-Sens-B2-VM-02 (L1EM:15611791)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101743	MB2ON-213 (L1EM:8213784)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101841	AN-R-Sens-B1-AVa-34 (L1EM:15574941)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101724	SEZ-IN-A05-left - paired with #18354200 (L1EM:6885133)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101832	AN-R-motor-07 (L1EM:15567384)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101886	MN-R-Sens-B1-VM-03 (L1EM:15638742)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101834	AN-R-Sens-B1-AVa-28 (L1EM:15569561)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101917	MN-L-Sens-B2-VM-09 (L1EM:15678441)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101922	MN-L-Sens-B2-ACp-19 (L1EM:15680093)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101845	SEZ-IN-08-left (L1EM:15581428)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101959	MN-L-Sens-B3-AVp-02 (L1EM:15723479)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102001	AN-L-Sens-B2-VM-08 (L1EM:15995861)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102078	AN-R-Sens-B1-AVa-45 (L1EM:18231999)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101747	PaN-R-motor-02 (L1EM:8574714)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101950	MN-L-Sens-B2-ACp-13 (L1EM:15716127)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101695	AN-R-Sens-B3-ACpl-10 (L1EM:4097554)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101672	AN-L-Sens-B3-ACal-02 (temp sensing left neuron together 2) (L1EM:3639968)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101789	SEZ-IN-A07-right (L1EM:13538010)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100330	Thermo PN 2 (L1EM:4985759)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101725	AN-R-Sens-B2-AVp-01 (L1EM:7160160)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101925	MN-L-Sens-B2-ACp-21 (L1EM:15681740)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100390	Gustatory PN 4 (L1EM:11067379)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101681	Munin left 2 (L1EM:3859195)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101621	BAmas12 midline neuron 1 left (L1EM:1924051)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101610	AN-L-Sens-B1-AVa-26 (L1EM:1415168)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102088	MN-R-Sens-B2-ACp-10 (L1EM:18625446)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101594	SE0 R2 (L1EM:887905)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101821	AN-R-Sens-B1-ACa-17 (L1EM:15548107)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101604	Interneuron--35 in total (L1EM:1334471)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100893	AN-R-Sens-B1-AVa-15 (L1EM:15574328)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101784	SEZ-IN-A01-left (L1EM:12740290)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101793	CN-12 (L1EM:14313750)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101934	MN-L-Sens-B1-VM-02 (L1EM:15698623)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101881	MN-R-Sens-B2-VM-15 (L1EM:15629241)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101824	MN-R-Sens-B2-ACp-02 (L1EM:15556868)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100117	30a PN (L1EM:7916593)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101732	MxN-L-motor-07 - MHD-A (L1EM:8061047)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100721	AN-L-Sens-B1-ACa-11 (L1EM:1395971)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101786	MB2ON-153 (L1EM:13142932)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101914	MN-L-Sens-B2-VM-22 (L1EM:15675901)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100085	94a&94b PN (L1EM:4651929)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101849	MN-R-Sens-B2-ACp-20 (L1EM:15588800)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101873	MN-R-Sens-B2-ACp-05 (L1EM:15615589)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101997	AN-L-motor-09 (L1EM:15995360)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101929	MN-L-Sens-B2-ACp-12 (L1EM:15689373)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101689	AN-R-Sens-B3-ACal-06 (Degraded? Temp?) (L1EM:4017089)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101661	contra-vine left (L1EM:3414508)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102062	presynaptic-D-2-MAP right (L1EM:17415439)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101916	MN-L-Sens-B2-ACp-18 (L1EM:15677323)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100367	PPLV - 2 Left (maybe PVL014c) (L1EM:9747418)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101730	MB2ON-218 (L1EM:7571966)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101979	AN-L-motor-05 (L1EM:15769596)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100051	mPN (L1EM:3736500)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102064	AN-L-motor-12 (L1EM:17500791)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101582	Interneuron--35 in total (L1EM:375785)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102003	AN-L-Sens-B2-VM-06 (L1EM:15996271)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101816	AN-R-Sens-B2-?-00 (L1EM:15542199)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100277	MBON-b1 (L1EM:8094859)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100875	DMS 2 right (L1EM:13793212)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101902	MN-R-Sens-B2-ACp-07 (L1EM:15653432)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101769	Y Neuron-right (L1EM:11637858)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100512	CN-47 (L1EM:17434825)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102082	SEZ-IN-A05-right - paired with #6885133 (L1EM:18354200)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101924	Bubsy Left (L1EM:15681246)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101935	MN-L-Sens-B2-VM-23 (L1EM:15699715)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100831	AN-R-Sens-B1-AVa-19 (L1EM:9716858)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100874	DH44 2 right (L1EM:13751194)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101599	AN-L-Sens-B2-ACp-02 (L1EM:1011675)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101591	AN-R-motor-16 (L1EM:873782)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102056	neuron 17385046 (L1EM:17385045)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102026	PaN-R-Sens-B1-VM-04 (L1EM:16124048)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101910	MN-L-Sens-B2-ACp-22 (L1EM:15673867)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102038	MB2IN-203 (L1EM:16774287)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101976	MN-R-Sens-B2-VM-14 (L1EM:15762568)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100888	AN-R-Sens-B1-AVa-22 (L1EM:15564807)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101735	MxN-L-motor-02 - LR-A (L1EM:8105236)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101844	AN-R-Sens-B1-AVa-40 (L1EM:15576194)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101888	MN-R-Sens-B3-ACp-04 (L1EM:15639020)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101716	MN-R-Sens-B1-ACpl-01 (L1EM:5448622)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102099	PC-IN-left (L1EM:19470184)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102020	AN-L-Sens-B2-AVp-02 (L1EM:15998899)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102070	neuron 17706916 (L1EM:17706915)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100420	MBON-n1 (L1EM:15398730)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102061	AN-L-motor-11 (L1EM:17415321)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101840	AN-R-Sens-B1-AVa-38 (L1EM:15574508)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101994	SE0 L1 (L1EM:15995012)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101947	MN-L-Sens-B2-ACp-04 (L1EM:15715643)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100230	Thermo PN 6 (L1EM:4635057)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100754	DMS 1 right (L1EM:2659386)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100719	AN-L-Sens-B1-ACa-04 (L1EM:1367171)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101587	AN-R-motor-15 (L1EM:853526)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100873	AN-L-Sens-B1-ACa-02 (L1EM:13744425)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101709	AN-L-Sens-B3-VM-13 (L1EM:5120990)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102074	neuron 17721401 (L1EM:17721400)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101734	MxN-L-motor-03 - LR-B (L1EM:8092228)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101753	FFN-14 (L1EM:9583435)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101683	FFN-5 (L1EM:3945454)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101750	FFN-14 (L1EM:9015745)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100400	Gustatory PN 3 (L1EM:12156009)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101975	AN-R-Sens-B1-AVa-43 (L1EM:15748726)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102051	SEZ-IN-A14-right (L1EM:17267288)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100810	Pre PMN left (L1EM:6445994)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100847	MB2IN-199 (L1EM:10119916)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101806	AN-R-Sens-B2-AVp-06 (L1EM:15505837)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101684	MB2IN-206 (L1EM:3946166)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101869	MN-R-Sens-B2-ACp-09 (L1EM:15615042)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102089	AN-R-Sens-B3-ACal-02 (temp sensing right neuron together 2) (L1EM:18630153)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102080	SEZ-IN-A04-left (L1EM:18329062)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100205	Thermo PN 5 (L1EM:3756659)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102033	AN-R-Sens-B2-VM-07 (L1EM:16362243)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100328	MBON-d3 (L1EM:9109799)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101846	AN-R-Sens-B1-ACa-11 (L1EM:15586536)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102057	neuron 17399868 (L1EM:17399867)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101611	AN-L-Sens-B1-AVa-31 (L1EM:1419315)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100897	AN-L-Sens-B1-ACa-03 (L1EM:15770032)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101920	MN-L-Sens-B2-VM-08 (L1EM:15679484)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101693	AN-R-Sens-B3-VM-15 (L1EM:4059758)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101815	AN-R-Sens-B2-AVp-02 (L1EM:15533421)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101785	AN-R-motor-12 (L1EM:12901662)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100898	AN-L-Sens-B1-AVa-24 (L1EM:15770904)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101810	AN-R-Sens-B2-ACp-21 (L1EM:15522777)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101977	AN-L-Sens-B1-AVa-38 (L1EM:15766999)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100837	hugin-PC left 1 (L1EM:9789130)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101756	BAmas12_ven descending 3 left (L1EM:9787592)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101937	MN-L-Sens-B2-VM-07 (L1EM:15711222)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100327	MBON-d3 (L1EM:9074101)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100102	94a&94b PN (L1EM:8399890)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100813	T1l asc contra 02 (L1EM:6802553)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101820	AN-R-Sens-B1-AVa-33 (L1EM:15547732)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100480	CN-47 (L1EM:16485079)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100041	42a PN (L1EM:3486381)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101726	AN-L-Sens-B1-AVa-30 (L1EM:7424178)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102091	MN-R-Sens-B3-VM-07 (L1EM:18785124)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102067	AN-L-Sens-B2-VM-07 (L1EM:17608754)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102102	Neuron 20152213 (L1EM:20152212)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101729	MN-L-Sens-B3-ACp-03 (L1EM:7556564)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100049	Multiglomerular PN 2 (L1EM:3712893)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101632	PaN-R-Sens-B1-VM-01 (L1EM:2305234)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100785	IPC 4 left (L1EM:4453485)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101707	AN-L-Sens-B3-VM-15 (L1EM:5116861)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100769	Pre PMN right (L1EM:3436420)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101762	UNK anterior basal 1 left (L1EM:9842383)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100255	MBON-f1 (L1EM:4598109)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101737	MxN-R-motor-01 - SGDO (L1EM:8149490)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101990	AN-L-Sens-B1-AVa-34 (L1EM:15983225)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100862	MB2ON-152 (L1EM:11868260)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101733	MxN-L-motor-08 - MHD-B (L1EM:8084863)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102015	AN-L-Sens-B2-VM-05 (L1EM:15998319)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100786	IPC 6 left (L1EM:4506509)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101580	Interneuron--35 in total (L1EM:236151)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101907	MN-R-Sens-B3-VM-09 (L1EM:15671848)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101961	MN-L-Sens-B3-VM-11 (L1EM:15724175)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100188	Vision PN 1 (L1EM:7555968)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101759	MB2ON-215 (L1EM:9801441)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101807	AN-R-Sens-B2-ACp-20 (L1EM:15507888)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101686	SOG interneuron (L1EM:3948033)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101998	AN-L-motor-17 (L1EM:15995368)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101825	AN-R-Sens-B1-ACa-04 (L1EM:15559195)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100774	FFN-18 (L1EM:3622234)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101770	MB2ON-147 (L1EM:11638511)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102087	AN-R-Sens-B2-ACp-23 (L1EM:18620885)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101597	AN-R-motor-18 (L1EM:937332)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101708	AN-L-Sens-B3-VM-12 (L1EM:5120097)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100900	AN-L-Sens-B2-ACp-01 (L1EM:15997666)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100391	Gustatory PN 1 (L1EM:11333054)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101861	MN-R-Sens-B2-VM-04 (L1EM:15606918)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100787	DMS 1 left (L1EM:4523584)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101919	MN-L-Sens-B2-VM-12 (L1EM:15678849)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102049	neuron 17260594 (L1EM:17260593)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100125	74a PN (L1EM:8140109)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101639	PaN-L-Sens-B1-VM-01 (L1EM:2495308)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100828	MB2ON-219 (L1EM:9455820)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101624	MB2IN-146 (L1EM:2142817)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100724	AN-L-Sens-B1-ACa-14 (L1EM:1406463)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101704	AN-L-Sens-B3-ACal-04 (Non-ORN 2) (L1EM:5093516)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101880	MN-R-Sens-B2-VM-13 (L1EM:15620606)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101926	DPlal bilateral 1 left (L1EM:15686444)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101646	neuron 2936858 (L1EM:2936857)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101731	MN-L-Sens-B1-ACpl-01 (L1EM:8055671)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100139	24a PN (L1EM:8245869)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102081	SEZ-IN-05-right (L1EM:18347336)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101843	AN-R-Sens-B1-AVa-35 (L1EM:15575232)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101670	AN-L-Sens-B3-ACal-01 (temp sensing left neuron alone) (L1EM:3608397)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101776	MN-L-Sens-B2-ACp-07 (L1EM:11745381)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102058	neuron 17399887 (L1EM:17399886)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101752	MB2IN-175 (L1EM:9503414)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100457	CN-59 (L1EM:16223537)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102073	MB2ON-223 (L1EM:17718177)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101856	MN-R-Sens-B2-ACp-08 (L1EM:15595607)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100789	MB2IN-202 (L1EM:4595609)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100118	35a PN (L1EM:7934904)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101906	MN-R-Sens-B1-VM-05 (L1EM:15671481)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101949	MN-L-Sens-B2-ACp-05 (L1EM:15716094)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101585	Interneuron--35 in total (L1EM:692877)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101946	MN-L-Sens-B2-VM-01 (L1EM:15715151)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101766	Bilateral near MB_right (L1EM:10768709)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101942	MN-L-Sens-B1-VM-05 (L1EM:15714173)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101751	MB2ON-145 (L1EM:9455885)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101853	AN-R-Sens-B2-ACp-11 (L1EM:15592696)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100762	AF5: Short-presynaptic-D-1L (L1EM:3158085)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101791	SEZ-IN-08-right (L1EM:14035921)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100203	Thermo PN 4 (L1EM:3690921)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100368	Thermo PN 3 (L1EM:9747710)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100500	MBON-k1 (L1EM:16846805)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101628	PaN-R-motor-01 (L1EM:2220573)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100165	mPN (L1EM:11105182)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100211	Thermo PN 7 (L1EM:4108016)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100880	AN-R-Sens-B2-ACp-18 (L1EM:15506094)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100814	AN-R-Sens-B1-AVa-16 (L1EM:6883831)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100191	3rd-order Thermo right; CPLd interneuron (L1EM:8598886)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100763	AN-R-Sens-B2-AVa-25 (PPS mechano) (L1EM:3192952)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101596	AN-R-motor-11 (L1EM:910064)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101939	MN-L-Sens-B2-VM-13 (L1EM:15712024)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100132	83a PN (L1EM:8243455)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100182	Multiglomerular PN 1 (L1EM:16795838)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102047	Pre-PMN-R-05 (L1EM:17254290)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101940	MN-L-Sens-B2-VM-18 (L1EM:15713206)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100407	Gustatory PN 2 (L1EM:13789482)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102076	AN-R-Sens-B1-AVa-32 (L1EM:17951153)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101883	MN-R-Sens-B2-VM-18 (L1EM:15629888)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100245	MBON-e2 (L1EM:8922644)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100135	59a PN (L1EM:8245014)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101645	PaN-L-Sens-B2-VM-01 (L1EM:2799380)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102048	neuron 17256675 (L1EM:17256674)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101636	PaN-L-motor-01 (L1EM:2391092)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102054	AN-L-motor-07 (L1EM:17369376)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102042	SEZ-IN-06-right (L1EM:17219367)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101903	MN-R-Sens-B2-VM-01 (L1EM:15653927)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100720	AN-L-Sens-B1-ACa-07 (L1EM:1377586)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100181	Multiglomerular PN 1 (L1EM:16795524)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100167	Multiglomerular PN 2 (L1EM:11543212)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101758	BAmas12_ven descending 4 left (L1EM:9795662)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100381	Multiglomerular PN 5 (L1EM:10160250)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101613	AN-L-Sens-B1-AVa-27 (L1EM:1431256)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101633	neuron 2320455--12 (L1EM:2320454)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100104	47a&33b PN (L1EM:7092417)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101638	SEZ-IN-A01-right (L1EM:2432564)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102059	neuron 17400232 (L1EM:17400231)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100133	42a PN (L1EM:8244723)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101634	interneuron missing cell bodies 5 (L1EM:2321929)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101901	MN-R-Sens-B2-ACp-19 (L1EM:15653288)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00102092	MN-R-Sens-B2-VM-23 (L1EM:18833414)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101783	BAmas12 midline 3 right (L1EM:12335381)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101842	AN-R-Sens-B1-AVa-36 (L1EM:15575052)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101966	MN-L-Sens-B3-VM-09 (L1EM:15725545)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101850	MN-R-Sens-B2-ACp-06 (L1EM:15589362)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101778	MB2IN-158 (L1EM:11946903)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101714	MxN-R-motor-09 - MHD-C (L1EM:5439602)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00101981	AN-L-motor-15 (L1EM:15770521)	Miroschnikow2018	part_of	larval nervous system	cp390
+VFB_00100834	MB2ON-149 (L1EM:9748981)	Miroschnikow2018	part_of	larval nervous system	cp390

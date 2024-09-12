@@ -1,194 +1,194 @@
-subject_external_id	subject_id	subject_name	DataSet	subject_external_db	relation	object	Curator
-13429045	VFB_00100869	AF4: TOH right; Large Spider Neuron right (L1EM:13429045)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-3315001	VFB_00100767	hugin-PC right 1 (L1EM:3315001)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-4400767	VFB_00100784	DH44 2 left (L1EM:4400767)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-5378683	VFB_00100796	T1l Ascending into PC_left (L1EM:5378683)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-3594705	VFB_00100771	hugin-VNC right 2 (L1EM:3594705)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-9805520	VFB_00100840	hugin-PC left 3 (L1EM:9805520)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-5500958	VFB_00100800	Coaster (NPF) 2 right (L1EM:5500958)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-18520222	VFB_00100906	A26f_a2r (L1EM:18520222)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-2810998	VFB_00100742	hugin-PH right 2 (L1EM:2810998)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-2369444	VFB_00100739	MB2IN-199 (L1EM:2369444)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-12634154	VFB_00100865	IPC 3 left (L1EM:12634154)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-9796597	VFB_00100839	hugin-PC left 2 (L1EM:9796597)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-2622540	VFB_00100750	A01?_a4r (L1EM:2622540)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-2852273	VFB_00100733	_IPC 2 (L1EM:2852273)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-11291634	VFB_00100859	Midline Projection Neuron  - paired with #7340664 (L1EM:11291634)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-2606279	VFB_00100736	hugin-PH left 2 (L1EM:2606279)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-5614978	VFB_00100805	T1l asc contra 01 (L1EM:5614978)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-4641120	VFB_00100790	PaN Hugin Input 6 - paired with 1 - gap crossings unfinished (L1EM:4641120)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-9319255	VFB_00100826	A01?_a4l (L1EM:9319255)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-15575327	VFB_00100894	AN-R-Sens-B1-AVa-26 (L1EM:15575327)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-3276003	VFB_00100764	MB2IN-150 (L1EM:3276003)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-9838294	VFB_00100844	AN-L-Sens-B1-ACa-13 (L1EM:9838294)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-10716080	VFB_00100852	DPMm1 Brain descending into VNC left (L1EM:10716080)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-2597151	VFB_00100744	AF5: Short-presynaptic-D-1R (L1EM:2597151)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-9748579	VFB_00100833	hugin-PC right 3 (L1EM:9748579)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-5038920	VFB_00100793	MBE - Input of Hugin RG Candidates right 1 - paired with #5688091 (L1EM:5038920)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-15202263	VFB_00100878	IPC 4 right (L1EM:15202263)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-6796532	VFB_00100812	neuron - paired with #2619764 (L1EM:6796532)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-12944429	VFB_00100868	neuron 12944430 with a soma (L1EM:12944429)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-9748269	VFB_00100832	AN-R-Sens-B1-AVa-18 (L1EM:9748269)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-4780447	VFB_00100791	A26f_a3l (L1EM:4780447)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-3946432	VFB_00100779	_WS (L1EM:3946432)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-15769419	VFB_00100895	AN-L-Sens-B1-ACa-08 (L1EM:15769419)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-4284106	VFB_00100781	MB2ON-151 (L1EM:4284106)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-15532105	VFB_00100881	AN-R-Sens-B2-AVa-24 (PPS mechano) (L1EM:15532105)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-1706716	VFB_00100729	AN-L-Sens-B2-ACp-19 (L1EM:1706716)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-1429969	VFB_00100727	AN-L-Sens-B1-AVa-20 (L1EM:1429969)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-14795310	VFB_00100877	A09e_a3 (L1EM:14795310)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-13535387	VFB_00100871	DH44 3 right (L1EM:13535387)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-1711076	VFB_00100730	A26f_a3r (L1EM:1711076)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-5404887	VFB_00100798	MB2ON-214 (L1EM:5404887)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-15769680	VFB_00100896	AN-L-Sens-B1-AVa-19 (L1EM:15769680)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-12920745	VFB_00100867	post B5 17 r (L1EM:12920745)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-10459723	VFB_00100850	_IPC 2 (L1EM:10459723)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-2632168	VFB_00100751	neuron 2632169 (L1EM:2632168)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-3299767	VFB_00100766	hugin-PC right 2 (L1EM:3299767)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-9935752	VFB_00100846	T1r asc contra 01 (L1EM:9935752)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-7338309	VFB_00100818	DPMpl12 Brain into SEZ left (L1EM:7338309)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-14728550	VFB_00100876	A09e_a3 (L1EM:14728550)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-19912140	VFB_00100908	T1r asc contra 02 (L1EM:19912140)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-1428271	VFB_00100726	AN-L-Sens-B1-AVa-22 (L1EM:1428271)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-15543068	VFB_00100884	AN-R-Sens-B1-AVa-21 (L1EM:15543068)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-2815572	VFB_00100757	SEZ local interneuron (L1EM:2815572)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-15572414	VFB_00100889	AN-R-Sens-B1-AVa-25 (L1EM:15572414)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-1398253	VFB_00100722	AN-L-Sens-B1-ACa-05 (L1EM:1398253)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-2622502	VFB_00100749	Projection Neuron right - Type I - paired with #8010889 (L1EM:2622502)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-15541976	VFB_00100883	AN-R-Sens-B2-ACp-19 (L1EM:15541976)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-10563755	VFB_00100851	DH44 3 left (L1EM:10563755)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-5038703	VFB_00100792	hugin-RG right 1 (L1EM:5038703)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-2613532	VFB_00100745	hugin-VNC left 2 (L1EM:2613532)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-1414206	VFB_00100725	AN-L-Sens-B1-AVa-16 (L1EM:1414206)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-8005609	VFB_00100822	v'td_a2l (Abdominal Sensory) (L1EM:8005609)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-3613276	VFB_00100775	Interneuron W right - Inputs from SE0 Serotonin - paired with #9787565 (L1EM:3613276)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-5615961	VFB_00100806	hugin-RG left 2 (L1EM:5615961)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-3281684	VFB_00100765	IPC 5 left (L1EM:3281684)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-2355126	VFB_00100732	IPC 7 right (L1EM:2355126)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-11734960	VFB_00100861	A00g_t1 (L1EM:11734960)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-10418394	VFB_00100849	DH44 1 left (L1EM:10418394)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-5607156	VFB_00100803	A26x_a4r (L1EM:5607156)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-15541944	VFB_00100882	AN-R-Sens-B2-ACp-02 (L1EM:15541944)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-5613144	VFB_00100804	RG Hugin Input right -> paired with #7381964? Check gap crossings (best match atm) (L1EM:5613144)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-7136254	VFB_00100815	MB2ON-149 (L1EM:7136254)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-15564706	VFB_00100886	AN-R-Sens-B1-AVa-24 (L1EM:15564706)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-3915835	VFB_00100778	v'td_a3l (L1EM:3915835)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-2357110	VFB_00100740	IPC 6 right (L1EM:2357110)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-9563254	VFB_00100827	A01?_a8r (L1EM:9563254)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-3561724	VFB_00100770	IPC 5 right (L1EM:3561724)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-12042430	VFB_00100864	A06?_a1l (L1EM:12042430)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-3420915	VFB_00100768	FFN-18 (L1EM:3420915)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-7165165	VFB_00100816	Medial Unpaired T3? (L1EM:7165165)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-13535380	VFB_00100870	IPC 1 right (L1EM:13535380)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-9835169	VFB_00100843	v'td_a4l (Abdominal Sensory) (L1EM:9835169)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-19120853	VFB_00100907	MB2IN-202 (L1EM:19120853)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-2815283	VFB_00100755	Pan Hugin Input 1 - paired with 6 (L1EM:2815283)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-2613540	VFB_00100746	hugin-VNC left 1 (L1EM:2613540)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-7557604	VFB_00100821	MB2IN-150 (L1EM:7557604)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-10728318	VFB_00100853	DPMm1 Brain descending into VNC 2 left (L1EM:10728318)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-9787565	VFB_00100836	Interneuron W left - Inputs from SE0 Serotonin - paired with #3613276 (L1EM:9787565)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-2340336	VFB_00100752	AN-R-Sens-B1-ACa-02 (L1EM:2340336)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-1435466	VFB_00100728	AN-L-Sens-B1-AVa-21 (L1EM:1435466)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-40152	VFB_00100717	AN-L-Sens-B1-ACa-10 (L1EM:40152)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-8748462	VFB_00100825	A26f_a2l (L1EM:8748462)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-2260755	VFB_00100738	DH44 1 right (L1EM:2260755)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-9813902	VFB_00100842	hugin-PC left 4 (L1EM:9813902)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-7340664	VFB_00100820	Midline Projection Neuron _ a3l (L1EM:7340664)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-4179669	VFB_00100780	A26g_a2l (L1EM:4179669)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-5601924	VFB_00100802	hugin-RG right 2 (L1EM:5601924)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-2456826	VFB_00100734	AN-R-Sens-B1-ACa-01 (L1EM:2456826)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-15242799	VFB_00100879	MB2ON-217 (L1EM:15242799)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-5311299	VFB_00100794	T1r Ascending into PC_right (L1EM:5311299)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-5644800	VFB_00100801	T1l descending  (L1EM:5644800)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-2811369	VFB_00100741	hugin-PH right 1 (L1EM:2811369)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-2283495	VFB_00100735	IPC 3 right (L1EM:2283495)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-7340629	VFB_00100819	v'td_a6l (Abdominal Sensory) (L1EM:7340629)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-5860970	VFB_00100809	A23f2 (= Pre-goro9)_a3r (L1EM:5860970)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-9805588	VFB_00100841	MB2ON-152 (L1EM:9805588)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-15995929	VFB_00100899	AN-L-Sens-B2-ACp-20 (L1EM:15995929)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-11517136	VFB_00100860	A01?_a8l (L1EM:11517136)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-15998753	VFB_00100901	AN-L-Sens-B2-AVa-25 (PPS mechano) (L1EM:15998753)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-15564782	VFB_00100887	AN-R-Sens-B1-AVa-23 (L1EM:15564782)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-864517	VFB_00100718	SOG Neuron into Thoracic - gap crossing unfinished (L1EM:864517)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-1405493	VFB_00100723	AN-L-Sens-B1-ACa-09 (L1EM:1405493)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-1375101	VFB_00100830	AN-L-Sens-B1-AVa-17 (L1EM:1375101)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-2935173	VFB_00100759	_WS (L1EM:2935173)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-5617164	VFB_00100807	v'td_a2l (L1EM:5617164)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-15573396	VFB_00100890	AN-R-Sens-B1-ACa-09 (L1EM:15573396)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-2620299	VFB_00100748	Premotor for PaN + MN - paired with #10885848? (L1EM:2620299)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-2284021	VFB_00100758	AN-L-Sens-B1-ACa-01 (L1EM:2284021)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-5349961	VFB_00100795	MB2ON-214 (L1EM:5349961)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-16442344	VFB_00100902	AN-R-Sens-B1-AVa-20 (L1EM:16442344)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-11291344	VFB_00100858	v'td_a5r (Abdominal Sensory) (L1EM:11291344)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-10329208	VFB_00100848	IPC 1 left (L1EM:10329208)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-	VFB_00050000	L1 larval CNS ssTEM - Cardona/Janelia	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-3598000	VFB_00100773	DPMm1 Brain descending into VNC 2 right (L1EM:3598000)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-4785242	VFB_00100829	AF3 thermo 3rd left (L1EM:4785242)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-15573450	VFB_00100891	AN-R-Sens-B1-ACa-14 (L1EM:15573450)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-6795358	VFB_00100811	hugin-VNC right 1 (L1EM:6795358)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-5382876	VFB_00100797	v'td_a3r (Abdominal Sensory) (L1EM:5382876)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-18461988	VFB_00100905	Contralateral axon (L1EM:18461988)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-15574231	VFB_00100892	AN-R-Sens-B1-ACa-08 (L1EM:15574231)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-17641913	VFB_00100904	AF4: TOH left (L1EM:17641913)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-2679035	VFB_00100753	SEZ-IN-15-right (L1EM:2679035)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-13581830	VFB_00100872	hugin-PC right 4 (L1EM:13581830)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-8008617	VFB_00100823	T1r descending (L1EM:8008617)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-16575803	VFB_00100903	MB2ON-146 (L1EM:16575803)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-15562137	VFB_00100885	AN-R-Sens-B1-ACa-07 (L1EM:15562137)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-3046503	VFB_00100761	IPC 7 left (L1EM:3046503)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-4523803	VFB_00100788	DMS 2 left (L1EM:4523803)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-9793489	VFB_00100838	MB2ON-217 (L1EM:9793489)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-11121240	VFB_00100857	A00g_a3 ? (L1EM:11121240)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-2679278	VFB_00100737	hugin-PH left 1 (L1EM:2679278)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-3595837	VFB_00100772	DPMm1 Brain descending into VNC right (L1EM:3595837)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-15574328	VFB_00100893	AN-R-Sens-B1-AVa-15 (L1EM:15574328)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-8010889	VFB_00100824	Projection Neuron left - Type I - paired with #2622502 (L1EM:8010889)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-1395971	VFB_00100721	AN-L-Sens-B1-ACa-11 (L1EM:1395971)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-10868477	VFB_00100855	v'td1_a1r (L1EM:10868477)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-3795424	VFB_00100777	v'td_a5l (Abdominal Sensory) (L1EM:3795424)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-2619764	VFB_00100747	neuron - paired with #6796532 (L1EM:2619764)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-2138427	VFB_00100731	hugin-RG left 1 (L1EM:2138427)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-13793212	VFB_00100875	DMS 2 right (L1EM:13793212)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-7381964	VFB_00100743	RG Hugin Input left-> paired with #5613144? Check gap crossings (best match atm) (L1EM:7381964)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-9716858	VFB_00100831	AN-R-Sens-B1-AVa-19 (L1EM:9716858)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-13751194	VFB_00100874	DH44 2 right (L1EM:13751194)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-2935198	VFB_00100760	AF3 thermo 3rd right (L1EM:2935198)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-7331555	VFB_00100817	v'td_a6r (Abdominal Sensory) (L1EM:7331555)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-15564807	VFB_00100888	AN-R-Sens-B1-AVa-22 (L1EM:15564807)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-2659386	VFB_00100754	DMS 1 right (L1EM:2659386)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-1367171	VFB_00100719	AN-L-Sens-B1-ACa-04 (L1EM:1367171)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-13744425	VFB_00100873	AN-L-Sens-B1-ACa-02 (L1EM:13744425)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-6445994	VFB_00100810	Pre PMN left (L1EM:6445994)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-10119916	VFB_00100847	MB2IN-199 (L1EM:10119916)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-4364826	VFB_00100783	MB2ON-146 (L1EM:4364826)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-10885848	VFB_00100856	T1 Local Interneuron - paired with #2620299? a27l t2? (L1EM:10885848)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-15770032	VFB_00100897	AN-L-Sens-B1-ACa-03 (L1EM:15770032)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-12824059	VFB_00100866	post B5 17 l (L1EM:12824059)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-15770904	VFB_00100898	AN-L-Sens-B1-AVa-24 (L1EM:15770904)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-9789130	VFB_00100837	hugin-PC left 1 (L1EM:9789130)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-5688091	VFB_00100808	MBE - Input of Hugin RG Candidates left 1 - paired with #5038920 (L1EM:5688091)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-6802553	VFB_00100813	T1l asc contra 02 (L1EM:6802553)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-9503203	VFB_00100799	v'td_a4r (Abdominal Sensory) (L1EM:9503203)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-4453485	VFB_00100785	IPC 4 left (L1EM:4453485)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-3436420	VFB_00100769	Pre PMN right (L1EM:3436420)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-11868260	VFB_00100862	MB2ON-152 (L1EM:11868260)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-4506509	VFB_00100786	IPC 6 left (L1EM:4506509)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-3266033	VFB_00100756	PaN Hugin Input 2 (L1EM:3266033)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-10852875	VFB_00100854	v'td_a2r (Abdominal Sensory) (L1EM:10852875)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-3622234	VFB_00100774	FFN-18 (L1EM:3622234)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-15997666	VFB_00100900	AN-L-Sens-B2-ACp-01 (L1EM:15997666)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-4523584	VFB_00100787	DMS 1 left (L1EM:4523584)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-9455820	VFB_00100828	MB2ON-219 (L1EM:9455820)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-1406463	VFB_00100724	AN-L-Sens-B1-ACa-14 (L1EM:1406463)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-4595609	VFB_00100789	MB2IN-202 (L1EM:4595609)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-3158085	VFB_00100762	AF5: Short-presynaptic-D-1L (L1EM:3158085)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-9758503	VFB_00100835	MB2ON-151 (L1EM:9758503)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-11874130	VFB_00100863	v'td-2_a1l (L1EM:11874130)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-15506094	VFB_00100880	AN-R-Sens-B2-ACp-18 (L1EM:15506094)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-6883831	VFB_00100814	AN-R-Sens-B1-AVa-16 (L1EM:6883831)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-3192952	VFB_00100763	AN-R-Sens-B2-AVa-25 (PPS mechano) (L1EM:3192952)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-1377586	VFB_00100720	AN-L-Sens-B1-ACa-07 (L1EM:1377586)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-9903957	VFB_00100845	MB2ON-219 (L1EM:9903957)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-3722787	VFB_00100776	A23f2 (= Pre-goro9)_a3l (L1EM:3722787)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-4363883	VFB_00100782	v'td_a3l (Abdominal Sensory) (L1EM:4363883)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
-9748981	VFB_00100834	MB2ON-149 (L1EM:9748981)	Schlegel2016	catmaid_l1em	part_of	larval nervous system	cp390
+subject_id	subject_name	DataSet	relation	object	Curator
+VFB_00100869	AF4: TOH right; Large Spider Neuron right (L1EM:13429045)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100767	hugin-PC right 1 (L1EM:3315001)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100784	DH44 2 left (L1EM:4400767)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100796	T1l Ascending into PC_left (L1EM:5378683)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100771	hugin-VNC right 2 (L1EM:3594705)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100840	hugin-PC left 3 (L1EM:9805520)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100800	Coaster (NPF) 2 right (L1EM:5500958)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100906	A26f_a2r (L1EM:18520222)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100742	hugin-PH right 2 (L1EM:2810998)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100739	MB2IN-199 (L1EM:2369444)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100865	IPC 3 left (L1EM:12634154)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100839	hugin-PC left 2 (L1EM:9796597)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100750	A01?_a4r (L1EM:2622540)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100733	_IPC 2 (L1EM:2852273)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100859	Midline Projection Neuron  - paired with #7340664 (L1EM:11291634)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100736	hugin-PH left 2 (L1EM:2606279)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100805	T1l asc contra 01 (L1EM:5614978)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100790	PaN Hugin Input 6 - paired with 1 - gap crossings unfinished (L1EM:4641120)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100826	A01?_a4l (L1EM:9319255)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100894	AN-R-Sens-B1-AVa-26 (L1EM:15575327)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100764	MB2IN-150 (L1EM:3276003)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100844	AN-L-Sens-B1-ACa-13 (L1EM:9838294)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100852	DPMm1 Brain descending into VNC left (L1EM:10716080)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100744	AF5: Short-presynaptic-D-1R (L1EM:2597151)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100833	hugin-PC right 3 (L1EM:9748579)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100793	MBE - Input of Hugin RG Candidates right 1 - paired with #5688091 (L1EM:5038920)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100878	IPC 4 right (L1EM:15202263)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100812	neuron - paired with #2619764 (L1EM:6796532)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100868	neuron 12944430 with a soma (L1EM:12944429)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100832	AN-R-Sens-B1-AVa-18 (L1EM:9748269)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100791	A26f_a3l (L1EM:4780447)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100779	_WS (L1EM:3946432)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100895	AN-L-Sens-B1-ACa-08 (L1EM:15769419)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100781	MB2ON-151 (L1EM:4284106)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100881	AN-R-Sens-B2-AVa-24 (PPS mechano) (L1EM:15532105)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100729	AN-L-Sens-B2-ACp-19 (L1EM:1706716)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100727	AN-L-Sens-B1-AVa-20 (L1EM:1429969)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100877	A09e_a3 (L1EM:14795310)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100871	DH44 3 right (L1EM:13535387)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100730	A26f_a3r (L1EM:1711076)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100798	MB2ON-214 (L1EM:5404887)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100896	AN-L-Sens-B1-AVa-19 (L1EM:15769680)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100867	post B5 17 r (L1EM:12920745)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100850	_IPC 2 (L1EM:10459723)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100751	neuron 2632169 (L1EM:2632168)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100766	hugin-PC right 2 (L1EM:3299767)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100846	T1r asc contra 01 (L1EM:9935752)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100818	DPMpl12 Brain into SEZ left (L1EM:7338309)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100876	A09e_a3 (L1EM:14728550)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100908	T1r asc contra 02 (L1EM:19912140)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100726	AN-L-Sens-B1-AVa-22 (L1EM:1428271)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100884	AN-R-Sens-B1-AVa-21 (L1EM:15543068)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100757	SEZ local interneuron (L1EM:2815572)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100889	AN-R-Sens-B1-AVa-25 (L1EM:15572414)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100722	AN-L-Sens-B1-ACa-05 (L1EM:1398253)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100749	Projection Neuron right - Type I - paired with #8010889 (L1EM:2622502)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100883	AN-R-Sens-B2-ACp-19 (L1EM:15541976)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100851	DH44 3 left (L1EM:10563755)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100792	hugin-RG right 1 (L1EM:5038703)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100745	hugin-VNC left 2 (L1EM:2613532)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100725	AN-L-Sens-B1-AVa-16 (L1EM:1414206)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100822	v'td_a2l (Abdominal Sensory) (L1EM:8005609)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100775	Interneuron W right - Inputs from SE0 Serotonin - paired with #9787565 (L1EM:3613276)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100806	hugin-RG left 2 (L1EM:5615961)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100765	IPC 5 left (L1EM:3281684)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100732	IPC 7 right (L1EM:2355126)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100861	A00g_t1 (L1EM:11734960)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100849	DH44 1 left (L1EM:10418394)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100803	A26x_a4r (L1EM:5607156)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100882	AN-R-Sens-B2-ACp-02 (L1EM:15541944)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100804	RG Hugin Input right -> paired with #7381964? Check gap crossings (best match atm) (L1EM:5613144)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100815	MB2ON-149 (L1EM:7136254)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100886	AN-R-Sens-B1-AVa-24 (L1EM:15564706)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100778	v'td_a3l (L1EM:3915835)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100740	IPC 6 right (L1EM:2357110)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100827	A01?_a8r (L1EM:9563254)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100770	IPC 5 right (L1EM:3561724)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100864	A06?_a1l (L1EM:12042430)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100768	FFN-18 (L1EM:3420915)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100816	Medial Unpaired T3? (L1EM:7165165)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100870	IPC 1 right (L1EM:13535380)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100843	v'td_a4l (Abdominal Sensory) (L1EM:9835169)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100907	MB2IN-202 (L1EM:19120853)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100755	Pan Hugin Input 1 - paired with 6 (L1EM:2815283)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100746	hugin-VNC left 1 (L1EM:2613540)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100821	MB2IN-150 (L1EM:7557604)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100853	DPMm1 Brain descending into VNC 2 left (L1EM:10728318)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100836	Interneuron W left - Inputs from SE0 Serotonin - paired with #3613276 (L1EM:9787565)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100752	AN-R-Sens-B1-ACa-02 (L1EM:2340336)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100728	AN-L-Sens-B1-AVa-21 (L1EM:1435466)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100717	AN-L-Sens-B1-ACa-10 (L1EM:40152)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100825	A26f_a2l (L1EM:8748462)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100738	DH44 1 right (L1EM:2260755)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100842	hugin-PC left 4 (L1EM:9813902)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100820	Midline Projection Neuron _ a3l (L1EM:7340664)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100780	A26g_a2l (L1EM:4179669)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100802	hugin-RG right 2 (L1EM:5601924)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100734	AN-R-Sens-B1-ACa-01 (L1EM:2456826)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100879	MB2ON-217 (L1EM:15242799)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100794	T1r Ascending into PC_right (L1EM:5311299)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100801	T1l descending  (L1EM:5644800)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100741	hugin-PH right 1 (L1EM:2811369)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100735	IPC 3 right (L1EM:2283495)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100819	v'td_a6l (Abdominal Sensory) (L1EM:7340629)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100809	A23f2 (= Pre-goro9)_a3r (L1EM:5860970)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100841	MB2ON-152 (L1EM:9805588)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100899	AN-L-Sens-B2-ACp-20 (L1EM:15995929)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100860	A01?_a8l (L1EM:11517136)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100901	AN-L-Sens-B2-AVa-25 (PPS mechano) (L1EM:15998753)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100887	AN-R-Sens-B1-AVa-23 (L1EM:15564782)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100718	SOG Neuron into Thoracic - gap crossing unfinished (L1EM:864517)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100723	AN-L-Sens-B1-ACa-09 (L1EM:1405493)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100830	AN-L-Sens-B1-AVa-17 (L1EM:1375101)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100759	_WS (L1EM:2935173)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100807	v'td_a2l (L1EM:5617164)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100890	AN-R-Sens-B1-ACa-09 (L1EM:15573396)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100748	Premotor for PaN + MN - paired with #10885848? (L1EM:2620299)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100758	AN-L-Sens-B1-ACa-01 (L1EM:2284021)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100795	MB2ON-214 (L1EM:5349961)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100902	AN-R-Sens-B1-AVa-20 (L1EM:16442344)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100858	v'td_a5r (Abdominal Sensory) (L1EM:11291344)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100848	IPC 1 left (L1EM:10329208)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00050000	L1 larval CNS ssTEM - Cardona/Janelia	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100773	DPMm1 Brain descending into VNC 2 right (L1EM:3598000)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100829	AF3 thermo 3rd left (L1EM:4785242)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100891	AN-R-Sens-B1-ACa-14 (L1EM:15573450)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100811	hugin-VNC right 1 (L1EM:6795358)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100797	v'td_a3r (Abdominal Sensory) (L1EM:5382876)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100905	Contralateral axon (L1EM:18461988)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100892	AN-R-Sens-B1-ACa-08 (L1EM:15574231)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100904	AF4: TOH left (L1EM:17641913)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100753	SEZ-IN-15-right (L1EM:2679035)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100872	hugin-PC right 4 (L1EM:13581830)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100823	T1r descending (L1EM:8008617)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100903	MB2ON-146 (L1EM:16575803)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100885	AN-R-Sens-B1-ACa-07 (L1EM:15562137)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100761	IPC 7 left (L1EM:3046503)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100788	DMS 2 left (L1EM:4523803)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100838	MB2ON-217 (L1EM:9793489)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100857	A00g_a3 ? (L1EM:11121240)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100737	hugin-PH left 1 (L1EM:2679278)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100772	DPMm1 Brain descending into VNC right (L1EM:3595837)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100893	AN-R-Sens-B1-AVa-15 (L1EM:15574328)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100824	Projection Neuron left - Type I - paired with #2622502 (L1EM:8010889)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100721	AN-L-Sens-B1-ACa-11 (L1EM:1395971)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100855	v'td1_a1r (L1EM:10868477)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100777	v'td_a5l (Abdominal Sensory) (L1EM:3795424)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100747	neuron - paired with #6796532 (L1EM:2619764)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100731	hugin-RG left 1 (L1EM:2138427)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100875	DMS 2 right (L1EM:13793212)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100743	RG Hugin Input left-> paired with #5613144? Check gap crossings (best match atm) (L1EM:7381964)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100831	AN-R-Sens-B1-AVa-19 (L1EM:9716858)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100874	DH44 2 right (L1EM:13751194)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100760	AF3 thermo 3rd right (L1EM:2935198)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100817	v'td_a6r (Abdominal Sensory) (L1EM:7331555)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100888	AN-R-Sens-B1-AVa-22 (L1EM:15564807)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100754	DMS 1 right (L1EM:2659386)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100719	AN-L-Sens-B1-ACa-04 (L1EM:1367171)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100873	AN-L-Sens-B1-ACa-02 (L1EM:13744425)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100810	Pre PMN left (L1EM:6445994)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100847	MB2IN-199 (L1EM:10119916)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100783	MB2ON-146 (L1EM:4364826)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100856	T1 Local Interneuron - paired with #2620299? a27l t2? (L1EM:10885848)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100897	AN-L-Sens-B1-ACa-03 (L1EM:15770032)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100866	post B5 17 l (L1EM:12824059)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100898	AN-L-Sens-B1-AVa-24 (L1EM:15770904)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100837	hugin-PC left 1 (L1EM:9789130)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100808	MBE - Input of Hugin RG Candidates left 1 - paired with #5038920 (L1EM:5688091)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100813	T1l asc contra 02 (L1EM:6802553)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100799	v'td_a4r (Abdominal Sensory) (L1EM:9503203)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100785	IPC 4 left (L1EM:4453485)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100769	Pre PMN right (L1EM:3436420)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100862	MB2ON-152 (L1EM:11868260)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100786	IPC 6 left (L1EM:4506509)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100756	PaN Hugin Input 2 (L1EM:3266033)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100854	v'td_a2r (Abdominal Sensory) (L1EM:10852875)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100774	FFN-18 (L1EM:3622234)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100900	AN-L-Sens-B2-ACp-01 (L1EM:15997666)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100787	DMS 1 left (L1EM:4523584)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100828	MB2ON-219 (L1EM:9455820)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100724	AN-L-Sens-B1-ACa-14 (L1EM:1406463)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100789	MB2IN-202 (L1EM:4595609)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100762	AF5: Short-presynaptic-D-1L (L1EM:3158085)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100835	MB2ON-151 (L1EM:9758503)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100863	v'td-2_a1l (L1EM:11874130)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100880	AN-R-Sens-B2-ACp-18 (L1EM:15506094)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100814	AN-R-Sens-B1-AVa-16 (L1EM:6883831)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100763	AN-R-Sens-B2-AVa-25 (PPS mechano) (L1EM:3192952)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100720	AN-L-Sens-B1-ACa-07 (L1EM:1377586)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100845	MB2ON-219 (L1EM:9903957)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100776	A23f2 (= Pre-goro9)_a3l (L1EM:3722787)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100782	v'td_a3l (Abdominal Sensory) (L1EM:4363883)	Schlegel2016	part_of	larval nervous system	cp390
+VFB_00100834	MB2ON-149 (L1EM:9748981)	Schlegel2016	part_of	larval nervous system	cp390
