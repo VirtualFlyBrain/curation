@@ -1,0 +1,11 @@
+subject_external_id	subject_id	subject_name	DataSet	subject_external_db	relation	object	Curator
+17361757	VFB_0010022b	CN-27 (L1EM:17361757)	Tastekin2018	catmaid_l1em	part_of	larval nervous system	cp390
+12813847	VFB_0010021z	CN-27 (L1EM:12813847)	Tastekin2018	catmaid_l1em	part_of	larval nervous system	cp390
+8065771	VFB_0010021x	CN-29 (L1EM:8065771)	Tastekin2018	catmaid_l1em	part_of	larval nervous system	cp390
+17806341	VFB_0010022c	LHN-4 (L1EM:17806341)	Tastekin2018	catmaid_l1em	part_of	larval nervous system	cp390
+5769582	VFB_0010021v	LH-LN2_left (L1EM:5769582)	Tastekin2018	catmaid_l1em	part_of	larval nervous system	cp390
+4680995	VFB_0010021t	LHN-4 (L1EM:4680995)	Tastekin2018	catmaid_l1em	part_of	larval nervous system	cp390
+9753418	VFB_0010021y	LH-LN2_right (L1EM:9753418)	Tastekin2018	catmaid_l1em	part_of	larval nervous system	cp390
+5462159	VFB_0010021u	PDM-DN_right (L1EM:5462159)	Tastekin2018	catmaid_l1em	part_of	larval nervous system	cp390
+6446394	VFB_0010021w	PDM-DN_left (L1EM:6446394)	Tastekin2018	catmaid_l1em	part_of	larval nervous system	cp390
+17038587	VFB_0010022a	CN-29 (L1EM:17038587)	Tastekin2018	catmaid_l1em	part_of	larval nervous system	cp390

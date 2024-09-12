@@ -1,0 +1,42 @@
+subject_external_id	subject_id	subject_name	DataSet	subject_external_db	relation	object	Curator
+5084467	VFB_00102169	A01c2_a1l (ipsi_dendrite) (L1EM:5084467)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+16226512	VFB_00102259	A01c2_a1r (ipsi_dendrite) (L1EM:16226512)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+14242929	VFB_00102246	A03a3_t3l (was T03a1) (L1EM:14242929)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+8688631	VFB_00102187	A03a4_a1l (L1EM:8688631)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+10090269	VFB_00102194	A27e(2)_a1l (L1EM:10090269)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+4102728	VFB_00102278	MN22/23 (RF:LT2/LT3) LT1_a1r   (L1EM:4102728)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+15290335	VFB_00102255	A27e(2)_a1r (L1EM:15290335)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+17071666	VFB_00102267	A26f_a1r (L1EM:17071666)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+4881629	VFB_00102291	MN8 (RF:SBM) LT3_a1r  (L1EM:4881629)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+4538738	VFB_00102143	A23a_a1l (L1EM:4538738)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+4121534	VFB_00102127	MN23/24 (RF: LT3/LT4) LT4_a1r   (L1EM:4121534)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+4543281	VFB_00102289	A03a4_a1r (L1EM:4543281)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+4538681	VFB_00102142	A03a3_t3r (was T03a1) (L1EM:4538681)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+4289773	VFB_00102132	MN23/24 (RF: LT3/LT4) LT4_a1l (L1EM:4289773)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+4326468	VFB_00101461	MN8 (RF:SBM) LT3_a1l (L1EM:4326468)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+4729046	VFB_00102290	A23a_a1r (L1EM:4729046)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+4978454	VFB_00102165	A19l_a1r (L1EM:4978454)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+4936149	VFB_00102292	A01c1_a1r (L1EM:4936149)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+10855206	VFB_00102203	A03g_a1r (L1EM:10855206)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+4535767	VFB_00101467	MN5 LO1_a1r (L1EM:4535767)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+4124563	VFB_00102130	A27n_a1r (L1EM:4124563)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+4028114	VFB_00102115	MN5 LO1_a1l (L1EM:4028114)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+12820277	VFB_00101564	A14a_a1l (L1EM:12820277)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+4104476	VFB_00102279	T01d1_t3l (L1EM:4104476)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+13122056	VFB_00100025	A00g_a1  (RF: assym) (L1EM:13122056)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+5358138	VFB_00102173	A19l_a1l (L1EM:5358138)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+5298032	VFB_00102172	A14a_a1r (L1EM:5298032)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+5078760	VFB_00102168	A18j_a1l (L1EM:5078760)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+10185585	VFB_00100024	T01d1_t3r (L1EM:10185585)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+4071032	VFB_00102277	A02f_a1l  (L1EM:4071032)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+6467481	VFB_00101471	MN21/22 (RF:LT1/LT2) LT2_a1l (L1EM:6467481)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+5309932	VFB_00100023	A03g_a1l (L1EM:5309932)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+4113533	VFB_00102125	A01c1_a1l (L1EM:4113533)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+4113612	VFB_00102126	A27k_a2r (L1EM:4113612)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+4038808	VFB_00101406	A27k_a2l (L1EM:4038808)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+16690920	VFB_00102265	A18j_a1r (L1EM:16690920)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+13258642	VFB_00102220	A26f_a1l (L1EM:13258642)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+16713121	VFB_00102266	MN21/22 (RF:LT1/LT2) LT2_a1r   (L1EM:16713121)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+7934159	VFB_00102182	A27n_a1l (L1EM:7934159)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+12953345	VFB_00102217	A02f_a1r (L1EM:12953345)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
+4042315	VFB_00101392	MN22/23 (RF:LT2/LT3) LT1_a1l (L1EM:4042315)	Zwart2016	catmaid_l1em	part_of	larval nervous system	cp390
