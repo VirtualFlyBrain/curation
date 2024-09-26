@@ -1,0 +1,4 @@
+subject_id	subject_name	DataSet	relation	object	Curator
+VFB_00101002	L1 CNS neuron SN motor neuron a1r(L1EM:4114921)	Heckscher2015	part_of	larval nervous system	cp390
+VFB_00102245	L1 CNS neuron MN6/7 RP3_a1r(L1EM:14238853)	Heckscher2015	part_of	larval nervous system	cp390
+VFB_00102247	L1 CNS neuron MN6/7 RP3_a1l(L1EM:14478517)	Heckscher2015	part_of	larval nervous system	cp390
