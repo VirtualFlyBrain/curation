@@ -1,0 +1,1187 @@
+subject_external_db	subject_external_id	relation	object
+catmaid_fafb	1088678	is_a	lobula plate tangential neuron H2
+catmaid_fafb	1177714	is_a	T4b neuron
+catmaid_fafb	1737101	is_a	T4d neuron
+catmaid_fafb	1857918	is_a	T4d neuron
+catmaid_fafb	1949451	is_a	T4d neuron
+catmaid_fafb	2107285	is_a	T4d neuron
+catmaid_fafb	2195736	is_a	T4b neuron
+catmaid_fafb	5244852	is_a	T4d neuron
+catmaid_fafb	5261059	is_a	T4b neuron
+catmaid_fafb	5293678	is_a	T4a neuron
+catmaid_fafb	5294348	is_a	T4d neuron
+catmaid_fafb	5301337	is_a	T4d neuron
+catmaid_fafb	5306046	is_a	T4b neuron
+catmaid_fafb	5322252	is_a	T4a neuron
+catmaid_fafb	5324438	is_a	T4b neuron
+catmaid_fafb	5335276	is_a	T4c neuron
+catmaid_fafb	5339991	is_a	T4a neuron
+catmaid_fafb	5344043	is_a	T4d neuron
+catmaid_fafb	5391502	is_a	T4a neuron
+catmaid_fafb	5403109	is_a	T4d neuron
+catmaid_fafb	5409822	is_a	T4b neuron
+catmaid_fafb	5415150	is_a	T4d neuron
+catmaid_fafb	5425729	is_a	T4b neuron
+catmaid_fafb	5427851	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	5434092	is_a	T4c neuron
+catmaid_fafb	5436803	is_a	T4b neuron
+catmaid_fafb	5440002	is_a	T4a neuron
+catmaid_fafb	5440955	is_a	T4b neuron
+catmaid_fafb	5444209	is_a	T4a neuron
+catmaid_fafb	5445824	is_a	T4a neuron
+catmaid_fafb	5446306	is_a	T4d neuron
+catmaid_fafb	5447334	is_a	T4a neuron
+catmaid_fafb	5447773	is_a	T4b neuron
+catmaid_fafb	5449664	is_a	T4b neuron
+catmaid_fafb	5466127	is_a	T4d neuron
+catmaid_fafb	5482885	is_a	T4b neuron
+catmaid_fafb	5483167	is_a	T4a neuron
+catmaid_fafb	5487777	is_a	T4b neuron
+catmaid_fafb	5496569	is_a	T4b neuron
+catmaid_fafb	5535858	is_a	T4a neuron
+catmaid_fafb	5556148	is_a	T4d neuron
+catmaid_fafb	5559723	is_a	T4a neuron
+catmaid_fafb	5577257	is_a	T4d neuron
+catmaid_fafb	5599782	is_a	T4d neuron
+catmaid_fafb	5602939	is_a	T4d neuron
+catmaid_fafb	5614634	is_a	T4b neuron
+catmaid_fafb	5632379	is_a	T4a neuron
+catmaid_fafb	5632663	is_a	T4d neuron
+catmaid_fafb	5646083	is_a	T4b neuron
+catmaid_fafb	5646689	is_a	T4d neuron
+catmaid_fafb	5646798	is_a	T4d neuron
+catmaid_fafb	5646961	is_a	T4a neuron
+catmaid_fafb	5647133	is_a	T4b neuron
+catmaid_fafb	5669023	is_a	T4b neuron
+catmaid_fafb	5671937	is_a	T4c neuron
+catmaid_fafb	5860469	is_a	T4a neuron
+catmaid_fafb	5892816	is_a	T4c neuron
+catmaid_fafb	5908440	is_a	T4b neuron
+catmaid_fafb	5956857	is_a	T4a neuron
+catmaid_fafb	5994673	is_a	T4b neuron
+catmaid_fafb	6018638	is_a	T4b neuron
+catmaid_fafb	6090751	is_a	T4b neuron
+catmaid_fafb	6118417	is_a	T4a neuron
+catmaid_fafb	6138553	is_a	T4b neuron
+catmaid_fafb	6236392	is_a	T4a neuron
+catmaid_fafb	6329933	is_a	T4d neuron
+catmaid_fafb	6332079	is_a	T4b neuron
+catmaid_fafb	6332734	is_a	T4a neuron
+catmaid_fafb	6481408	is_a	T4b neuron
+catmaid_fafb	6494834	is_a	T4c neuron
+catmaid_fafb	6497501	is_a	T4a neuron
+catmaid_fafb	6537901	is_a	T4a neuron
+catmaid_fafb	6586543	is_a	T4b neuron
+catmaid_fafb	6618619	is_a	T4b neuron
+catmaid_fafb	6665395	is_a	T4b neuron
+catmaid_fafb	6666977	is_a	T4b neuron
+catmaid_fafb	6671825	is_a	T4b neuron
+catmaid_fafb	6700529	is_a	T4b neuron
+catmaid_fafb	6769908	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	6884008	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	6934206	is_a	T4a neuron
+catmaid_fafb	6940568	is_a	T4b neuron
+catmaid_fafb	6980083	is_a	T4b neuron
+catmaid_fafb	6991012	is_a	T4b neuron
+catmaid_fafb	7052819	is_a	T4b neuron
+catmaid_fafb	7112001	is_a	T4b neuron
+catmaid_fafb	7139076	is_a	T4a neuron
+catmaid_fafb	7139333	is_a	T4d neuron
+catmaid_fafb	7140549	is_a	T4c neuron
+catmaid_fafb	7141363	is_a	T4c neuron
+catmaid_fafb	7142181	is_a	T4d neuron
+catmaid_fafb	7142552	is_a	T4b neuron
+catmaid_fafb	7175366	is_a	T4d neuron
+catmaid_fafb	7179797	is_a	T4b neuron
+catmaid_fafb	7180492	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	7189429	is_a	T4b neuron
+catmaid_fafb	7204932	is_a	T4b neuron
+catmaid_fafb	7288816	is_a	T4b neuron
+catmaid_fafb	7331245	is_a	T4b neuron
+catmaid_fafb	7354439	is_a	T4b neuron
+catmaid_fafb	7365441	is_a	T4d neuron
+catmaid_fafb	7377162	is_a	T4b neuron
+catmaid_fafb	8064183	is_a	T4d neuron
+catmaid_fafb	8085479	is_a	T4b neuron
+catmaid_fafb	8085949	is_a	T4d neuron
+catmaid_fafb	8089372	is_a	T4b neuron
+catmaid_fafb	8092036	is_a	T4b neuron
+catmaid_fafb	8093592	is_a	T4b neuron
+catmaid_fafb	8102933	is_a	T4b neuron
+catmaid_fafb	8103088	is_a	T4b neuron
+catmaid_fafb	8131886	is_a	T4b neuron
+catmaid_fafb	8132924	is_a	T4b neuron
+catmaid_fafb	8138340	is_a	T4b neuron
+catmaid_fafb	8217330	is_a	T4d neuron
+catmaid_fafb	8316349	is_a	T4b neuron
+catmaid_fafb	8331916	is_a	T4a neuron
+catmaid_fafb	8332594	is_a	T4d neuron
+catmaid_fafb	8339812	is_a	T4d neuron
+catmaid_fafb	8350428	is_a	T4b neuron
+catmaid_fafb	8360810	is_a	T4b neuron
+catmaid_fafb	8367030	is_a	T4c neuron
+catmaid_fafb	8371221	is_a	T4a neuron
+catmaid_fafb	8374589	is_a	T4b neuron
+catmaid_fafb	8428179	is_a	T4b neuron
+catmaid_fafb	8431106	is_a	T4c neuron
+catmaid_fafb	8431191	is_a	T4a neuron
+catmaid_fafb	8453990	is_a	T4d neuron
+catmaid_fafb	8458835	is_a	T4b neuron
+catmaid_fafb	8462193	is_a	T4a neuron
+catmaid_fafb	8462712	is_a	T4d neuron
+catmaid_fafb	8463416	is_a	T4d neuron
+catmaid_fafb	8463548	is_a	T4b neuron
+catmaid_fafb	8464764	is_a	T4b neuron
+catmaid_fafb	8480501	is_a	T4b neuron
+catmaid_fafb	8482750	is_a	T4d neuron
+catmaid_fafb	8483978	is_a	T4d neuron
+catmaid_fafb	8499292	is_a	T4b neuron
+catmaid_fafb	8499721	is_a	T4b neuron
+catmaid_fafb	8504401	is_a	T4d neuron
+catmaid_fafb	8520550	is_a	T4b neuron
+catmaid_fafb	8523819	is_a	T4d neuron
+catmaid_fafb	8533079	is_a	T4b neuron
+catmaid_fafb	8533263	is_a	T4d neuron
+catmaid_fafb	8558777	is_a	T4b neuron
+catmaid_fafb	8561206	is_a	T4d neuron
+catmaid_fafb	8561306	is_a	T4b neuron
+catmaid_fafb	8564919	is_a	T4b neuron
+catmaid_fafb	8574190	is_a	T4d neuron
+catmaid_fafb	8576230	is_a	T4b neuron
+catmaid_fafb	8579873	is_a	T4d neuron
+catmaid_fafb	8591877	is_a	T4d neuron
+catmaid_fafb	8592133	is_a	T4b neuron
+catmaid_fafb	8592320	is_a	T4b neuron
+catmaid_fafb	8600629	is_a	T4b neuron
+catmaid_fafb	8603694	is_a	T4d neuron
+catmaid_fafb	8604098	is_a	T4b neuron
+catmaid_fafb	8604897	is_a	T4d neuron
+catmaid_fafb	8606720	is_a	T4b neuron
+catmaid_fafb	8610805	is_a	T4b neuron
+catmaid_fafb	8613794	is_a	T4d neuron
+catmaid_fafb	8617750	is_a	T4d neuron
+catmaid_fafb	8619710	is_a	T4b neuron
+catmaid_fafb	8621712	is_a	T4d neuron
+catmaid_fafb	8621812	is_a	T4b neuron
+catmaid_fafb	8623992	is_a	T4d neuron
+catmaid_fafb	8627927	is_a	T4b neuron
+catmaid_fafb	8628394	is_a	T4d neuron
+catmaid_fafb	8631632	is_a	T4b neuron
+catmaid_fafb	8646419	is_a	T4b neuron
+catmaid_fafb	8661129	is_a	T4b neuron
+catmaid_fafb	8672509	is_a	T4b neuron
+catmaid_fafb	8686109	is_a	T4b neuron
+catmaid_fafb	8705232	is_a	T4d neuron
+catmaid_fafb	8707934	is_a	T4b neuron
+catmaid_fafb	8716446	is_a	T4b neuron
+catmaid_fafb	8730623	is_a	T4b neuron
+catmaid_fafb	8737136	is_a	T4b neuron
+catmaid_fafb	8746468	is_a	T4b neuron
+catmaid_fafb	8753439	is_a	T4d neuron
+catmaid_fafb	8761461	is_a	T4d neuron
+catmaid_fafb	8772553	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	8779684	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	8785475	is_a	T4b neuron
+catmaid_fafb	8857146	is_a	T4b neuron
+catmaid_fafb	8892133	is_a	T4b neuron
+catmaid_fafb	8957775	is_a	T4b neuron
+catmaid_fafb	8967053	is_a	T4b neuron
+catmaid_fafb	9014290	is_a	T4d neuron
+catmaid_fafb	9143289	is_a	T4b neuron
+catmaid_fafb	9171715	is_a	T4b neuron
+catmaid_fafb	9215386	is_a	T4a neuron
+catmaid_fafb	9315457	is_a	T4b neuron
+catmaid_fafb	9318619	is_a	T4d neuron
+catmaid_fafb	9345243	is_a	T4b neuron
+catmaid_fafb	9366284	is_a	T4d neuron
+catmaid_fafb	9397094	is_a	T4d neuron
+catmaid_fafb	9443223	is_a	T4d neuron
+catmaid_fafb	9446047	is_a	T4d neuron
+catmaid_fafb	9501514	is_a	T4a neuron
+catmaid_fafb	9632112	is_a	T4d neuron
+catmaid_fafb	9759637	is_a	T4b neuron
+catmaid_fafb	9871863	is_a	T4b neuron
+catmaid_fafb	9880570	is_a	T4a neuron
+catmaid_fafb	9970843	is_a	T4b neuron
+catmaid_fafb	9996235	is_a	T4b neuron
+catmaid_fafb	10148425	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	10308134	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	10323786	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	10338474	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	10375259	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	10455508	is_a	T4b neuron
+catmaid_fafb	10456209	is_a	T4b neuron
+catmaid_fafb	10464926	is_a	T4b neuron
+catmaid_fafb	10465902	is_a	T4b neuron
+catmaid_fafb	10467759	is_a	T4b neuron
+catmaid_fafb	10468429	is_a	T4b neuron
+catmaid_fafb	10469452	is_a	T4b neuron
+catmaid_fafb	10470533	is_a	T4b neuron
+catmaid_fafb	10497821	is_a	T4b neuron
+catmaid_fafb	10499103	is_a	T4b neuron
+catmaid_fafb	10512925	is_a	T4b neuron
+catmaid_fafb	10522298	is_a	T4b neuron
+catmaid_fafb	10522475	is_a	T4b neuron
+catmaid_fafb	10527257	is_a	T4b neuron
+catmaid_fafb	10540573	is_a	T4b neuron
+catmaid_fafb	10545434	is_a	T4b neuron
+catmaid_fafb	10582249	is_a	T4b neuron
+catmaid_fafb	10585952	is_a	T4b neuron
+catmaid_fafb	10586470	is_a	T4b neuron
+catmaid_fafb	10589969	is_a	T4d neuron
+catmaid_fafb	10596177	is_a	T4b neuron
+catmaid_fafb	10598237	is_a	T4b neuron
+catmaid_fafb	10599037	is_a	T4b neuron
+catmaid_fafb	10599329	is_a	T4b neuron
+catmaid_fafb	10602906	is_a	T4d neuron
+catmaid_fafb	10604481	is_a	T4b neuron
+catmaid_fafb	10621489	is_a	T4b neuron
+catmaid_fafb	10622748	is_a	T4b neuron
+catmaid_fafb	10624194	is_a	T4b neuron
+catmaid_fafb	10626377	is_a	T4b neuron
+catmaid_fafb	10657237	is_a	T4b neuron
+catmaid_fafb	10658284	is_a	T4b neuron
+catmaid_fafb	10658825	is_a	T4b neuron
+catmaid_fafb	10659078	is_a	T4b neuron
+catmaid_fafb	10667381	is_a	T4b neuron
+catmaid_fafb	10701384	is_a	T4b neuron
+catmaid_fafb	10718661	is_a	T4b neuron
+catmaid_fafb	10719120	is_a	T4b neuron
+catmaid_fafb	10719424	is_a	T4b neuron
+catmaid_fafb	10721699	is_a	T4b neuron
+catmaid_fafb	10721738	is_a	T4a neuron
+catmaid_fafb	10749235	is_a	T4b neuron
+catmaid_fafb	10850334	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	10885806	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	10888497	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	10918454	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	10922200	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	10931346	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	10932668	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	10934337	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	10937288	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	10944917	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	10952963	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	10959304	is_a	T4d neuron
+catmaid_fafb	10965850	is_a	T4d neuron
+catmaid_fafb	10966298	is_a	T4d neuron
+catmaid_fafb	10989042	is_a	T4d neuron
+catmaid_fafb	10992594	is_a	T4d neuron
+catmaid_fafb	10992958	is_a	T4d neuron
+catmaid_fafb	10993965	is_a	T4d neuron
+catmaid_fafb	10995825	is_a	T4d neuron
+catmaid_fafb	11001027	is_a	T4d neuron
+catmaid_fafb	11004062	is_a	T4d neuron
+catmaid_fafb	11007063	is_a	T4d neuron
+catmaid_fafb	11052665	is_a	T4d neuron
+catmaid_fafb	11053045	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	11053260	is_a	T4d neuron
+catmaid_fafb	11053812	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	11055697	is_a	T4d neuron
+catmaid_fafb	11056236	is_a	T4d neuron
+catmaid_fafb	11056318	is_a	T4d neuron
+catmaid_fafb	11056973	is_a	T4d neuron
+catmaid_fafb	11063880	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	11071380	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	11081720	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	11102793	is_a	T4d neuron
+catmaid_fafb	11103081	is_a	T4d neuron
+catmaid_fafb	11104663	is_a	T4d neuron
+catmaid_fafb	11110947	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	11119456	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	11131687	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	11140305	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	11143777	is_a	T4d neuron
+catmaid_fafb	11149228	is_a	T4d neuron
+catmaid_fafb	11170409	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	11178743	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	11191456	is_a	T4d neuron
+catmaid_fafb	11212869	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	11213663	is_a	T4d neuron
+catmaid_fafb	11228975	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	11231890	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	11238653	is_a	T4d neuron
+catmaid_fafb	11247174	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	11249203	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	11250042	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	11250864	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	11255032	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	11279787	is_a	T4c neuron
+catmaid_fafb	11282477	is_a	T4c neuron
+catmaid_fafb	11301434	is_a	T4c neuron
+catmaid_fafb	11347884	is_a	T4d neuron
+catmaid_fafb	11364711	is_a	T4b neuron
+catmaid_fafb	11379381	is_a	T4b neuron
+catmaid_fafb	11409058	is_a	T4d neuron
+catmaid_fafb	11412142	is_a	T4a neuron
+catmaid_fafb	11430311	is_a	T4a neuron
+catmaid_fafb	11433942	is_a	T4b neuron
+catmaid_fafb	11439300	is_a	T4d neuron
+catmaid_fafb	11440919	is_a	T4b neuron
+catmaid_fafb	11441138	is_a	T4c neuron
+catmaid_fafb	11442375	is_a	T4c neuron
+catmaid_fafb	11488881	is_a	T4b neuron
+catmaid_fafb	11513571	is_a	T4d neuron
+catmaid_fafb	11560744	is_a	T4c neuron
+catmaid_fafb	11607522	is_a	T4d neuron
+catmaid_fafb	11642486	is_a	T4b neuron
+catmaid_fafb	11643975	is_a	T4c neuron
+catmaid_fafb	11645403	is_a	T4b neuron
+catmaid_fafb	11646671	is_a	T4a neuron
+catmaid_fafb	11680254	is_a	T4d neuron
+catmaid_fafb	11727611	is_a	T4d neuron
+catmaid_fafb	11755116	is_a	T4a neuron
+catmaid_fafb	11760844	is_a	T4b neuron
+catmaid_fafb	11823756	is_a	T4b neuron
+catmaid_fafb	11847871	is_a	T4d neuron
+catmaid_fafb	11883462	is_a	T4b neuron
+catmaid_fafb	11925045	is_a	T4b neuron
+catmaid_fafb	11966849	is_a	T4a neuron
+catmaid_fafb	12074203	is_a	T4c neuron
+catmaid_fafb	12090395	is_a	T4a neuron
+catmaid_fafb	12100539	is_a	T4d neuron
+catmaid_fafb	12140357	is_a	T4c neuron
+catmaid_fafb	12212457	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	12656599	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12657733	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12667794	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12674021	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12676556	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12676763	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12678946	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12697254	is_a	T4b neuron
+catmaid_fafb	12761684	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12791002	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12799952	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12801854	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12803535	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12814941	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12816235	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12817305	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12817676	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12823145	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12825136	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12826774	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12827855	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12843385	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12847193	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12848041	is_a	T4b neuron
+catmaid_fafb	12848678	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12860972	is_a	T4d neuron
+catmaid_fafb	12862068	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12868529	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12869641	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12870628	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12871841	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12872380	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12878060	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12878414	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12879025	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12879909	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12880437	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12880771	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12883278	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12884506	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12885687	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12888001	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12888268	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12895601	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12896680	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12897219	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12897448	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12897917	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12904928	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12906328	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12906700	is_a	T4d neuron
+catmaid_fafb	12907733	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12908499	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12914126	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12914144	is_a	T4b neuron
+catmaid_fafb	12917646	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12922030	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12922161	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12922275	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12922392	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12922500	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12922719	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12923539	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12925606	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12925820	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12925883	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12940056	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12941924	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12943305	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12952231	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12968973	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	12976452	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13002691	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	13039514	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13046673	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13048185	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13059438	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13059921	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13060709	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13061357	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13061844	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13062935	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13072342	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13073675	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13104377	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13106120	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13107902	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13123482	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13125798	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13128490	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13139533	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13142115	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13142969	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13144347	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13230086	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13264428	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13281020	is_a	T4b neuron
+catmaid_fafb	13303705	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13313300	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13314546	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13315230	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13351174	is_a	T4b neuron
+catmaid_fafb	13428316	is_a	T4b neuron
+catmaid_fafb	13453421	is_a	T4b neuron
+catmaid_fafb	13462933	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13482918	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13487583	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13500253	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13542393	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13550016	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13551239	is_a	T4b neuron
+catmaid_fafb	13552875	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13557537	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13558160	is_a	T4b neuron
+catmaid_fafb	13568854	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13577824	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13585217	is_a	T4b neuron
+catmaid_fafb	13650884	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13653246	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13655780	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13656651	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13662436	is_a	T4b neuron
+catmaid_fafb	13663699	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13666139	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13672479	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13678559	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13684081	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13687477	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13689085	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13689364	is_a	T4b neuron
+catmaid_fafb	13692871	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13693885	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13695001	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13695926	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13704864	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13708509	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13709530	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13710668	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13714915	is_a	T4b neuron
+catmaid_fafb	13719400	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13726077	is_a	T4b neuron
+catmaid_fafb	13726215	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13731409	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13739635	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13739820	is_a	T4b neuron
+catmaid_fafb	13747692	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13752229	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13753813	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13754192	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13754804	is_a	T4b neuron
+catmaid_fafb	13762391	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13762839	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13765451	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13774456	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13774749	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13780189	is_a	T4b neuron
+catmaid_fafb	13780562	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13780764	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13793403	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13793409	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13795092	is_a	T4b neuron
+catmaid_fafb	13795321	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13800934	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13806442	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13816606	is_a	T4b neuron
+catmaid_fafb	13817201	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13826949	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13828965	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13862636	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13864963	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13868898	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13870804	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13877217	is_a	T4b neuron
+catmaid_fafb	13880911	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13883281	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13884547	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13885452	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13886409	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13887477	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13890191	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13891362	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13896103	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13899115	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13902602	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13940708	is_a	T4d neuron
+catmaid_fafb	13970927	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13975332	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	13978937	is_a	T4d neuron
+catmaid_fafb	14346135	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14356435	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14356907	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14541167	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14567424	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14780654	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14780948	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14781057	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14781076	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14781123	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14781166	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14781200	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14781221	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14781292	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14781344	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14781372	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14781388	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14781718	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14781736	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14783235	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14783394	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14783537	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14783598	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14783696	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14783812	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14783925	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14784082	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14788007	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14789351	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14789935	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14791252	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14791375	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14791447	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14791692	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14792228	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14792320	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14794377	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14794409	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14794503	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14794597	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14795791	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14795812	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14795897	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14796323	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14796481	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14796934	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14797009	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14797198	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14797219	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14797288	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14801710	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14802235	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14802263	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14802775	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14803168	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14803382	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14803454	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14803674	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14803696	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14810279	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14810632	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14811179	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14813014	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14813528	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14813701	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14814076	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14814136	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14814217	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14814513	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14815117	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14815209	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14827899	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14828708	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14830020	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14830297	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14831689	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14833355	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14834851	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14835012	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14835149	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14837984	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14837999	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14838147	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14838161	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14838203	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14838226	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14838249	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14838344	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14838510	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14838579	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14840349	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14842645	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14843491	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14844002	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14844268	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14844638	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14844667	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14844720	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14844832	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14844859	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14845074	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14845102	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14845721	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14846177	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14846453	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14846571	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14850689	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14851276	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14851333	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14851353	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14851529	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14851881	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14852106	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14852295	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14852584	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14855117	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14855255	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14855350	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14855383	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14855472	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14855818	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14855867	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14855925	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14856320	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14856347	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14856530	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14858811	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14858930	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14858993	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14859080	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14859176	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14859873	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14860198	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14862699	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14862872	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14862895	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14862998	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14863439	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14863804	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14864324	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14864403	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14864445	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14864606	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14864681	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14865110	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14865150	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14865189	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14865247	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14865822	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14865894	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14877451	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14877503	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14879393	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14879474	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14879554	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14879688	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14879837	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14882861	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14883350	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14883521	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14883921	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14884001	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14884201	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14884655	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14885981	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14886412	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14886618	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14886804	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14887118	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14887218	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14887285	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14887943	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14888179	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14888335	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14888961	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14889027	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14889144	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14889196	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14889467	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14889635	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14889855	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14889940	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14889976	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14890013	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14890069	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14890126	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14890298	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14890376	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14890389	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14890425	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14890464	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14890488	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14890503	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14890514	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14892490	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14892594	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14892628	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14892682	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14892794	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14893500	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14893604	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14893951	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14894644	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14894734	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14896275	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14896463	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14896642	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14897592	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14897694	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14897848	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14898991	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14899076	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14899724	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14899841	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14899930	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14899981	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14900273	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14900528	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14904432	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14905881	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14906099	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14906166	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14906420	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14906694	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14906762	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14906840	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14907774	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14907804	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14907894	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14908088	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14908374	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14908504	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14908858	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14909169	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14909296	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14909638	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14909700	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14923390	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14923926	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14924052	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14924241	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14924521	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14925912	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14925981	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14926113	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14926278	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14926372	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14926430	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14926673	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14931493	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14931624	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14931780	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14931925	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14932160	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14932351	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14932622	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14933005	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14933313	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14933581	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14933626	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14933944	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14934050	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14934137	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14934885	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14935039	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14935172	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14946446	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14946503	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14946562	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14946746	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14946760	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14946776	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14947095	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14947134	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14947192	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14947706	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14947732	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14947772	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14947790	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14951086	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14951469	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14952515	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14952700	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14953505	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14954850	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14955061	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14955245	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14955641	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14955734	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14955894	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14956323	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14956412	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14956506	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14956597	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14956707	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14956722	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14956852	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14957011	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	14968098	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15068124	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15069096	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15069388	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15070181	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15077007	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15078574	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15079199	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15079626	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15080164	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15080210	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15080250	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15083023	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15084023	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15085162	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15085803	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15086421	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15086544	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15086821	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15087075	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15087119	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15088742	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15088797	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15089135	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15090108	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15090164	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15090854	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15091415	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15103307	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15105217	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15107085	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15109095	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15109151	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15109162	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15109187	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15109430	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15109531	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15109543	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15109607	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15109681	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15109779	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15110363	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15110628	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15110685	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15110924	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15110977	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15111088	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15111212	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15113962	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15114485	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15114599	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15114702	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15115197	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15115375	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15115397	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15115433	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15115479	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15115492	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15115516	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15116318	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15116373	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15116568	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15116596	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15116625	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15116639	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15117076	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15129376	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15131582	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15136028	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15136191	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15136209	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15136735	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15136751	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15136841	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15136862	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15137473	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15138423	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15138582	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15138652	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15138816	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15138829	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15138870	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15139099	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15139330	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15139447	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15139749	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15139813	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15139851	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15139980	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15140109	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15145863	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15145885	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15146228	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15147355	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15147619	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15149046	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15149096	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15149240	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15149302	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15149370	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15160892	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15160906	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15161120	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15161161	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15161491	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15161521	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15161598	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15161807	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15161850	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15161911	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15161931	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15161987	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15174182	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15174379	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15174875	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15175531	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15175997	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15176536	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15177259	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15177383	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15177411	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15177417	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15177530	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15177657	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15177826	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15177895	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15177980	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15178182	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15185709	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15186061	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15187267	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15187482	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15187523	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15188495	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15189338	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15189912	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15191896	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15192063	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15192121	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15192168	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15192208	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15192274	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15192499	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15197002	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15197968	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15198061	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15198800	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15199057	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15199871	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15200795	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15200878	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15200940	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15201327	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15201919	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15202187	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15202535	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15206846	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15208331	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15212295	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15212381	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15212868	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15216170	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15217286	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15218070	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15218697	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15218816	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15219637	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15221002	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15223175	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15223248	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15223346	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15223542	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15223561	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15223931	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15224208	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15224337	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15224410	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15225019	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15225179	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15225594	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15225782	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15232127	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15266521	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15268102	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15297625	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15297929	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15297940	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15297990	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15298816	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15298829	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15298858	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15299211	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15299435	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15300542	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15300577	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15310679	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15310779	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15315351	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15336672	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15344262	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15344283	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15350411	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15379405	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15380393	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15388603	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15389678	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15392764	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15397365	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15401072	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15401313	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15405913	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15405962	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15406137	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15406160	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15406242	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15410649	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15410932	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15411724	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15416631	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15416705	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15417753	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15418562	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15421511	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15435498	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15435884	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15435930	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15437116	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15452337	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15452602	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15452893	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15455041	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15455111	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15455159	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15455694	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15455810	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15455847	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15460252	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15460371	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15465847	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15475851	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15520844	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15520898	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15534610	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15572654	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15578998	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15628539	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15833438	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15875131	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	15937794	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	16807325	is_a	T4c neuron
+catmaid_fafb	16815823	is_a	T4d neuron
+catmaid_fafb	16864696	is_a	T4d neuron
+catmaid_fafb	16865609	is_a	T4d neuron
+catmaid_fafb	16865669	is_a	T4d neuron
+catmaid_fafb	16872423	is_a	T4d neuron
+catmaid_fafb	16881292	is_a	T4d neuron
+catmaid_fafb	16930468	is_a	T4d neuron
+catmaid_fafb	16930475	is_a	T4d neuron
+catmaid_fafb	16950624	is_a	T4d neuron
+catmaid_fafb	16955330	is_a	T4d neuron
+catmaid_fafb	16984467	is_a	T4d neuron
+catmaid_fafb	16990356	is_a	T4d neuron
+catmaid_fafb	17000571	is_a	T4d neuron
+catmaid_fafb	17010905	is_a	T4b neuron
+catmaid_fafb	17018507	is_a	T4d neuron
+catmaid_fafb	17018549	is_a	T4c neuron
+catmaid_fafb	17018569	is_a	T4c neuron
+catmaid_fafb	17018705	is_a	T4d neuron
+catmaid_fafb	17023088	is_a	T4d neuron
+catmaid_fafb	17023152	is_a	T4b neuron
+catmaid_fafb	17023584	is_a	T4a neuron
+catmaid_fafb	17023730	is_a	T4a neuron
+catmaid_fafb	17023763	is_a	T4b neuron
+catmaid_fafb	17038351	is_a	T4c neuron
+catmaid_fafb	17097009	is_a	T4b neuron
+catmaid_fafb	17098606	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	17242876	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	17247039	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	17251292	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	17252445	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	17255870	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	17265248	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	17265365	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	17266514	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	17266578	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	17266622	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	17266696	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	17266790	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	17267089	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	17267117	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	17267146	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	17267168	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	17267199	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	17267241	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	17267257	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	17267281	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	17267307	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	17318705	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	17325656	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	17328033	is_a	medullary intrinsic neuron Mi1
+catmaid_fafb	17353010	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17356086	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17356168	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17368225	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17368230	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17368235	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17368240	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17368245	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17368250	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17368255	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17368265	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17368319	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17368329	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17368454	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17373967	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17379413	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17379825	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17380077	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17381977	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17382684	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17389172	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17390470	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17393990	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17396355	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17396365	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17397386	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17398186	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17398842	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17399239	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17403737	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17412115	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17412184	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17412209	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17412232	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17413152	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17416304	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17417643	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17418250	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17418287	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17418320	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17420917	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17424112	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17424536	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17424593	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17424955	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17425352	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17427264	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17429364	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17429485	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17458524	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17491994	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17493699	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17493719	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17494887	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17549104	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17557855	is_a	transmedullary Y neuron TmY5a
+catmaid_fafb	17591157	is_a	medullary intrinsic neuron Mi1
