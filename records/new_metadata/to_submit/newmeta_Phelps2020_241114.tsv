@@ -1,4 +1,4 @@
-object_name	relation	subject_id	subject_name
+object	relation	subject_id	subject_name
 adult CNS neuron	is_a	VFB_001028ll	Neuron 243834 (FANC:565120)
 adult CNS neuron	is_a	VFB_001028lk	neuron 87095 (FANC:565072)
 adult CNS neuron	is_a	VFB_001028lj	neuron 104469 (FANC:565016)
