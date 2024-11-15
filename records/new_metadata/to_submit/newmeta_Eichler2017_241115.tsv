@@ -1,0 +1,17 @@
+subject_external_db	subject_external_id	subject_name	relation	object
+catmaid_l1em	21664445	3rd-order Thermo right	is_a	larval thermosensory projection neuron
+catmaid_l1em	13789482	Gustatory PN 2	is_a	larval gustatory projection neuron
+catmaid_l1em	11333054	Gustatory PN 1	is_a	larval gustatory projection neuron
+catmaid_l1em	11067379	Gustatory PN 4	is_a	larval gustatory projection neuron
+catmaid_l1em	10160250	Multiglomerular PN 5	is_a	projection neuron
+catmaid_l1em	8254894	Unknown PN 2	is_a	projection neuron
+catmaid_l1em	8012953	Unknown PN 2	is_a	projection neuron
+catmaid_l1em	12156009	Gustatory PN 3	is_a	larval gustatory projection neuron
+catmaid_l1em	7020344	Gustatory PN 3	is_a	larval gustatory projection neuron
+catmaid_l1em	7092086	Unknown PN 1	is_a	projection neuron
+catmaid_l1em	3450751	Multiglomerular PN 5	is_a	projection neuron
+catmaid_l1em	3709977	Gustatory PN 2	is_a	larval gustatory projection neuron
+catmaid_l1em	4393049	Gustatory PN 4	is_a	larval gustatory projection neuron
+catmaid_l1em	4620453	AVL011 PN Right 2?	is_a	projection neuron
+catmaid_l1em	4876704	Unknown PN 1	is_a	projection neuron
+catmaid_l1em	4152020	Multiglomerular PN 6	is_a	projection neuron

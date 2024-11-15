@@ -1,0 +1,360 @@
+subject_external_db	subject_external_id	subject_name	relation	object
+catmaid_l1em	17728627	BAlc post s 1 Left	is_a	BAlc lineage neuron
+catmaid_l1em	17545905	BAlc post s 1 Right	is_a	BAlc lineage neuron
+catmaid_l1em	17728622	BAlc post s 2 Left	is_a	BAlc lineage neuron
+catmaid_l1em	17545782	BAlc post s 2 Right	is_a	BAlc lineage neuron
+catmaid_l1em	17728637	BAlc post s 3 Left	is_a	BAlc lineage neuron
+catmaid_l1em	17545806	BAlc post s 3 Right	is_a	BAlc lineage neuron
+catmaid_l1em	17728642	BAlc post s 4 Left	is_a	BAlc lineage neuron
+catmaid_l1em	17545795	BAlc post s 4 Right	is_a	BAlc lineage neuron
+catmaid_l1em	12477165	BAlc post s 5 Left	is_a	BAlc lineage neuron
+catmaid_l1em	17545766	BAlc post s 5 Right	is_a	BAlc lineage neuron
+catmaid_l1em	16461910	BAlc post s 6 Left	is_a	BAlc lineage neuron
+catmaid_l1em	17545744	BAlc post s 6 Right	is_a	BAlc lineage neuron
+catmaid_l1em	17545868	BAlc post s 7 Right (sp)	is_a	BAlc lineage neuron
+catmaid_l1em	17545755	BAlc post s 8 Right	is_a	BAlc lineage neuron
+catmaid_l1em	17545878	BAlc post s NB 1 Right 	is_a	BAlc lineage neuron
+catmaid_l1em	17728776	BAlp4 s 1 Left  	is_a	BAlp4 lineage neuron
+catmaid_l1em	15674294	BAlp4 s 1 Right	is_a	BAlp4 lineage neuron
+catmaid_l1em	8426335	BAlp4 s 2 Left 	is_a	BAlp4 lineage neuron
+catmaid_l1em	19359257	BAlv s 1 Left	is_a	BAlv lineage neuron
+catmaid_l1em	17634397	BAlv s 1 Right	is_a	BAlv lineage neuron
+catmaid_l1em	19359287	BAlv s 2 Left	is_a	BAlv lineage neuron
+catmaid_l1em	17634407	BAlv s 2 Right	is_a	BAlv lineage neuron
+catmaid_l1em	15541956	BAmd1 d s 1 Left	is_a	BAmd1 lineage neuron
+catmaid_l1em	7372611	BAmd1 d s 1 Right	is_a	BAmd1 lineage neuron
+catmaid_l1em	15139341	BAmd1 d s 2 Left	is_a	BAmd1 lineage neuron
+catmaid_l1em	7371869	BAmd1 d s 2 Right	is_a	BAmd1 lineage neuron
+catmaid_l1em	15078639	BAmd1 d s 3 Left	is_a	BAmd1 lineage neuron
+catmaid_l1em	7373095	BAmd1 d s 3 Right	is_a	BAmd1 lineage neuron
+catmaid_l1em	14267175	BAmd1 d s 4 Left	is_a	BAmd1 lineage neuron
+catmaid_l1em	17472365	BAmd1 v s 1 Left	is_a	BAmd1 lineage neuron
+catmaid_l1em	14849956	BAmd1 v s 1 Right	is_a	BAmd1 lineage neuron
+catmaid_l1em	15078682	BAmd1 v s 2 Left	is_a	BAmd1 lineage neuron
+catmaid_l1em	14851773	BAmd1 v s 2 Right	is_a	BAmd1 lineage neuron
+catmaid_l1em	19404939	BAmd1 v s 3 Left	is_a	BAmd1 lineage neuron
+catmaid_l1em	14848137	BAmd1 v s 3 Right	is_a	BAmd1 lineage neuron
+catmaid_l1em	15078687	BAmd1 v s 4 Left	is_a	BAmd1 lineage neuron
+catmaid_l1em	19395562	BAmd2 d s 1 Left	is_a	BAmd2 lineage neuron
+catmaid_l1em	13756873	BAmd2 d s 1 Right	is_a	BAmd2 lineage neuron
+catmaid_l1em	19395698	BAmd2 s left	is_a	BAmd2 lineage neuron
+catmaid_l1em	14267170	BAmd2 v s 1 Left	is_a	BAmd2 lineage neuron
+catmaid_l1em	13836912	BAmd2 v s 1 Right 	is_a	BAmd2 lineage neuron
+catmaid_l1em	19393740	BAmd2 v s 2 Left	is_a	BAmd2 lineage neuron
+catmaid_l1em	13759971	BAmd2 v s 2 Right	is_a	BAmd2 lineage neuron
+catmaid_l1em	12927136	BAmd2 v s 3 Left	is_a	BAmd2 lineage neuron
+catmaid_l1em	13838330	BAmd2 v s 3 Right	is_a	BAmd2 lineage neuron
+catmaid_l1em	19393736	BAmd2 v s 4 Left	is_a	BAmd2 lineage neuron
+catmaid_l1em	13760269	BAmd2 v s 4 Right	is_a	BAmd2 lineage neuron
+catmaid_l1em	19393756	BAmd2 v s 5 Left	is_a	BAmd2 lineage neuron
+catmaid_l1em	13758977	BAmd2 v s 5 Right	is_a	BAmd2 lineage neuron
+catmaid_l1em	19395704	BAmd2 v s 6 Left	is_a	BAmd2 lineage neuron
+catmaid_l1em	13760579	BAmd2 v s 6 Right	is_a	BAmd2 lineage neuron
+catmaid_l1em	19393720	BAmd2 v s 7 Left	is_a	BAmd2 lineage neuron
+catmaid_l1em	13841014	BAmd2 v s 7 Right	is_a	BAmd2 lineage neuron
+catmaid_l1em	19393744	BAmd2 v s 8 Left	is_a	BAmd2 lineage neuron
+catmaid_l1em	13840191	BAmd2 v s 8 Right	is_a	BAmd2 lineage neuron
+catmaid_l1em	19806024	BLAl s 1 Left	is_a	BLAl1 lineage neuron
+catmaid_l1em	8805521	BLAl s 1 Right	is_a	BLAl1 lineage neuron
+catmaid_l1em	19806028	BLAl s 2 Left	is_a	BLAl1 lineage neuron
+catmaid_l1em	12615701	BLAl s 2 Right	is_a	BLAl1 lineage neuron
+catmaid_l1em	19701236	BLAl s 3 Left	is_a	BLAl1 lineage neuron
+catmaid_l1em	12618333	BLAl s 3 Right	is_a	BLAl1 lineage neuron
+catmaid_l1em	19538646	BLAl s 4 Left	is_a	BLAl1 lineage neuron
+catmaid_l1em	17583465	BLAl s 4 Right	is_a	BLAl1 lineage neuron
+catmaid_l1em	19352379	BLAl s 5 Left	is_a	BLAl1 lineage neuron
+catmaid_l1em	17728991	BLAvm ant s 1 Left	is_a	BLAvm lineage neuron
+catmaid_l1em	17544220	BLAvm ant s 1 Right	is_a	BLAvm lineage neuron
+catmaid_l1em	17729105	BLAvm ant s 2 Left	is_a	BLAvm lineage neuron
+catmaid_l1em	17544238	BLAvm ant s 2 Right	is_a	BLAvm lineage neuron
+catmaid_l1em	17729116	BLAvm ant s 3 Left	is_a	BLAvm lineage neuron
+catmaid_l1em	17544280	BLAvm ant s 3 Right	is_a	BLAvm lineage neuron
+catmaid_l1em	17729005	BLAvm ant s 4 Left	is_a	BLAvm lineage neuron
+catmaid_l1em	17544312	BLAvm ant s 4 Right	is_a	BLAvm lineage neuron
+catmaid_l1em	17728998	BLAvm ant s 5 Left	is_a	BLAvm lineage neuron
+catmaid_l1em	17544330	BLAvm ant s 5 Right	is_a	BLAvm lineage neuron
+catmaid_l1em	11190781	BLVp2 s 1 Left	is_a	BLVp2 lineage neuron
+catmaid_l1em	17380013	BLVp2 s 1 Right	is_a	BLVp2 lineage neuron
+catmaid_l1em	14448545	BLVp2 s 2 Left	is_a	BLVp2 lineage neuron
+catmaid_l1em	17380245	BLVp2 s 2 Right	is_a	BLVp2 lineage neuron
+catmaid_l1em	5759393	BLVp2 s 3 Left	is_a	BLVp2 lineage neuron
+catmaid_l1em	17380192	BLVp2 s 3 Right	is_a	BLVp2 lineage neuron
+catmaid_l1em	14504075	BLVp2 s 4 Left	is_a	BLVp2 lineage neuron
+catmaid_l1em	17380214	BLVp2 s 4 Right	is_a	BLVp2 lineage neuron
+catmaid_l1em	5770448	BLVp2 s 5 Left	is_a	BLVp2 lineage neuron
+catmaid_l1em	10945119	BLVp2 s 5 Right	is_a	BLVp2 lineage neuron
+catmaid_l1em	17658634	BLVp2 s 6 Right	is_a	BLVp2 lineage neuron
+catmaid_l1em	5757817	BLVp2 s 7 Right ; telegoro-like	is_a	BLVp2 lineage neuron
+catmaid_l1em	17658643	BLVp2 s 8 Right	is_a	BLVp2 lineage neuron
+catmaid_l1em	9954547	CM4 s dor pos com 1 Left	is_a	CM4 lineage neuron
+catmaid_l1em	14644884	CM4 s dor pos com 1 Right	is_a	CM4 lineage neuron
+catmaid_l1em	14547101	CM4 s dor pos com 2 Right	is_a	CM4 lineage neuron
+catmaid_l1em	9864387	CM4 s dor pos com 3 Left	is_a	CM4 lineage neuron
+catmaid_l1em	14547152	CM4 s dor pos com 3 Right	is_a	CM4 lineage neuron
+catmaid_l1em	9864461	CM4 s dor pos com 4 Left	is_a	CM4 lineage neuron
+catmaid_l1em	14547178	CM4 s dor pos com 4 Right	is_a	CM4 lineage neuron
+catmaid_l1em	14266451	CM4 s dor pos MEF 1 Left	is_a	CM4 lineage neuron
+catmaid_l1em	12367466	CM4 s dor pos MEF 1 Right	is_a	CM4 lineage neuron
+catmaid_l1em	9864536	CM4 s dor pos MEF 2 Left 	is_a	CM4 lineage neuron
+catmaid_l1em	14630189	CM4 s dor pos MEF 2 Right	is_a	CM4 lineage neuron
+catmaid_l1em	9947805	CM4 s dor pos MEF 3 Left	is_a	CM4 lineage neuron
+catmaid_l1em	14547041	CM4 s dor pos MEF 3 Right	is_a	CM4 lineage neuron
+catmaid_l1em	14547234	CM4 s dor pos MEF 4 Right	is_a	CM4 lineage neuron
+catmaid_l1em	10891371	CM4 s dor pos MEF 5 Left	is_a	CM4 lineage neuron
+catmaid_l1em	14546926	CM4 s dor pos MEF 5 Right	is_a	CM4 lineage neuron
+catmaid_l1em	10017683	CM4 s dor pos MEF 6 Left	is_a	CM4 lineage neuron
+catmaid_l1em	14630736	CM4 s dor pos MEF 6 Right	is_a	CM4 lineage neuron
+catmaid_l1em	11085317	CM4 s GC 1 Left	is_a	CM4 lineage neuron
+catmaid_l1em	14546986	CM4 s GC 1 Right	is_a	CM4 lineage neuron
+catmaid_l1em	14547001	CM4 s GC 2 Right	is_a	CM4 lineage neuron
+catmaid_l1em	10381874	CM4 s GC 3 Left	is_a	CM4 lineage neuron
+catmaid_l1em	14632529	CM4 s GC 3 Right	is_a	CM4 lineage neuron
+catmaid_l1em	14266565	CM4 s GC 4 Left	is_a	CM4 lineage neuron
+catmaid_l1em	14547157	CM4 s GC 4 Right	is_a	CM4 lineage neuron
+catmaid_l1em	14266415	CM4 s GC 5 Left	is_a	CM4 lineage neuron
+catmaid_l1em	10414455	CM4 s loSM 1 Left	is_a	CM4 lineage neuron
+catmaid_l1em	14546809	CM4 s loSM 1 Right	is_a	CM4 lineage neuron
+catmaid_l1em	14547189	CM4 s loSM 10 Right	is_a	CM4 lineage neuron
+catmaid_l1em	14546829	CM4 s loSM 2 Right	is_a	CM4 lineage neuron
+catmaid_l1em	10888799	CM4 s loSM 3 Left	is_a	CM4 lineage neuron
+catmaid_l1em	14546874	CM4 s loSM 3 Right	is_a	CM4 lineage neuron
+catmaid_l1em	10011972	CM4 s loSM 4 Left	is_a	CM4 lineage neuron
+catmaid_l1em	14546936	CM4 s loSM 4 Right	is_a	CM4 lineage neuron
+catmaid_l1em	10014485	CM4 s loSM 5 Left	is_a	CM4 lineage neuron
+catmaid_l1em	14547081	CM4 s loSM 5 Right	is_a	CM4 lineage neuron
+catmaid_l1em	11095260	CM4 s loSM 6 Left	is_a	CM4 lineage neuron
+catmaid_l1em	14547086	CM4 s loSM 6 Right	is_a	CM4 lineage neuron
+catmaid_l1em	14547091	CM4 s loSM 7 Right	is_a	CM4 lineage neuron
+catmaid_l1em	14547147	CM4 s loSM 8 Right	is_a	CM4 lineage neuron
+catmaid_l1em	14547173	CM4 s loSM 9 Right	is_a	CM4 lineage neuron
+catmaid_l1em	9954421	CM4 s MEFcom 1 Left	is_a	CM4 lineage neuron
+catmaid_l1em	6152239	CM4 s MEFcom 1 Right	is_a	CM4 lineage neuron
+catmaid_l1em	9698215	CM4 s MEFcom 2 Left 	is_a	CM4 lineage neuron
+catmaid_l1em	14547214	CM4 s MEFcom 2 Right	is_a	CM4 lineage neuron
+catmaid_l1em	9844278	CM4 s MEFcom 3 Left 	is_a	CM4 lineage neuron
+catmaid_l1em	14546834	CM4 s MEFcom 3 Right	is_a	CM4 lineage neuron
+catmaid_l1em	9856467	CM4 s MEFcom 4 Left 	is_a	CM4 lineage neuron
+catmaid_l1em	14546910	CM4 s MEFcom 4 Right	is_a	CM4 lineage neuron
+catmaid_l1em	10015661	CM4 s MEFcom 5 Left	is_a	CM4 lineage neuron
+catmaid_l1em	14546734	CM4 s MEFcom 5 Right	is_a	CM4 lineage neuron
+catmaid_l1em	9696888	CM4 s MEFcom 6 Left	is_a	CM4 lineage neuron
+catmaid_l1em	14630424	CM4 s MEFcom 6 Right	is_a	CM4 lineage neuron
+catmaid_l1em	12530013	CM4 s ppFB 1 Left	is_a	CM4 lineage neuron
+catmaid_l1em	19375019	CM4 s ppFB 1 Right	is_a	CM4 lineage neuron
+catmaid_l1em	12445523	CM4 s ppFB 2 Left	is_a	CM4 lineage neuron
+catmaid_l1em	12346676	CM4 s ppFB 2 Right 	is_a	CM4 lineage neuron
+catmaid_l1em	14266491	CM4 s ppFB 3 Left	is_a	CM4 lineage neuron
+catmaid_l1em	12345792	CM4 s ppFB 3 Right	is_a	CM4 lineage neuron
+catmaid_l1em	14266430	CM4 s ppFB 4 Left	is_a	CM4 lineage neuron
+catmaid_l1em	12347886	CM4 s ppFB 4 Right	is_a	CM4 lineage neuron
+catmaid_l1em	14266481	CM4 s ppFB 5 Left	is_a	CM4 lineage neuron
+catmaid_l1em	12262871	CM4 s ppFB 5 Right	is_a	CM4 lineage neuron
+catmaid_l1em	9947921	CM4 s ppFB 6 Left	is_a	CM4 lineage neuron
+catmaid_l1em	12283795	CM4 s ppFB 6 Right	is_a	CM4 lineage neuron
+catmaid_l1em	12494383	CM4 s ppFB 7 Left	is_a	CM4 lineage neuron
+catmaid_l1em	12290287	CM4 s ppFB 7 Right	is_a	CM4 lineage neuron
+catmaid_l1em	16938723	CM4 s ppFB 8 Left	is_a	CM4 lineage neuron
+catmaid_l1em	12367292	CM4 s ppFB 8 Right - ends before 601 	is_a	CM4 lineage neuron
+catmaid_l1em	14628429	CM4 s ppFB 9 Right	is_a	CM4 lineage neuron
+catmaid_l1em	9954202	CM4 s short pos 1 Left	is_a	CM4 lineage neuron
+catmaid_l1em	14546774	CM4 s short pos 1 Right	is_a	CM4 lineage neuron
+catmaid_l1em	10017669	CM4 s short pos 2 Left	is_a	CM4 lineage neuron
+catmaid_l1em	14546854	CM4 s short pos 2 Right	is_a	CM4 lineage neuron
+catmaid_l1em	9947504	CM4 s short pos 3 Left	is_a	CM4 lineage neuron
+catmaid_l1em	18853138	CM4 s short pos 3 Right	is_a	CM4 lineage neuron
+catmaid_l1em	14266471	CM4 s short pos 4 Left	is_a	CM4 lineage neuron
+catmaid_l1em	14547046	CM4 s short pos 4 Right	is_a	CM4 lineage neuron
+catmaid_l1em	9954298	CM4 s ven 1 Left	is_a	CM4 lineage neuron
+catmaid_l1em	14546879	CM4 s ven 1 Right	is_a	CM4 lineage neuron
+catmaid_l1em	10017968	CM4 s ven 2 Left	is_a	CM4 lineage neuron
+catmaid_l1em	11463379	CM4 s ven 2 Right	is_a	CM4 lineage neuron
+catmaid_l1em	14266486	CM4 s ven 3 Left	is_a	CM4 lineage neuron
+catmaid_l1em	12289177	CM4 s ven 3 Right	is_a	CM4 lineage neuron
+catmaid_l1em	14266446	CM4 s ven 4 Left	is_a	CM4 lineage neuron
+catmaid_l1em	14546749	CM4 s ven 4 Right	is_a	CM4 lineage neuron
+catmaid_l1em	14546956	CM4 s ven 5 Right	is_a	CM4 lineage neuron
+catmaid_l1em	14546895	CM4 s ven 6 Right	is_a	CM4 lineage neuron
+catmaid_l1em	14547066	CM4 s ven 7 Right	is_a	CM4 lineage neuron
+catmaid_l1em	17379283	CM4-dm Tiny unpaired right; CM4 dor med_r; CM4 dor ant 5	is_a	CM4 lineage neuron
+catmaid_l1em	17193070	CP1v a s 1 Left	is_a	CP1 lineage neuron
+catmaid_l1em	17192980	CP1v a s 2 Left	is_a	CP1 lineage neuron
+catmaid_l1em	16950736	DALd s 1 Right	is_a	DALd lineage neuron
+catmaid_l1em	17022787	DALd s 2 Right	is_a	DALd lineage neuron
+catmaid_l1em	16952654	DALd s 3 Left	is_a	DALd lineage neuron
+catmaid_l1em	16950391	DALd s 3 Right	is_a	DALd lineage neuron
+catmaid_l1em	15119833	DALd s 4 Left	is_a	DALd lineage neuron
+catmaid_l1em	16950404	DALd s 4 Right	is_a	DALd lineage neuron
+catmaid_l1em	15078580	DALd s 5 Left	is_a	DALd lineage neuron
+catmaid_l1em	15078585	DALd s 6 Left	is_a	DALd lineage neuron
+catmaid_l1em	6156597	DALd s 6 Right	is_a	DALd lineage neuron
+catmaid_l1em	15152956	DALd s 7 Right	is_a	DALd lineage neuron
+catmaid_l1em	15153709	DALd s 8 Right	is_a	DALd lineage neuron
+catmaid_l1em	14761692	DALl1 10 d SU 	is_a	DALl1 lineage neuron
+catmaid_l1em	17731961	DALl1 s 1 Left	is_a	DALl1 lineage neuron
+catmaid_l1em	14727248	DALl1 s 1 Right	is_a	DALl1 lineage neuron
+catmaid_l1em	17882830	DALl1 s 2 Left	is_a	DALl1 lineage neuron
+catmaid_l1em	14751048	DALl1 s 2 Right	is_a	DALl1 lineage neuron
+catmaid_l1em	17731951	DALl1 s 3 Left	is_a	DALl1 lineage neuron
+catmaid_l1em	14751624	DALl1 s 3 Right	is_a	DALl1 lineage neuron
+catmaid_l1em	17731956	DALl1 s 4 Left	is_a	DALl1 lineage neuron
+catmaid_l1em	14749848	DALl1 s 4 Right	is_a	DALl1 lineage neuron
+catmaid_l1em	17731941	DALl1 s 5 Left; NB?	is_a	DALl1 lineage neuron
+catmaid_l1em	12570525	DALl1 s 6 Right	is_a	DALl1 lineage neuron
+catmaid_l1em	17377722	DALl1 s 7 Right	is_a	DALl1 lineage neuron
+catmaid_l1em	14267037	DAMd1 s 1 Left	is_a	DAMd1 lineage neuron
+catmaid_l1em	14877179	DAMd1 s 1 Right	is_a	DAMd1 lineage neuron
+catmaid_l1em	13202894	DPLam s 1 Left	is_a	DPLam lineage neuron
+catmaid_l1em	12570095	DPLam s 1 Right	is_a	DPLam lineage neuron
+catmaid_l1em	14266400	DPLc5 s 1 Left	is_a	DPLc5 lineage neuron
+catmaid_l1em	17560205	DPLc5 s 1 Right	is_a	DPLc5 lineage neuron
+catmaid_l1em	19361208	DPLc5 s 2 Left	is_a	DPLc5 lineage neuron
+catmaid_l1em	14547219	DPLc5 s 2 Right	is_a	DPLc5 lineage neuron
+catmaid_l1em	19361212	DPLc5 s 3 Left	is_a	DPLc5 lineage neuron
+catmaid_l1em	17560221	DPLc5 s 3 Right	is_a	DPLc5 lineage neuron
+catmaid_l1em	16491111	DPLc5 s 4 Left	is_a	DPLc5 lineage neuron
+catmaid_l1em	14547167	DPLc5 s 4 Right	is_a	DPLc5 lineage neuron
+catmaid_l1em	14266405	DPLc5 s 5 Left	is_a	DPLc5 lineage neuron
+catmaid_l1em	19389343	DPLd s 1 Left	is_a	DPLd lineage neuron
+catmaid_l1em	12703528	DPLd s 1 Right	is_a	DPLd lineage neuron
+catmaid_l1em	19389353	DPLd s 2 Left	is_a	DPLd lineage neuron
+catmaid_l1em	12982435	DPLd s 2 Right	is_a	DPLd lineage neuron
+catmaid_l1em	19389324	DPLd s 3 Left	is_a	DPLd lineage neuron
+catmaid_l1em	12984739	DPLd s 3 Right	is_a	DPLd lineage neuron
+catmaid_l1em	19389347	DPLd s 4 Left	is_a	DPLd lineage neuron
+catmaid_l1em	12702656	DPLd s 4 Right	is_a	DPLd lineage neuron
+catmaid_l1em	19389333	DPLd s 5 Left	is_a	DPLd lineage neuron
+catmaid_l1em	12704599	DPLd s 5 Right	is_a	DPLd lineage neuron
+catmaid_l1em	19389329	DPLd s 6 Left	is_a	DPLd lineage neuron
+catmaid_l1em	17557234	DPLd s 6 Right	is_a	DPLd lineage neuron
+catmaid_l1em	17557183	DPLd s 7 Right	is_a	DPLd lineage neuron
+catmaid_l1em	19437159	DPLm1 s 1 Left	is_a	DPLm1 lineage neuron
+catmaid_l1em	9289231	DPLm1 s 1 Right	is_a	DPLm1 lineage neuron
+catmaid_l1em	19437152	DPLm2 s 1 Left	is_a	DPLm2 lineage neuron
+catmaid_l1em	14266964	DPMm1 ant comm s 1 Left	is_a	DPMm1 lineage neuron
+catmaid_l1em	13341065	DPMm1 ant comm s 1 Right	is_a	DPMm1 lineage neuron
+catmaid_l1em	14267091	DPMm1 ant comm s 2 Left	is_a	DPMm1 lineage neuron
+catmaid_l1em	13451589	DPMm1 ant comm s 2 Right	is_a	DPMm1 lineage neuron
+catmaid_l1em	11313556	DPMm1 desc s lat 1 Left	is_a	DPMm1 lineage neuron
+catmaid_l1em	13556524	DPMm1 desc s lat 1 Right	is_a	DPMm1 lineage neuron
+catmaid_l1em	10284042	DPMm1 desc s med 2 Left	is_a	DPMm1 lineage neuron
+catmaid_l1em	13410891	DPMm1 desc s med 2 Right	is_a	DPMm1 lineage neuron
+catmaid_l1em	9951197	DPMm1 Left	is_a	DPMm1 lineage neuron
+catmaid_l1em	9950404	DPMm1 Left	is_a	DPMm1 lineage neuron
+catmaid_l1em	10995187	DPMm1 Left s	is_a	DPMm1 lineage neuron
+catmaid_l1em	11311591	DPMm1 Left s	is_a	DPMm1 lineage neuron
+catmaid_l1em	9948629	DPMm1 ppFB s 1 Left	is_a	DPMm1 lineage neuron
+catmaid_l1em	19375103	DPMm1 ppFB s 1 Right	is_a	DPMm1 lineage neuron
+catmaid_l1em	9949223	DPMm1 ppFB s 2 Left	is_a	DPMm1 lineage neuron
+catmaid_l1em	19375118	DPMm1 ppFB s 2 Right	is_a	DPMm1 lineage neuron
+catmaid_l1em	9949264	DPMm1 ppFB s 3 Left	is_a	DPMm1 lineage neuron
+catmaid_l1em	11126336	DPMm1 ppFB s 3 Right	is_a	DPMm1 lineage neuron
+catmaid_l1em	10269309	DPMm1 ppFB s 4 Left	is_a	DPMm1 lineage neuron
+catmaid_l1em	12532127	DPMm1 ppFB s 4 Right	is_a	DPMm1 lineage neuron
+catmaid_l1em	10297957	DPMm1 ppFB s 5 Left	is_a	DPMm1 lineage neuron
+catmaid_l1em	12532152	DPMm1 ppFB s 5 Right	is_a	DPMm1 lineage neuron
+catmaid_l1em	12361947	DPMm1 ppFB s 6 Left	is_a	DPMm1 lineage neuron
+catmaid_l1em	8573240	DPMm1 ppFB s 6 Right	is_a	DPMm1 lineage neuron
+catmaid_l1em	12488233	DPMm1 ppFB s 7 Left	is_a	DPMm1 lineage neuron
+catmaid_l1em	12256567	DPMm1 ppFB s 7 Right	is_a	DPMm1 lineage neuron
+catmaid_l1em	13241784	DPMm1 s 1	is_a	DPMm1 lineage neuron
+catmaid_l1em	13454509	DPMm1 s 2	is_a	DPMm1 lineage neuron
+catmaid_l1em	13238159	DPMm1 s 3	is_a	DPMm1 lineage neuron
+catmaid_l1em	8575183	DPMm1 s 4	is_a	DPMm1 lineage neuron
+catmaid_l1em	13411400	DPMm1 s desc med 1	is_a	DPMm1 lineage neuron
+catmaid_l1em	10924217	DPMm1 s Left	is_a	DPMm1 lineage neuron
+catmaid_l1em	10764796	DPMm1 s Left	is_a	DPMm1 lineage neuron
+catmaid_l1em	10282203	DPMm1 s Left	is_a	DPMm1 lineage neuron
+catmaid_l1em	17475177	DPMm1 s Left	is_a	DPMm1 lineage neuron
+catmaid_l1em	13362478	DPMm1 s longit 1	is_a	DPMm1 lineage neuron
+catmaid_l1em	13411388	DPMm1 s longit 2	is_a	DPMm1 lineage neuron
+catmaid_l1em	13410103	DPMm1 s longit med 1	is_a	DPMm1 lineage neuron
+catmaid_l1em	13407007	DPMm1 s longit med 2	is_a	DPMm1 lineage neuron
+catmaid_l1em	10300139	DPMm1 s NB 1 Left	is_a	DPMm1 lineage neuron
+catmaid_l1em	10763235	DPMm1 s NB Left	is_a	DPMm1 lineage neuron
+catmaid_l1em	13235092	DPMm1 s Right	is_a	DPMm1 lineage neuron
+catmaid_l1em	13234841	DPMm1 s Right	is_a	DPMm1 lineage neuron
+catmaid_l1em	13234578	DPMm1 s Right	is_a	DPMm1 lineage neuron
+catmaid_l1em	13341456	DPMm1 s right	is_a	DPMm1 lineage neuron
+catmaid_l1em	10993787	DPMm1 upp comm s 1 Left	is_a	DPMm1 lineage neuron
+catmaid_l1em	13237321	DPMm1 upp comm s 1 Right	is_a	DPMm1 lineage neuron
+catmaid_l1em	10994942	DPMm1 upp comm s 2 Left	is_a	DPMm1 lineage neuron
+catmaid_l1em	8574334	DPMm1 upp comm s 2 Right	is_a	DPMm1 lineage neuron
+catmaid_l1em	10993782	DPMm1 upp comm s 3 Left	is_a	DPMm1 lineage neuron
+catmaid_l1em	13235454	DPMm1 upp comm s 3 Right	is_a	DPMm1 lineage neuron
+catmaid_l1em	9950816	DPMm1 upp comm s 4 Left	is_a	DPMm1 lineage neuron
+catmaid_l1em	13239550	DPMm1 upp comm s 4 Right	is_a	DPMm1 lineage neuron
+catmaid_l1em	10577349	DPMm1 upp comm s 5 Left	is_a	DPMm1 lineage neuron
+catmaid_l1em	13340343	DPMm1 upp comm s 5 Right	is_a	DPMm1 lineage neuron
+catmaid_l1em	10961772	DPMm2 ppFB ant dor s 1 Left	is_a	DPMm2 lineage neuron
+catmaid_l1em	12206139	DPMm2 ppFB ant dor s 1 Right	is_a	DPMm2 lineage neuron
+catmaid_l1em	12498192	DPMm2 ppFB ant dor s 2 Left 	is_a	DPMm2 lineage neuron
+catmaid_l1em	12207495	DPMm2 ppFB ant dor s 2 Right 	is_a	DPMm2 lineage neuron
+catmaid_l1em	14423438	DPMpl3 s 1 Left	is_a	DPMpl3 lineage neuron
+catmaid_l1em	14546864	DPMpl3 s 1 Right	is_a	DPMpl3 lineage neuron
+catmaid_l1em	14266512	DPMpl3 s 2 Left	is_a	DPMpl3 lineage neuron
+catmaid_l1em	14546885	DPMpl3 s 2 Right	is_a	DPMpl3 lineage neuron
+catmaid_l1em	14547006	DPMpl3 s 3 Right	is_a	DPMpl3 lineage neuron
+catmaid_l1em	19376581	DPMpm1 ppFB 1 - Left	is_a	DPMpm1 lineage neuron
+catmaid_l1em	12204694	DPMpm1 ppFB 1 - Right	is_a	DPMpm1 lineage neuron
+catmaid_l1em	19376548	DPMpm1 ppFB 2 - Left	is_a	DPMpm1 lineage neuron
+catmaid_l1em	12205963	DPMpm1 ppFB 2 - Right	is_a	DPMpm1 lineage neuron
+catmaid_l1em	19376569	DPMpm1 ppFB 3 - Left	is_a	DPMpm1 lineage neuron
+catmaid_l1em	12207291	DPMpm1 ppFB 3 - Right	is_a	DPMpm1 lineage neuron
+catmaid_l1em	19139824	DPMpm1 ppFB 4 - Left	is_a	DPMpm1 lineage neuron
+catmaid_l1em	12208050	DPMpm1 ppFB 4 - Right	is_a	DPMpm1 lineage neuron
+catmaid_l1em	10794801	DPMpm1 ppFB 5 - Right	is_a	DPMpm1 lineage neuron
+catmaid_l1em	19376559	DPMpm1 ppFB 6 - Left	is_a	DPMpm1 lineage neuron
+catmaid_l1em	12208798	DPMpm1 ppFB 6 - Right	is_a	DPMpm1 lineage neuron
+catmaid_l1em	19376564	DPMpm1 ppFB 7 - Left	is_a	DPMpm1 lineage neuron
+catmaid_l1em	12474032	DPMpm1 ppFB 7 - Right	is_a	DPMpm1 lineage neuron
+catmaid_l1em	17470004	DPMpm1 s 1 Left	is_a	DPMpm1 lineage neuron
+catmaid_l1em	14546624	DPMpm1 s 1 Right	is_a	DPMpm1 lineage neuron
+catmaid_l1em	11509767	DPMpm1 s 2 Right	is_a	DPMpm1 lineage neuron
+catmaid_l1em	9951753	DPMpm1 s 3 Left	is_a	DPMpm1 lineage neuron
+catmaid_l1em	13364562	DPMpm1 s 3 Right	is_a	DPMpm1 lineage neuron
+catmaid_l1em	10974309	DPMpm1 s 4 Left	is_a	DPMpm1 lineage neuron
+catmaid_l1em	11509597	DPMpm1 s 4 Right	is_a	DPMpm1 lineage neuron
+catmaid_l1em	13345002	DPMpm1 s 5 Right	is_a	DPMpm1 lineage neuron
+catmaid_l1em	9951917	DPMpm1 s 6 Left	is_a	DPMpm1 lineage neuron
+catmaid_l1em	3755622	DPMpm1 s left	is_a	DPMpm1 lineage neuron
+catmaid_l1em	14403560	DPMpm2 ppFB 1 - Left	is_a	DPMpm2 lineage neuron
+catmaid_l1em	19376664	DPMpm2 ppFB 1 - Right	is_a	DPMpm2 lineage neuron
+catmaid_l1em	10714438	DPMpm2 ppFB 2 - Left	is_a	DPMpm2 lineage neuron
+catmaid_l1em	19375188	DPMpm2 ppFB 2 - Right	is_a	DPMpm2 lineage neuron
+catmaid_l1em	12449484	DPMpm2 ppFB 3 - Left	is_a	DPMpm2 lineage neuron
+catmaid_l1em	19375183	DPMpm2 ppFB 3 - Right	is_a	DPMpm2 lineage neuron
+catmaid_l1em	10712085	DPMpm2 ppFB 4 - Left	is_a	DPMpm2 lineage neuron
+catmaid_l1em	19375193	DPMpm2 ppFB 4 - Right	is_a	DPMpm2 lineage neuron
+catmaid_l1em	12343219	DPMpm2 ppFB 5 - Right	is_a	DPMpm2 lineage neuron
+catmaid_l1em	10903519	DPMpm2 s 1 Left	is_a	DPMpm2 lineage neuron
+catmaid_l1em	12345237	DPMpm2 s 1 Right	is_a	DPMpm2 lineage neuron
+catmaid_l1em	10711658	DPMpm2 s 2 Left	is_a	DPMpm2 lineage neuron
+catmaid_l1em	14546724	DPMpm2 s 2 Right	is_a	DPMpm2 lineage neuron
+catmaid_l1em	11030926	DPMpm2 s 3 Left	is_a	DPMpm2 lineage neuron
+catmaid_l1em	14546714	DPMpm2 s 3 Right	is_a	DPMpm2 lineage neuron
+catmaid_l1em	10466429	DPMpm2 s loSM 1 Left	is_a	DPMpm2 lineage neuron
+catmaid_l1em	5999941	DPMpm2 s loSM 1 Right	is_a	DPMpm2 lineage neuron
+catmaid_l1em	11022929	DPMpm2 s loSM 2 Left	is_a	DPMpm2 lineage neuron
+catmaid_l1em	6047538	DPMpm2 s loSM 2 Right	is_a	DPMpm2 lineage neuron
+catmaid_l1em	14266559	DPMpm2 s loSM 3 Left	is_a	DPMpm2 lineage neuron
+catmaid_l1em	6046598	DPMpm2 s loSM 3 Right	is_a	DPMpm2 lineage neuron
+catmaid_l1em	10919351	DPMpm2 s loSM 4 Left	is_a	DPMpm2 lineage neuron
+catmaid_l1em	10920017	DPMpm2 s NB 1 Left	is_a	DPMpm2 lineage neuron
+catmaid_l1em	9951607	DPMpm2 s NB 2 Left 	is_a	DPMpm2 lineage neuron
+catmaid_l1em	14546704	DPMpm2 s NB 2 Right	is_a	DPMpm2 lineage neuron
+catmaid_l1em	17048093	Neuron 17048094 immature	is_a	immature neuron
+catmaid_l1em	17733134	TR Balv s 1 Left	is_a	BAlv lineage neuron
+catmaid_l1em	17376829	TR BAlv s 1 Right	is_a	BAlv lineage neuron
+catmaid_l1em	17733182	TR Balv s 2 Left	is_a	BAlv lineage neuron
+catmaid_l1em	17376845	TR BAlv s 2 Right	is_a	BAlv lineage neuron
+catmaid_l1em	17733478	TR Balv s 3 Left	is_a	BAlv lineage neuron
+catmaid_l1em	17376806	TR BAlv s 3 Right	is_a	BAlv lineage neuron
+catmaid_l1em	17733126	TR BAlv s 4 Left	is_a	BAlv lineage neuron
+catmaid_l1em	13974142	TR BAlv s 4 Right	is_a	BAlv lineage neuron
+catmaid_l1em	17733148	TR BAlv s 5 Left	is_a	BAlv lineage neuron
+catmaid_l1em	17376857	TR BAlv s 5 Right	is_a	BAlv lineage neuron
+catmaid_l1em	17733172	TR BAlv s 6 Left	is_a	BAlv lineage neuron
+catmaid_l1em	17376835	TR BAlv s 6 Right	is_a	BAlv lineage neuron
+catmaid_l1em	17733164	TR BAlv s 7 Left	is_a	BAlv lineage neuron
+catmaid_l1em	17634436	TR BAlv s 7 Right	is_a	BAlv lineage neuron
+catmaid_l1em	17733190	TR Balv s 8 Left	is_a	BAlv lineage neuron
