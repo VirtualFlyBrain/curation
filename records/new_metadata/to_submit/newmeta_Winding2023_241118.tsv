@@ -1,0 +1,299 @@
+subject_external_db	subject_external_id	subject_name	relation	object
+catmaid_l1em	4778745	3rd Thermo - to peduncle #1 left	is_a	larval thermosensory projection neuron
+catmaid_l1em	4319395	3rd Thermo - to peduncle #1 right	is_a	larval thermosensory projection neuron
+catmaid_l1em	9201911	3rd Thermo - to peduncle #2 left	is_a	larval thermosensory projection neuron
+catmaid_l1em	17591687	3rd Thermo - to peduncle #2 right	is_a	larval thermosensory projection neuron
+catmaid_l1em	7582412	3rd Thermo Left - ADL022	is_a	larval thermosensory projection neuron
+catmaid_l1em	2776773	3rd Thermo Right - ADL022	is_a	larval thermosensory projection neuron
+catmaid_l1em	4926999	3rd-order Thermo left; (possible PVL005 )	is_a	larval thermosensory projection neuron
+catmaid_l1em	21664445	3rd-order Thermo right	is_a	larval thermosensory projection neuron
+catmaid_l1em	8644484	A05g_a1l? lch projection neuron bilateral dendrites a1l	is_a	NB5-3 lineage primary neuron
+catmaid_l1em	14531828	a05g_a1r	is_a	NB5-3 lineage primary neuron
+catmaid_l1em	13775497	A06k_a1r	is_a	larval abdominal 1 A06k neuron
+catmaid_l1em	4555763	A08h_a1l	is_a	NB3-3 lineage primary neuron
+catmaid_l1em	5108525	A08h_a1r right	is_a	NB3-3 lineage primary neuron
+catmaid_l1em	10949030	A08j2_a1r	is_a	NB3-3 lineage primary neuron
+catmaid_l1em	5606265	A09 (ASB SOG-LH Dense Core)_a1l	is_a	NB3-5 lineage primary neuron
+catmaid_l1em	19718010	A09 (ASB SOG-LH Dense Core)_a1r	is_a	NB3-5 lineage primary neuron
+catmaid_l1em	3220616	A09 Contra Brain Projection_a1l	is_a	NB3-5 lineage primary neuron
+catmaid_l1em	16278312	A09 Contra Brain Projection_a1r	is_a	NB3-5 lineage primary neuron
+catmaid_l1em	21250110	A10j_a1l	is_a	larval A10j neuron
+catmaid_l1em	9640873	A10j_a1r	is_a	larval A10j neuron
+catmaid_l1em	17360254	AB left; DALv1 L Lineage - Downstream A00c	is_a	DALv1 lineage neuron
+catmaid_l1em	17732031	AF: DPLal BPL-to-medial_left	is_a	DPLal1 lineage neuron
+catmaid_l1em	11081239	AF: DPLal BPL-to-medial_right	is_a	DPLal1 lineage neuron
+catmaid_l1em	4636432	AF13: 3rd-order Thermo (possible PVL005 )4 Left	is_a	larval thermosensory projection neuron
+catmaid_l1em	9808146	AF13: 3rd-order Thermo (possible PVL005 )4 Right	is_a	larval thermosensory projection neuron
+catmaid_l1em	4785242	AF3 thermo 3rd left	is_a	larval thermosensory projection neuron
+catmaid_l1em	2935198	AF3 thermo 3rd right	is_a	larval thermosensory projection neuron
+catmaid_l1em	17728632	BAlc post ascending 1 left	is_a	BAlc lineage neuron
+catmaid_l1em	17327188	BAlc post ascending 1 right	is_a	BAlc lineage neuron
+catmaid_l1em	12452356	BAlc post ascending 2 left	is_a	BAlc lineage neuron
+catmaid_l1em	6250655	BAlc post ascending 2 right	is_a	BAlc lineage neuron
+catmaid_l1em	6254216	BAlc post lat lat #4 ALT neuron 6254217 right	is_a	BAlc lineage neuron
+catmaid_l1em	11192283	BAlc post lat lat #4 ALT neuron left	is_a	BAlc lineage neuron
+catmaid_l1em	15608355	BAlc post lat lat 6 AL left	is_a	BAlc lineage neuron
+catmaid_l1em	6252764	BAlc post lat lat 6 AL right	is_a	BAlc lineage neuron
+catmaid_l1em	12121795	BAlc_post I left	is_a	BAlc lineage neuron
+catmaid_l1em	11788830	BAlc_post I right	is_a	BAlc lineage neuron
+catmaid_l1em	12089601	BAlc_post I2 left	is_a	BAlc lineage neuron
+catmaid_l1em	11838242	BAlc_post I2 right	is_a	BAlc lineage neuron
+catmaid_l1em	6229682	BAlc_post young neuron	is_a	BAlc lineage neuron
+catmaid_l1em	15995958	BAlp4 ascending 1 left	is_a	BAlp4 lineage neuron
+catmaid_l1em	18080008	BAlp4 ascending 1 right	is_a	BAlp4 lineage neuron
+catmaid_l1em	11876076	BAlp4 ascending 2 left	is_a	BAlp4 lineage neuron
+catmaid_l1em	15674282	BAlp4 ascending 2 right	is_a	BAlp4 lineage neuron
+catmaid_l1em	16422744	BAlp4 ascending 3 left	is_a	BAlp4 lineage neuron
+catmaid_l1em	15589591	BAlp4 ascending 3 right	is_a	BAlp4 lineage neuron
+catmaid_l1em	14723506	BAlp4 ascending 4 left	is_a	BAlp4 lineage neuron
+catmaid_l1em	17850822	BAlp4 ascending 4 right	is_a	BAlp4 lineage neuron
+catmaid_l1em	17728781	BAlp4 ascending 5 left	is_a	BAlp4 lineage neuron
+catmaid_l1em	13644685	BAlp4 ascending 5 right	is_a	BAlp4 lineage neuron
+catmaid_l1em	15541971	BAmd1 bilateral left	is_a	BAmd1 lineage neuron
+catmaid_l1em	5734134	BAmd1 bilateral right	is_a	BAmd1 lineage neuron
+catmaid_l1em	9714476	BAmd1 contralateral 1 left	is_a	BAmd1 lineage neuron
+catmaid_l1em	16709072	BAmd1 contralateral 1 right	is_a	BAmd1 lineage neuron
+catmaid_l1em	11157622	BAmd1 PN 1 left	is_a	BAmd1 lineage neuron
+catmaid_l1em	17036132	BAmd1 PN 1 right	is_a	BAmd1 lineage neuron
+catmaid_l1em	15547235	BAmd1 PN 2 left	is_a	BAmd1 lineage neuron
+catmaid_l1em	17036160	BAmd1 PN 2 right	is_a	BAmd1 lineage neuron
+catmaid_l1em	16561224	BAmd2 contralateral descending 1 left	is_a	BAmd2 lineage neuron
+catmaid_l1em	6702943	BAmd2 contralateral descending 1 right	is_a	BAmd2 lineage neuron
+catmaid_l1em	17358864	BAmd2 contralateral descending 2 left	is_a	BAmd2 lineage neuron
+catmaid_l1em	13842372	BAmd2 contralateral descending 2 right	is_a	BAmd2 lineage neuron
+catmaid_l1em	13736919	BAmd2 descending 1 left	is_a	BAmd2 lineage neuron
+catmaid_l1em	17877682	BAmd2 descending 1 right	is_a	BAmd2 lineage neuron
+catmaid_l1em	18929470	BAmd2 descending 2 left	is_a	BAmd2 lineage neuron
+catmaid_l1em	6700147	BAmd2 descending 2 right; BAmd2 ven desc lat 4  ipsi VMC neuron 6700148	is_a	BAmd2 lineage neuron
+catmaid_l1em	14651659	BAmd2_v descending left	is_a	BAmd2 lineage neuron
+catmaid_l1em	13760954	BAmd2_v descending right	is_a	BAmd2 lineage neuron
+catmaid_l1em	10345590	BLAl F neuron 1 left	is_a	BLAl1 lineage neuron
+catmaid_l1em	15048530	BLAl F neuron 1 right	is_a	BLAl1 lineage neuron
+catmaid_l1em	12279909	BLAl F neuron 2 left	is_a	BLAl1 lineage neuron
+catmaid_l1em	8471817	BLAl F neuron 2 right	is_a	BLAl1 lineage neuron
+catmaid_l1em	11348509	BLAl horseshoe neuron left	is_a	BLAl1 lineage neuron
+catmaid_l1em	3765735	BLAl horseshoe neuron right	is_a	BLAl1 lineage neuron
+catmaid_l1em	16433696	BLAl_I-X 2 left	is_a	BLAl1 lineage neuron
+catmaid_l1em	19132527	BLAl_I-X 2 right	is_a	BLAl1 lineage neuron
+catmaid_l1em	12279941	BLAl_I-X 3 left	is_a	BLAl1 lineage neuron
+catmaid_l1em	17328632	BLAl_I-X 3 right	is_a	BLAl1 lineage neuron
+catmaid_l1em	7388340	BLAl_l-X left	is_a	BLAl1 lineage neuron
+catmaid_l1em	15606239	BLAl_l-X right	is_a	BLAl1 lineage neuron
+catmaid_l1em	16630479	BLAvm bilateral neuron 1 left	is_a	BLAvm lineage neuron
+catmaid_l1em	17012001	BLAvm bilateral neuron 1 right	is_a	BLAvm lineage neuron
+catmaid_l1em	9822593	BLAvm bilateral neuron 2 left	is_a	BLAvm lineage neuron
+catmaid_l1em	15023987	BLAvm bilateral neuron 2 right	is_a	BLAvm lineage neuron
+catmaid_l1em	14995061	BLAvm bilateral neuron 3 left	is_a	BLAvm lineage neuron
+catmaid_l1em	16629886	BLAvm bilateral neuron 3 right; VLP LAL	is_a	BLAvm lineage neuron
+catmaid_l1em	17729110	BLAvm bilateral neuron 5 left	is_a	BLAvm lineage neuron
+catmaid_l1em	16399845	BLAvm bilateral neuron 5 right	is_a	BLAvm lineage neuron
+catmaid_l1em	16366055	BLAvm bilateral neuron 6 left	is_a	BLAvm lineage neuron
+catmaid_l1em	17654645	BLAvm bilateral neuron 6 right	is_a	BLAvm lineage neuron
+catmaid_l1em	5708994	BLAvm potential PN left	is_a	BLAvm lineage neuron
+catmaid_l1em	17654617	BLAvm potential PN right; ASB TODO from gPN 7 right	is_a	BLAvm lineage neuron
+catmaid_l1em	14270761	BLVp1 bilateral 1 left; LH bilateral axon 7_mediates ascend	is_a	BLVp1 lineage neuron
+catmaid_l1em	9103710	BLVp1 bilateral 1 right; Tel-like 1 BPL bilateral; BLVp1 6	is_a	BLVp1 lineage neuron
+catmaid_l1em	15587533	BLVp1 bilateral 2 left	is_a	BLVp1 lineage neuron
+catmaid_l1em	11029851	BLVp1 bilateral 2 right	is_a	BLVp1 lineage neuron
+catmaid_l1em	18656202	BLVp1 bilateral 3 left; down seahorse left	is_a	BLVp1 lineage neuron
+catmaid_l1em	18655517	BLVp1 bilateral 3 right; down seahorse right	is_a	BLVp1 lineage neuron
+catmaid_l1em	18035063	BLVp1 bilateral 4 left	is_a	BLVp1 lineage neuron
+catmaid_l1em	17937986	BLVp1 bilateral 4 right	is_a	BLVp1 lineage neuron
+catmaid_l1em	17430685	BLVp1 bilateral 5 left	is_a	BLVp1 lineage neuron
+catmaid_l1em	20106468	BLVp1 bilateral 5 right	is_a	BLVp1 lineage neuron
+catmaid_l1em	17804729	BLVp1 bilateral 6 left	is_a	BLVp1 lineage neuron
+catmaid_l1em	11050498	BLVp1 bilateral 6 right	is_a	BLVp1 lineage neuron
+catmaid_l1em	19101351	BLVp1 bilateral descending left	is_a	BLVp1 lineage neuron
+catmaid_l1em	3848843	BLVp1 bilateral descending right; DP1 of GPhN right (ipsilateral PN to bilateral LH); BLVp1 4	is_a	BLVp1 lineage neuron
+catmaid_l1em	15586914	BLVp1 hook 2 left	is_a	BLVp1 lineage neuron
+catmaid_l1em	16176721	BLVp1 hook 2 right	is_a	BLVp1 lineage neuron
+catmaid_l1em	15669682	BLVp1 hook 3 left	is_a	BLVp1 lineage neuron
+catmaid_l1em	17658672	BLVp1 hook 3 right	is_a	BLVp1 lineage neuron
+catmaid_l1em	17223643	BLVp1 hook left	is_a	BLVp1 lineage neuron
+catmaid_l1em	3251140	BLVp1 hook right	is_a	BLVp1 lineage neuron
+catmaid_l1em	15586949	BLVp1 local a left	is_a	BLVp1 lineage neuron
+catmaid_l1em	3180681	BLVp1 local a right	is_a	BLVp1 lineage neuron
+catmaid_l1em	17105977	BLVp1 local left	is_a	BLVp1 lineage neuron
+catmaid_l1em	8970595	BLVp1 local right	is_a	BLVp1 lineage neuron
+catmaid_l1em	5890323	CA-LP-2_right1	is_a	larval corpus allatum innervating neuron CA-LP 1
+catmaid_l1em	5869204	CA-LP-2_right2	is_a	larval corpus allatum innervating neuron CA-LP 2
+catmaid_l1em	5469039	Capa left	is_a	larval capability neuron
+catmaid_l1em	4874953	Capa right	is_a	larval capability neuron
+catmaid_l1em	7335439	Coaster (NPF) 2 left	is_a	larval NPF neuron
+catmaid_l1em	3048606	Coaster (NPF) Left	is_a	larval NPF neuron
+catmaid_l1em	3009700	Coaster (NPF) Right 	is_a	larval NPF neuron
+catmaid_l1em	7005184	CP1 d 1 left	is_a	CP1 lineage neuron
+catmaid_l1em	7569260	CP1 d 1 right	is_a	CP1 lineage neuron
+catmaid_l1em	10100020	CP4 8 left	is_a	CP4 lineage neuron
+catmaid_l1em	1868538	CP4 8 right	is_a	CP4 lineage neuron
+catmaid_l1em	3926669	CRZ 1 left	is_a	larval corazonin neuron
+catmaid_l1em	3727026	CRZ 1 right	is_a	larval corazonin neuron
+catmaid_l1em	3926438	CRZ 2 left	is_a	larval corazonin neuron
+catmaid_l1em	3762787	CRZ 2 right	is_a	larval corazonin neuron
+catmaid_l1em	7476468	CRZ 3 left	is_a	larval corazonin neuron
+catmaid_l1em	3727004	CRZ 3 right	is_a	larval corazonin neuron
+catmaid_l1em	1622901	DALd bushy left; DALd_l  2	is_a	DALd lineage neuron
+catmaid_l1em	6156152	DALd bushy right; DALd_r 5 Review	is_a	DALd lineage neuron
+catmaid_l1em	16952691	DALd descending 1 left; DALd_l X?	is_a	DALd lineage neuron
+catmaid_l1em	5052370	DALd descending 1 right; DALd_r 1	is_a	DALd lineage neuron
+catmaid_l1em	16667592	DALd descending 2 left; DALd_l  6	is_a	DALd lineage neuron
+catmaid_l1em	16950550	DALd descending 2 right; DALd_r 8	is_a	DALd lineage neuron
+catmaid_l1em	19361427	DALd descending 3 left; LAL output neuorn_l 2?; DALd_l 5	is_a	DALd lineage neuron
+catmaid_l1em	16950354	DALd descending 3 right; DALd_r 12	is_a	DALd lineage neuron
+catmaid_l1em	16670540	DALd descending 4 left; DALd_l  1	is_a	DALd lineage neuron
+catmaid_l1em	16950443	DALd descending 4 right; DALd_r 9	is_a	DALd lineage neuron
+catmaid_l1em	16851577	DALd descending 5 left; DALd_l  7	is_a	DALd lineage neuron
+catmaid_l1em	16950798	DALd descending 5 right; DALd_r 9 right	is_a	DALd lineage neuron
+catmaid_l1em	16952642	DALd descending thin left; DALd_l  8 continues after gap	is_a	DALd lineage neuron
+catmaid_l1em	6155577	DALd descending thin right; DALd_r 4 neuron 6155578 small	is_a	DALd lineage neuron
+catmaid_l1em	16851496	DALd LAL output neuron 1 left	is_a	DALd lineage neuron
+catmaid_l1em	16339338	DALd LAL output neuron 1 right	is_a	DALd lineage neuron
+catmaid_l1em	16952648	DALd midloop 1 left; DALd_l  9	is_a	DALd lineage neuron
+catmaid_l1em	5900426	DALd midloop 1 right; DALd_r 13	is_a	DALd lineage neuron
+catmaid_l1em	16952671	DALd midloop 2 left; DALd_l  13	is_a	DALd lineage neuron
+catmaid_l1em	6154200	DALd midloop 2 right; DALd_r 2 neuron 6154202	is_a	DALd lineage neuron
+catmaid_l1em	16952665	DALd sparse descending left; DALd_l  12	is_a	DALd lineage neuron
+catmaid_l1em	6154921	DALd sparse descending right; DALd_r 3 neuron 6154922	is_a	DALd lineage neuron
+catmaid_l1em	9481869	DALl1 11 left	is_a	DALl1 lineage neuron
+catmaid_l1em	14762026	DALl1 11 right	is_a	DALl1 lineage neuron
+catmaid_l1em	12299805	DALl1 5 left	is_a	DALl1 lineage neuron
+catmaid_l1em	7422595	DALl1 5 right	is_a	DALl1 lineage neuron
+catmaid_l1em	17224013	DALl1 6 left	is_a	DALl1 lineage neuron
+catmaid_l1em	14759661	DALl1 6 right	is_a	DALl1 lineage neuron
+catmaid_l1em	15605301	DALl1 bilateral 1 left	is_a	DALl1 lineage neuron
+catmaid_l1em	15607335	DALl1 bilateral 1 right	is_a	DALl1 lineage neuron
+catmaid_l1em	17736748	DALl2 descending left	is_a	DALl2 lineage neuron
+catmaid_l1em	17639824	DALl2 descending right - where's the axon?	is_a	DALl2 lineage neuron
+catmaid_l1em	18149325	DALv1 5 left	is_a	DALv1 lineage neuron
+catmaid_l1em	14757050	DALv1 5 right	is_a	DALv1 lineage neuron
+catmaid_l1em	13370624	DALv1 bilateral 1 left	is_a	DALv1 lineage neuron
+catmaid_l1em	14756440	DALv1 bilateral 1 right	is_a	DALv1 lineage neuron
+catmaid_l1em	17360286	DALv1 contralateral 1 left	is_a	DALv1 lineage neuron
+catmaid_l1em	17360225	DALv1 contralateral 1 right	is_a	DALv1 lineage neuron
+catmaid_l1em	16961482	DALv1 contralateral 2 left	is_a	DALv1 lineage neuron
+catmaid_l1em	10403609	DALv1 contralateral 2 right; Tel-like 11? 	is_a	DALv1 lineage neuron
+catmaid_l1em	5865628	DALv1 contralateral 3 left	is_a	DALv1 lineage neuron
+catmaid_l1em	10287315	DALv1 contralateral 3 right; Tel-like 9?	is_a	DALv1 lineage neuron
+catmaid_l1em	17360266	DALv1 contralateral 4 left	is_a	DALv1 lineage neuron
+catmaid_l1em	14755393	DALv1 contralateral 4 right	is_a	DALv1 lineage neuron
+catmaid_l1em	18568094	DALv1 small left	is_a	DALv1 lineage neuron
+catmaid_l1em	17941609	DALv1 small right	is_a	DALv1 lineage neuron
+catmaid_l1em	17360282	DALv1_PB1_left	is_a	DALv1 lineage neuron
+catmaid_l1em	14754777	DALv1_PB1_right	is_a	DALv1 lineage neuron
+catmaid_l1em	17360262	DALv1_PB2_left	is_a	DALv1 lineage neuron
+catmaid_l1em	14758420	DALv1_PB2_right	is_a	DALv1 lineage neuron
+catmaid_l1em	17360296	DALv1_PB4_left	is_a	DALv1 lineage neuron
+catmaid_l1em	14757992	DALv1_PB4_right	is_a	DALv1 lineage neuron
+catmaid_l1em	16327998	DALv3 ring2_left (LAL neuron)	is_a	DALv3 lineage neuron
+catmaid_l1em	17173852	DALv3 ring2_right (LAL neuron)	is_a	DALv3 lineage neuron
+catmaid_l1em	16554856	DAMd1 bilateral left	is_a	DAMd1 lineage neuron
+catmaid_l1em	18570360	DAMd1 bilateral right	is_a	DAMd1 lineage neuron
+catmaid_l1em	9351843	DPLam ASB Mackerel left	is_a	DPLam lineage neuron
+catmaid_l1em	17990556	DPLam ASB Mackerel right	is_a	DPLam lineage neuron
+catmaid_l1em	16742642	DPLam hook left	is_a	DPLam lineage neuron
+catmaid_l1em	8546775	DPLam hook right	is_a	DPLam lineage neuron
+catmaid_l1em	14162492	DPLam neuron left	is_a	DPLam lineage neuron
+catmaid_l1em	2854715	DPLam neuron right	is_a	DPLam lineage neuron
+catmaid_l1em	2979675	DPLam Talon 1 left	is_a	DPLam lineage neuron
+catmaid_l1em	7422253	DPLam Talon 1 right; DALl1 4	is_a	DPLam lineage neuron
+catmaid_l1em	8167696	DPLam Talon 2 left	is_a	DPLam lineage neuron
+catmaid_l1em	7429933	DPLam Talon 2 right; DALl1 6 STBA	is_a	DPLam lineage neuron
+catmaid_l1em	2964760	DPLd C neuron left	is_a	DPLd lineage neuron
+catmaid_l1em	10855798	DPLd C neuron right	is_a	DPLd lineage neuron
+catmaid_l1em	6011278	DPLm1 contralateral 1 left	is_a	DPLm1 lineage neuron
+catmaid_l1em	9288827	DPLm1 contralateral 1 right; Bilateral DS Smash	is_a	DPLm1 lineage neuron
+catmaid_l1em	9237370	DPLm1 contralateral 2 left	is_a	DPLm1 lineage neuron
+catmaid_l1em	3726990	DPLm1 contralateral 2 right; potential RG neuron	is_a	DPLm1 lineage neuron
+catmaid_l1em	16098538	DPLm2 gnarled left	is_a	DPLm2 lineage neuron
+catmaid_l1em	8670503	DPLm2 gnarled right	is_a	DPLm2 lineage neuron
+catmaid_l1em	14655602	DPML1_l	is_a	DPMl1 lineage neuron
+catmaid_l1em	15672269	DPML1_r	is_a	DPMl1 lineage neuron
+catmaid_l1em	3945756	DPMm1 3 (Output of Munin)_left	is_a	DPMm1 lineage neuron
+catmaid_l1em	8566140	DPMm1 3 (Output of Munin)_right	is_a	DPMm1 lineage neuron
+catmaid_l1em	10600188	DPMm1 4_left	is_a	DPMm1 lineage neuron
+catmaid_l1em	8571259	DPMm1 4_right 	is_a	DPMm1 lineage neuron
+catmaid_l1em	10728318	DPMm1 Brain descending into VNC 2 left	is_a	DPMm1 lineage neuron
+catmaid_l1em	3598000	DPMm1 Brain descending into VNC 2 right	is_a	DPMm1 lineage neuron
+catmaid_l1em	10716080	DPMm1 Brain descending into VNC left	is_a	DPMm1 lineage neuron
+catmaid_l1em	3595837	DPMm1 Brain descending into VNC right	is_a	DPMm1 lineage neuron
+catmaid_l1em	10583715	DPMm1 FB1_left	is_a	DPMm1 lineage neuron
+catmaid_l1em	11306294	DPMm1 FB1_right	is_a	DPMm1 lineage neuron
+catmaid_l1em	19268007	DPMm1 horseshoe 1 left	is_a	DPMm1 lineage neuron
+catmaid_l1em	13411394	DPMm1 horseshoe 1 right; DPMm1 FB2_right	is_a	DPMm1 lineage neuron
+catmaid_l1em	10568310	DPMm1 horseshoe 2 left	is_a	DPMm1 lineage neuron
+catmaid_l1em	2667980	DPMm1 horseshoe 2 right	is_a	DPMm1 lineage neuron
+catmaid_l1em	10728323	DPMm1 ipsilateral descending left	is_a	DPMm1 lineage neuron
+catmaid_l1em	2655798	DPMm1 ipsilateral descending right	is_a	DPMm1 lineage neuron
+catmaid_l1em	16937815	DPMm1 ipsilateral sheet left	is_a	DPMm1 lineage neuron
+catmaid_l1em	13411525	DPMm1 ipsilateral sheet right	is_a	DPMm1 lineage neuron
+catmaid_l1em	17022668	DPMm2 descending left	is_a	DPMm2 lineage neuron
+catmaid_l1em	12474164	DPMm2 descending right	is_a	DPMm2 lineage neuron
+catmaid_l1em	18538744	DPMpl3 a 2 left	is_a	DPMpl3 lineage neuron
+catmaid_l1em	11362334	DPMpl3 a 2 right	is_a	DPMpl3 lineage neuron
+catmaid_l1em	15028907	DPMpl3 contralateral left TODO	is_a	DPMpl3 lineage neuron
+catmaid_l1em	11362589	DPMpl3 contralateral right; DPMpl3 4 MEF ant and comm subGC	is_a	DPMpl3 lineage neuron
+catmaid_l1em	10792617	DPMpm1  2_left	is_a	DPMpm1 lineage neuron
+catmaid_l1em	8880781	DPMpm1 1 DN right	is_a	DPMpm1 lineage neuron
+catmaid_l1em	17223685	DPMpm1 1 DN? left	is_a	DPMpm1 lineage neuron
+catmaid_l1em	11278919	DPMpm1 2_right	is_a	DPMpm1 lineage neuron
+catmaid_l1em	3944626	DPMpm1 bushy descending left	is_a	DPMpm1 lineage neuron
+catmaid_l1em	16195633	DPMpm1 bushy descending right	is_a	DPMpm1 lineage neuron
+catmaid_l1em	10760217	DPMpm1 horseshoe left	is_a	DPMpm1 lineage neuron
+catmaid_l1em	2669331	DPMpm1 horseshoe right	is_a	DPMpm1 lineage neuron
+catmaid_l1em	16474159	DPMpm2 2 left	is_a	DPMpm2 lineage neuron
+catmaid_l1em	9291437	DPMpm2 2 right	is_a	DPMpm2 lineage neuron
+catmaid_l1em	10766722	DPMpm2 small arc left	is_a	DPMpm2 lineage neuron
+catmaid_l1em	16450562	DPMpm2 small arc right	is_a	DPMpm2 lineage neuron
+catmaid_l1em	4188290	EH left	is_a	larval Eh neurosecretory neuron
+catmaid_l1em	5010581	EH right	is_a	larval Eh neurosecretory neuron
+catmaid_l1em	12360656	Gust PN to LH left	is_a	larval gustatory projection neuron
+catmaid_l1em	17819985	Gust PN to LH right	is_a	larval gustatory projection neuron
+catmaid_l1em	11333054	Gustatory PN 1	is_a	larval gustatory projection neuron
+catmaid_l1em	13789482	Gustatory PN 2	is_a	larval gustatory projection neuron
+catmaid_l1em	3709977	Gustatory PN 2	is_a	larval gustatory projection neuron
+catmaid_l1em	7020344	Gustatory PN 3	is_a	larval gustatory projection neuron
+catmaid_l1em	12156009	Gustatory PN 3	is_a	larval gustatory projection neuron
+catmaid_l1em	4393049	Gustatory PN 4	is_a	larval gustatory projection neuron
+catmaid_l1em	11067379	Gustatory PN 4	is_a	larval gustatory projection neuron
+catmaid_l1em	12424328	Gustatory? PN left; PN from MN sensory left	is_a	projection neuron
+catmaid_l1em	16457812	Gustatory? PN right	is_a	projection neuron
+catmaid_l1em	5688091	MBE - Input of Hugin RG Candidates left 1 - paired with #5038920	is_a	mushroom body extrinsic neuron
+catmaid_l1em	5038920	MBE - Input of Hugin RG Candidates right 1 - paired with #5688091	is_a	mushroom body extrinsic neuron
+catmaid_l1em	3450751	Multiglomerular PN 5	is_a	larval multiglomerular antennal lobe projection neuron
+catmaid_l1em	10160250	Multiglomerular PN 5	is_a	larval multiglomerular antennal lobe projection neuron
+catmaid_l1em	4152020	Multiglomerular PN 6	is_a	larval multiglomerular antennal lobe projection neuron
+catmaid_l1em	11123016	Multiglomerular PN 6	is_a	larval multiglomerular antennal lobe projection neuron
+catmaid_l1em	14522404	NB5-2 lineage 6 (HMD X?)_a1l	is_a	NB5-2 lineage primary neuron
+catmaid_l1em	13774384	NB5-2 lineage 6 (HMD X?)_a1r	is_a	NB5-2 lineage primary neuron
+catmaid_l1em	8755914	peptidergic with docked vesicles_left	is_a	larval peptidergic neuron
+catmaid_l1em	8741619	peptidergic with docked vesicles_right	is_a	larval peptidergic neuron
+catmaid_l1em	13858824	PN	is_a	projection neuron
+catmaid_l1em	17743170	PN	is_a	projection neuron
+catmaid_l1em	3869488	PN	is_a	projection neuron
+catmaid_l1em	8293958	PN	is_a	projection neuron
+catmaid_l1em	3650006	PN of GPhN to LH (left)	is_a	projection neuron
+catmaid_l1em	15829660	PN of GPhN to LH; in mACT(?) right	is_a	projection neuron
+catmaid_l1em	4260935	Thermo PN 5	is_a	larval thermosensory projection neuron
+catmaid_l1em	3002410	Thermo PN 7	is_a	larval thermosensory projection neuron
+catmaid_l1em	7092086	Unknown PN 1	is_a	projection neuron
+catmaid_l1em	4876704	Unknown PN 1	is_a	projection neuron
+catmaid_l1em	8012953	Unknown PN 2	is_a	projection neuron
+catmaid_l1em	8254894	Unknown PN 2	is_a	projection neuron
+catmaid_l1em	5638694	v'td_ a3r	is_a	larval abdominal ventral cluster group multidendritic neuron
+catmaid_l1em	16303262	v'td_a1l 	is_a	larval abdominal ventral cluster group multidendritic neuron
+catmaid_l1em	7627878	v'td_a1r	is_a	larval abdominal ventral cluster group multidendritic neuron
+catmaid_l1em	10963761	v'td_a2r 	is_a	larval abdominal ventral cluster group multidendritic neuron
+catmaid_l1em	19017854	v'td_vnc_a4l	is_a	larval abdominal ventral cluster group multidendritic neuron
+catmaid_l1em	19037563	v'td_vnc_a4r	is_a	larval abdominal ventral cluster group multidendritic neuron
+catmaid_l1em	7012280	v'td_vnc_a5l	is_a	larval abdominal ventral cluster group multidendritic neuron
+catmaid_l1em	4061049	v'td_vnc_a5r	is_a	larval abdominal ventral cluster group multidendritic neuron
+catmaid_l1em	16911458	v'td_vnc_a6l	is_a	larval abdominal ventral cluster group multidendritic neuron
+catmaid_l1em	12178825	v'td_vnc_a6r	is_a	larval abdominal ventral cluster group multidendritic neuron
+catmaid_l1em	19120772	v'td_vnc_a7l	is_a	larval abdominal ventral cluster group multidendritic neuron
+catmaid_l1em	891237	v'td_vnc_a7r	is_a	larval abdominal ventral cluster group multidendritic neuron
+catmaid_l1em	10872426	VB: DPMm1 4_left	is_a	DPMm1 lineage neuron
+catmaid_l1em	8572353	VB: DPMm1 4_right	is_a	DPMm1 lineage neuron
+catmaid_l1em	8198913	VLEL4_a1r	is_a	larval abdominal 1 A08j1 neuron
+catmaid_l1em	8257672	VLEL9_a1r	is_a	larval abdominal 1 A08j3 neuron
+catmaid_l1em	7168356	Weird PN to LH left	is_a	projection neuron
+catmaid_l1em	11714576	Weird PN to LH Right	is_a	projection neuron
