@@ -1,0 +1,1392 @@
+subject_external_id	object	subject_external_db	relation	pub
+5343578	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+7184082	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+10929797	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+8198913	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+8644484	larval ascending neuron	catmaid_l1em	is_a	FBrf0255988
+14531828	larval ascending neuron	catmaid_l1em	is_a	FBrf0255988
+2123422	larval ascending neuron	catmaid_l1em	is_a	FBrf0255988
+7766016	larval ascending neuron	catmaid_l1em	is_a	FBrf0255988
+10949382	larval ascending neuron	catmaid_l1em	is_a	FBrf0255988
+2784471	larval ascending neuron	catmaid_l1em	is_a	FBrf0255988
+10937355	larval ascending neuron	catmaid_l1em	is_a	FBrf0255988
+16945771	larval ascending neuron	catmaid_l1em	is_a	FBrf0255988
+8644484	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+14531828	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+2123422	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+7766016	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+10949382	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+2784471	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+10937355	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+16945771	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+4595609	larval mechanosensory projection neuron	catmaid_l1em	is_a	FBrf0255988
+19120853	larval mechanosensory projection neuron	catmaid_l1em	is_a	FBrf0255988
+21250110	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+9640873	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+4555763	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+5108525	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+4206755	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+7124156	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+4555763	larval ascending neuron	catmaid_l1em	is_a	FBrf0255988
+5108525	larval ascending neuron	catmaid_l1em	is_a	FBrf0255988
+4206755	larval ascending neuron	catmaid_l1em	is_a	FBrf0255988
+7124156	larval ascending neuron	catmaid_l1em	is_a	FBrf0255988
+8059283	proprioceptive system neuron	catmaid_l1em	is_a	FBrf0255988
+14913093	proprioceptive system neuron	catmaid_l1em	is_a	FBrf0255988
+14522404	proprioceptive system neuron	catmaid_l1em	is_a	FBrf0255988
+13774384	proprioceptive system neuron	catmaid_l1em	is_a	FBrf0255988
+12998937	proprioceptive system neuron	catmaid_l1em	is_a	FBrf0255988
+15315491	proprioceptive system neuron	catmaid_l1em	is_a	FBrf0255988
+14938436	proprioceptive system neuron	catmaid_l1em	is_a	FBrf0255988
+15556861	proprioceptive system neuron	catmaid_l1em	is_a	FBrf0255988
+14522404	larval ascending neuron	catmaid_l1em	is_a	FBrf0255988
+13774384	larval ascending neuron	catmaid_l1em	is_a	FBrf0255988
+12998937	larval ascending neuron	catmaid_l1em	is_a	FBrf0255988
+15315491	larval ascending neuron	catmaid_l1em	is_a	FBrf0255988
+14938436	larval ascending neuron	catmaid_l1em	is_a	FBrf0255988
+15556861	larval ascending neuron	catmaid_l1em	is_a	FBrf0255988
+10949030	larval ascending neuron	catmaid_l1em	is_a	FBrf0255988
+3220616	larval ascending neuron	catmaid_l1em	is_a	FBrf0255988
+5606265	larval ascending neuron	catmaid_l1em	is_a	FBrf0255988
+16278312	larval ascending neuron	catmaid_l1em	is_a	FBrf0255988
+19718010	larval ascending neuron	catmaid_l1em	is_a	FBrf0255988
+3564452	larval ascending neuron	catmaid_l1em	is_a	FBrf0255988
+3571478	larval ascending neuron	catmaid_l1em	is_a	FBrf0255988
+16444552	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+17340931	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+11011058	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+2667061	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+11409587	larval mechanosensory multidendritic projection neuron	catmaid_l1em	is_a	FBrf0255988
+17019327	larval mechanosensory multidendritic projection neuron	catmaid_l1em	is_a	FBrf0255988
+16937815	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+13411525	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+18648531	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+4433960	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+16089738	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+9006142	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+17140424	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+17373283	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+11908619	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+14329745	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+16026677	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+16464284	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+7053966	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+9051960	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+14071449	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+15468308	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+14073503	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+12789813	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+14342744	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+9061235	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+13665529	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+13806524	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+9641919	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+5783868	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+9753530	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+10339991	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+8318813	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+19786464	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+14495367	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+8184598	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+4214582	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+17813006	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+13953546	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+17330632	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+5669107	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+16405545	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+15618614	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+13836327	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+9057998	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+14214039	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+4398543	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+16799939	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+11029359	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+17557290	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+15519213	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+11216417	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+10400440	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+18500915	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+11329998	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+19088042	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+11871574	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+12928099	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+17380092	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+15676571	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+3232277	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+10946002	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+5791548	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+8451818	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+18264509	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+16846902	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+13365464	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+8717042	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+11102156	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+15474790	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+9870483	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+12935696	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+15566333	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+15568333	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+15974183	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+15662776	larval mushroom body-lateral horn convergence neuron	catmaid_l1em	is_a	FBrf0255988
+17358864	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+16561224	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+13842372	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+6702943	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+10728323	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+2655798	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+3944626	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+16195633	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+14539753	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+9424902	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+8357933	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+12962772	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+3027876	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+13764822	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+5688091	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+5038920	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+17062823	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+17814107	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+3539170	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+17740547	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+13313410	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+4991243	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+17732291	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+17355745	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+17356454	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+12000033	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+3797420	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+18440675	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+17351780	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+11229136	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+17359133	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+9842383	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+13830600	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+17728571	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+17423125	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+17728605	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+17359101	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+1924051	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+17356450	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+11195708	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+16588928	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+8154054	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+11007420	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+10527147	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+19470184	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+992646	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+8216541	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+17951049	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+3814701	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+17732791	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+13833814	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+16424131	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+5764924	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+3882998	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+9795662	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+5684940	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+9787859	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+17321919	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+6604203	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+3729496	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+16713227	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+3944330	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+9787592	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+14034311	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+3044500	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+10018161	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+17359111	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+17087885	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+11217208	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+16676038	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+7130033	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+11009492	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+17728922	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+16340977	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+10059655	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+7338309	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+3498479	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+17776982	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+6445994	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+20139548	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+18305476	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+18695745	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+7955278	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+10756813	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+17809869	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+16393165	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+10167116	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+8159396	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+13580849	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+16586265	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+8227502	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+17659219	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+16158918	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+2557644	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+9750356	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+5558724	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+12335381	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+19054481	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+17529547	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+869360	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+6219445	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+16057212	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+10221622	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+5559657	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+16463097	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+865151	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+17698681	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+17355872	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+13968203	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+17355892	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+858479	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+16884962	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+7573476	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+3732322	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+15599768	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+4541081	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+10263287	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+9761454	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+15334461	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+16316981	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+13167025	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+10947427	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+11261332	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+15250080	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+7982324	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+11941255	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+4215611	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+2670619	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+3762317	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+17659014	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+15732050	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+13191017	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+5976168	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+6317793	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+17379360	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+16316973	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+17324711	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+5993001	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+13645610	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+5996485	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+17304269	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+9234420	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+18232369	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+11639192	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+17352470	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+3414508	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+6554358	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+3436420	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+17380345	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+13007383	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+17587734	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+12026822	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+2648254	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+17654519	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+3486867	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+5478818	larval descending neuron to SEZ	catmaid_l1em	is_a	FBrf0255988
+5754346	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+3764792	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+10411574	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17379420	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+14651659	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+13736919	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+18929470	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+13760954	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17877682	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+6700147	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+7005184	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+7569260	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+1622901	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+16952691	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+16851577	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+16952671	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+16952648	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+16952665	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+16670540	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+16952642	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+16667592	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+19361427	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+16851496	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+6156152	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+5052370	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+16950798	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+6154200	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+5900426	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+6154921	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+16950443	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+6155577	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+16950550	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+16950354	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+16339338	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17736748	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17639824	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+10716080	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+10728318	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+3595837	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+3598000	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17022668	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+12474164	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17223685	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+8880781	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+1678567	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+7571966	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+6153877	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+3048606	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+7335439	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+3009700	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+5500958	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+8755914	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+8741619	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+10915553	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17732270	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+13422280	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+18527962	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+15588711	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+7227010	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+15365184	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+5763407	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+8391330	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+10609443	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17473163	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+15639294	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+3946166	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+5690425	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+8047280	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+5680013	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+18123575	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+18305433	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+4110483	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17102002	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17354403	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17732346	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+10018150	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+8723983	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17732334	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+16928740	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17359501	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+13749806	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+6572414	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+19298644	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+1980134	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+19298625	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+15522152	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+7005145	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+15897280	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+16562142	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17053270	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+18485293	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+10921106	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17353986	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+7439913	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17075832	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17358891	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+18058793	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17732256	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17732311	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+16675987	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17777031	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17736755	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+11013583	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+20556072	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+16852622	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17736641	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+18076102	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17736654	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17165755	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+15005403	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+16667306	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+10553248	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+11905911	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+6125806	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+7589765	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+19508873	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+10945795	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+16115575	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+5512988	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+10945111	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+5993765	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+6114695	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+16571210	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+3620633	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+19010160	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+7587948	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17658978	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17543765	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17587730	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17587726	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+1065967	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+12030078	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17378648	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17379298	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+16115255	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+16347786	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+15560623	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+13763548	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+14034206	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+13081886	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17537254	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+7982307	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+16154290	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+15548844	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+7590264	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+2669844	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+15894278	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+5319633	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17647621	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+16388736	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+18604097	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+15934458	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+14039007	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+19190681	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+14588375	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17656886	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+5995125	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+13646473	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+15672263	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+15964206	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17589475	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17025508	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+16950767	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+20911955	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+17654514	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+20911961	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+13727202	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+15894178	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+16520950	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+8496618	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+16561660	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+13652117	larval descending neuron to VNC	catmaid_l1em	is_a	FBrf0255988
+3946432	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+2935173	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+12476851	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+16070049	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+12138418	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+8310087	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+12299621	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+8034919	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+10875625	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+4067286	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+17361757	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+12813847	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+17038587	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+8065771	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+8423405	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+11137808	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+12587013	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+9015568	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+16442113	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+3814175	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+12498338	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+3913629	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+5453333	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+13803032	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+11703922	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+16181377	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+11004239	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+8069478	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+12839441	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+17125520	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+8238322	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+11210000	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+11257084	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+7612147	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+14319185	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+8565131	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+13206239	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+8847957	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+14333495	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+13858797	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+5118060	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+15605987	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+5118060	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+15605987	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+17729110	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+16399845	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+16098538	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+8670503	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+16474159	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+9291437	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+16100461	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+4391317	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+8974428	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+4721538	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+2369444	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+8711574	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+11826171	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+9294475	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+8069365	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+10119916	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+9201911	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+4778745	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+17591687	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+4319395	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+4279887	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+9747418	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+17962513	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+19611917	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+17244655	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+12745771	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+5289042	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+9488991	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+4393026	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+8347613	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+7982896	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+18566501	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+2979486	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+16141217	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+12387154	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+16494105	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+14461238	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+11193510	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+14450919	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+9421292	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+10955244	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+17420035	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+16409132	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+14333371	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+3946569	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+17696578	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+2379529	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+4780707	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+6494382	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+14818307	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+10961507	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+17732085	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+10018260	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+19045334	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+8203947	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+4422289	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+14319498	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+12371688	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+10922020	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+4379603	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+17047087	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+9207332	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+7582489	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+2439134	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+10710503	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+5963873	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+12281339	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+14434314	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+16386470	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+8582134	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+10427055	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+17641913	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+4379508	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+3158123	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+2439150	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+17423412	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+3814651	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+5938794	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+16089743	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+10382686	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+14133114	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+16444544	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+10293348	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+4127707	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+8842220	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+8138616	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+17360593	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+2914206	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+9291938	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+5585799	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+16131474	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+8349553	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+8177199	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+15588389	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+9585145	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+13722516	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+8723267	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+4108720	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+18292832	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+3930411	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+18220289	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+5507096	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+11248536	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+8705088	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+17896997	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+2932028	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+8813113	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+16260741	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+3815483	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+15683275	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+2963280	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+3932136	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+3232808	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+8698941	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+17379372	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+9585036	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+17952967	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+11605861	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+17942676	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+9811608	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+17123466	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+8307514	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+7431625	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+8305958	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+7977834	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+4099900	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+18142558	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+4101621	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+9585013	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+13369670	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+17013169	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+8469124	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+17437725	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+13429045	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+3794023	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+15225589	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+11851588	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+13038489	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+15732471	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+8310955	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+10340880	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+16100103	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+17166682	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+8981761	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+17729088	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+11037238	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+9637388	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+7719118	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+17729088	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+11037238	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+9637388	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+7719118	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+5762666	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+17777259	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+5762666	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+17777259	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+5762666	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+17777259	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+4635057	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+7971031	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+6591182	larval mushroom body two-step feedback neuron	catmaid_l1em	is_a	FBrf0255988
+6597872	larval mushroom body two-step feedback neuron	catmaid_l1em	is_a	FBrf0255988
+17176767	larval mushroom body two-step feedback neuron	catmaid_l1em	is_a	FBrf0255988
+17176781	larval mushroom body two-step feedback neuron	catmaid_l1em	is_a	FBrf0255988
+3945246	larval mushroom body two-step feedback neuron	catmaid_l1em	is_a	FBrf0255988
+19271710	larval mushroom body two-step feedback neuron	catmaid_l1em	is_a	FBrf0255988
+16486385	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+11178891	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+4665186	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+17671219	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+9447255	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+16295025	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+17434825	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+16485079	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+12233237	larval mushroom body two-step feedback neuron 1	catmaid_l1em	is_a	FBrf0255988
+11528017	larval mushroom body two-step feedback neuron 1	catmaid_l1em	is_a	FBrf0255988
+9252296	larval proprioceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+4201555	larval proprioceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+9252296	larval mushroom body two-step feedback neuron 10	catmaid_l1em	is_a	FBrf0255988
+4201555	larval mushroom body two-step feedback neuron 10	catmaid_l1em	is_a	FBrf0255988
+17280216	larval mushroom body two-step feedback neuron 13	catmaid_l1em	is_a	FBrf0255988
+4337398	larval mushroom body two-step feedback neuron 13	catmaid_l1em	is_a	FBrf0255988
+8052161	larval mushroom body two-step feedback neuron 14	catmaid_l1em	is_a	FBrf0255988
+4152272	larval mushroom body two-step feedback neuron 14	catmaid_l1em	is_a	FBrf0255988
+5091874	larval mushroom body two-step feedback neuron 15	catmaid_l1em	is_a	FBrf0255988
+9287906	larval mushroom body two-step feedback neuron 15	catmaid_l1em	is_a	FBrf0255988
+16160495	larval mushroom body two-step feedback neuron 16	catmaid_l1em	is_a	FBrf0255988
+8814922	larval mushroom body two-step feedback neuron 16	catmaid_l1em	is_a	FBrf0255988
+16848475	larval mushroom body two-step feedback neuron 17	catmaid_l1em	is_a	FBrf0255988
+17980792	larval mushroom body two-step feedback neuron 17	catmaid_l1em	is_a	FBrf0255988
+9527333	larval mushroom body two-step feedback neuron 19	catmaid_l1em	is_a	FBrf0255988
+13210358	larval mushroom body two-step feedback neuron 19	catmaid_l1em	is_a	FBrf0255988
+9083312	larval mushroom body two-step feedback neuron 2	catmaid_l1em	is_a	FBrf0255988
+14077179	larval mushroom body two-step feedback neuron 2	catmaid_l1em	is_a	FBrf0255988
+11476614	larval mushroom body two-step feedback neuron 20	catmaid_l1em	is_a	FBrf0255988
+18084995	larval mushroom body two-step feedback neuron 20	catmaid_l1em	is_a	FBrf0255988
+14158399	larval mushroom body two-step feedback neuron 21	catmaid_l1em	is_a	FBrf0255988
+17784367	larval mushroom body two-step feedback neuron 21	catmaid_l1em	is_a	FBrf0255988
+18035864	larval mushroom body two-step feedback neuron 3	catmaid_l1em	is_a	FBrf0255988
+4411688	larval mushroom body two-step feedback neuron 3	catmaid_l1em	is_a	FBrf0255988
+13852833	larval mushroom body two-step feedback neuron 4	catmaid_l1em	is_a	FBrf0255988
+9457719	larval mushroom body two-step feedback neuron 4	catmaid_l1em	is_a	FBrf0255988
+17177005	larval mushroom body two-step feedback neuron 5	catmaid_l1em	is_a	FBrf0255988
+8019816	larval mushroom body two-step feedback neuron 5	catmaid_l1em	is_a	FBrf0255988
+12398622	larval mushroom body two-step feedback neuron 7	catmaid_l1em	is_a	FBrf0255988
+4103336	larval mushroom body two-step feedback neuron 7	catmaid_l1em	is_a	FBrf0255988
+8540770	larval mushroom body two-step feedback neuron 8	catmaid_l1em	is_a	FBrf0255988
+15488316	larval mushroom body two-step feedback neuron 8	catmaid_l1em	is_a	FBrf0255988
+15343835	larval mushroom body two-step feedback neuron 9	catmaid_l1em	is_a	FBrf0255988
+4114133	larval mushroom body two-step feedback neuron 9	catmaid_l1em	is_a	FBrf0255988
+17147698	larval mushroom body output neuron b1	catmaid_l1em	is_a	FBrf0255988
+8094859	larval mushroom body output neuron b1	catmaid_l1em	is_a	FBrf0255988
+16223537	larval mushroom body output neuron c1	catmaid_l1em	is_a	FBrf0255988
+9109799	larval mushroom body output neuron d3	catmaid_l1em	is_a	FBrf0255988
+9074101	larval mushroom body output neuron d3	catmaid_l1em	is_a	FBrf0255988
+14082322	larval mushroom body output neuron e1	catmaid_l1em	is_a	FBrf0255988
+7840791	larval mushroom body output neuron e1	catmaid_l1em	is_a	FBrf0255988
+8922644	larval mushroom body output neuron e2	catmaid_l1em	is_a	FBrf0255988
+8297018	larval mushroom body output neuron e2	catmaid_l1em	is_a	FBrf0255988
+15253921	larval mushroom body output neuron f1	catmaid_l1em	is_a	FBrf0255988
+4598109	larval mushroom body output neuron f1	catmaid_l1em	is_a	FBrf0255988
+15421363	larval mushroom body output neuron j1	catmaid_l1em	is_a	FBrf0255988
+16846805	larval mushroom body output neuron k1	catmaid_l1em	is_a	FBrf0255988
+18028397	larval mushroom body output neuron k1	catmaid_l1em	is_a	FBrf0255988
+15398730	larval mushroom body output neuron n1	catmaid_l1em	is_a	FBrf0255988
+6703240	larval mushroom body output neuron n1	catmaid_l1em	is_a	FBrf0255988
+16868923	larval mushroom body output neuron o1	catmaid_l1em	is_a	FBrf0255988
+17013073	larval mushroom body output neuron o1	catmaid_l1em	is_a	FBrf0255988
+15623649	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+20443457	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+17884299	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+11333054	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+3709977	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+13789482	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+3709977	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+13789482	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+12156009	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+7020344	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+11067379	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+4393049	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+11067379	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+4393049	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+17036160	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+17036132	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+15547235	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+11157622	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+19101351	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+3848843	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+12360656	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+17819985	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+5327961	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+11821320	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+12336493	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+11934107	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+11986594	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+11146422	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+18087179	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+14756000	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+2568522	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+17277623	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+16435325	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+11184236	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+6220384	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+4983938	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+3844961	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+6218461	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+19276024	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+17587452	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+13634759	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+12612426	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+10013517	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+8995807	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+15608355	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+12121795	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+6252764	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+11788830	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+5708994	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+17654617	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+3650006	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+12424328	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+15829660	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+16457812	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+18740553	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+11853038	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+5053417	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+11656349	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+13832416	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+12617396	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+3543931	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+16906721	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+3814635	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+12842593	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+16188942	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+16297403	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+5591201	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+3844799	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+13795090	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+5590611	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+15608355	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+12121795	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+6252764	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+11788830	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+5708994	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+17654617	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+3650006	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+12424328	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+15829660	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+16457812	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+18740553	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+11853038	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+5053417	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+11656349	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+13832416	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+12617396	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+3543931	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+16906721	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+3814635	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+12842593	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+16188942	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+16297403	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+5591201	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+3844799	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+13795090	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+5590611	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+12089601	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+11838242	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+12425856	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+12478620	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+13173311	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+16318521	larval pharyngeal gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+12740290	larval gut internal state projection neuron	catmaid_l1em	is_a	FBrf0255988
+9787933	larval gut internal state projection neuron	catmaid_l1em	is_a	FBrf0255988
+2432564	larval gut internal state projection neuron	catmaid_l1em	is_a	FBrf0255988
+867393	larval gut internal state projection neuron	catmaid_l1em	is_a	FBrf0255988
+3945394	larval gut internal state projection neuron	catmaid_l1em	is_a	FBrf0255988
+3945225	larval gut internal state projection neuron	catmaid_l1em	is_a	FBrf0255988
+3729504	larval gut internal state projection neuron	catmaid_l1em	is_a	FBrf0255988
+3793681	larval gut internal state projection neuron	catmaid_l1em	is_a	FBrf0255988
+3945394	larval mechanosensory multidendritic projection neuron	catmaid_l1em	is_a	FBrf0255988
+3945225	larval mechanosensory multidendritic projection neuron	catmaid_l1em	is_a	FBrf0255988
+3729504	larval mechanosensory multidendritic projection neuron	catmaid_l1em	is_a	FBrf0255988
+3793681	larval mechanosensory multidendritic projection neuron	catmaid_l1em	is_a	FBrf0255988
+2628785	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+4311586	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+8542422	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+8069432	larval lateral horn neuron	catmaid_l1em	is_a	FBrf0255988
+2628785	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+4311586	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+8542422	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+8069432	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+12225666	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+4327684	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+12225666	larval warm cell thermosensory projection neuron	catmaid_l1em	is_a	FBrf0255988
+4327684	larval warm cell thermosensory projection neuron	catmaid_l1em	is_a	FBrf0255988
+12225666	larval mushroom body feedforward neuron 21	catmaid_l1em	is_a	FBrf0255988
+4327684	larval mushroom body feedforward neuron 21	catmaid_l1em	is_a	FBrf0255988
+3450751	larval multiglomerular antennal lobe projection neuron	catmaid_l1em	is_a	FBrf0255988
+10160250	larval multiglomerular antennal lobe projection neuron	catmaid_l1em	is_a	FBrf0255988
+17743170	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+13858824	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+8293958	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+3869488	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+8293958	larval cool cell thermosensory projection neuron	catmaid_l1em	is_a	FBrf0255988
+3869488	larval cool cell thermosensory projection neuron	catmaid_l1em	is_a	FBrf0255988
+10323628	larval respiratory state projection neuron	catmaid_l1em	is_a	FBrf0255988
+8370111	larval respiratory state projection neuron	catmaid_l1em	is_a	FBrf0255988
+3991518	larval cool cell thermosensory projection neuron	catmaid_l1em	is_a	FBrf0255988
+9747710	larval cool cell thermosensory projection neuron	catmaid_l1em	is_a	FBrf0255988
+4154421	larval cool cell thermosensory projection neuron	catmaid_l1em	is_a	FBrf0255988
+3690921	larval cool cell thermosensory projection neuron	catmaid_l1em	is_a	FBrf0255988
+4260935	larval cool cell thermosensory projection neuron	catmaid_l1em	is_a	FBrf0255988
+3756659	larval cool cell thermosensory projection neuron	catmaid_l1em	is_a	FBrf0255988
+4108016	larval cool cell thermosensory projection neuron	catmaid_l1em	is_a	FBrf0255988
+3002410	larval cool cell thermosensory projection neuron	catmaid_l1em	is_a	FBrf0255988
+8012953	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+8254894	larval external gustatory projection neuron	catmaid_l1em	is_a	FBrf0255988
+14493841	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+11361875	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+12325227	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+9507904	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+9072237	larval proprioceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+4201020	larval proprioceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+15587533	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+11029851	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+9481869	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+14762026	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+16961482	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+10403609	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+11286854	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+2910892	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+17729195	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+16014701	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+16595001	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+11719626	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+5755261	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+17464168	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+12367568	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+17729020	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+9508724	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+19102929	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+19919566	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+11717001	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+10714526	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+16472086	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+14797760	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+16059078	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+21136945	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+10282065	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+16985194	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+8942413	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+2885630	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+5545085	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+16574328	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+21591033	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+20278329	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+2846555	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+8641784	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+12884490	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+15684934	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+17541953	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+15668869	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+1137946	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+10683313	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+2911847	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+16433177	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+15679639	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+4130960	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+17654638	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+5946241	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+15068806	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+18106257	larval proprioceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+17031293	larval proprioceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+18106257	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+17031293	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+9503414	larval mechanosensory multidendritic projection neuron	catmaid_l1em	is_a	FBrf0255988
+9524538	larval mechanosensory multidendritic projection neuron	catmaid_l1em	is_a	FBrf0255988
+3931398	larval mechanosensory multidendritic projection neuron	catmaid_l1em	is_a	FBrf0255988
+13950464	larval mechanosensory multidendritic projection neuron	catmaid_l1em	is_a	FBrf0255988
+11946903	larval mechanosensory multidendritic projection neuron	catmaid_l1em	is_a	FBrf0255988
+3793760	larval mechanosensory multidendritic projection neuron	catmaid_l1em	is_a	FBrf0255988
+18656202	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+17105977	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+18655517	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+8970595	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+17360254	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+10893103	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+9720614	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+5769582	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+9753418	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+16490014	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+17729424	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+16485518	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+11263687	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+10982951	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+20343986	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+12273754	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+17729410	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+14338439	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+16594752	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+20730780	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+4664256	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+5744058	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+5691934	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+11291653	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+12667895	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+6723364	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+18058644	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+15514582	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+12195879	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+10229852	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+16541149	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+11003551	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+17108278	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+16561284	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+1141813	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+8821758	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+9621307	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+6692908	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+8697453	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+2881070	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+4393350	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+17654624	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+9161929	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+8805777	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+9530532	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+9202326	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+17326218	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+4128002	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+3862443	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+8412625	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+17425996	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+10198121	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+8939384	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+8826198	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+20443598	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+16347283	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+10079731	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+17913199	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+9051500	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+17173922	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+21220994	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+6633635	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+17165621	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+8229118	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+9241349	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+9422291	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+21220994	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+6633635	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+17165621	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+8229118	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+9241349	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+9422291	larval chordotonal projection neuron	catmaid_l1em	is_a	FBrf0255988
+17110024	larval proprioceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+9037152	larval proprioceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+15028907	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+11362589	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+16950121	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+4849988	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+16935790	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+18412747	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+12390459	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+8814524	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+19881737	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+17110189	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+16856369	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+11359482	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+17336347	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+19989037	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+17340973	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+2505266	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+6182848	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+4185530	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+16356967	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+10319019	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+5750884	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+20443420	larval nociceptive projection neuron	catmaid_l1em	is_a	FBrf0255988
+4874953	larval ring gland projection neuron	catmaid_l1em	is_a	FBrf0255988
+5469039	larval ring gland projection neuron	catmaid_l1em	is_a	FBrf0255988
+7476468	larval ring gland projection neuron	catmaid_l1em	is_a	FBrf0255988
+3926669	larval ring gland projection neuron	catmaid_l1em	is_a	FBrf0255988
+3926438	larval ring gland projection neuron	catmaid_l1em	is_a	FBrf0255988
+3762787	larval ring gland projection neuron	catmaid_l1em	is_a	FBrf0255988
+3727026	larval ring gland projection neuron	catmaid_l1em	is_a	FBrf0255988
+3727004	larval ring gland projection neuron	catmaid_l1em	is_a	FBrf0255988
+16683883	larval ring gland projection neuron	catmaid_l1em	is_a	FBrf0255988
+16683943	larval ring gland projection neuron	catmaid_l1em	is_a	FBrf0255988
+3925724	larval ring gland projection neuron	catmaid_l1em	is_a	FBrf0255988
+3926904	larval ring gland projection neuron	catmaid_l1em	is_a	FBrf0255988
+16434842	larval PTTH neuron of pars lateralis	catmaid_l1em	is_a	FBrf0255988
+5956787	larval ring gland projection neuron	catmaid_l1em	is_a	FBrf0255988
+7530253	larval ring gland projection neuron	catmaid_l1em	is_a	FBrf0255988
+5955853	larval ring gland projection neuron	catmaid_l1em	is_a	FBrf0255988
+7529574	larval ring gland projection neuron	catmaid_l1em	is_a	FBrf0255988
+3586984	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+5186461	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+5088293	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+5116147	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+3652587	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+5120097	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+5057916	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+5116861	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+5095269	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+5120990	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+3966683	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+9853425	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+4097554	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+4017089	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+3822523	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+4096703	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+16115501	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+4059758	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+4030526	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+4044654	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15716934	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15714639	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+4338596	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15716701	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15690093	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15689373	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15674262	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+12260696	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15679577	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15938337	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15681740	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15677323	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+11745381	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+18934019	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15716309	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+12073881	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15715643	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15688358	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15680093	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+11736972	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15716127	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15673867	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15716094	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15677030	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15686512	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15673925	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+8055671	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+9808022	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15717426	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15715151	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15690711	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15714845	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15712024	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15717229	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15711289	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15698623	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15678849	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15713374	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15700147	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15714330	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15690955	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15711222	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15699715	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+3267019	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15730680	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15714173	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15675901	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15678833	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+19180425	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15680710	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15678441	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15674083	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15679484	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15690392	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15715796	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15713206	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15746421	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15595950	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15652529	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15556868	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15615042	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15588691	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15556081	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15615589	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+18625446	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15595607	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15589411	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15653288	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15653432	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15609885	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15736147	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+12253020	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+16341399	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15588800	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+10934438	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15595823	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+3071301	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15651438	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15589362	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15656435	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15615081	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15615776	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+5448622	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15658013	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+8810739	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15653927	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15762568	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15615475	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15620606	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15629241	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+18679889	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15594123	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15618976	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15620432	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15743905	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15638742	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15617459	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15607180	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+18833414	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15612241	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15618756	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15671481	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15615877	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+3562954	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15609427	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15629355	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15611642	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15611791	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15610387	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15615305	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15606918	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15629888	larval external sense organ gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+11671564	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15995929	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15997645	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15997692	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15590761	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+1706716	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+7439909	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15998817	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15998782	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15998768	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15998469	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15998307	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15998218	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15998100	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15997983	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15997929	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15997807	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15996518	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15995404	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15998261	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+1715990	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+1347886	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15996160	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15996271	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+17608754	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15995861	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15998753	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+1709802	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+1011675	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15997666	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15998319	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15998913	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15998899	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15522777	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15506094	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15592696	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15507888	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15409328	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15541976	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15531033	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15530882	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15531916	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15525858	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+16341507	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15573283	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+16341966	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15458316	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15434200	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+18620885	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15398807	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+3795498	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15461769	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15451084	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15573331	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+7160160	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15533421	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15505837	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+16362243	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15445198	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+3192952	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15532105	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15541944	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15508735	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15542199	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15594038	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15508475	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15605657	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+3054101	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+16288872	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+7556564	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15717736	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15717935	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15723727	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15718275	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15727304	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15725545	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15725127	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15724636	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15724520	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15723479	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+3032520	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+3050645	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15728017	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15730645	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+3036249	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15725673	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15724385	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15724175	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+3199456	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15639171	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15640893	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15639020	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+3123905	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15641926	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15645825	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15672153	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15639275	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15637893	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15671848	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15638520	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15640548	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15640425	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15639548	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15640567	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15914721	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15672957	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+18785124	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15638968	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+15640724	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+8199012	larval pharyngeal gustatory receptor neuron	catmaid_l1em	is_a	FBrf0255988
+1427012	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15995327	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+17380936	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15994926	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+1351125	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+1419315	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+1428271	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+1432836	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+1415168	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15984231	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15766999	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15983225	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+7424178	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15984797	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15770945	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+1435466	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15982306	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+1400725	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+9820270	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+1405493	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+1431256	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+1392771	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+1377586	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+1375101	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+1406463	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+9838294	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+1391179	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+1414206	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15769680	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15770904	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15983156	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+1429969	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+1398253	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15770032	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15769419	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+1367171	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+40152	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+1395971	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+13744425	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+2284021	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15547732	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15748726	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15542354	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15576194	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15564911	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15574508	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15575052	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15575232	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15572414	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15564782	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+945309	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15567466	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+18231999	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15587166	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15564882	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15564661	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+17951153	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15546924	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15569561	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15561413	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15574328	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15548694	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+9716858	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15563553	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15562137	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+6883831	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15573450	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15586536	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15573381	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15564807	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15575327	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15543394	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15564706	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15574941	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+9748269	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+16442344	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15543068	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15574199	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+3556191	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15548107	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15559195	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15573396	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+15574231	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+2340336	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+2456826	larval gut internal state sensory neuron	catmaid_l1em	is_a	FBrf0255988
+3609202	dorsal organ cool cell	catmaid_l1em	is_a	FBrf0255988
+3639968	dorsal organ cool cell	catmaid_l1em	is_a	FBrf0255988
+3608397	dorsal organ cool cell	catmaid_l1em	is_a	FBrf0255988
+3487306	dorsal organ cool cell	catmaid_l1em	is_a	FBrf0255988
+18630153	dorsal organ cool cell	catmaid_l1em	is_a	FBrf0255988
+3650600	dorsal organ cool cell	catmaid_l1em	is_a	FBrf0255988
+2610744	dorsal organ warming cell	catmaid_l1em	is_a	FBrf0255988
+5093516	dorsal organ warming cell	catmaid_l1em	is_a	FBrf0255988
+3985829	dorsal organ warming cell	catmaid_l1em	is_a	FBrf0255988
+4023881	dorsal organ warming cell	catmaid_l1em	is_a	FBrf0255988
