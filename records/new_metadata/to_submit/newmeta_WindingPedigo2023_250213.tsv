@@ -1,0 +1,5 @@
+subject_external_id	object	subject_external_db	relation
+4595609	larval abdominal 1 pCC neuron	catmaid_l1em	is_a
+19120853	larval abdominal 1 pCC neuron	catmaid_l1em	is_a
+21250110	larval abdominal 1 A10j neuron	catmaid_l1em	is_a
+9640873	larval abdominal 1 A10j neuron	catmaid_l1em	is_a
