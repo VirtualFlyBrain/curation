@@ -1,0 +1,21 @@
+subject_external_id	subject_name	object	pub	comment	subject_external_db	relation
+1138212774	aIPg1		FlyBase:FBrf0247707		neuprint_JRC_Hemibrain_1point2point1	is_a
+707854989	aIPg1		FlyBase:FBrf0247707		neuprint_JRC_Hemibrain_1point2point1	is_a
+707858790	aIPg1		FlyBase:FBrf0247707		neuprint_JRC_Hemibrain_1point2point1	is_a
+707863263	aIPg1		FlyBase:FBrf0247707		neuprint_JRC_Hemibrain_1point2point1	is_a
+1882009576	aIPg2		FlyBase:FBrf0247707		neuprint_JRC_Hemibrain_1point2point1	is_a
+5813022814	aIPg2		FlyBase:FBrf0247707		neuprint_JRC_Hemibrain_1point2point1	is_a
+5813035694	aIPg2		FlyBase:FBrf0247707		neuprint_JRC_Hemibrain_1point2point1	is_a
+645456880	aIPg2		FlyBase:FBrf0247707		neuprint_JRC_Hemibrain_1point2point1	is_a
+676479156	aIPg2		FlyBase:FBrf0247707		neuprint_JRC_Hemibrain_1point2point1	is_a
+5813098975	aIPg3		FlyBase:FBrf0247707		neuprint_JRC_Hemibrain_1point2point1	is_a
+768590452	aIPg3		FlyBase:FBrf0247707		neuprint_JRC_Hemibrain_1point2point1	is_a
+359744514	pC1a	adult doublesex pC1a (female) neuron	FlyBase:FBrf0247707		neuprint_JRC_Hemibrain_1point2point1	is_a
+5813046951	pC1a	adult doublesex pC1a (female) neuron	FlyBase:FBrf0247707		neuprint_JRC_Hemibrain_1point2point1	is_a
+267214250	pC1b	adult doublesex pC1b (female) neuron	FlyBase:FBrf0247707		neuprint_JRC_Hemibrain_1point2point1	is_a
+392821837	pC1b	adult doublesex pC1b (female) neuron	FlyBase:FBrf0247707		neuprint_JRC_Hemibrain_1point2point1	is_a
+267551639	pC1c	adult doublesex pC1c (female) neuron	FlyBase:FBrf0247707		neuprint_JRC_Hemibrain_1point2point1	is_a
+550319575	pC1c	adult doublesex pC1c (female) neuron	FlyBase:FBrf0247707		neuprint_JRC_Hemibrain_1point2point1	is_a
+5813063587	pC1d	adult doublesex pC1d (female) neuron	FlyBase:FBrf0247707		neuprint_JRC_Hemibrain_1point2point1	is_a
+5813013342	pC1d	adult doublesex pC1d (female) neuron	FlyBase:FBrf0247707		neuprint_JRC_Hemibrain_1point2point1	is_a
+514850616	pC1e	adult doublesex pC1e (female) neuron	FlyBase:FBrf0247707		neuprint_JRC_Hemibrain_1point2point1	is_a
