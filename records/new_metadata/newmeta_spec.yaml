@@ -79,7 +79,10 @@ comment:
 
 pub:
   description: >
-      An identifier for a supporting publication - either a DOI (for preprints) or a FlyBase FBrf.
+      A short form of a supporting publication - either a DOI (for preprints) or a FlyBase FBrf.
+      FBrf short form example: "FBrf0246028".
+      DOIs need converting, for example: "doi:10.1101/2023.05.31.542897" -> "doi_10_1101__2023_05_31_542897".
+      Do not use quotation marks.
   type: pub
   edge_annotation: true
 
@@ -116,8 +119,6 @@ weight_per_roi:
      JSON should have the structure: { "ROI": <fu>, "weight": <int> }
   type: string
   edge_annotation: true
-
-
 
 
 
