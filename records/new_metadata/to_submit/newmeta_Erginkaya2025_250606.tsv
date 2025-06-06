@@ -21,6 +21,7 @@ catmaid_fafb	952120	is_a	adult posterior slope neuron 079
 catmaid_fafb	967830	is_a	adult posterior slope neuron 079
 catmaid_fafb	968121	is_a	adult posterior slope neuron 079
 catmaid_fafb	968974	is_a	adult posterior slope neuron 079
+catmaid_fafb	969205	is_a	adult CB0268 neuron
 catmaid_fafb	969248	is_a	adult posterior slope neuron 079
 catmaid_fafb	982897	is_a	vertical system neuron 1
 catmaid_fafb	986686	is_a	adult posterior slope neuron 078
@@ -34,6 +35,7 @@ catmaid_fafb	1934540	is_a	adult posterior slope neuron 078
 catmaid_fafb	2560371	is_a	adult posterior slope neuron 079
 catmaid_fafb	2725484	is_a	adult posterior slope neuron 079
 catmaid_fafb	2919033	is_a	adult posterior slope neuron 078
+catmaid_fafb	3029743	is_a	adult CB0268 neuron
 catmaid_fafb	3806558	is_a	adult posterior slope neuron 078
 catmaid_fafb	4058824	is_a	ventral giant horizontal cell HSS
 catmaid_fafb	4880580	is_a	ocellar ganglion interneuron
@@ -41,6 +43,7 @@ catmaid_fafb	4881421	is_a	adult posterior slope neuron 079
 catmaid_fafb	4905393	is_a	adult posterior slope neuron 126
 catmaid_fafb	4905399	is_a	ocellar ganglion interneuron
 catmaid_fafb	4906098	is_a	ocellar ganglion interneuron
+catmaid_fafb	5207414	is_a	adult CB0143 neuron
 catmaid_fafb	5218080	is_a	adult cervical nerve neck motor neuron
 catmaid_fafb	5224929	is_a	descending neuron of the posterior brain DNp15
 catmaid_fafb	5232902	is_a	lobula plate tangential neuron H2
