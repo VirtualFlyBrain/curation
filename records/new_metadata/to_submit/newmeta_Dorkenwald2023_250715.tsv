@@ -257,7 +257,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940605838560	FlyWire:720575940605838560	flywire783	is_a	lamina intrinsic neuron Lai	
 720575940605844838	FlyWire:720575940605844838	flywire783	is_a	transmedullary neuron Tm33	FlyBase:FBrf0262545
 720575940605845984	FlyWire:720575940605845984	flywire783	is_a	adult medulla visual projection neuron MeVP1	FlyBase:FBrf0262545
-720575940605851680	FlyWire:720575940605851680	flywire783	is_a	adult lobula intrinsic neuron Li20	FlyBase:FBrf0262545
+720575940605851680	FlyWire:720575940605851680	flywire783	is_a	adult Li20 neuron	FlyBase:FBrf0262545
 720575940605853617	FlyWire:720575940605853617	flywire783	is_a	distal medullary amacrine neuron Dm8b	
 720575940605857470	FlyWire:720575940605857470	flywire783	is_a	transmedullary neuron Tm8	
 720575940605860320	FlyWire:720575940605860320	flywire783	is_a	adult central medulla intrinsic neuron Cm1	FlyBase:FBrf0262545
@@ -360,7 +360,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940606350526	FlyWire:720575940606350526	flywire783	is_a	transmedullary Y neuron TmY5a	
 720575940606357606	FlyWire:720575940606357606	flywire783	is_a	adult medulla intrinsic neuron Mi16	FlyBase:FBrf0262545
 720575940606403616	FlyWire:720575940606403616	flywire783	is_a	adult medulla-lobula neuron MeLo3b	FlyBase:FBrf0262545
-720575940606416817	FlyWire:720575940606416817	flywire783	is_a	adult lobula intrinsic neuron Li23	FlyBase:FBrf0262545
+720575940606416817	FlyWire:720575940606416817	flywire783	is_a	adult Li23 neuron	FlyBase:FBrf0262545
 720575940606422462	FlyWire:720575940606422462	flywire783	is_a	outer photoreceptor cell	
 720575940606425790	FlyWire:720575940606425790	flywire783	is_a	adult transmedullary Y neuron TmY21	FlyBase:FBrf0262545
 720575940606432614	FlyWire:720575940606432614	flywire783	is_a	adult medulla-lobula neuron MeLo4	FlyBase:FBrf0262545
@@ -678,7 +678,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940608215730	FlyWire:720575940608215730	flywire783	is_a	lamina intrinsic neuron Lai	
 720575940608228565	FlyWire:720575940608228565	flywire783	is_a	transmedullary neuron Tm9	
 720575940608231346	FlyWire:720575940608231346	flywire783	is_a	lobula plate intrinsic neuron LPi4a	FlyBase:FBrf0262545
-720575940608235186	FlyWire:720575940608235186	flywire783	is_a	adult central medulla intrinsic neuron Cm35	FlyBase:FBrf0262545
+720575940608235186	FlyWire:720575940608235186	flywire783	is_a	adult Cm35 neuron	FlyBase:FBrf0262545
 720575940608249969	FlyWire:720575940608249969	flywire783	is_a	adult central medulla intrinsic neuron Cm6	FlyBase:FBrf0262545
 720575940608253193	FlyWire:720575940608253193	flywire783	is_a	lobula plate intrinsic neuron LPi2d	FlyBase:FBrf0262545
 720575940608267650	FlyWire:720575940608267650	flywire783	is_a	lamina monopolar neuron L5	
@@ -768,7 +768,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940608836873	FlyWire:720575940608836873	flywire783	is_a	distal medullary amacrine neuron Dm3a	FlyBase:FBrf0262545
 720575940608838869	FlyWire:720575940608838869	flywire783	is_a	adult central medulla intrinsic neuron Cm1	FlyBase:FBrf0262545
 720575940608856331	FlyWire:720575940608856331	flywire783	is_a	adult central medulla intrinsic neuron Cm2	FlyBase:FBrf0262545
-720575940608867339	FlyWire:720575940608867339	flywire783	is_a	adult lobula intrinsic neuron Li21	FlyBase:FBrf0262545
+720575940608867339	FlyWire:720575940608867339	flywire783	is_a	adult Li21 neuron	FlyBase:FBrf0262545
 720575940608875785	FlyWire:720575940608875785	flywire783	is_a	transmedullary neuron Tm24	FlyBase:FBrf0262545
 720575940608883209	FlyWire:720575940608883209	flywire783	is_a	Y neuron Y4	
 720575940608886539	FlyWire:720575940608886539	flywire783	is_a	transmedullary neuron Tm30	FlyBase:FBrf0262545
@@ -876,7 +876,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940609401186	FlyWire:720575940609401186	flywire783	is_a	adult medulla-tubercle neuron 1	
 720575940609401283	FlyWire:720575940609401283	flywire783	is_a	distal medullary amacrine neuron Dm3b	FlyBase:FBrf0262545
 720575940609405646	FlyWire:720575940609405646	flywire783	is_a	alpha/beta Kenyon cell	
-720575940609406276	FlyWire:720575940609406276	flywire783	is_a	adult lobula intrinsic neuron Li20	FlyBase:FBrf0262545
+720575940609406276	FlyWire:720575940609406276	flywire783	is_a	adult Li20 neuron	FlyBase:FBrf0262545
 720575940609408963	FlyWire:720575940609408963	flywire783	is_a	distal medullary amacrine neuron Dm3a	FlyBase:FBrf0262545
 720575940609415522	FlyWire:720575940609415522	flywire783	is_a	adult medulla-tubercle neuron of dorsal rim area	
 720575940609415947	FlyWire:720575940609415947	flywire783	is_a	distal medullary amacrine neuron Dm3b	FlyBase:FBrf0262545
@@ -1145,7 +1145,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940610634962	FlyWire:720575940610634962	flywire783	is_a	transmedullary Y neuron TmY13	FlyBase:FBrf0262545
 720575940610635310	FlyWire:720575940610635310	flywire783	is_a	transmedullary neuron Tm8	
 720575940610637235	FlyWire:720575940610637235	flywire783	is_a	alpha/beta Kenyon cell	
-720575940610637870	FlyWire:720575940610637870	flywire783	is_a	adult lobula intrinsic neuron Li21	FlyBase:FBrf0262545
+720575940610637870	FlyWire:720575940610637870	flywire783	is_a	adult Li21 neuron	FlyBase:FBrf0262545
 720575940610642289	FlyWire:720575940610642289	flywire783	is_a	fan-shaped body columnar neuron	
 720575940610649464	FlyWire:720575940610649464	flywire783	is_a	alpha/beta Kenyon cell	
 720575940610653230	FlyWire:720575940610653230	flywire783	is_a	adult central medulla intrinsic neuron Cm28	FlyBase:FBrf0262545
@@ -1327,7 +1327,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940611274981	FlyWire:720575940611274981	flywire783	is_a	distal medullary amacrine neuron Dm3b	FlyBase:FBrf0262545
 720575940611286501	FlyWire:720575940611286501	flywire783	is_a	distal medullary amacrine neuron Dm3a	FlyBase:FBrf0262545
 720575940611290005	FlyWire:720575940611290005	flywire783	is_a	adult central medulla intrinsic neuron Cm3	FlyBase:FBrf0262545
-720575940611290066	FlyWire:720575940611290066	flywire783	is_a	adult lobula intrinsic neuron Li20	FlyBase:FBrf0262545
+720575940611290066	FlyWire:720575940611290066	flywire783	is_a	adult Li20 neuron	FlyBase:FBrf0262545
 720575940611291182	FlyWire:720575940611291182	flywire783	is_a	adult medulla-tubercle neuron 3	
 720575940611294050	FlyWire:720575940611294050	flywire783	is_a	distal medullary amacrine neuron Dm3a	FlyBase:FBrf0262545
 720575940611294562	FlyWire:720575940611294562	flywire783	is_a	accessory medulla neuron aMe25	
@@ -1630,7 +1630,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940612329395	FlyWire:720575940612329395	flywire783	is_a	distal medullary amacrine neuron Dm3b	FlyBase:FBrf0262545
 720575940612329907	FlyWire:720575940612329907	flywire783	is_a	adult central medulla intrinsic neuron Cm4	FlyBase:FBrf0262545
 720575940612330446	FlyWire:720575940612330446	flywire783	is_a	transmedullary Y neuron TmY5a	
-720575940612331994	FlyWire:720575940612331994	flywire783	is_a	adult lobula intrinsic neuron Li21	FlyBase:FBrf0262545
+720575940612331994	FlyWire:720575940612331994	flywire783	is_a	adult Li21 neuron	FlyBase:FBrf0262545
 720575940612333425	FlyWire:720575940612333425	flywire783	is_a	Y neuron Y4	
 720575940612336090	FlyWire:720575940612336090	flywire783	is_a	adult transmedullary Y neuron TmY17	FlyBase:FBrf0262545
 720575940612336867	FlyWire:720575940612336867	flywire783	is_a	adult medulla-lobula neuron MeLo6	FlyBase:FBrf0262545
@@ -1773,7 +1773,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940612638998	FlyWire:720575940612638998	flywire783	is_a	adult central medulla intrinsic neuron Cm1	FlyBase:FBrf0262545
 720575940612644522	FlyWire:720575940612644522	flywire783	is_a	distal medullary amacrine neuron Dm3b	FlyBase:FBrf0262545
 720575940612645017	FlyWire:720575940612645017	flywire783	is_a	distal medullary amacrine neuron Dm3b	FlyBase:FBrf0262545
-720575940612645082	FlyWire:720575940612645082	flywire783	is_a	adult lobula intrinsic neuron Li20	FlyBase:FBrf0262545
+720575940612645082	FlyWire:720575940612645082	flywire783	is_a	adult Li20 neuron	FlyBase:FBrf0262545
 720575940612646579	FlyWire:720575940612646579	flywire783	is_a	distal medullary amacrine neuron Dm3a	FlyBase:FBrf0262545
 720575940612646642	FlyWire:720575940612646642	flywire783	is_a	lamina monopolar neuron L1	
 720575940612646883	FlyWire:720575940612646883	flywire783	is_a	adult medulla-tubercle neuron 3	
@@ -2155,7 +2155,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940613582233	FlyWire:720575940613582233	flywire783	is_a	adult transmedullary Y neuron TmY19a	FlyBase:FBrf0262545
 720575940613591700	FlyWire:720575940613591700	flywire783	is_a	lamina wide-field 2 neuron	
 720575940613593837	FlyWire:720575940613593837	flywire783	is_a	adult central medulla intrinsic neuron Cm2	FlyBase:FBrf0262545
-720575940613594535	FlyWire:720575940613594535	flywire783	is_a	adult lobula intrinsic neuron Li23	FlyBase:FBrf0262545
+720575940613594535	FlyWire:720575940613594535	flywire783	is_a	adult Li23 neuron	FlyBase:FBrf0262545
 720575940613602541	FlyWire:720575940613602541	flywire783	is_a	adult medulla-lobula neuron MeLo7	FlyBase:FBrf0262545
 720575940613603242	FlyWire:720575940613603242	flywire783	is_a	centrifugal neuron C2	
 720575940613606809	FlyWire:720575940613606809	flywire783	is_a	adult central medulla intrinsic neuron Cm3	FlyBase:FBrf0262545
@@ -2198,7 +2198,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940613681458	FlyWire:720575940613681458	flywire783	is_a	alpha/beta Kenyon cell	
 720575940613681662	FlyWire:720575940613681662	flywire783	is_a	medulla columnar neuron MC64	
 720575940613684586	FlyWire:720575940613684586	flywire783	is_a	adult central medulla intrinsic neuron Cm5	FlyBase:FBrf0262545
-720575940613686698	FlyWire:720575940613686698	flywire783	is_a	adult central medulla intrinsic neuron Cm31a	FlyBase:FBrf0262545
+720575940613686698	FlyWire:720575940613686698	flywire783	is_a	adult Cm31a neuron	FlyBase:FBrf0262545
 720575940613688690	FlyWire:720575940613688690	flywire783	is_a	distal medullary amacrine neuron Dm3c	FlyBase:FBrf0262545
 720575940613689007	FlyWire:720575940613689007	flywire783	is_a	translobula plate neuron Tlp5	
 720575940613689640	FlyWire:720575940613689640	flywire783	is_a	distal medullary amacrine neuron Dm3c	FlyBase:FBrf0262545
@@ -2331,7 +2331,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940614145954	FlyWire:720575940614145954	flywire783	is_a	distal medullary amacrine neuron Dm8b	
 720575940614148283	FlyWire:720575940614148283	flywire783	is_a	alpha/beta Kenyon cell	
 720575940614151934	FlyWire:720575940614151934	flywire783	is_a	transmedullary Y neuron TmY13	FlyBase:FBrf0262545
-720575940614151976	FlyWire:720575940614151976	flywire783	is_a	adult lobula intrinsic neuron Li23	FlyBase:FBrf0262545
+720575940614151976	FlyWire:720575940614151976	flywire783	is_a	adult Li23 neuron	FlyBase:FBrf0262545
 720575940614152744	FlyWire:720575940614152744	flywire783	is_a	distal medullary amacrine neuron Dm3a	FlyBase:FBrf0262545
 720575940614158914	FlyWire:720575940614158914	flywire783	is_a	adult central medulla intrinsic neuron Cm3	FlyBase:FBrf0262545
 720575940614160179	FlyWire:720575940614160179	flywire783	is_a	distal medullary amacrine neuron Dm8b	
@@ -2827,7 +2827,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940615364305	FlyWire:720575940615364305	flywire783	is_a	medulla columnar neuron MC64	
 720575940615369322	FlyWire:720575940615369322	flywire783	is_a	adult central medulla intrinsic neuron Cm2	FlyBase:FBrf0262545
 720575940615371114	FlyWire:720575940615371114	flywire783	is_a	distal medullary amacrine neuron Dm3b	FlyBase:FBrf0262545
-720575940615374186	FlyWire:720575940615374186	flywire783	is_a	adult lobula intrinsic neuron Li21	FlyBase:FBrf0262545
+720575940615374186	FlyWire:720575940615374186	flywire783	is_a	adult Li21 neuron	FlyBase:FBrf0262545
 720575940615375116	FlyWire:720575940615375116	flywire783	is_a	adult central medulla intrinsic neuron Cm4	FlyBase:FBrf0262545
 720575940615377606	FlyWire:720575940615377606	flywire783	is_a	transmedullary neuron Tm24	FlyBase:FBrf0262545
 720575940615379573	FlyWire:720575940615379573	flywire783	is_a	distal medullary amacrine neuron Dm3a	FlyBase:FBrf0262545
@@ -3935,7 +3935,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940617949789	FlyWire:720575940617949789	flywire783	is_a	transmedullary Y neuron TmY5a	
 720575940617954817	FlyWire:720575940617954817	flywire783	is_a	adult central medulla intrinsic neuron Cm1	FlyBase:FBrf0262545
 720575940617956957	FlyWire:720575940617956957	flywire783	is_a	distal medullary amacrine neuron Dm3c	FlyBase:FBrf0262545
-720575940617957410	FlyWire:720575940617957410	flywire783	is_a	adult lobula intrinsic neuron Li21	FlyBase:FBrf0262545
+720575940617957410	FlyWire:720575940617957410	flywire783	is_a	adult Li21 neuron	FlyBase:FBrf0262545
 720575940617957915	FlyWire:720575940617957915	flywire783	is_a	alpha/beta Kenyon cell	
 720575940617957937	FlyWire:720575940617957937	flywire783	is_a	alpha/beta Kenyon cell	
 720575940617964500	FlyWire:720575940617964500	flywire783	is_a	adult central medulla intrinsic neuron Cm5	FlyBase:FBrf0262545
@@ -4172,9 +4172,9 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940618360721	FlyWire:720575940618360721	flywire783	is_a	adult lobula intrinsic neuron Li13	FlyBase:FBrf0262545
 720575940618366493	FlyWire:720575940618366493	flywire783	is_a	distal medullary amacrine neuron Dm3a	FlyBase:FBrf0262545
 720575940618368742	FlyWire:720575940618368742	flywire783	is_a	adult medulla-lobula neuron MeLo3a	FlyBase:FBrf0262545
-720575940618370260	FlyWire:720575940618370260	flywire783	is_a	adult lobula intrinsic neuron Li21	FlyBase:FBrf0262545
+720575940618370260	FlyWire:720575940618370260	flywire783	is_a	adult Li21 neuron	FlyBase:FBrf0262545
 720575940618370333	FlyWire:720575940618370333	flywire783	is_a	medulla tangential intrinsic neuron 1	FlyBase:FBrf0262545
-720575940618371796	FlyWire:720575940618371796	flywire783	is_a	adult lobula intrinsic neuron Li20	FlyBase:FBrf0262545
+720575940618371796	FlyWire:720575940618371796	flywire783	is_a	adult Li20 neuron	FlyBase:FBrf0262545
 720575940618374558	FlyWire:720575940618374558	flywire783	is_a	adult fan-shaped body layer 4 tangential neuron	
 720575940618375569	FlyWire:720575940618375569	flywire783	is_a	lamina monopolar neuron L3	
 720575940618375729	FlyWire:720575940618375729	flywire783	is_a	distal medullary amacrine neuron Dm3a	FlyBase:FBrf0262545
@@ -4287,7 +4287,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940618549021	FlyWire:720575940618549021	flywire783	is_a	distal medullary amacrine neuron Dm3a	FlyBase:FBrf0262545
 720575940618549451	FlyWire:720575940618549451	flywire783	is_a	transmedullary neuron Tm2	
 720575940618552374	FlyWire:720575940618552374	flywire783	is_a	distal medullary amacrine neuron Dm3b	FlyBase:FBrf0262545
-720575940618554041	FlyWire:720575940618554041	flywire783	is_a	adult central medulla intrinsic neuron Cm31a	FlyBase:FBrf0262545
+720575940618554041	FlyWire:720575940618554041	flywire783	is_a	adult Cm31a neuron	FlyBase:FBrf0262545
 720575940618554553	FlyWire:720575940618554553	flywire783	is_a	adult medulla-lobula neuron MeLo3a	FlyBase:FBrf0262545
 720575940618556485	FlyWire:720575940618556485	flywire783	is_a	transmedullary neuron Tm24	FlyBase:FBrf0262545
 720575940618556587	FlyWire:720575940618556587	flywire783	is_a	small central-projecting DN3 neuron	
@@ -4715,7 +4715,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940619486891	FlyWire:720575940619486891	flywire783	is_a	descending neuron of the posterior brain DNp13	
 720575940619492510	FlyWire:720575940619492510	flywire783	is_a	distal medullary amacrine neuron Dm3b	FlyBase:FBrf0262545
 720575940619494535	FlyWire:720575940619494535	flywire783	is_a	transmedullary neuron Tm8	
-720575940619495547	FlyWire:720575940619495547	flywire783	is_a	adult lobula intrinsic neuron Li21	FlyBase:FBrf0262545
+720575940619495547	FlyWire:720575940619495547	flywire783	is_a	adult Li21 neuron	FlyBase:FBrf0262545
 720575940619498177	FlyWire:720575940619498177	flywire783	is_a	adult lobula columnar neuron LC29	
 720575940619502390	FlyWire:720575940619502390	flywire783	is_a	distal medullary amacrine neuron Dm3a	FlyBase:FBrf0262545
 720575940619507184	FlyWire:720575940619507184	flywire783	is_a	adult lobula columnar neuron LC31a	
@@ -5001,7 +5001,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940620070320	FlyWire:720575940620070320	flywire783	is_a	transmedullary neuron Tm8	
 720575940620070558	FlyWire:720575940620070558	flywire783	is_a	small central-projecting DN3 neuron	
 720575940620073069	FlyWire:720575940620073069	flywire783	is_a	adult medulla visual projection neuron MeVP4	FlyBase:FBrf0262545
-720575940620075873	FlyWire:720575940620075873	flywire783	is_a	adult lobula intrinsic neuron Li23	FlyBase:FBrf0262545
+720575940620075873	FlyWire:720575940620075873	flywire783	is_a	adult Li23 neuron	FlyBase:FBrf0262545
 720575940620076923	FlyWire:720575940620076923	flywire783	is_a	medulla intrinsic neuron Mi4	
 720575940620079957	FlyWire:720575940620079957	flywire783	is_a	adult central medulla intrinsic neuron Cm4	FlyBase:FBrf0262545
 720575940620082055	FlyWire:720575940620082055	flywire783	is_a	distal medullary amacrine neuron Dm3c	FlyBase:FBrf0262545
@@ -5159,7 +5159,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940620361893	FlyWire:720575940620361893	flywire783	is_a	distal medullary amacrine neuron Dm3b	FlyBase:FBrf0262545
 720575940620377588	FlyWire:720575940620377588	flywire783	is_a	adult medulla-tubercle neuron 1	
 720575940620378795	FlyWire:720575940620378795	flywire783	is_a	adult medulla-lobula neuron MeLo7	FlyBase:FBrf0262545
-720575940620381567	FlyWire:720575940620381567	flywire783	is_a	adult lobula intrinsic neuron Li21	FlyBase:FBrf0262545
+720575940620381567	FlyWire:720575940620381567	flywire783	is_a	adult Li21 neuron	FlyBase:FBrf0262545
 720575940620382854	FlyWire:720575940620382854	flywire783	is_a	alpha/beta Kenyon cell	
 720575940620384165	FlyWire:720575940620384165	flywire783	is_a	distal medullary amacrine neuron Dm3c	FlyBase:FBrf0262545
 720575940620386389	FlyWire:720575940620386389	flywire783	is_a	photoreceptor cell R8	
@@ -6056,7 +6056,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940621620417	FlyWire:720575940621620417	flywire783	is_a	adult medulla-tubercle neuron of dorsal rim area	
 720575940621620463	FlyWire:720575940621620463	flywire783	is_a	medulla intrinsic neuron Mi13	
 720575940621621089	FlyWire:720575940621621089	flywire783	is_a	transmedullary neuron Tm33	FlyBase:FBrf0262545
-720575940621622637	FlyWire:720575940621622637	flywire783	is_a	adult lobula intrinsic neuron Li20	FlyBase:FBrf0262545
+720575940621622637	FlyWire:720575940621622637	flywire783	is_a	adult Li20 neuron	FlyBase:FBrf0262545
 720575940621623686	FlyWire:720575940621623686	flywire783	is_a	transmedullary Y neuron TmY5a	
 720575940621623790	FlyWire:720575940621623790	flywire783	is_a	distal medullary amacrine neuron Dm8b	
 720575940621625204	FlyWire:720575940621625204	flywire783	is_a	adult lobula intrinsic neuron Li22	FlyBase:FBrf0262545
@@ -6076,7 +6076,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940621641131	FlyWire:720575940621641131	flywire783	is_a	distal medullary amacrine neuron Dm11	
 720575940621641643	FlyWire:720575940621641643	flywire783	is_a	distal medullary amacrine neuron Dm-DRA2	
 720575940621641648	FlyWire:720575940621641648	flywire783	is_a	T2 neuron	
-720575940621641967	FlyWire:720575940621641967	flywire783	is_a	adult lobula intrinsic neuron Li21	FlyBase:FBrf0262545
+720575940621641967	FlyWire:720575940621641967	flywire783	is_a	adult Li21 neuron	FlyBase:FBrf0262545
 720575940621642990	FlyWire:720575940621642990	flywire783	is_a	lamina monopolar neuron L4	
 720575940621643713	FlyWire:720575940621643713	flywire783	is_a	adult central medulla intrinsic neuron Cm1	FlyBase:FBrf0262545
 720575940621646728	FlyWire:720575940621646728	flywire783	is_a	alpha/beta Kenyon cell	
@@ -6344,7 +6344,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940622073235	FlyWire:720575940622073235	flywire783	is_a	adult tubercle-bulb neuron 09	
 720575940622082113	FlyWire:720575940622082113	flywire783	is_a	adult medulla-tubercle neuron 3	
 720575940622087721	FlyWire:720575940622087721	flywire783	is_a	distal medullary amacrine neuron Dm3b	FlyBase:FBrf0262545
-720575940622088801	FlyWire:720575940622088801	flywire783	is_a	adult lobula intrinsic neuron Li21	FlyBase:FBrf0262545
+720575940622088801	FlyWire:720575940622088801	flywire783	is_a	adult Li21 neuron	FlyBase:FBrf0262545
 720575940622089310	FlyWire:720575940622089310	flywire783	is_a	medulla intrinsic neuron Mi9	
 720575940622089510	FlyWire:720575940622089510	flywire783	is_a	adult central medulla intrinsic neuron Cm3	FlyBase:FBrf0262545
 720575940622090416	FlyWire:720575940622090416	flywire783	is_a	transmedullary neuron Tm31	FlyBase:FBrf0262545
@@ -6523,7 +6523,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940622331141	FlyWire:720575940622331141	flywire783	is_a	distal medullary amacrine neuron Dm3a	FlyBase:FBrf0262545
 720575940622331274	FlyWire:720575940622331274	flywire783	is_a	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 3 medial domain neuron	
 720575940622331786	FlyWire:720575940622331786	flywire783	is_a	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 3 medial domain neuron	
-720575940622331830	FlyWire:720575940622331830	flywire783	is_a	adult central medulla intrinsic neuron Cm35	FlyBase:FBrf0262545
+720575940622331830	FlyWire:720575940622331830	flywire783	is_a	adult Cm35 neuron	FlyBase:FBrf0262545
 720575940622333353	FlyWire:720575940622333353	flywire783	is_a	adult medulla-lobula neuron MeLo4	FlyBase:FBrf0262545
 720575940622335112	FlyWire:720575940622335112	flywire783	is_a	alpha/beta Kenyon cell	
 720575940622335370	FlyWire:720575940622335370	flywire783	is_a	distal medullary amacrine neuron Dm3a	FlyBase:FBrf0262545
@@ -6584,7 +6584,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940622422900	FlyWire:720575940622422900	flywire783	is_a	lamina intrinsic neuron Lai	
 720575940622423139	FlyWire:720575940622423139	flywire783	is_a	adult transmedullary Y neuron TmY17	FlyBase:FBrf0262545
 720575940622424649	FlyWire:720575940622424649	flywire783	is_a	fan-shaped body extrinsic columnar neuron	
-720575940622425114	FlyWire:720575940622425114	flywire783	is_a	adult lobula intrinsic neuron Li21	FlyBase:FBrf0262545
+720575940622425114	FlyWire:720575940622425114	flywire783	is_a	adult Li21 neuron	FlyBase:FBrf0262545
 720575940622428585	FlyWire:720575940622428585	flywire783	is_a	distal medullary amacrine neuron Dm3b	FlyBase:FBrf0262545
 720575940622431860	FlyWire:720575940622431860	flywire783	is_a	adult lobula columnar neuron LC46b	FlyBase:FBrf0262545
 720575940622432244	FlyWire:720575940622432244	flywire783	is_a	lobula plate intrinsic neuron LPi3a	FlyBase:FBrf0262545
@@ -6762,7 +6762,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940622706416	FlyWire:720575940622706416	flywire783	is_a	photoreceptor cell R7	
 720575940622706420	FlyWire:720575940622706420	flywire783	is_a	adult lobula columnar neuron LC37	
 720575940622709065	FlyWire:720575940622709065	flywire783	is_a	fan-shaped body columnar neuron	
-720575940622711047	FlyWire:720575940622711047	flywire783	is_a	adult lobula intrinsic neuron Li21	FlyBase:FBrf0262545
+720575940622711047	FlyWire:720575940622711047	flywire783	is_a	adult Li21 neuron	FlyBase:FBrf0262545
 720575940622711390	FlyWire:720575940622711390	flywire783	is_a	distal medullary amacrine neuron Dm16	
 720575940622713897	FlyWire:720575940622713897	flywire783	is_a	fan-shaped body extrinsic columnar neuron	
 720575940622715561	FlyWire:720575940622715561	flywire783	is_a	adult transmedullary Y neuron TmY19b	FlyBase:FBrf0262545
@@ -7326,7 +7326,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940623551273	FlyWire:720575940623551273	flywire783	is_a	adult central medulla intrinsic neuron Cm1	FlyBase:FBrf0262545
 720575940623554317	FlyWire:720575940623554317	flywire783	is_a	translobula plate neuron Tlp14	
 720575940623554500	FlyWire:720575940623554500	flywire783	is_a	transmedullary neuron Tm30	FlyBase:FBrf0262545
-720575940623554781	FlyWire:720575940623554781	flywire783	is_a	adult lobula intrinsic neuron Li21	FlyBase:FBrf0262545
+720575940623554781	FlyWire:720575940623554781	flywire783	is_a	adult Li21 neuron	FlyBase:FBrf0262545
 720575940623556839	FlyWire:720575940623556839	flywire783	is_a	distal medullary amacrine neuron Dm3a	FlyBase:FBrf0262545
 720575940623558852	FlyWire:720575940623558852	flywire783	is_a	adult transmedullary Y neuron TmY17	FlyBase:FBrf0262545
 720575940623560132	FlyWire:720575940623560132	flywire783	is_a	adult medulla intrinsic neuron Mi16	FlyBase:FBrf0262545
@@ -7959,7 +7959,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940624600812	FlyWire:720575940624600812	flywire783	is_a	adult medulla intrinsic neuron Mi17	FlyBase:FBrf0262545
 720575940624601731	FlyWire:720575940624601731	flywire783	is_a	alpha/beta Kenyon cell	
 720575940624604855	FlyWire:720575940624604855	flywire783	is_a	photoreceptor cell R8	
-720575940624604966	FlyWire:720575940624604966	flywire783	is_a	adult lobula intrinsic neuron Li21	FlyBase:FBrf0262545
+720575940624604966	FlyWire:720575940624604966	flywire783	is_a	adult Li21 neuron	FlyBase:FBrf0262545
 720575940624605111	FlyWire:720575940624605111	flywire783	is_a	distal medullary amacrine neuron Dm3b	FlyBase:FBrf0262545
 720575940624608714	FlyWire:720575940624608714	flywire783	is_a	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 3 medial domain neuron	
 720575940624612839	FlyWire:720575940624612839	flywire783	is_a	alpha/beta Kenyon cell	
@@ -8027,7 +8027,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940624719084	FlyWire:720575940624719084	flywire783	is_a	lobula plate intrinsic neuron LPi1-4	FlyBase:FBrf0262545
 720575940624720586	FlyWire:720575940624720586	flywire783	is_a	adult central medulla intrinsic neuron Cm2	FlyBase:FBrf0262545
 720575940624721591	FlyWire:720575940624721591	flywire783	is_a	transmedullary neuron Tm33	FlyBase:FBrf0262545
-720575940624722359	FlyWire:720575940624722359	flywire783	is_a	adult central medulla intrinsic neuron Cm32	FlyBase:FBrf0262545
+720575940624722359	FlyWire:720575940624722359	flywire783	is_a	adult Cm32 neuron	FlyBase:FBrf0262545
 720575940624724455	FlyWire:720575940624724455	flywire783	is_a	Y neuron Y3	
 720575940624724970	FlyWire:720575940624724970	flywire783	is_a	centrifugal neuron C3	
 720575940624725995	FlyWire:720575940624725995	flywire783	is_a	adult central medulla intrinsic neuron Cm2	FlyBase:FBrf0262545
@@ -8310,7 +8310,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940625160548	FlyWire:720575940625160548	flywire783	is_a	adult lobula columnar neuron LC29	
 720575940625161368	FlyWire:720575940625161368	flywire783	is_a	adult lobula tangential neuron LT68	
 720575940625162168	FlyWire:720575940625162168	flywire783	is_a	adult olfactory receptor neuron Or67d	
-720575940625168637	FlyWire:720575940625168637	flywire783	is_a	adult lobula intrinsic neuron Li21	FlyBase:FBrf0262545
+720575940625168637	FlyWire:720575940625168637	flywire783	is_a	adult Li21 neuron	FlyBase:FBrf0262545
 720575940625168935	FlyWire:720575940625168935	flywire783	is_a	adult medulla-lobula neuron MeLo6	FlyBase:FBrf0262545
 720575940625171289	FlyWire:720575940625171289	flywire783	is_a	alpha/beta Kenyon cell	
 720575940625171388	FlyWire:720575940625171388	flywire783	is_a	transmedullary neuron Tm29	FlyBase:FBrf0262545
@@ -8505,7 +8505,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940625528556	FlyWire:720575940625528556	flywire783	is_a	lobula plate tangential neuron Nod1	
 720575940625531032	FlyWire:720575940625531032	flywire783	is_a	adult central medulla intrinsic neuron Cm9	FlyBase:FBrf0262545
 720575940625531832	FlyWire:720575940625531832	flywire783	is_a	transmedullary neuron Tm23	FlyBase:FBrf0262545
-720575940625531884	FlyWire:720575940625531884	flywire783	is_a	adult lobula intrinsic neuron Li23	FlyBase:FBrf0262545
+720575940625531884	FlyWire:720575940625531884	flywire783	is_a	adult Li23 neuron	FlyBase:FBrf0262545
 720575940625537061	FlyWire:720575940625537061	flywire783	is_a	translobula plate neuron Tlp5	
 720575940625537301	FlyWire:720575940625537301	flywire783	is_a	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 3 medial domain neuron	
 720575940625537976	FlyWire:720575940625537976	flywire783	is_a	distal medullary amacrine neuron Dm3b	FlyBase:FBrf0262545
@@ -8513,7 +8513,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940625539260	FlyWire:720575940625539260	flywire783	is_a	medulla tangential intrinsic neuron 1	FlyBase:FBrf0262545
 720575940625546471	FlyWire:720575940625546471	flywire783	is_a	adult central medulla intrinsic neuron Cm6	FlyBase:FBrf0262545
 720575940625550067	FlyWire:720575940625550067	flywire783	is_a	lobula plate intrinsic neuron LPi3b	FlyBase:FBrf0262545
-720575940625550823	FlyWire:720575940625550823	flywire783	is_a	adult central medulla intrinsic neuron Cm35	FlyBase:FBrf0262545
+720575940625550823	FlyWire:720575940625550823	flywire783	is_a	adult Cm35 neuron	FlyBase:FBrf0262545
 720575940625552003	FlyWire:720575940625552003	flywire783	is_a	adult medulla visual projection neuron MeVP1	FlyBase:FBrf0262545
 720575940625559591	FlyWire:720575940625559591	flywire783	is_a	lobula plate intrinsic neuron LPi4a	FlyBase:FBrf0262545
 720575940625560189	FlyWire:720575940625560189	flywire783	is_a	alpha/beta Kenyon cell	
@@ -8610,7 +8610,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940625730343	FlyWire:720575940625730343	flywire783	is_a	adult transmedullary Y neuron TmY21	FlyBase:FBrf0262545
 720575940625730637	FlyWire:720575940625730637	flywire783	is_a	adult medulla-tubercle neuron 3	
 720575940625731390	FlyWire:720575940625731390	flywire783	is_a	transmedullary Y neuron TmY13	FlyBase:FBrf0262545
-720575940625731512	FlyWire:720575940625731512	flywire783	is_a	adult medulla visual projection neuron MeVP2	FlyBase:FBrf0262545
+720575940625731512	FlyWire:720575940625731512	flywire783	is_a	adult medulla tangential neuron e02	FlyBase:FBrf0262545
 720575940625732496	FlyWire:720575940625732496	flywire783	is_a	alpha/beta Kenyon cell	
 720575940625732624	FlyWire:720575940625732624	flywire783	is_a	adult central medulla intrinsic neuron Cm4	FlyBase:FBrf0262545
 720575940625732745	FlyWire:720575940625732745	flywire783	is_a	alpha/beta Kenyon cell	
@@ -8622,7 +8622,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940625739160	FlyWire:720575940625739160	flywire783	is_a	adult central medulla intrinsic neuron Cm1	FlyBase:FBrf0262545
 720575940625744259	FlyWire:720575940625744259	flywire783	is_a	adult medulla visual projection neuron MeVP5	FlyBase:FBrf0262545
 720575940625744466	FlyWire:720575940625744466	flywire783	is_a	alpha/beta Kenyon cell	
-720575940625744586	FlyWire:720575940625744586	flywire783	is_a	adult lobula intrinsic neuron Li21	FlyBase:FBrf0262545
+720575940625744586	FlyWire:720575940625744586	flywire783	is_a	adult Li21 neuron	FlyBase:FBrf0262545
 720575940625744788	FlyWire:720575940625744788	flywire783	is_a	lamina intrinsic neuron Lai	
 720575940625747486	FlyWire:720575940625747486	flywire783	is_a	distal medullary amacrine neuron Dm3c	FlyBase:FBrf0262545
 720575940625747533	FlyWire:720575940625747533	flywire783	is_a	adult lobula intrinsic neuron Li13	FlyBase:FBrf0262545
@@ -8861,7 +8861,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940626157901	FlyWire:720575940626157901	flywire783	is_a	adult medulla-tubercle neuron 1	
 720575940626158384	FlyWire:720575940626158384	flywire783	is_a	T5d neuron	
 720575940626159693	FlyWire:720575940626159693	flywire783	is_a	lamina monopolar neuron L3	
-720575940626160985	FlyWire:720575940626160985	flywire783	is_a	adult lobula intrinsic neuron Li20	FlyBase:FBrf0262545
+720575940626160985	FlyWire:720575940626160985	flywire783	is_a	adult Li20 neuron	FlyBase:FBrf0262545
 720575940626161551	FlyWire:720575940626161551	flywire783	is_a	alpha/beta Kenyon cell	
 720575940626163216	FlyWire:720575940626163216	flywire783	is_a	adult medulla-tubercle neuron of dorsal rim area	
 720575940626163837	FlyWire:720575940626163837	flywire783	is_a	adult medulla visual projection neuron MeVP1	FlyBase:FBrf0262545
@@ -9010,7 +9010,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940626419477	FlyWire:720575940626419477	flywire783	is_a	T4c neuron	
 720575940626422832	FlyWire:720575940626422832	flywire783	is_a	adult central medulla intrinsic neuron Cm7	FlyBase:FBrf0262545
 720575940626423226	FlyWire:720575940626423226	flywire783	is_a	adult transmedullary Y neuron TmY17	FlyBase:FBrf0262545
-720575940626427792	FlyWire:720575940626427792	flywire783	is_a	adult central medulla intrinsic neuron Cm32	FlyBase:FBrf0262545
+720575940626427792	FlyWire:720575940626427792	flywire783	is_a	adult Cm32 neuron	FlyBase:FBrf0262545
 720575940626429758	FlyWire:720575940626429758	flywire783	is_a	adult central medulla intrinsic neuron Cm3	FlyBase:FBrf0262545
 720575940626430851	FlyWire:720575940626430851	flywire783	is_a	medulla columnar neuron MC64	
 720575940626432458	FlyWire:720575940626432458	flywire783	is_a	adult medulla intrinsic neuron Mi17	FlyBase:FBrf0262545
@@ -9314,7 +9314,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940626876709	FlyWire:720575940626876709	flywire783	is_a	transmedullary Y neuron TmY5a	
 720575940626877468	FlyWire:720575940626877468	flywire783	is_a	distal medullary amacrine neuron Dm3b	FlyBase:FBrf0262545
 720575940626878214	FlyWire:720575940626878214	flywire783	is_a	adult neurosecretory cell of pars lateralis	
-720575940626878595	FlyWire:720575940626878595	flywire783	is_a	adult lobula intrinsic neuron Li21	FlyBase:FBrf0262545
+720575940626878595	FlyWire:720575940626878595	flywire783	is_a	adult Li21 neuron	FlyBase:FBrf0262545
 720575940626880314	FlyWire:720575940626880314	flywire783	is_a	transmedullary neuron Tm33	FlyBase:FBrf0262545
 720575940626880805	FlyWire:720575940626880805	flywire783	is_a	photoreceptor cell R7	
 720575940626883736	FlyWire:720575940626883736	flywire783	is_a	transmedullary neuron Tm29	FlyBase:FBrf0262545
@@ -9418,7 +9418,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940627038794	FlyWire:720575940627038794	flywire783	is_a	centrifugal neuron C3	
 720575940627039577	FlyWire:720575940627039577	flywire783	is_a	Y neuron Y12	
 720575940627042130	FlyWire:720575940627042130	flywire783	is_a	small central-projecting DN3 neuron	
-720575940627043197	FlyWire:720575940627043197	flywire783	is_a	adult lobula intrinsic neuron Li21	FlyBase:FBrf0262545
+720575940627043197	FlyWire:720575940627043197	flywire783	is_a	adult Li21 neuron	FlyBase:FBrf0262545
 720575940627043334	FlyWire:720575940627043334	flywire783	is_a	distal medullary amacrine neuron Dm3b	FlyBase:FBrf0262545
 720575940627043666	FlyWire:720575940627043666	flywire783	is_a	alpha/beta Kenyon cell	
 720575940627045763	FlyWire:720575940627045763	flywire783	is_a	distal medullary amacrine neuron Dm3a	FlyBase:FBrf0262545
@@ -9527,7 +9527,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940627196260	FlyWire:720575940627196260	flywire783	is_a	distal medullary amacrine neuron Dm8b	
 720575940627197266	FlyWire:720575940627197266	flywire783	is_a	distal medullary amacrine neuron Dm3c	FlyBase:FBrf0262545
 720575940627197739	FlyWire:720575940627197739	flywire783	is_a	alpha/beta Kenyon cell	
-720575940627198995	FlyWire:720575940627198995	flywire783	is_a	adult lobula intrinsic neuron Li23	FlyBase:FBrf0262545
+720575940627198995	FlyWire:720575940627198995	flywire783	is_a	adult Li23 neuron	FlyBase:FBrf0262545
 720575940627200923	FlyWire:720575940627200923	flywire783	is_a	alpha/beta Kenyon cell	
 720575940627201579	FlyWire:720575940627201579	flywire783	is_a	unpaired neuron	
 720575940627202968	FlyWire:720575940627202968	flywire783	is_a	Y neuron Y12	
@@ -9608,7 +9608,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940627319165	FlyWire:720575940627319165	flywire783	is_a	distal medullary amacrine neuron Dm3a	FlyBase:FBrf0262545
 720575940627322627	FlyWire:720575940627322627	flywire783	is_a	medulla columnar neuron MC64	
 720575940627323261	FlyWire:720575940627323261	flywire783	is_a	distal medullary amacrine neuron Dm3b	FlyBase:FBrf0262545
-720575940627323779	FlyWire:720575940627323779	flywire783	is_a	adult lobula intrinsic neuron Li21	FlyBase:FBrf0262545
+720575940627323779	FlyWire:720575940627323779	flywire783	is_a	adult Li21 neuron	FlyBase:FBrf0262545
 720575940627324944	FlyWire:720575940627324944	flywire783	is_a	adult transmedullary Y neuron TmY17	FlyBase:FBrf0262545
 720575940627326104	FlyWire:720575940627326104	flywire783	is_a	transmedullary neuron Tm32	FlyBase:FBrf0262545
 720575940627326739	FlyWire:720575940627326739	flywire783	is_a	adult central medulla intrinsic neuron Cm9	FlyBase:FBrf0262545
@@ -10068,7 +10068,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940627986220	FlyWire:720575940627986220	flywire783	is_a	alpha/beta Kenyon cell	
 720575940627987756	FlyWire:720575940627987756	flywire783	is_a	alpha/beta Kenyon cell	
 720575940627988474	FlyWire:720575940627988474	flywire783	is_a	alpha/beta Kenyon cell	
-720575940627990549	FlyWire:720575940627990549	flywire783	is_a	adult lobula intrinsic neuron Li21	FlyBase:FBrf0262545
+720575940627990549	FlyWire:720575940627990549	flywire783	is_a	adult Li21 neuron	FlyBase:FBrf0262545
 720575940627994217	FlyWire:720575940627994217	flywire783	is_a	distal medullary amacrine neuron Dm3a	FlyBase:FBrf0262545
 720575940627996285	FlyWire:720575940627996285	flywire783	is_a	adult octopaminergic AL2b2 neuron	
 720575940627997205	FlyWire:720575940627997205	flywire783	is_a	adult central medulla intrinsic neuron Cm7	FlyBase:FBrf0262545
@@ -10087,7 +10087,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940628020740	FlyWire:720575940628020740	flywire783	is_a	transmedullary neuron Tm24	FlyBase:FBrf0262545
 720575940628024216	FlyWire:720575940628024216	flywire783	is_a	adult central medulla intrinsic neuron Cm19	FlyBase:FBrf0262545
 720575940628026505	FlyWire:720575940628026505	flywire783	is_a	distal medullary amacrine neuron Dm8a	
-720575940628026520	FlyWire:720575940628026520	flywire783	is_a	adult lobula intrinsic neuron Li21	FlyBase:FBrf0262545
+720575940628026520	FlyWire:720575940628026520	flywire783	is_a	adult Li21 neuron	FlyBase:FBrf0262545
 720575940628026897	FlyWire:720575940628026897	flywire783	is_a	adult central medulla intrinsic neuron Cm2	FlyBase:FBrf0262545
 720575940628028029	FlyWire:720575940628028029	flywire783	is_a	photoreceptor cell R8	
 720575940628029522	FlyWire:720575940628029522	flywire783	is_a	adult central medulla intrinsic neuron Cm2	FlyBase:FBrf0262545
@@ -10345,7 +10345,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940628351816	FlyWire:720575940628351816	flywire783	is_a	distal medullary amacrine neuron Dm3b	FlyBase:FBrf0262545
 720575940628353512	FlyWire:720575940628353512	flywire783	is_a	distal medullary amacrine neuron Dm3a	FlyBase:FBrf0262545
 720575940628354191	FlyWire:720575940628354191	flywire783	is_a	adult medulla visual projection neuron MeVP5	FlyBase:FBrf0262545
-720575940628356883	FlyWire:720575940628356883	flywire783	is_a	adult lobula intrinsic neuron Li21	FlyBase:FBrf0262545
+720575940628356883	FlyWire:720575940628356883	flywire783	is_a	adult Li21 neuron	FlyBase:FBrf0262545
 720575940628356969	FlyWire:720575940628356969	flywire783	is_a	adult lobula tangential neuron LT52	
 720575940628357909	FlyWire:720575940628357909	flywire783	is_a	medulla intrinsic neuron Mi2	
 720575940628358994	FlyWire:720575940628358994	flywire783	is_a	medulla columnar neuron MC64	
@@ -10640,7 +10640,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940628760835	FlyWire:720575940628760835	flywire783	is_a	centrifugal neuron C2	
 720575940628760937	FlyWire:720575940628760937	flywire783	is_a	distal medullary amacrine neuron Dm16	
 720575940628761039	FlyWire:720575940628761039	flywire783	is_a	alpha/beta Kenyon cell	
-720575940628762280	FlyWire:720575940628762280	flywire783	is_a	adult central medulla intrinsic neuron Cm35	FlyBase:FBrf0262545
+720575940628762280	FlyWire:720575940628762280	flywire783	is_a	adult Cm35 neuron	FlyBase:FBrf0262545
 720575940628763002	FlyWire:720575940628763002	flywire783	is_a	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 3 medial domain neuron	
 720575940628763074	FlyWire:720575940628763074	flywire783	is_a	adult transmedullary Y neuron TmY17	FlyBase:FBrf0262545
 720575940628763464	FlyWire:720575940628763464	flywire783	is_a	distal medullary amacrine neuron Dm3c	FlyBase:FBrf0262545
@@ -11044,7 +11044,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940629402954	FlyWire:720575940629402954	flywire783	is_a	transmedullary neuron Tm29	FlyBase:FBrf0262545
 720575940629403639	FlyWire:720575940629403639	flywire783	is_a	Y neuron Y11	
 720575940629404775	FlyWire:720575940629404775	flywire783	is_a	adult medulla-lobula neuron MeLo3b	FlyBase:FBrf0262545
-720575940629405190	FlyWire:720575940629405190	flywire783	is_a	adult lobula intrinsic neuron Li20	FlyBase:FBrf0262545
+720575940629405190	FlyWire:720575940629405190	flywire783	is_a	adult Li20 neuron	FlyBase:FBrf0262545
 720575940629405943	FlyWire:720575940629405943	flywire783	is_a	transmedullary neuron Tm24	FlyBase:FBrf0262545
 720575940629406282	FlyWire:720575940629406282	flywire783	is_a	distal medullary amacrine neuron Dm8b	
 720575940629408006	FlyWire:720575940629408006	flywire783	is_a	photoreceptor cell R8	
@@ -11402,7 +11402,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940630026856	FlyWire:720575940630026856	flywire783	is_a	alpha/beta Kenyon cell	
 720575940630028537	FlyWire:720575940630028537	flywire783	is_a	transmedullary neuron Tm34	FlyBase:FBrf0262545
 720575940630031055	FlyWire:720575940630031055	flywire783	is_a	accessory medulla neuron aMe5	
-720575940630034704	FlyWire:720575940630034704	flywire783	is_a	adult lobula intrinsic neuron Li21	FlyBase:FBrf0262545
+720575940630034704	FlyWire:720575940630034704	flywire783	is_a	adult Li21 neuron	FlyBase:FBrf0262545
 720575940630036218	FlyWire:720575940630036218	flywire783	is_a	lobula plate intrinsic neuron LPi2c	FlyBase:FBrf0262545
 720575940630038351	FlyWire:720575940630038351	flywire783	is_a	transmedullary neuron Tm1	
 720575940630039055	FlyWire:720575940630039055	flywire783	is_a	distal medullary amacrine neuron Dm3b	FlyBase:FBrf0262545
@@ -11736,7 +11736,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940630591738	FlyWire:720575940630591738	flywire783	is_a	lamina intrinsic neuron Lai	
 720575940630596921	FlyWire:720575940630596921	flywire783	is_a	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 3 medial domain neuron	
 720575940630598487	FlyWire:720575940630598487	flywire783	is_a	adult transmedullary Y neuron TmY17	FlyBase:FBrf0262545
-720575940630601722	FlyWire:720575940630601722	flywire783	is_a	adult lobula intrinsic neuron Li23	FlyBase:FBrf0262545
+720575940630601722	FlyWire:720575940630601722	flywire783	is_a	adult Li23 neuron	FlyBase:FBrf0262545
 720575940630601854	FlyWire:720575940630601854	flywire783	is_a	adult transmedullary Y neuron TmY19a	FlyBase:FBrf0262545
 720575940630602444	FlyWire:720575940630602444	flywire783	is_a	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 3 medial domain neuron	
 720575940630604652	FlyWire:720575940630604652	flywire783	is_a	distal medullary amacrine neuron Dm3b	FlyBase:FBrf0262545
@@ -12145,7 +12145,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940631262668	FlyWire:720575940631262668	flywire783	is_a	transmedullary Y neuron TmY13	FlyBase:FBrf0262545
 720575940631263051	FlyWire:720575940631263051	flywire783	is_a	distal medullary amacrine neuron Dm3c	FlyBase:FBrf0262545
 720575940631269135	FlyWire:720575940631269135	flywire783	is_a	adult medulla-lobula neuron MeLo3a	FlyBase:FBrf0262545
-720575940631271564	FlyWire:720575940631271564	flywire783	is_a	adult lobula intrinsic neuron Li21	FlyBase:FBrf0262545
+720575940631271564	FlyWire:720575940631271564	flywire783	is_a	adult Li21 neuron	FlyBase:FBrf0262545
 720575940631273291	FlyWire:720575940631273291	flywire783	is_a	adult central medulla intrinsic neuron Cm1	FlyBase:FBrf0262545
 720575940631275727	FlyWire:720575940631275727	flywire783	is_a	transmedullary neuron Tm29	FlyBase:FBrf0262545
 720575940631277430	FlyWire:720575940631277430	flywire783	is_a	distal medullary amacrine neuron Dm3b	FlyBase:FBrf0262545
@@ -12835,13 +12835,13 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940632435754	FlyWire:720575940632435754	flywire783	is_a	outer photoreceptor cell	
 720575940632436307	FlyWire:720575940632436307	flywire783	is_a	adult insulin secreting cell of pars intercerebralis	
 720575940632437266	FlyWire:720575940632437266	flywire783	is_a	adult central medulla intrinsic neuron Cm4	FlyBase:FBrf0262545
-720575940632437561	FlyWire:720575940632437561	flywire783	is_a	adult lobula intrinsic neuron Li20	FlyBase:FBrf0262545
+720575940632437561	FlyWire:720575940632437561	flywire783	is_a	adult Li20 neuron	FlyBase:FBrf0262545
 720575940632438428	FlyWire:720575940632438428	flywire783	is_a	transmedullary neuron Tm31	FlyBase:FBrf0262545
 720575940632441155	FlyWire:720575940632441155	flywire783	is_a	distal medullary amacrine neuron Dm3a	FlyBase:FBrf0262545
 720575940632441391	FlyWire:720575940632441391	flywire783	is_a	adult medulla-lobula neuron MeLo4	FlyBase:FBrf0262545
 720575940632441657	FlyWire:720575940632441657	flywire783	is_a	medulla tangential intrinsic neuron 1	FlyBase:FBrf0262545
 720575940632442383	FlyWire:720575940632442383	flywire783	is_a	adult medulla-lobula neuron MeLo7	FlyBase:FBrf0262545
-720575940632444217	FlyWire:720575940632444217	flywire783	is_a	adult lobula intrinsic neuron Li21	FlyBase:FBrf0262545
+720575940632444217	FlyWire:720575940632444217	flywire783	is_a	adult Li21 neuron	FlyBase:FBrf0262545
 720575940632447033	FlyWire:720575940632447033	flywire783	is_a	translobula plate neuron Tlp5	
 720575940632447279	FlyWire:720575940632447279	flywire783	is_a	distal medullary amacrine neuron Dm3c	FlyBase:FBrf0262545
 720575940632448191	FlyWire:720575940632448191	flywire783	is_a	adult lobula columnar neuron LC31a	
@@ -12933,7 +12933,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940632621880	FlyWire:720575940632621880	flywire783	is_a	adult central medulla intrinsic neuron Cm1	FlyBase:FBrf0262545
 720575940632623268	FlyWire:720575940632623268	flywire783	is_a	distal medullary amacrine neuron Dm3b	FlyBase:FBrf0262545
 720575940632626489	FlyWire:720575940632626489	flywire783	is_a	distal medullary amacrine neuron Dm3c	FlyBase:FBrf0262545
-720575940632628876	FlyWire:720575940632628876	flywire783	is_a	adult lobula intrinsic neuron Li21	FlyBase:FBrf0262545
+720575940632628876	FlyWire:720575940632628876	flywire783	is_a	adult Li21 neuron	FlyBase:FBrf0262545
 720575940632629273	FlyWire:720575940632629273	flywire783	is_a	lobula intrinsic neuron Li14	FlyBase:FBrf0262545
 720575940632631889	FlyWire:720575940632631889	flywire783	is_a	distal medullary amacrine neuron Dm3c	FlyBase:FBrf0262545
 720575940632633548	FlyWire:720575940632633548	flywire783	is_a	distal medullary amacrine neuron Dm3b	FlyBase:FBrf0262545
@@ -13462,7 +13462,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940633698970	FlyWire:720575940633698970	flywire783	is_a	adult medulla visual projection neuron MeVP3	FlyBase:FBrf0262545
 720575940633700066	FlyWire:720575940633700066	flywire783	is_a	distal medullary amacrine neuron Dm3a	FlyBase:FBrf0262545
 720575940633703649	FlyWire:720575940633703649	flywire783	is_a	distal medullary amacrine neuron Dm3a	FlyBase:FBrf0262545
-720575940633709537	FlyWire:720575940633709537	flywire783	is_a	adult lobula intrinsic neuron Li20	FlyBase:FBrf0262545
+720575940633709537	FlyWire:720575940633709537	flywire783	is_a	adult Li20 neuron	FlyBase:FBrf0262545
 720575940633717549	FlyWire:720575940633717549	flywire783	is_a	adult medulla-lobula neuron MeLo3a	FlyBase:FBrf0262545
 720575940633724115	FlyWire:720575940633724115	flywire783	is_a	transmedullary Y neuron TmY13	FlyBase:FBrf0262545
 720575940633724852	FlyWire:720575940633724852	flywire783	is_a	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 3 medial domain neuron	
@@ -13474,7 +13474,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940633732781	FlyWire:720575940633732781	flywire783	is_a	distal medullary amacrine neuron Dm3a	FlyBase:FBrf0262545
 720575940633734701	FlyWire:720575940633734701	flywire783	is_a	adult central medulla intrinsic neuron Cm7	FlyBase:FBrf0262545
 720575940633735725	FlyWire:720575940633735725	flywire783	is_a	medulla tangential intrinsic neuron 1	FlyBase:FBrf0262545
-720575940633735844	FlyWire:720575940633735844	flywire783	is_a	adult lobula intrinsic neuron Li23	FlyBase:FBrf0262545
+720575940633735844	FlyWire:720575940633735844	flywire783	is_a	adult Li23 neuron	FlyBase:FBrf0262545
 720575940633737892	FlyWire:720575940633737892	flywire783	is_a	distal medullary amacrine neuron Dm3a	FlyBase:FBrf0262545
 720575940633738903	FlyWire:720575940633738903	flywire783	is_a	fan-shaped body extrinsic columnar neuron	
 720575940633739859	FlyWire:720575940633739859	flywire783	is_a	Y neuron Y12	
@@ -13771,7 +13771,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940634675819	FlyWire:720575940634675819	flywire783	is_a	translobula plate neuron Tlp14	
 720575940634677856	FlyWire:720575940634677856	flywire783	is_a	transmedullary neuron Tm29	FlyBase:FBrf0262545
 720575940634680033	FlyWire:720575940634680033	flywire783	is_a	transmedullary neuron Tm16	
-720575940634680988	FlyWire:720575940634680988	flywire783	is_a	adult lobula intrinsic neuron Li21	FlyBase:FBrf0262545
+720575940634680988	FlyWire:720575940634680988	flywire783	is_a	adult Li21 neuron	FlyBase:FBrf0262545
 720575940634685340	FlyWire:720575940634685340	flywire783	is_a	lobula plate intrinsic neuron LPi3a	FlyBase:FBrf0262545
 720575940634689180	FlyWire:720575940634689180	flywire783	is_a	distal medullary amacrine neuron Dm3a	FlyBase:FBrf0262545
 720575940634694240	FlyWire:720575940634694240	flywire783	is_a	transmedullary Y neuron TmY5a	
@@ -13980,7 +13980,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940635326871	FlyWire:720575940635326871	flywire783	is_a	distal medullary amacrine neuron Dm8b	
 720575940635330204	FlyWire:720575940635330204	flywire783	is_a	unpaired neuron	
 720575940635330661	FlyWire:720575940635330661	flywire783	is_a	centrifugal neuron C3	
-720575940635331263	FlyWire:720575940635331263	flywire783	is_a	adult lobula intrinsic neuron Li21	FlyBase:FBrf0262545
+720575940635331263	FlyWire:720575940635331263	flywire783	is_a	adult Li21 neuron	FlyBase:FBrf0262545
 720575940635335319	FlyWire:720575940635335319	flywire783	is_a	adult transmedullary Y neuron TmY19a	FlyBase:FBrf0262545
 720575940635338647	FlyWire:720575940635338647	flywire783	is_a	lamina monopolar neuron L3	
 720575940635340384	FlyWire:720575940635340384	flywire783	is_a	medulla tangential neuron Mt4	FlyBase:FBrf0262545
@@ -14531,7 +14531,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940637288110	FlyWire:720575940637288110	flywire783	is_a	adult central medulla intrinsic neuron Cm7	FlyBase:FBrf0262545
 720575940637288846	FlyWire:720575940637288846	flywire783	is_a	transmedullary neuron Tm20	
 720575940637289573	FlyWire:720575940637289573	flywire783	is_a	transmedullary neuron Tm31	FlyBase:FBrf0262545
-720575940637291639	FlyWire:720575940637291639	flywire783	is_a	adult central medulla intrinsic neuron Cm32	FlyBase:FBrf0262545
+720575940637291639	FlyWire:720575940637291639	flywire783	is_a	adult Cm32 neuron	FlyBase:FBrf0262545
 720575940637296105	FlyWire:720575940637296105	flywire783	is_a	small central-projecting DN3 neuron	
 720575940637296356	FlyWire:720575940637296356	flywire783	is_a	adult antennal lobe output interneuron	
 720575940637297765	FlyWire:720575940637297765	flywire783	is_a	adult central medulla intrinsic neuron Cm2	FlyBase:FBrf0262545
@@ -14601,7 +14601,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940637554062	FlyWire:720575940637554062	flywire783	is_a	central medulla intrinsic neuron	
 720575940637554318	FlyWire:720575940637554318	flywire783	is_a	adult central medulla intrinsic neuron Cm5	FlyBase:FBrf0262545
 720575940637555288	FlyWire:720575940637555288	flywire783	is_a	adult LP neuron	
-720575940637555342	FlyWire:720575940637555342	flywire783	is_a	adult medulla visual projection neuron MeVP2	FlyBase:FBrf0262545
+720575940637555342	FlyWire:720575940637555342	flywire783	is_a	adult medulla tangential neuron e02	FlyBase:FBrf0262545
 720575940637555854	FlyWire:720575940637555854	flywire783	is_a	outer photoreceptor cell	
 720575940637573221	FlyWire:720575940637573221	flywire783	is_a	lobula intrinsic neuron Li14	FlyBase:FBrf0262545
 720575940637574501	FlyWire:720575940637574501	flywire783	is_a	adult central medulla intrinsic neuron Cm3	FlyBase:FBrf0262545
@@ -14797,7 +14797,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940638285696	FlyWire:720575940638285696	flywire783	is_a	fan-shaped body extrinsic columnar neuron	
 720575940638290148	FlyWire:720575940638290148	flywire783	is_a	adult medulla-tubercle neuron 3	
 720575940638290266	FlyWire:720575940638290266	flywire783	is_a	adult central medulla intrinsic neuron Cm2	FlyBase:FBrf0262545
-720575940638298334	FlyWire:720575940638298334	flywire783	is_a	adult lobula intrinsic neuron Li21	FlyBase:FBrf0262545
+720575940638298334	FlyWire:720575940638298334	flywire783	is_a	adult Li21 neuron	FlyBase:FBrf0262545
 720575940638310784	FlyWire:720575940638310784	flywire783	is_a	fan-shaped body columnar neuron	
 720575940638313449	FlyWire:720575940638313449	flywire783	is_a	Y neuron Y11	
 720575940638314880	FlyWire:720575940638314880	flywire783	is_a	distal medullary amacrine neuron Dm8b	
@@ -14935,7 +14935,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940638805737	FlyWire:720575940638805737	flywire783	is_a	transmedullary neuron Tm32	FlyBase:FBrf0262545
 720575940638809149	FlyWire:720575940638809149	flywire783	is_a	adult lobula columnar neuron LC28	
 720575940638813510	FlyWire:720575940638813510	flywire783	is_a	distal medullary amacrine neuron Dm3a	FlyBase:FBrf0262545
-720575940638815039	FlyWire:720575940638815039	flywire783	is_a	adult lobula intrinsic neuron Li23	FlyBase:FBrf0262545
+720575940638815039	FlyWire:720575940638815039	flywire783	is_a	adult Li23 neuron	FlyBase:FBrf0262545
 720575940638819812	FlyWire:720575940638819812	flywire783	is_a	lobula plate intrinsic neuron LPi2d	FlyBase:FBrf0262545
 720575940638823357	FlyWire:720575940638823357	flywire783	is_a	adult medulla-lobula neuron MeLo3b	FlyBase:FBrf0262545
 720575940638825193	FlyWire:720575940638825193	flywire783	is_a	adult medulla-tubercle neuron of dorsal rim area	
@@ -15122,7 +15122,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940639624253	FlyWire:720575940639624253	flywire783	is_a	alpha/beta Kenyon cell	
 720575940639630406	FlyWire:720575940639630406	flywire783	is_a	transmedullary Y neuron TmY9	
 720575940639631219	FlyWire:720575940639631219	flywire783	is_a	adult central medulla intrinsic neuron Cm1	FlyBase:FBrf0262545
-720575940639631686	FlyWire:720575940639631686	flywire783	is_a	adult central medulla intrinsic neuron Cm32	FlyBase:FBrf0262545
+720575940639631686	FlyWire:720575940639631686	flywire783	is_a	adult Cm32 neuron	FlyBase:FBrf0262545
 720575940639640483	FlyWire:720575940639640483	flywire783	is_a	distal medullary amacrine neuron Dm8b	
 720575940639642685	FlyWire:720575940639642685	flywire783	is_a	distal medullary amacrine neuron Dm3a	FlyBase:FBrf0262545
 720575940639648088	FlyWire:720575940639648088	flywire783	is_a	transmedullary neuron Tm33	FlyBase:FBrf0262545
@@ -15350,7 +15350,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940640342872	FlyWire:720575940640342872	flywire783	is_a	distal medullary amacrine neuron Dm3b	FlyBase:FBrf0262545
 720575940640345176	FlyWire:720575940640345176	flywire783	is_a	adult medulla-lobula neuron MeLo4	FlyBase:FBrf0262545
 720575940640347355	FlyWire:720575940640347355	flywire783	is_a	medulla columnar neuron MC64	
-720575940640349518	FlyWire:720575940640349518	flywire783	is_a	adult central medulla intrinsic neuron Cm32	FlyBase:FBrf0262545
+720575940640349518	FlyWire:720575940640349518	flywire783	is_a	adult Cm32 neuron	FlyBase:FBrf0262545
 720575940640351347	FlyWire:720575940640351347	flywire783	is_a	adult central medulla intrinsic neuron Cm6	FlyBase:FBrf0262545
 720575940640352371	FlyWire:720575940640352371	flywire783	is_a	lobula plate intrinsic neuron LPi2e	FlyBase:FBrf0262545
 720575940640354101	FlyWire:720575940640354101	flywire783	is_a	adult central medulla intrinsic neuron Cm9	FlyBase:FBrf0262545
@@ -15382,7 +15382,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940640425635	FlyWire:720575940640425635	flywire783	is_a	medulla columnar neuron MC64	
 720575940640432701	FlyWire:720575940640432701	flywire783	is_a	adult lobula columnar neuron LC37	
 720575940640433742	FlyWire:720575940640433742	flywire783	is_a	accessory medulla neuron aMe5	
-720575940640434803	FlyWire:720575940640434803	flywire783	is_a	adult lobula intrinsic neuron Li21	FlyBase:FBrf0262545
+720575940640434803	FlyWire:720575940640434803	flywire783	is_a	adult Li21 neuron	FlyBase:FBrf0262545
 720575940640440016	FlyWire:720575940640440016	flywire783	is_a	adult lobula columnar neuron LC28	
 720575940640445272	FlyWire:720575940640445272	flywire783	is_a	adult medulla visual projection neuron MeVP3	FlyBase:FBrf0262545
 720575940640448163	FlyWire:720575940640448163	flywire783	is_a	adult transmedullary Y neuron TmY17	FlyBase:FBrf0262545
@@ -15558,7 +15558,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940641404045	FlyWire:720575940641404045	flywire783	is_a	distal medullary amacrine neuron Dm3a	FlyBase:FBrf0262545
 720575940641410189	FlyWire:720575940641410189	flywire783	is_a	adult lobula visual projection neuron LoVP76	FlyBase:FBrf0262545
 720575940641425293	FlyWire:720575940641425293	flywire783	is_a	adult lobula intrinsic neuron Li22	FlyBase:FBrf0262545
-720575940641425872	FlyWire:720575940641425872	flywire783	is_a	adult medulla visual projection neuron MeVP2	FlyBase:FBrf0262545
+720575940641425872	FlyWire:720575940641425872	flywire783	is_a	adult medulla tangential neuron e02	FlyBase:FBrf0262545
 720575940641427920	FlyWire:720575940641427920	flywire783	is_a	distal medullary amacrine neuron Dm8b	
 720575940641451509	FlyWire:720575940641451509	flywire783	is_a	transmedullary Y neuron TmY13	FlyBase:FBrf0262545
 720575940641457616	FlyWire:720575940641457616	flywire783	is_a	distal medullary amacrine neuron Dm3a	FlyBase:FBrf0262545
@@ -15650,7 +15650,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940642267637	FlyWire:720575940642267637	flywire783	is_a	medulla tangential intrinsic neuron 2	FlyBase:FBrf0262545
 720575940642273781	FlyWire:720575940642273781	flywire783	is_a	transmedullary neuron Tm29	FlyBase:FBrf0262545
 720575940642280923	FlyWire:720575940642280923	flywire783	is_a	lamina intrinsic neuron Lai	
-720575940642283149	FlyWire:720575940642283149	flywire783	is_a	adult lobula intrinsic neuron Li21	FlyBase:FBrf0262545
+720575940642283149	FlyWire:720575940642283149	flywire783	is_a	adult Li21 neuron	FlyBase:FBrf0262545
 720575940642289805	FlyWire:720575940642289805	flywire783	is_a	distal medullary amacrine neuron Dm3b	FlyBase:FBrf0262545
 720575940642292109	FlyWire:720575940642292109	flywire783	is_a	adult central medulla intrinsic neuron Cm4	FlyBase:FBrf0262545
 720575940642306957	FlyWire:720575940642306957	flywire783	is_a	transmedullary neuron Tm24	FlyBase:FBrf0262545
@@ -15692,7 +15692,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940642572251	FlyWire:720575940642572251	flywire783	is_a	adult transmedullary CB3851 neuron	
 720575940642586843	FlyWire:720575940642586843	flywire783	is_a	distal medullary amacrine neuron Dm8b	
 720575940642592475	FlyWire:720575940642592475	flywire783	is_a	accessory medulla neuron aMe9	
-720575940642602459	FlyWire:720575940642602459	flywire783	is_a	adult central medulla intrinsic neuron Cm32	FlyBase:FBrf0262545
+720575940642602459	FlyWire:720575940642602459	flywire783	is_a	adult Cm32 neuron	FlyBase:FBrf0262545
 720575940642604836	FlyWire:720575940642604836	flywire783	is_a	adult medulla-tubercle neuron 1	
 720575940642606299	FlyWire:720575940642606299	flywire783	is_a	adult medulla-tubercle neuron 3	
 720575940642616205	FlyWire:720575940642616205	flywire783	is_a	T4c neuron	
@@ -16349,7 +16349,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940650182009	FlyWire:720575940650182009	flywire783	is_a	adult central medulla intrinsic neuron Cm1	FlyBase:FBrf0262545
 720575940650193785	FlyWire:720575940650193785	flywire783	is_a	adult central medulla intrinsic neuron Cm1	FlyBase:FBrf0262545
 720575940650206073	FlyWire:720575940650206073	flywire783	is_a	lobula plate intrinsic neuron LPi3b	FlyBase:FBrf0262545
-720575940650339961	FlyWire:720575940650339961	flywire783	is_a	adult lobula intrinsic neuron Li23	FlyBase:FBrf0262545
+720575940650339961	FlyWire:720575940650339961	flywire783	is_a	adult Li23 neuron	FlyBase:FBrf0262545
 720575940650362614	FlyWire:720575940650362614	flywire783	is_a	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 3 medial domain neuron	
 720575940650407801	FlyWire:720575940650407801	flywire783	is_a	adult medulla-tubercle neuron 1	
 720575940650416505	FlyWire:720575940650416505	flywire783	is_a	adult lobula tangential neuron LT83	
@@ -16436,7 +16436,7 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 720575940653620470	FlyWire:720575940653620470	flywire783	is_a	outer photoreceptor cell	
 720575940653622177	FlyWire:720575940653622177	flywire783	is_a	adult central medulla intrinsic neuron Cm10	FlyBase:FBrf0262545
 720575940653623201	FlyWire:720575940653623201	flywire783	is_a	transmedullary neuron Tm5Y	FlyBase:FBrf0262545
-720575940653623798	FlyWire:720575940653623798	flywire783	is_a	adult lobula intrinsic neuron Li23	FlyBase:FBrf0262545
+720575940653623798	FlyWire:720575940653623798	flywire783	is_a	adult Li23 neuron	FlyBase:FBrf0262545
 720575940653652129	FlyWire:720575940653652129	flywire783	is_a	fan-shaped body extrinsic columnar neuron	
 720575940654008993	FlyWire:720575940654008993	flywire783	is_a	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 3 medial domain neuron	
 720575940654245025	FlyWire:720575940654245025	flywire783	is_a	transmedullary neuron Tm24	FlyBase:FBrf0262545
