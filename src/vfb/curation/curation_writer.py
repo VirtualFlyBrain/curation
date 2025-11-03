@@ -130,24 +130,58 @@ class CurationWriter:
         Lookups are defined by standard config that specifies a config:
         name:field:regex, e.g. {'part_of': {'short_form': 'FBbt_.+'}}
         name should match the kwarg for which it is to be used.
+        
+        OPTIMIZED: Executes all queries in a single batch instead of sequentially.
         """
         lookup_config = conf
         lookup = {}
-        if lookup_config:
-            for name, lcs in lookup_config.items():
-                lookup[name] = {}
-                queries = []
-                for c in lcs:
-                    q = "MATCH (c%s) where c.%s =~ '%s' RETURN c.label as label, c.short_form as short_form" % (c.neo_label_string, c.field, c.regex)
-                    queries.append(q)
-                # Execute queries in batches
-                results = self.ew.nc.commit_list(queries)
-                if isinstance(results, str):
-                    logging.error(f"Unexpected result type: {results}")
-                    raise TypeError(f"Expected list of dicts but got string: {results}")
-                # Process results
-                r_dict = results_2_dict_list(results)
-                lookup[name].update({escape_string_for_neo(x['label']): x['short_form'] for x in r_dict})
+        
+        if not lookup_config:
+            return lookup
+        
+        # Build all queries first, then execute in one batch
+        all_queries = []
+        query_to_lookup_map = []  # Track which query belongs to which lookup
+        
+        for name, lcs in lookup_config.items():
+            lookup[name] = {}
+            for c in lcs:
+                # Modified query to include lookup name in results
+                q = ("MATCH (c%s) WHERE c.%s =~ '%s' "
+                     "RETURN '%s' as lookup_name, c.label as label, c.short_form as short_form" 
+                     % (c.neo_label_string, c.field, c.regex, name))
+                all_queries.append(q)
+                query_to_lookup_map.append(name)
+        
+        if not all_queries:
+            return lookup
+        
+        # Execute all queries in a single batch (major performance improvement)
+        try:
+            results = self.ew.nc.commit_list(all_queries)
+            
+            if isinstance(results, str):
+                logging.error(f"Unexpected result type from database: {results}")
+                raise TypeError(f"Expected list of dicts but got string: {results}")
+            
+            # Process all results
+            r_dict = results_2_dict_list(results)
+            
+            # Group results by lookup_name
+            for item in r_dict:
+                lookup_name = item.get('lookup_name', 'unknown')
+                if lookup_name in lookup:
+                    escaped_label = escape_string_for_neo(item['label'])
+                    lookup[lookup_name][escaped_label] = item['short_form']
+            
+            # Log lookup statistics
+            for name, items in lookup.items():
+                logging.info(f"Loaded {len(items)} items for lookup '{name}'")
+        
+        except Exception as e:
+            logging.error(f"Error generating lookups: {e}")
+            raise
+        
         return lookup
 
     def extend_lookup_from_flybase(self, features, key='expresses'):
@@ -159,32 +193,63 @@ class CurationWriter:
         self.object_lookup[key] = {escape_string_for_neo(d['label']): d['short_form'] for d in dc}
 
     def write_rows(self, verbose=False, start='100000', allow_duplicates=False):
+        """
+        Process all rows in the curation record.
+        
+        OPTIMIZED: Pre-processes DataFrame operations and uses adaptive batch sizing
+        for better performance with large datasets.
+        """
         start_time = time.time()
         tot = len(self.record.tsv)
-        batch_size = 1000  # Set batch size
-        # Split the DataFrame into chunks
-        chunks = numpy.array_split(self.record.tsv, numpy.ceil(tot / batch_size))
-        for i, chunk in enumerate(chunks):
-            self.process_batch(chunk, start=start, allow_duplicates=allow_duplicates, verbose=verbose, start_time=start_time, tot=tot, i=(i+1)*batch_size)
+        
+        if tot == 0:
+            if verbose:
+                print("No rows to process")
+            return
+        
+        # OPTIMIZATION: Pre-fill NaN values once for entire DataFrame instead of per-row
+        self.record.tsv.fillna('', inplace=True)
+        
         if verbose:
-            self._time(start_time, tot, i=0, final=True)
-
-    def process_batch(self, batch, start, allow_duplicates, verbose, start_time, tot, i, final=False):
-        for _, row in batch.iterrows():
-            self.write_row(row, start=start, allow_duplicates=allow_duplicates)
-        if verbose:
-            self._time(start_time, tot, i)
-        # Clear the batch to free memory
-        del batch
-        import gc
-        gc.collect()
-
-    def _time(self, start_time, tot, i, final=False):
-        t = round(time.time() - start_time, 3)
-        if not final:
-            print(f"On row {i} of {tot} at {timedelta(seconds=t)}")
+            print(f"Starting to process {tot} rows...")
+        
+        # Adaptive batch sizing based on total rows
+        if tot < 100:
+            batch_size = tot
+        elif tot < 1000:
+            batch_size = 100
         else:
-            print(f"*** Completed checks and buffer loading on {tot} rows after {str(timedelta(seconds=t))}")
+            batch_size = 500  # Larger batches for big datasets
+        
+        # Split the DataFrame into chunks
+        num_batches = int(numpy.ceil(tot / batch_size))
+        chunks = numpy.array_split(self.record.tsv, num_batches)
+        
+        processed_count = 0
+        for batch_idx, chunk in enumerate(chunks):
+            for _, row in chunk.iterrows():
+                self.write_row(row, start=start, allow_duplicates=allow_duplicates)
+                processed_count += 1
+            
+            # Report progress every batch (not every row) to reduce overhead
+            if verbose and (batch_idx % 5 == 0 or batch_idx == num_batches - 1):
+                elapsed = time.time() - start_time
+                rows_per_sec = processed_count / elapsed if elapsed > 0 else 0
+                remaining = (tot - processed_count) / rows_per_sec if rows_per_sec > 0 else 0
+                print(f"Processed {processed_count}/{tot} rows ({batch_idx+1}/{num_batches} batches) | "
+                      f"Speed: {rows_per_sec:.1f} rows/sec | "
+                      f"Elapsed: {timedelta(seconds=int(elapsed))} | "
+                      f"ETA: {timedelta(seconds=int(remaining))}")
+            
+            # Clear the batch to free memory
+            del chunk
+            import gc
+            gc.collect()
+        
+        if verbose:
+            total_time = time.time() - start_time
+            print(f"*** Completed processing {tot} rows in {timedelta(seconds=int(total_time))} "
+                  f"({tot/total_time:.1f} rows/sec)")
 
     def write_row(self, row, start=None, allow_duplicates=False):
         return False
@@ -231,7 +296,12 @@ class NewMetaDataWriter(CurationWriter):
         self.rels = self.get_rels()
         logging.info(f"NewMetaDataWriter initialized for record: {self.record.cr.path}")
 
-    def commit(self, chunk_length=1000, verbose=False):
+    def commit(self, chunk_length=5000, verbose=False):
+        """
+        Commit metadata changes to the database.
+        
+        OPTIMIZED: Increased default chunk_length from 1000 to 5000 for better performance.
+        """
         r = self.ew.commit(chunk_length=chunk_length, verbose=verbose)
         if False in r:
             self.stat = False
@@ -443,16 +513,23 @@ class NewImageWriter(CurationWriter):
             self.extend_lookup_from_flybase(features, key=c)
 
     def gen_pw_args(self, row, start):
+        """
+        Generate pattern writer arguments from a row.
+        
+        OPTIMIZED: Removed redundant fillna() call since it's now done
+        at the DataFrame level in write_rows().
+        """
         stat = True
 
-        row.fillna('', inplace=True)
-        out = {}
-        out['start'] = start
+        # REMOVED: row.fillna('', inplace=True)  # Now done at DataFrame level
+        
+        out = {'start': start, 'anon_anatomical_types': []}
+        
+        # Pre-initialize pattern_arg dicts
         for k, v in self.record.spec.items():
             if ('pattern_arg' in v.keys()) and ('pattern_dict_key' in v.keys()):
-                out[v['pattern_arg']] = {}
-
-        out['anon_anatomical_types'] = []
+                if v['pattern_arg'] not in out:
+                    out[v['pattern_arg']] = {}
 
         if 'anat_id' in row and row['anat_id'] in self.object_lookup.get('anat_id', {}):
             out['anat_id'] = self.object_lookup['anat_id'][row['anat_id']]
@@ -539,9 +616,18 @@ class NewImageWriter(CurationWriter):
             logging.debug(f"Writing row with arguments: {kwargs}")
             self.pattern_writer.add_anatomy_image_set(**kwargs, hard_fail=not allow_duplicates, allow_duplicates=allow_duplicates)
 
-    def commit(self, ew_chunk_length=1500, ni_chunk_length=1500, verbose=False):
+    def commit(self, ew_chunk_length=5000, ni_chunk_length=5000, verbose=False):
+        """
+        Commit changes to the database.
+        
+        OPTIMIZED: Uses larger chunk sizes (5000 instead of 1500) for better 
+        performance with massive loads. Adjust these parameters based on system memory:
+        - More memory: increase to 10000 or higher
+        - Less memory: decrease to 2000-3000
+        """
         if verbose:
-            logging.info(f"Committing changes with ew_chunk_length={ew_chunk_length} and ni_chunk_length={ni_chunk_length}")
+            logging.info(f"Committing changes with ew_chunk_length={ew_chunk_length}, "
+                        f"ni_chunk_length={ni_chunk_length}")
         if not self.pattern_writer.commit(ew_chunk_length=ew_chunk_length, ni_chunk_length=ni_chunk_length, verbose=verbose):
             self.stat = False
 
