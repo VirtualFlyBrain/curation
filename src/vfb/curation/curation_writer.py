@@ -262,8 +262,23 @@ class CurationWriter:
                             # Label not in lookup - will fail during row processing with proper error
                             if verbose:
                                 print(f"  ✗ {entity_name}: {yaml_value} not in lookup (will validate per-row)")
+                    elif entity_name == 'Imaging_type':
+                        # Special case: Imaging_type is resolved via class_lookup, not validated as entity
+                        # add_anatomy_image_set() uses: self.class_lookup[imaging_type]
+                        # So we look it up in class_lookup and cache the IRI for validation
+                        if yaml_value in self.pattern_writer.class_lookup:
+                            class_iri = self.pattern_writer.class_lookup[yaml_value]
+                            # Cache the label (what gets passed to add_anatomy_image_set)
+                            # EntityChecker will see this cached and skip validation
+                            self.pattern_writer.ec.cache.append(yaml_value)
+                            cached_count += 1
+                            if verbose:
+                                print(f"  ✓ {entity_name}: {yaml_value} ({class_iri}) found in class_lookup and cached")
+                        else:
+                            if verbose:
+                                print(f"  ✗ {entity_name}: {yaml_value} not in class_lookup (will fail per-row)")
                     else:
-                        # Fields without restriction: validate by label directly (e.g., DataSet, Imaging_type)
+                        # Fields without restriction: validate by label directly (e.g., DataSet)
                         # These are passed as-is to add_anatomy_image_set()
                         self.pattern_writer.ec.roll_entity_check(
                             labels=labels,
