@@ -278,12 +278,13 @@ class CurationWriter:
                             if verbose:
                                 print(f"  ✗ {entity_name}: {yaml_value} not in class_lookup (will fail per-row)")
                     else:
-                        # Fields without restriction: validate by label directly (e.g., DataSet)
-                        # These are passed as-is to add_anatomy_image_set()
+                        # Fields without restriction: validate by short_form (e.g., DataSet)
+                        # These are passed as short_forms to add_anatomy_image_set()
+                        # add_anatomy_image_set() defaults to match_on='short_form'
                         self.pattern_writer.ec.roll_entity_check(
                             labels=labels,
                             query=yaml_value,
-                            match_on='label'
+                            match_on='short_form'
                         )
                         
                         # Check if it exists - only cache if validation succeeds
