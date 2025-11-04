@@ -204,10 +204,13 @@ class CurationWriter:
         # Only validate entities that are actually present in the YAML metadata
         # IMPORTANT: Only cache entities that actually EXIST in the database, otherwise
         # the cache will incorrectly skip validation for missing entities
+        # CRITICAL: Must validate using SHORT_FORMS (not labels) because that's what
+        # add_anatomy_image_set() validates, otherwise the cache won't hit!
         if hasattr(self, 'record') and hasattr(self.record, 'y') and self.record.y:
             entities_to_validate = []
             
             # Check what entities are available and queue them for validation
+            # (entity_name, labels, yaml_value)
             if 'DataSet' in self.record.y and self.record.y['DataSet']:
                 entities_to_validate.append(('DataSet', ['DataSet'], self.record.y['DataSet']))
             
@@ -227,26 +230,35 @@ class CurationWriter:
                     print(f"Pre-validating shared entities ({', '.join(entity_names)})...")
                 
                 cached_count = 0
-                for entity_name, labels, query_value in entities_to_validate:
-                    # Queue this entity for validation
-                    self.pattern_writer.ec.roll_entity_check(
-                        labels=labels,
-                        query=query_value,
-                        match_on='short_form'
-                    )
-                    
-                    # Check if it exists - only cache if validation succeeds
-                    if self.pattern_writer.ec.check(hard_fail=False):
-                        cached_count += 1
-                        if verbose:
-                            print(f"  ✓ {entity_name}: {query_value} found and cached")
+                for entity_name, labels, yaml_value in entities_to_validate:
+                    # Convert label to short_form using object_lookup (same as gen_pw_args does)
+                    # This ensures we cache the same value that add_anatomy_image_set() will validate
+                    if entity_name in self.object_lookup and yaml_value in self.object_lookup[entity_name]:
+                        short_form = self.object_lookup[entity_name][yaml_value]
+                        
+                        # Queue this entity for validation using short_form
+                        self.pattern_writer.ec.roll_entity_check(
+                            labels=labels,
+                            query=short_form,
+                            match_on='short_form'
+                        )
+                        
+                        # Check if it exists - only cache if validation succeeds
+                        if self.pattern_writer.ec.check(hard_fail=False):
+                            cached_count += 1
+                            if verbose:
+                                print(f"  ✓ {entity_name}: {yaml_value} ({short_form}) found and cached")
+                        else:
+                            # Entity doesn't exist - don't cache it, let per-row validation handle the error
+                            # Clear the cache entry that was added by check()
+                            if short_form in self.pattern_writer.ec.cache:
+                                self.pattern_writer.ec.cache.remove(short_form)
+                            if verbose:
+                                print(f"  ✗ {entity_name}: {yaml_value} ({short_form}) not found (will validate per-row)")
                     else:
-                        # Entity doesn't exist - don't cache it, let per-row validation handle the error
-                        # Clear the cache entry that was added by check()
-                        if query_value in self.pattern_writer.ec.cache:
-                            self.pattern_writer.ec.cache.remove(query_value)
+                        # Label not in lookup - will fail during row processing with proper error
                         if verbose:
-                            print(f"  ✗ {entity_name}: {query_value} not found (will validate per-row)")
+                            print(f"  ✗ {entity_name}: {yaml_value} not in lookup (will validate per-row)")
                 
                 if verbose and cached_count > 0:
                     print(f"Pre-validation complete. Cached {cached_count} entities will be reused for all rows.")
