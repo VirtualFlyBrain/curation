@@ -141,7 +141,6 @@ class CurationWriter:
         
         # Build all queries first, then execute in one batch
         all_queries = []
-        query_to_lookup_map = []  # Track which query belongs to which lookup
         
         for name, lcs in lookup_config.items():
             lookup[name] = {}
@@ -151,7 +150,6 @@ class CurationWriter:
                      "RETURN '%s' as lookup_name, c.label as label, c.short_form as short_form" 
                      % (c.neo_label_string, c.field, c.regex, name))
                 all_queries.append(q)
-                query_to_lookup_map.append(name)
         
         if not all_queries:
             return lookup
@@ -173,10 +171,6 @@ class CurationWriter:
                 if lookup_name in lookup:
                     escaped_label = escape_string_for_neo(item['label'])
                     lookup[lookup_name][escaped_label] = item['short_form']
-            
-            # Log lookup statistics
-            for name, items in lookup.items():
-                logging.info(f"Loaded {len(items)} items for lookup '{name}'")
         
         except Exception as e:
             logging.error(f"Error generating lookups: {e}")
@@ -196,60 +190,64 @@ class CurationWriter:
         """
         Process all rows in the curation record.
         
-        OPTIMIZED: Pre-processes DataFrame operations and uses adaptive batch sizing
-        for better performance with large datasets.
+        OPTIMIZED: Pre-fill NaN values once for entire DataFrame instead of per-row.
+        OPTIMIZED: Pre-validate shared entities to avoid redundant DB queries per row.
         """
         start_time = time.time()
         tot = len(self.record.tsv)
         
-        if tot == 0:
-            if verbose:
-                print("No rows to process")
-            return
-        
-        # OPTIMIZATION: Pre-fill NaN values once for entire DataFrame instead of per-row
+        # OPTIMIZATION: Pre-fill NaN values once for entire DataFrame
         self.record.tsv.fillna('', inplace=True)
         
-        if verbose:
-            print(f"Starting to process {tot} rows...")
-        
-        # Adaptive batch sizing based on total rows
-        if tot < 100:
-            batch_size = tot
-        elif tot < 1000:
-            batch_size = 100
-        else:
-            batch_size = 500  # Larger batches for big datasets
-        
-        # Split the DataFrame into chunks
-        num_batches = int(numpy.ceil(tot / batch_size))
-        chunks = numpy.array_split(self.record.tsv, num_batches)
-        
-        processed_count = 0
-        for batch_idx, chunk in enumerate(chunks):
-            for _, row in chunk.iterrows():
-                self.write_row(row, start=start, allow_duplicates=allow_duplicates)
-                processed_count += 1
+        # OPTIMIZATION: Pre-validate entities that are constant across all rows
+        # This populates the EntityChecker cache and avoids ~6-10 DB queries per row
+        if hasattr(self, 'record') and hasattr(self.record, 'y') and self.record.y:
+            if verbose:
+                print("Pre-validating shared entities (DataSet, Template, Imaging_type)...")
             
-            # Report progress every batch (not every row) to reduce overhead
-            if verbose and (batch_idx % 5 == 0 or batch_idx == num_batches - 1):
+            # Pre-validate DataSet if present
+            if 'DataSet' in self.record.y:
+                self.pattern_writer.ec.roll_entity_check(
+                    labels=['DataSet'],
+                    query=self.record.y['DataSet'],
+                    match_on='short_form'
+                )
+            
+            # Pre-validate Template if present
+            if 'Template' in self.record.y:
+                self.pattern_writer.ec.roll_entity_check(
+                    labels=['Individual'],
+                    query=self.record.y['Template'],
+                    match_on='short_form'
+                )
+            
+            # Pre-validate Imaging_type if present
+            if 'Imaging_type' in self.record.y:
+                self.pattern_writer.ec.roll_entity_check(
+                    labels=['Class'],
+                    query=self.record.y['Imaging_type'],
+                    match_on='short_form'
+                )
+            
+            # Run the validation check once - this caches all the results
+            if not self.pattern_writer.ec.check(hard_fail=True):
+                raise ValueError("Pre-validation failed for shared entities")
+            
+            if verbose:
+                print("Pre-validation complete. Cached entities will be reused for all rows.")
+        
+        # Iterate through rows using simple iteration to minimize overhead
+        for i, (index, row) in enumerate(self.record.tsv.iterrows(), 1):
+            self.write_row(row, start=start, allow_duplicates=allow_duplicates)
+            
+            # Report progress every 1000 rows only to reduce overhead
+            if verbose and i % 1000 == 0:
                 elapsed = time.time() - start_time
-                rows_per_sec = processed_count / elapsed if elapsed > 0 else 0
-                remaining = (tot - processed_count) / rows_per_sec if rows_per_sec > 0 else 0
-                print(f"Processed {processed_count}/{tot} rows ({batch_idx+1}/{num_batches} batches) | "
-                      f"Speed: {rows_per_sec:.1f} rows/sec | "
-                      f"Elapsed: {timedelta(seconds=int(elapsed))} | "
-                      f"ETA: {timedelta(seconds=int(remaining))}")
-            
-            # Clear the batch to free memory
-            del chunk
-            import gc
-            gc.collect()
+                print(f"On row {i} of {tot} at {timedelta(seconds=int(elapsed))}")
         
         if verbose:
             total_time = time.time() - start_time
-            print(f"*** Completed processing {tot} rows in {timedelta(seconds=int(total_time))} "
-                  f"({tot/total_time:.1f} rows/sec)")
+            print(f"*** Completed checks and buffer loading on {tot} rows after {timedelta(seconds=int(total_time))}")
 
     def write_row(self, row, start=None, allow_duplicates=False):
         return False
