@@ -202,53 +202,54 @@ class CurationWriter:
         # OPTIMIZATION: Pre-validate entities that are constant across all rows
         # This populates the EntityChecker cache and avoids ~6-10 DB queries per row
         # Only validate entities that are actually present in the YAML metadata
+        # IMPORTANT: Only cache entities that actually EXIST in the database, otherwise
+        # the cache will incorrectly skip validation for missing entities
         if hasattr(self, 'record') and hasattr(self.record, 'y') and self.record.y:
             entities_to_validate = []
             
             # Check what entities are available and queue them for validation
             if 'DataSet' in self.record.y and self.record.y['DataSet']:
-                entities_to_validate.append('DataSet')
-                self.pattern_writer.ec.roll_entity_check(
-                    labels=['DataSet'],
-                    query=self.record.y['DataSet'],
-                    match_on='short_form'
-                )
+                entities_to_validate.append(('DataSet', ['DataSet'], self.record.y['DataSet']))
             
             if 'Template' in self.record.y and self.record.y['Template']:
-                entities_to_validate.append('Template')
-                self.pattern_writer.ec.roll_entity_check(
-                    labels=['Individual'],
-                    query=self.record.y['Template'],
-                    match_on='short_form'
-                )
+                entities_to_validate.append(('Template', ['Individual'], self.record.y['Template']))
             
             if 'Imaging_type' in self.record.y and self.record.y['Imaging_type']:
-                entities_to_validate.append('Imaging_type')
-                self.pattern_writer.ec.roll_entity_check(
-                    labels=['Class'],
-                    query=self.record.y['Imaging_type'],
-                    match_on='short_form'
-                )
+                entities_to_validate.append(('Imaging_type', ['Class'], self.record.y['Imaging_type']))
             
             if 'Curator' in self.record.y and self.record.y['Curator']:
-                entities_to_validate.append('Curator')
-                self.pattern_writer.ec.roll_entity_check(
-                    labels=['Person'],
-                    query=self.record.y['Curator'],
-                    match_on='short_form'
-                )
+                entities_to_validate.append(('Curator', ['Person'], self.record.y['Curator']))
             
-            # Only run validation if we have entities to validate
+            # Validate each entity individually and only cache those that exist
             if entities_to_validate:
                 if verbose:
-                    print(f"Pre-validating shared entities ({', '.join(entities_to_validate)})...")
+                    entity_names = [e[0] for e in entities_to_validate]
+                    print(f"Pre-validating shared entities ({', '.join(entity_names)})...")
                 
-                # Run the validation check once - this caches all the results
-                if not self.pattern_writer.ec.check(hard_fail=True):
-                    raise ValueError(f"Pre-validation failed for shared entities: {', '.join(entities_to_validate)}")
+                cached_count = 0
+                for entity_name, labels, query_value in entities_to_validate:
+                    # Queue this entity for validation
+                    self.pattern_writer.ec.roll_entity_check(
+                        labels=labels,
+                        query=query_value,
+                        match_on='short_form'
+                    )
+                    
+                    # Check if it exists - only cache if validation succeeds
+                    if self.pattern_writer.ec.check(hard_fail=False):
+                        cached_count += 1
+                        if verbose:
+                            print(f"  ✓ {entity_name}: {query_value} found and cached")
+                    else:
+                        # Entity doesn't exist - don't cache it, let per-row validation handle the error
+                        # Clear the cache entry that was added by check()
+                        if query_value in self.pattern_writer.ec.cache:
+                            self.pattern_writer.ec.cache.remove(query_value)
+                        if verbose:
+                            print(f"  ✗ {entity_name}: {query_value} not found (will validate per-row)")
                 
-                if verbose:
-                    print(f"Pre-validation complete. Cached {len(entities_to_validate)} entities will be reused for all rows.")
+                if verbose and cached_count > 0:
+                    print(f"Pre-validation complete. Cached {cached_count} entities will be reused for all rows.")
         
         # Iterate through rows using simple iteration to minimize overhead
         for i, (index, row) in enumerate(self.record.tsv.iterrows(), 1):
