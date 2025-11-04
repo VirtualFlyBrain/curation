@@ -231,34 +231,57 @@ class CurationWriter:
                 
                 cached_count = 0
                 for entity_name, labels, yaml_value in entities_to_validate:
-                    # Convert label to short_form using object_lookup (same as gen_pw_args does)
-                    # This ensures we cache the same value that add_anatomy_image_set() will validate
-                    if entity_name in self.object_lookup and yaml_value in self.object_lookup[entity_name]:
-                        short_form = self.object_lookup[entity_name][yaml_value]
-                        
-                        # Queue this entity for validation using short_form
+                    # Check if this field has a 'restriction' (means it goes through object_lookup)
+                    has_restriction = entity_name in self.record.spec and 'restriction' in self.record.spec[entity_name]
+                    
+                    if has_restriction:
+                        # Fields with restriction: convert label to short_form using object_lookup
+                        # This ensures we cache the same value that add_anatomy_image_set() will validate
+                        if entity_name in self.object_lookup and yaml_value in self.object_lookup[entity_name]:
+                            short_form = self.object_lookup[entity_name][yaml_value]
+                            
+                            # Queue this entity for validation using short_form
+                            self.pattern_writer.ec.roll_entity_check(
+                                labels=labels,
+                                query=short_form,
+                                match_on='short_form'
+                            )
+                            
+                            # Check if it exists - only cache if validation succeeds
+                            if self.pattern_writer.ec.check(hard_fail=False):
+                                cached_count += 1
+                                if verbose:
+                                    print(f"  ✓ {entity_name}: {yaml_value} ({short_form}) found and cached")
+                            else:
+                                # Entity doesn't exist - don't cache it, let per-row validation handle the error
+                                if short_form in self.pattern_writer.ec.cache:
+                                    self.pattern_writer.ec.cache.remove(short_form)
+                                if verbose:
+                                    print(f"  ✗ {entity_name}: {yaml_value} ({short_form}) not found (will validate per-row)")
+                        else:
+                            # Label not in lookup - will fail during row processing with proper error
+                            if verbose:
+                                print(f"  ✗ {entity_name}: {yaml_value} not in lookup (will validate per-row)")
+                    else:
+                        # Fields without restriction: validate by label directly (e.g., DataSet, Imaging_type)
+                        # These are passed as-is to add_anatomy_image_set()
                         self.pattern_writer.ec.roll_entity_check(
                             labels=labels,
-                            query=short_form,
-                            match_on='short_form'
+                            query=yaml_value,
+                            match_on='label'
                         )
                         
                         # Check if it exists - only cache if validation succeeds
                         if self.pattern_writer.ec.check(hard_fail=False):
                             cached_count += 1
                             if verbose:
-                                print(f"  ✓ {entity_name}: {yaml_value} ({short_form}) found and cached")
+                                print(f"  ✓ {entity_name}: {yaml_value} found and cached")
                         else:
                             # Entity doesn't exist - don't cache it, let per-row validation handle the error
-                            # Clear the cache entry that was added by check()
-                            if short_form in self.pattern_writer.ec.cache:
-                                self.pattern_writer.ec.cache.remove(short_form)
+                            if yaml_value in self.pattern_writer.ec.cache:
+                                self.pattern_writer.ec.cache.remove(yaml_value)
                             if verbose:
-                                print(f"  ✗ {entity_name}: {yaml_value} ({short_form}) not found (will validate per-row)")
-                    else:
-                        # Label not in lookup - will fail during row processing with proper error
-                        if verbose:
-                            print(f"  ✗ {entity_name}: {yaml_value} not in lookup (will validate per-row)")
+                                print(f"  ✗ {entity_name}: {yaml_value} not found (will validate per-row)")
                 
                 if verbose and cached_count > 0:
                     print(f"Pre-validation complete. Cached {cached_count} entities will be reused for all rows.")
