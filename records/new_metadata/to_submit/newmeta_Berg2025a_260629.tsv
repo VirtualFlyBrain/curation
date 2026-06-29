@@ -17432,7 +17432,6 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 527131	T1_L (MaleCNS:527131)	male-cns_v1_0	is_a	columnar neuron T1	FlyBase:FBrf0262545
 527132	Dm1_L (MaleCNS:527132)	male-cns_v1_0	is_a	distal medullary amacrine neuron Dm1	FlyBase:FBrf0262545
 527133	Mi9_L (MaleCNS:527133)	male-cns_v1_0	is_a	medulla intrinsic neuron Mi9	FlyBase:FBrf0262545
-527138	None (MaleCNS:527138)	male-cns_v1_0	is_a		
 52714	TmY5a_L (MaleCNS:52714)	male-cns_v1_0	is_a	transmedullary Y neuron TmY5a	FlyBase:FBrf0262545
 527141	L1_L (MaleCNS:527141)	male-cns_v1_0	is_a	lamina monopolar neuron L1	FlyBase:FBrf0262545
 527145	AVLP191_L (MaleCNS:527145)	male-cns_v1_0	is_a	adult anterior ventrolateral protocerebrum neuron 191	
