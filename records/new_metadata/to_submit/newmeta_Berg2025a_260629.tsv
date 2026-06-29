@@ -378,8 +378,8 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 42733	MeLo7_R (MaleCNS:42733)	male-cns_v1_0	is_a	adult medulla-lobula neuron MeLo7	FlyBase:FBrf0262545
 42734	IbSpsP(PB17)_L2 (MaleCNS:42734)	male-cns_v1_0	is_a	adult inferior bridge-superior posterior slope-protocerebral bridge neuron	
 427340616	claw_tpGRN_L (MaleCNS:427340616)	male-cns_v1_0	is_a	labellar taste peg chemosensory neuron	
-427343	SApp_R (MaleCNS:427343)	male-cns_v1_0	is_a	sensory neuron of haltere campaniform sensillum	
 427343	SApp_R (MaleCNS:427343)	male-cns_v1_0	is_a	adult ascending neuron	
+427343	SApp_R (MaleCNS:427343)	male-cns_v1_0	is_a	sensory neuron of haltere campaniform sensillum	
 42736	FC3_a_C8_L (MaleCNS:42736)	male-cns_v1_0	is_a	adult fan-shaped body 1 column-crepine neuron	FlyBase:FBrf0246888
 42737	LC18_R (MaleCNS:42737)	male-cns_v1_0	is_a	lobula columnar neuron LC18	FlyBase:FBrf0262545
 42738	Y12_R (MaleCNS:42738)	male-cns_v1_0	is_a	Y neuron Y12	FlyBase:FBrf0262545
@@ -1164,8 +1164,8 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 43556	SLP286_R (MaleCNS:43556)	male-cns_v1_0	is_a	adult superior lateral protocerebrum neuron 286	
 43557	Tm1_R (MaleCNS:43557)	male-cns_v1_0	is_a	transmedullary neuron Tm1	FlyBase:FBrf0262545
 435582	ORN_VA1d_R (MaleCNS:435582)	male-cns_v1_0	is_a	adult olfactory receptor neuron Or88a	
-43559	SApp09,SApp22_R (MaleCNS:43559)	male-cns_v1_0	is_a	adult ascending neuron	
 43559	SApp09,SApp22_R (MaleCNS:43559)	male-cns_v1_0	is_a	sensory neuron of campaniform sensillum	
+43559	SApp09,SApp22_R (MaleCNS:43559)	male-cns_v1_0	is_a	adult ascending neuron	
 43560	CB2343_R (MaleCNS:43560)	male-cns_v1_0	is_a	adult CB2343 neuron	
 43561	Tm39_L (MaleCNS:43561)	male-cns_v1_0	is_a	transmedullary neuron Tm39	
 43562	Lawf1_R (MaleCNS:43562)	male-cns_v1_0	is_a	lamina wide-field 1 neuron	FlyBase:FBrf0262545
@@ -1790,8 +1790,8 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 44237	Mi1_L (MaleCNS:44237)	male-cns_v1_0	is_a	medulla intrinsic neuron Mi1	FlyBase:FBrf0262545
 44238	LC10e_L (MaleCNS:44238)	male-cns_v1_0	is_a	lobula columnar neuron LC10	
 44239	LC18_R (MaleCNS:44239)	male-cns_v1_0	is_a	lobula columnar neuron LC18	FlyBase:FBrf0262545
-442398895	SApp_R (MaleCNS:442398895)	male-cns_v1_0	is_a	sensory neuron of haltere campaniform sensillum	
 442398895	SApp_R (MaleCNS:442398895)	male-cns_v1_0	is_a	adult ascending neuron	
+442398895	SApp_R (MaleCNS:442398895)	male-cns_v1_0	is_a	sensory neuron of haltere campaniform sensillum	
 44241	L3_L (MaleCNS:44241)	male-cns_v1_0	is_a	lamina monopolar neuron L3	FlyBase:FBrf0262545
 44242	Tlp14_R (MaleCNS:44242)	male-cns_v1_0	is_a	translobula plate neuron Tlp14	FlyBase:FBrf0262545
 44243	Tm4_L (MaleCNS:44243)	male-cns_v1_0	is_a	transmedullary neuron Tm4	FlyBase:FBrf0262545
@@ -2747,8 +2747,8 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 45273	Tm36_L (MaleCNS:45273)	male-cns_v1_0	is_a	transmedullary neuron Tm8	FlyBase:FBrf0262545
 45274	Tlp12_R (MaleCNS:45274)	male-cns_v1_0	is_a	translobula plate neuron Tlp1	FlyBase:FBrf0262545
 45275	T1_R (MaleCNS:45275)	male-cns_v1_0	is_a	columnar neuron T1	FlyBase:FBrf0262545
-452754	SApp09,SApp22_L (MaleCNS:452754)	male-cns_v1_0	is_a	adult ascending neuron	
 452754	SApp09,SApp22_L (MaleCNS:452754)	male-cns_v1_0	is_a	sensory neuron of campaniform sensillum	
+452754	SApp09,SApp22_L (MaleCNS:452754)	male-cns_v1_0	is_a	adult ascending neuron	
 45277	Y3_R (MaleCNS:45277)	male-cns_v1_0	is_a	Y neuron Y3	FlyBase:FBrf0262545
 45278	LC26_R (MaleCNS:45278)	male-cns_v1_0	is_a	lobula columnar neuron LC26	FlyBase:FBrf0262545
 45279	AMMC018_R (MaleCNS:45279)	male-cns_v1_0	is_a	adult CB0979 neuron	
@@ -3267,8 +3267,8 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 45833	Tm1_R (MaleCNS:45833)	male-cns_v1_0	is_a	transmedullary neuron Tm1	FlyBase:FBrf0262545
 45834	GNG254_R (MaleCNS:45834)	male-cns_v1_0	is_a	adult CB0070 neuron	
 45835	Cm13_R (MaleCNS:45835)	male-cns_v1_0	is_a	adult central medulla intrinsic neuron Cm13	FlyBase:FBrf0262545
-45836	SApp11,SApp18_L (MaleCNS:45836)	male-cns_v1_0	is_a	adult ascending neuron	
 45836	SApp11,SApp18_L (MaleCNS:45836)	male-cns_v1_0	is_a	sensory neuron of campaniform sensillum	
+45836	SApp11,SApp18_L (MaleCNS:45836)	male-cns_v1_0	is_a	adult ascending neuron	
 45837	Cm11c_L (MaleCNS:45837)	male-cns_v1_0	is_a	adult central medulla neuron Cm11	FlyBase:FBrf0262545
 45839	ER3d_b_L (MaleCNS:45839)	male-cns_v1_0	is_a	adult ellipsoid body ring neuron R3d	
 45840	LHAV4d1_L (MaleCNS:45840)	male-cns_v1_0	is_a	adult lateral horn AV4d1 neuron	
@@ -3885,8 +3885,8 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 465043	MeLo5_L (MaleCNS:465043)	male-cns_v1_0	is_a	adult medulla-lobula neuron MeLo5	FlyBase:FBrf0262545
 46505	CB2053_R (MaleCNS:46505)	male-cns_v1_0	is_a	adult CB2053 neuron	
 46507	Cm11b_R (MaleCNS:46507)	male-cns_v1_0	is_a	adult central medulla neuron Cm11	FlyBase:FBrf0262545
-46508	AVLP715m_L (MaleCNS:46508)	male-cns_v1_0	is_a	adult fruitless pIP-e (male) neuron	doi:10.1101/2025.10.09.680999
 46508	AVLP715m_L (MaleCNS:46508)	male-cns_v1_0	is_a	adult doublesex pC2l (male) neuron	doi:10.1101/2025.10.09.680999
+46508	AVLP715m_L (MaleCNS:46508)	male-cns_v1_0	is_a	adult fruitless pIP-e (male) neuron	doi:10.1101/2025.10.09.680999
 46509	T1_L (MaleCNS:46509)	male-cns_v1_0	is_a	columnar neuron T1	FlyBase:FBrf0262545
 46510	Mi4_R (MaleCNS:46510)	male-cns_v1_0	is_a	medulla intrinsic neuron Mi4	FlyBase:FBrf0262545
 46511	CB4117_L (MaleCNS:46511)	male-cns_v1_0	is_a	adult central brain intrinsic neuron	
@@ -4266,8 +4266,8 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 46924	SMP476_R (MaleCNS:46924)	male-cns_v1_0	is_a	adult superior medial protocerebrum neuron 476	
 46925	Tlp13_R (MaleCNS:46925)	male-cns_v1_0	is_a	translobula plate neuron Tlp4	FlyBase:FBrf0262545
 46926	T1_L (MaleCNS:46926)	male-cns_v1_0	is_a	columnar neuron T1	FlyBase:FBrf0262545
-469267	SApp_R (MaleCNS:469267)	male-cns_v1_0	is_a	sensory neuron of haltere campaniform sensillum	
 469267	SApp_R (MaleCNS:469267)	male-cns_v1_0	is_a	adult ascending neuron	
+469267	SApp_R (MaleCNS:469267)	male-cns_v1_0	is_a	sensory neuron of haltere campaniform sensillum	
 46928	Tm1_R (MaleCNS:46928)	male-cns_v1_0	is_a	transmedullary neuron Tm1	FlyBase:FBrf0262545
 46929	WEDPN17_a2_L (MaleCNS:46929)	male-cns_v1_0	is_a	adult CB2414 neuron	
 46930	LLPC2_R (MaleCNS:46930)	male-cns_v1_0	is_a	lobula-lobula plate columnar neuron LLPC2	FlyBase:FBrf0262545
@@ -4381,8 +4381,8 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 47047	LC16_L (MaleCNS:47047)	male-cns_v1_0	is_a	lobula columnar neuron LC16	FlyBase:FBrf0262545
 47048	None (MaleCNS:47048)	male-cns_v1_0	is_a	adult endocrine corazonin neuron of brain	
 47049	Mi1_L (MaleCNS:47049)	male-cns_v1_0	is_a	medulla intrinsic neuron Mi1	FlyBase:FBrf0262545
-47050	SApp11,SApp18_R (MaleCNS:47050)	male-cns_v1_0	is_a	adult ascending neuron	
 47050	SApp11,SApp18_R (MaleCNS:47050)	male-cns_v1_0	is_a	sensory neuron of campaniform sensillum	
+47050	SApp11,SApp18_R (MaleCNS:47050)	male-cns_v1_0	is_a	adult ascending neuron	
 47051	TmY9b_R (MaleCNS:47051)	male-cns_v1_0	is_a	transmedullary Y neuron TmY9	
 47052	CB2175_R (MaleCNS:47052)	male-cns_v1_0	is_a	adult CB2175 neuron	
 47053	Tlp13_R (MaleCNS:47053)	male-cns_v1_0	is_a	translobula plate neuron Tlp4	FlyBase:FBrf0262545
@@ -4953,8 +4953,8 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 47677	LPC1_R (MaleCNS:47677)	male-cns_v1_0	is_a	lobula plate columnar neuron LPC1	FlyBase:FBrf0262545
 47678	Tm1_R (MaleCNS:47678)	male-cns_v1_0	is_a	transmedullary neuron Tm1	FlyBase:FBrf0262545
 47679	Tm4_L (MaleCNS:47679)	male-cns_v1_0	is_a	transmedullary neuron Tm4	FlyBase:FBrf0262545
-47680	SApp11,SApp18_L (MaleCNS:47680)	male-cns_v1_0	is_a	adult ascending neuron	
 47680	SApp11,SApp18_L (MaleCNS:47680)	male-cns_v1_0	is_a	sensory neuron of campaniform sensillum	
+47680	SApp11,SApp18_L (MaleCNS:47680)	male-cns_v1_0	is_a	adult ascending neuron	
 47681	Y11_L (MaleCNS:47681)	male-cns_v1_0	is_a	Y neuron Y11	FlyBase:FBrf0262545
 47682	CL091_R (MaleCNS:47682)	male-cns_v1_0	is_a	adult clamp neuron 091	
 47684	Tm5Y_L (MaleCNS:47684)	male-cns_v1_0	is_a	transmedullary neuron Tm5Y	FlyBase:FBrf0262545
@@ -5101,8 +5101,8 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 47843	TmY10_R (MaleCNS:47843)	male-cns_v1_0	is_a	transmedullary Y neuron TmY10	FlyBase:FBrf0262545
 47844	Y12_L (MaleCNS:47844)	male-cns_v1_0	is_a	Y neuron Y12	FlyBase:FBrf0262545
 47845	T1_R (MaleCNS:47845)	male-cns_v1_0	is_a	columnar neuron T1	FlyBase:FBrf0262545
-47846	PVLP213m_L (MaleCNS:47846)	male-cns_v1_0	is_a	adult fruitless pIP-e (male) neuron	doi:10.1101/2025.10.09.680999
 47846	PVLP213m_L (MaleCNS:47846)	male-cns_v1_0	is_a	adult doublesex pC2l (male) neuron	doi:10.1101/2025.10.09.680999
+47846	PVLP213m_L (MaleCNS:47846)	male-cns_v1_0	is_a	adult fruitless pIP-e (male) neuron	doi:10.1101/2025.10.09.680999
 47847	KCg-d_R (MaleCNS:47847)	male-cns_v1_0	is_a	gamma dorsal Kenyon cell	FlyBase:FBrf0262545
 47850	FB5D_L (MaleCNS:47850)	male-cns_v1_0	is_a	adult fan-shaped body layer 5 neuron of DALcl2 lineage	FlyBase:FBrf0257023
 47851	aPhM3_L (MaleCNS:47851)	male-cns_v1_0	is_a	adult mechanosensory neuron	
@@ -5641,8 +5641,8 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 48434	TmY17_L (MaleCNS:48434)	male-cns_v1_0	is_a	adult transmedullary Y neuron TmY17	FlyBase:FBrf0262545
 48435	C3_R (MaleCNS:48435)	male-cns_v1_0	is_a	centrifugal neuron C3	FlyBase:FBrf0262545
 48436	Tm1_L (MaleCNS:48436)	male-cns_v1_0	is_a	transmedullary neuron Tm1	FlyBase:FBrf0262545
-48437	SApp09,SApp22_R (MaleCNS:48437)	male-cns_v1_0	is_a	adult ascending neuron	
 48437	SApp09,SApp22_R (MaleCNS:48437)	male-cns_v1_0	is_a	sensory neuron of campaniform sensillum	
+48437	SApp09,SApp22_R (MaleCNS:48437)	male-cns_v1_0	is_a	adult ascending neuron	
 48438	KCg-d_R (MaleCNS:48438)	male-cns_v1_0	is_a	gamma dorsal Kenyon cell	FlyBase:FBrf0262545
 48439	T1_R (MaleCNS:48439)	male-cns_v1_0	is_a	columnar neuron T1	FlyBase:FBrf0262545
 48440	T1_R (MaleCNS:48440)	male-cns_v1_0	is_a	columnar neuron T1	FlyBase:FBrf0262545
@@ -6631,8 +6631,8 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 49523	Dm4_L (MaleCNS:49523)	male-cns_v1_0	is_a	distal medullary amacrine neuron Dm4	FlyBase:FBrf0262545
 49524	SLP405_b_L (MaleCNS:49524)	male-cns_v1_0	is_a	adult superior lateral protocerebrum neuron 405	
 49525	Pm1_L (MaleCNS:49525)	male-cns_v1_0	is_a	proximal medullary amacrine neuron Pm1	
-495250	SApp_L (MaleCNS:495250)	male-cns_v1_0	is_a	sensory neuron of haltere campaniform sensillum	
 495250	SApp_L (MaleCNS:495250)	male-cns_v1_0	is_a	adult ascending neuron	
+495250	SApp_L (MaleCNS:495250)	male-cns_v1_0	is_a	sensory neuron of haltere campaniform sensillum	
 49526	KCg-m_L (MaleCNS:49526)	male-cns_v1_0	is_a	gamma main Kenyon cell	
 49528	L3_R (MaleCNS:49528)	male-cns_v1_0	is_a	lamina monopolar neuron L3	FlyBase:FBrf0262545
 495287	CB3873_R (MaleCNS:495287)	male-cns_v1_0	is_a	adult central brain intrinsic neuron	
@@ -7536,8 +7536,8 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 50288	LC13_L (MaleCNS:50288)	male-cns_v1_0	is_a	lobula columnar neuron LC13	FlyBase:FBrf0262545
 50289	TmY10_L (MaleCNS:50289)	male-cns_v1_0	is_a	transmedullary Y neuron TmY10	FlyBase:FBrf0262545
 50291	KCg-m_R (MaleCNS:50291)	male-cns_v1_0	is_a	gamma main Kenyon cell	
-50292	SApp09,SApp22_R (MaleCNS:50292)	male-cns_v1_0	is_a	adult ascending neuron	
 50292	SApp09,SApp22_R (MaleCNS:50292)	male-cns_v1_0	is_a	sensory neuron of campaniform sensillum	
+50292	SApp09,SApp22_R (MaleCNS:50292)	male-cns_v1_0	is_a	adult ascending neuron	
 50293	Tm2_R (MaleCNS:50293)	male-cns_v1_0	is_a	transmedullary neuron Tm2	FlyBase:FBrf0262545
 50294	Cm8_R (MaleCNS:50294)	male-cns_v1_0	is_a	medulla tangential intrinsic neuron 1	FlyBase:FBrf0262545
 50295	Tm1_L (MaleCNS:50295)	male-cns_v1_0	is_a	transmedullary neuron Tm1	FlyBase:FBrf0262545
@@ -8737,8 +8737,8 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 512389	Tm20_L (MaleCNS:512389)	male-cns_v1_0	is_a	transmedullary neuron Tm20	FlyBase:FBrf0262545
 51239	MeVP10_R (MaleCNS:51239)	male-cns_v1_0	is_a	adult medulla visual projection neuron MeVP10	FlyBase:FBrf0262545
 512390	LAL113_R (MaleCNS:512390)	male-cns_v1_0	is_a	adult lateral accessory lobe neuron 113	
-512391	PVLP209m_R (MaleCNS:512391)	male-cns_v1_0	is_a	adult fruitless pIP-e (male) neuron	doi:10.1101/2025.10.09.680999
 512391	PVLP209m_R (MaleCNS:512391)	male-cns_v1_0	is_a	adult doublesex pC2l (male) neuron	doi:10.1101/2025.10.09.680999
+512391	PVLP209m_R (MaleCNS:512391)	male-cns_v1_0	is_a	adult fruitless pIP-e (male) neuron	doi:10.1101/2025.10.09.680999
 512392	LAL011_R (MaleCNS:512392)	male-cns_v1_0	is_a	adult lateral accessory lobe neuron 011	
 512397	TmY17_L (MaleCNS:512397)	male-cns_v1_0	is_a	adult transmedullary Y neuron TmY17	FlyBase:FBrf0262545
 512398	MeVP1_L (MaleCNS:512398)	male-cns_v1_0	is_a	adult medulla visual projection neuron MeVP1	FlyBase:FBrf0262545
@@ -9123,8 +9123,8 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 51300	Li14_R (MaleCNS:51300)	male-cns_v1_0	is_a	lobula intrinsic neuron Li14	FlyBase:FBrf0262545
 51301	Cm8_R (MaleCNS:51301)	male-cns_v1_0	is_a	medulla tangential intrinsic neuron 1	FlyBase:FBrf0262545
 51302	CB1924_R (MaleCNS:51302)	male-cns_v1_0	is_a	adult CB1924 neuron	
-513029	PVLP204m_L (MaleCNS:513029)	male-cns_v1_0	is_a	adult fruitless pIP-e (male) neuron	doi:10.1101/2025.10.09.680999
 513029	PVLP204m_L (MaleCNS:513029)	male-cns_v1_0	is_a	adult doublesex pC2l (male) neuron	doi:10.1101/2025.10.09.680999
+513029	PVLP204m_L (MaleCNS:513029)	male-cns_v1_0	is_a	adult fruitless pIP-e (male) neuron	doi:10.1101/2025.10.09.680999
 51303	CB1782_R (MaleCNS:51303)	male-cns_v1_0	is_a	adult CB1782 neuron	
 513032	PFL3(PB12c)_L5_C7 (MaleCNS:513032)	male-cns_v1_0	is_a	adult protocerebral bridge 1 glomerulus-fan-shaped body layers 4 and 5-unilateral lateral accessory lobe neuron	
 513033	EPG(PB08)_L8 (MaleCNS:513033)	male-cns_v1_0	is_a	adult ellipsoid body-protocerebral bridge 1 glomerulus-dorsal/ventral gall neuron	
@@ -9383,8 +9383,8 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 51341	MeLo11_L (MaleCNS:51341)	male-cns_v1_0	is_a	adult CB3820 neuron	FlyBase:FBrf0262545
 513411	GNG568_R (MaleCNS:513411)	male-cns_v1_0	is_a	adult CB0152 neuron	
 513413	AVLP732m_R (MaleCNS:513413)	male-cns_v1_0	is_a	adult fruitless aIP-c (male) neuron	doi:10.1101/2025.10.09.680999
-513415	PVLP210m_L (MaleCNS:513415)	male-cns_v1_0	is_a	adult fruitless pIP-e (male) neuron	doi:10.1101/2025.10.09.680999
 513415	PVLP210m_L (MaleCNS:513415)	male-cns_v1_0	is_a	adult doublesex pC2l (male) neuron	doi:10.1101/2025.10.09.680999
+513415	PVLP210m_L (MaleCNS:513415)	male-cns_v1_0	is_a	adult fruitless pIP-e (male) neuron	doi:10.1101/2025.10.09.680999
 513416	LC11_L (MaleCNS:513416)	male-cns_v1_0	is_a	lobula columnar neuron LC11	FlyBase:FBrf0262545
 513417	LC12_L (MaleCNS:513417)	male-cns_v1_0	is_a	lobula columnar neuron LC12	FlyBase:FBrf0262545
 513418	LHAV5d1_L (MaleCNS:513418)	male-cns_v1_0	is_a	adult lateral horn AV5d1 neuron	
@@ -13064,8 +13064,8 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 518885	TmY3_L (MaleCNS:518885)	male-cns_v1_0	is_a	transmedullary Y neuron TmY3	FlyBase:FBrf0262545
 518886	Tm4_L (MaleCNS:518886)	male-cns_v1_0	is_a	transmedullary neuron Tm4	FlyBase:FBrf0262545
 518887	JO-ED2_c_L (MaleCNS:518887)	male-cns_v1_0	is_a	zone E Johnston organ neuron	
-518889	SIP109m_R (MaleCNS:518889)	male-cns_v1_0	is_a	adult fruitless pIP-e (male) neuron	doi:10.1101/2025.10.09.680999
 518889	SIP109m_R (MaleCNS:518889)	male-cns_v1_0	is_a	adult doublesex pC2l (male) neuron	doi:10.1101/2025.10.09.680999
+518889	SIP109m_R (MaleCNS:518889)	male-cns_v1_0	is_a	adult fruitless pIP-e (male) neuron	doi:10.1101/2025.10.09.680999
 51889	Tm2_R (MaleCNS:51889)	male-cns_v1_0	is_a	transmedullary neuron Tm2	FlyBase:FBrf0262545
 518891	Tm1_L (MaleCNS:518891)	male-cns_v1_0	is_a	transmedullary neuron Tm1	FlyBase:FBrf0262545
 518892	TmY16_L (MaleCNS:518892)	male-cns_v1_0	is_a	transmedullary Y neuron TmY16	FlyBase:FBrf0262545
@@ -13629,8 +13629,8 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 51975	Tm1_R (MaleCNS:51975)	male-cns_v1_0	is_a	transmedullary neuron Tm1	FlyBase:FBrf0262545
 519750	TmY4_L (MaleCNS:519750)	male-cns_v1_0	is_a	transmedullary Y neuron TmY4	FlyBase:FBrf0262545
 519751	AN27X009_R (MaleCNS:519751)	male-cns_v1_0	is_a	adult AN27X009 neuron	
-519753	SMP720m_R (MaleCNS:519753)	male-cns_v1_0	is_a	adult doublesex pCd-2 (male) neuron	doi:10.1101/2025.10.09.680999
 519753	SMP720m_R (MaleCNS:519753)	male-cns_v1_0	is_a	adult fruitless pMP-b (male) neuron	doi:10.1101/2025.10.09.680999
+519753	SMP720m_R (MaleCNS:519753)	male-cns_v1_0	is_a	adult doublesex pCd-2 (male) neuron	doi:10.1101/2025.10.09.680999
 519757	DNd01_L (MaleCNS:519757)	male-cns_v1_0	is_a	descending neuron of the outside anterior cluster DNd01	
 51976	LC22_L (MaleCNS:51976)	male-cns_v1_0	is_a	lobula columnar neuron LC22	FlyBase:FBrf0262545
 519761	SMP082_R (MaleCNS:519761)	male-cns_v1_0	is_a	adult CB0710 neuron	
@@ -13715,8 +13715,8 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 519878	MN2V_R (MaleCNS:519878)	male-cns_v1_0	is_a	adult CB0783 neuron	
 519879	VES089_R (MaleCNS:519879)	male-cns_v1_0	is_a	adult CB0529 neuron	
 51988	TmY3_R (MaleCNS:51988)	male-cns_v1_0	is_a	transmedullary Y neuron TmY3	FlyBase:FBrf0262545
-519881	PVLP209m_L (MaleCNS:519881)	male-cns_v1_0	is_a	adult fruitless pIP-e (male) neuron	doi:10.1101/2025.10.09.680999
 519881	PVLP209m_L (MaleCNS:519881)	male-cns_v1_0	is_a	adult doublesex pC2l (male) neuron	doi:10.1101/2025.10.09.680999
+519881	PVLP209m_L (MaleCNS:519881)	male-cns_v1_0	is_a	adult fruitless pIP-e (male) neuron	doi:10.1101/2025.10.09.680999
 519889	LAL177_L (MaleCNS:519889)	male-cns_v1_0	is_a	adult lateral accessory lobe neuron 177	
 519890	LAL017_R (MaleCNS:519890)	male-cns_v1_0	is_a	adult lateral accessory lobe neuron 017	
 519892	LAL043_c_R (MaleCNS:519892)	male-cns_v1_0	is_a	adult lateral accessory lobe neuron 043	
@@ -13825,8 +13825,8 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 520029	PVLP208m_L (MaleCNS:520029)	male-cns_v1_0	is_a	adult fruitless aIP-b (male) neuron	doi:10.1101/2025.10.09.680999
 52003	SLP265_R (MaleCNS:52003)	male-cns_v1_0	is_a	adult superior lateral protocerebrum neuron 265	
 520030	AVLP719m_L (MaleCNS:520030)	male-cns_v1_0	is_a	adult fruitless aIP-c (male) neuron	doi:10.1101/2025.10.09.680999
-520031	PVLP209m_L (MaleCNS:520031)	male-cns_v1_0	is_a	adult fruitless pIP-e (male) neuron	doi:10.1101/2025.10.09.680999
 520031	PVLP209m_L (MaleCNS:520031)	male-cns_v1_0	is_a	adult doublesex pC2l (male) neuron	doi:10.1101/2025.10.09.680999
+520031	PVLP209m_L (MaleCNS:520031)	male-cns_v1_0	is_a	adult fruitless pIP-e (male) neuron	doi:10.1101/2025.10.09.680999
 520032	AVLP455_L (MaleCNS:520032)	male-cns_v1_0	is_a	adult anterior ventrolateral protocerebrum neuron 455	
 520033	AVLP349_L (MaleCNS:520033)	male-cns_v1_0	is_a	adult CB2186 neuron	
 520034	AVLP082_L (MaleCNS:520034)	male-cns_v1_0	is_a	adult anterior ventrolateral protocerebrum neuron 082	
@@ -15519,8 +15519,8 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 523643	CB0307_R (MaleCNS:523643)	male-cns_v1_0	is_a	adult CB0307 neuron	
 523644	SAD072_L (MaleCNS:523644)	male-cns_v1_0	is_a	adult saddle neuron 072	
 523645	CB1065_L (MaleCNS:523645)	male-cns_v1_0	is_a	adult CB1065 neuron	
-523648	AVLP718m_L (MaleCNS:523648)	male-cns_v1_0	is_a	adult fruitless pIP-e (male) neuron	doi:10.1101/2025.10.09.680999
 523648	AVLP718m_L (MaleCNS:523648)	male-cns_v1_0	is_a	adult doublesex pC2l (male) neuron	doi:10.1101/2025.10.09.680999
+523648	AVLP718m_L (MaleCNS:523648)	male-cns_v1_0	is_a	adult fruitless pIP-e (male) neuron	doi:10.1101/2025.10.09.680999
 523649	AVLP013_L (MaleCNS:523649)	male-cns_v1_0	is_a	adult anterior ventrolateral protocerebrum neuron 013	
 52365	Tm31_L (MaleCNS:52365)	male-cns_v1_0	is_a	transmedullary neuron Tm31	FlyBase:FBrf0262545
 523653	Tm3_L (MaleCNS:523653)	male-cns_v1_0	is_a	transmedullary neuron Tm3	FlyBase:FBrf0262545
@@ -16603,8 +16603,8 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 525419	LC12_L (MaleCNS:525419)	male-cns_v1_0	is_a	lobula columnar neuron LC12	FlyBase:FBrf0262545
 52542	MeVP10_L (MaleCNS:52542)	male-cns_v1_0	is_a	adult medulla visual projection neuron MeVP10	FlyBase:FBrf0262545
 525420	LC12_L (MaleCNS:525420)	male-cns_v1_0	is_a	lobula columnar neuron LC12	FlyBase:FBrf0262545
-525421	PVLP213m_R (MaleCNS:525421)	male-cns_v1_0	is_a	adult fruitless pIP-e (male) neuron	doi:10.1101/2025.10.09.680999
 525421	PVLP213m_R (MaleCNS:525421)	male-cns_v1_0	is_a	adult doublesex pC2l (male) neuron	doi:10.1101/2025.10.09.680999
+525421	PVLP213m_R (MaleCNS:525421)	male-cns_v1_0	is_a	adult fruitless pIP-e (male) neuron	doi:10.1101/2025.10.09.680999
 525423	AVLP728m_R (MaleCNS:525423)	male-cns_v1_0	is_a	adult fruitless aIP-b (male) neuron	doi:10.1101/2025.10.09.680999
 525424	aSP10C_a_R (MaleCNS:525424)	male-cns_v1_0	is_a	adult CB1382 neuron	
 52543	AN08B081_R (MaleCNS:52543)	male-cns_v1_0	is_a	adult AN08B081 neuron	
@@ -19004,8 +19004,8 @@ subject_external_id	subject_name	subject_external_db	relation	object	pub
 530941	CL123_c_L (MaleCNS:530941)	male-cns_v1_0	is_a	adult clamp neuron 123	
 530943	PVLP103_L (MaleCNS:530943)	male-cns_v1_0	is_a	adult posterior ventrolateral protocerebrum neuron 103	
 530944	CB2127_L (MaleCNS:530944)	male-cns_v1_0	is_a	adult CB2127 neuron	
-530945	SMP720m_L (MaleCNS:530945)	male-cns_v1_0	is_a	adult doublesex pCd-2 (male) neuron	doi:10.1101/2025.10.09.680999
 530945	SMP720m_L (MaleCNS:530945)	male-cns_v1_0	is_a	adult fruitless pMP-b (male) neuron	doi:10.1101/2025.10.09.680999
+530945	SMP720m_L (MaleCNS:530945)	male-cns_v1_0	is_a	adult doublesex pCd-2 (male) neuron	doi:10.1101/2025.10.09.680999
 530947813	None (MaleCNS:530947813)	male-cns_v1_0	is_a	adult endocrine corazonin neuron of brain	
 53095	CB2184_R (MaleCNS:53095)	male-cns_v1_0	is_a	adult CB2184 neuron	
 530950	SLP443_R (MaleCNS:530950)	male-cns_v1_0	is_a	adult superior lateral protocerebrum neuron 443	
