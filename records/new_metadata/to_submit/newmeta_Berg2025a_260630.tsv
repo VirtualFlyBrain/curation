@@ -1,0 +1,8 @@
+subject_id	object	relation	pub	subject_name	comment
+VFB_jrmc3les	right side of organism	has_soma_location	doi:10.1101/2025.10.09.680999	None (MaleCNS:580372)	male-cns:v1.0 260701
+VFB_jrmc3let	left side of organism	has_soma_location	doi:10.1101/2025.10.09.680999	None (MaleCNS:47928)	male-cns:v1.0 260701
+VFB_jrmc3lev	right side of organism	has_soma_location	doi:10.1101/2025.10.09.680999	None (MaleCNS:93504)	male-cns:v1.0 260701
+VFB_jrmc3lex	right side of organism	has_soma_location	doi:10.1101/2025.10.09.680999	Lai_R (MaleCNS:250014)	male-cns:v1.0 260701
+VFB_jrmc3lf0	left side of organism	has_soma_location	doi:10.1101/2025.10.09.680999	MeLo1_fragment_L (MaleCNS:174413)	male-cns:v1.0 260701
+VFB_jrmc3lf3	left side of organism	has_soma_location	doi:10.1101/2025.10.09.680999	None (MaleCNS:859637)	male-cns:v1.0 260701
+VFB_jrmc3lev	neuroblast DPMm1	develops_from	doi:10.1101/2025.10.09.680999	None (MaleCNS:93504)	male-cns:v1.0 260701
