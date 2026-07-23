@@ -1,0 +1,107 @@
+filename	synonyms	is_a	part_of	label
+AL(L)	AL(L)	adult antennal lobe	male organism|adult brain|left side of organism	AL(L) on JRC2018Unisex
+AL(R)	AL(R)	adult antennal lobe	male organism|adult brain|right side of organism	AL(R) on JRC2018Unisex
+AME(L)	AME(L)	accessory medulla	male organism|adult brain|left side of organism	AME(L) on JRC2018Unisex
+AME(R)	AME(R)	accessory medulla	male organism|adult brain|right side of organism	AME(R) on JRC2018Unisex
+AMMC(L)	AMMC(L)	antennal mechanosensory and motor center	male organism|adult brain|left side of organism	AMMC(L) on JRC2018Unisex
+AMMC(R)	AMMC(R)	antennal mechanosensory and motor center	male organism|adult brain|right side of organism	AMMC(R) on JRC2018Unisex
+AOTU(L)	AOTU(L)	anterior optic tubercle	male organism|adult brain|left side of organism	AOTU(L) on JRC2018Unisex
+AOTU(R)	AOTU(R)	anterior optic tubercle	male organism|adult brain|right side of organism	AOTU(R) on JRC2018Unisex
+ATL(L)	ATL(L)	antler	male organism|adult brain|left side of organism	ATL(L) on JRC2018Unisex
+ATL(R)	ATL(R)	antler	male organism|adult brain|right side of organism	ATL(R) on JRC2018Unisex
+AVLP(L)	AVLP(L)	anterior ventrolateral protocerebrum	male organism|adult brain|left side of organism	AVLP(L) on JRC2018Unisex
+AVLP(R)	AVLP(R)	anterior ventrolateral protocerebrum	male organism|adult brain|right side of organism	AVLP(R) on JRC2018Unisex
+BU(L)	BU(L)	bulb	male organism|adult brain|left side of organism	BU(L) on JRC2018Unisex
+BU(R)	BU(R)	bulb	male organism|adult brain|right side of organism	BU(R) on JRC2018Unisex
+CA(L)	CA(L)	mushroom body calyx	male organism|adult brain|left side of organism	CA(L) on JRC2018Unisex
+CA(R)	CA(R)	mushroom body calyx	male organism|adult brain|right side of organism	CA(R) on JRC2018Unisex
+CAN(L)	CAN(L)	cantle	male organism|adult brain|left side of organism	CAN(L) on JRC2018Unisex
+CAN(R)	CAN(R)	cantle	male organism|adult brain|right side of organism	CAN(R) on JRC2018Unisex
+CRE(L)	CRE(L)	adult crepine	male organism|adult brain|left side of organism	CRE(L) on JRC2018Unisex
+CRE(R)	CRE(R)	adult crepine	male organism|adult brain|right side of organism	CRE(R) on JRC2018Unisex
+EB	EB	ellipsoid body	male organism|adult brain	EB on JRC2018Unisex
+EPA(L)	EPA(L)	epaulette	male organism|adult brain|left side of organism	EPA(L) on JRC2018Unisex
+EPA(R)	EPA(R)	epaulette	male organism|adult brain|right side of organism	EPA(R) on JRC2018Unisex
+FB	FB	fan-shaped body	male organism|adult brain	FB on JRC2018Unisex
+FLA(L)	FLA(L)	flange	male organism|adult brain|left side of organism	FLA(L) on JRC2018Unisex
+FLA(R)	FLA(R)	flange	male organism|adult brain|right side of organism	FLA(R) on JRC2018Unisex
+GA(L)	GA(L)	gall	male organism|adult brain|left side of organism	GA(L) on JRC2018Unisex
+GA(R)	GA(R)	gall	male organism|adult brain|right side of organism	GA(R) on JRC2018Unisex
+GNG	GNG	gnathal ganglion	male organism|adult brain	GNG on JRC2018Unisex
+GOR(L)	GOR(L)	gorget	male organism|adult brain|left side of organism	GOR(L) on JRC2018Unisex
+GOR(R)	GOR(R)	gorget	male organism|adult brain|right side of organism	GOR(R) on JRC2018Unisex
+IB	IB	inferior bridge	male organism|adult brain	IB on JRC2018Unisex
+ICL(L)	ICL(L)	inferior clamp	male organism|adult brain|left side of organism	ICL(L) on JRC2018Unisex
+ICL(R)	ICL(R)	inferior clamp	male organism|adult brain|right side of organism	ICL(R) on JRC2018Unisex
+IPS(L)	IPS(L)	inferior posterior slope	male organism|adult brain|left side of organism	IPS(L) on JRC2018Unisex
+IPS(R)	IPS(R)	inferior posterior slope	male organism|adult brain|right side of organism	IPS(R) on JRC2018Unisex
+LA(R)	LA(R)	lamina	male organism|adult brain|right side of organism	LA(R) on JRC2018Unisex
+LAL(L)	LAL(L)	adult lateral accessory lobe	male organism|adult brain|left side of organism	LAL(L) on JRC2018Unisex
+LAL(R)	LAL(R)	adult lateral accessory lobe	male organism|adult brain|right side of organism	LAL(R) on JRC2018Unisex
+LH(L)	LH(L)	adult lateral horn	male organism|adult brain|left side of organism	LH(L) on JRC2018Unisex
+LH(R)	LH(R)	adult lateral horn	male organism|adult brain|right side of organism	LH(R) on JRC2018Unisex
+LO(L)	LO(L)	lobula	male organism|adult brain|left side of organism	LO(L) on JRC2018Unisex
+LO(R)	LO(R)	lobula	male organism|adult brain|right side of organism	LO(R) on JRC2018Unisex
+LOP(L)	LOP(L)	lobula plate	male organism|adult brain|left side of organism	LOP(L) on JRC2018Unisex
+LOP(R)	LOP(R)	lobula plate	male organism|adult brain|right side of organism	LOP(R) on JRC2018Unisex
+LOP_R_layer_1	LOP_R_layer_1	lobula plate layer 1	male organism|adult brain|right side of organism	LOP_R_layer_1 on JRC2018Unisex
+LOP_R_layer_2	LOP_R_layer_2	lobula plate layer 2	male organism|adult brain|right side of organism	LOP_R_layer_2 on JRC2018Unisex
+LOP_R_layer_3	LOP_R_layer_3	lobula plate layer 3	male organism|adult brain|right side of organism	LOP_R_layer_3 on JRC2018Unisex
+LOP_R_layer_4	LOP_R_layer_4	lobula plate layer 4	male organism|adult brain|right side of organism	LOP_R_layer_4 on JRC2018Unisex
+LO_R_layer_1	LO_R_layer_1	lobula layer 1	male organism|adult brain|right side of organism	LO_R_layer_1 on JRC2018Unisex
+LO_R_layer_2	LO_R_layer_2	lobula layer 2	male organism|adult brain|right side of organism	LO_R_layer_2 on JRC2018Unisex
+LO_R_layer_3	LO_R_layer_3	lobula layer 3	male organism|adult brain|right side of organism	LO_R_layer_3 on JRC2018Unisex
+LO_R_layer_4	LO_R_layer_4	lobula layer 4	male organism|adult brain|right side of organism	LO_R_layer_4 on JRC2018Unisex
+LO_R_layer_5	LO_R_layer_5	lobula layer 5A	male organism|adult brain|right side of organism	LO_R_layer_5 on JRC2018Unisex
+LO_R_layer_6	LO_R_layer_6	lobula layer 5B	male organism|adult brain|right side of organism	LO_R_layer_6 on JRC2018Unisex
+LO_R_layer_7	LO_R_layer_7	lobula layer 6	male organism|adult brain|right side of organism	LO_R_layer_7 on JRC2018Unisex
+ME(L)	ME(L)	medulla	male organism|adult brain|left side of organism	ME(L) on JRC2018Unisex
+ME(R)	ME(R)	medulla	male organism|adult brain|right side of organism	ME(R) on JRC2018Unisex
+ME_R_layer_01	ME_R_layer_01	medulla layer M1	male organism|adult brain|right side of organism	ME_R_layer_01 on JRC2018Unisex
+ME_R_layer_02	ME_R_layer_02	medulla layer M2	male organism|adult brain|right side of organism	ME_R_layer_02 on JRC2018Unisex
+ME_R_layer_03	ME_R_layer_03	medulla layer M3	male organism|adult brain|right side of organism	ME_R_layer_03 on JRC2018Unisex
+ME_R_layer_04	ME_R_layer_04	medulla layer M4	male organism|adult brain|right side of organism	ME_R_layer_04 on JRC2018Unisex
+ME_R_layer_05	ME_R_layer_05	medulla layer M5	male organism|adult brain|right side of organism	ME_R_layer_05 on JRC2018Unisex
+ME_R_layer_06	ME_R_layer_06	medulla layer M6	male organism|adult brain|right side of organism	ME_R_layer_06 on JRC2018Unisex
+ME_R_layer_07	ME_R_layer_07	medulla serpentine layer	male organism|adult brain|right side of organism	ME_R_layer_07 on JRC2018Unisex
+ME_R_layer_08	ME_R_layer_08	medulla layer M8	male organism|adult brain|right side of organism	ME_R_layer_08 on JRC2018Unisex
+ME_R_layer_09	ME_R_layer_09	medulla layer M9	male organism|adult brain|right side of organism	ME_R_layer_09 on JRC2018Unisex
+ME_R_layer_10	ME_R_layer_10	medulla layer M10	male organism|adult brain|right side of organism	ME_R_layer_10 on JRC2018Unisex
+NO	NO	nodulus	male organism|adult brain	NO on JRC2018Unisex
+OL(R)	OL(R)	adult optic lobe	male organism|adult brain|right side of organism	OL(R) on JRC2018Unisex
+PB	PB	protocerebral bridge	male organism|adult brain	PB on JRC2018Unisex
+PED(L)	PED(L)	mushroom body pedunculus	male organism|adult brain|left side of organism	PED(L) on JRC2018Unisex
+PED(R)	PED(R)	mushroom body pedunculus	male organism|adult brain|right side of organism	PED(R) on JRC2018Unisex
+PLP(L)	PLP(L)	posterior lateral protocerebrum	male organism|adult brain|left side of organism	PLP(L) on JRC2018Unisex
+PLP(R)	PLP(R)	posterior lateral protocerebrum	male organism|adult brain|right side of organism	PLP(R) on JRC2018Unisex
+PRW	PRW	prow	male organism|adult brain	PRW on JRC2018Unisex
+PVLP(L)	PVLP(L)	posterior ventrolateral protocerebrum	male organism|adult brain|left side of organism	PVLP(L) on JRC2018Unisex
+PVLP(R)	PVLP(R)	posterior ventrolateral protocerebrum	male organism|adult brain|right side of organism	PVLP(R) on JRC2018Unisex
+ROB(R)	ROB(R)	adult round body	male organism|adult brain|right side of organism	ROB(R) on JRC2018Unisex
+RUB(R)	RUB(R)	rubus	male organism|adult brain|right side of organism	RUB(R) on JRC2018Unisex
+SAD	SAD	saddle	male organism|adult brain	SAD on JRC2018Unisex
+SCL(L)	SCL(L)	superior clamp	male organism|adult brain|left side of organism	SCL(L) on JRC2018Unisex
+SCL(R)	SCL(R)	superior clamp	male organism|adult brain|right side of organism	SCL(R) on JRC2018Unisex
+SIP(L)	SIP(L)	superior intermediate protocerebrum	male organism|adult brain|left side of organism	SIP(L) on JRC2018Unisex
+SIP(R)	SIP(R)	superior intermediate protocerebrum	male organism|adult brain|right side of organism	SIP(R) on JRC2018Unisex
+SLP(L)	SLP(L)	superior lateral protocerebrum	male organism|adult brain|left side of organism	SLP(L) on JRC2018Unisex
+SLP(R)	SLP(R)	superior lateral protocerebrum	male organism|adult brain|right side of organism	SLP(R) on JRC2018Unisex
+SMP(L)	SMP(L)	superior medial protocerebrum	male organism|adult brain|left side of organism	SMP(L) on JRC2018Unisex
+SMP(R)	SMP(R)	superior medial protocerebrum	male organism|adult brain|right side of organism	SMP(R) on JRC2018Unisex
+SPS(L)	SPS(L)	superior posterior slope	male organism|adult brain|left side of organism	SPS(L) on JRC2018Unisex
+SPS(R)	SPS(R)	superior posterior slope	male organism|adult brain|right side of organism	SPS(R) on JRC2018Unisex
+VES(L)	VES(L)	vest	male organism|adult brain|left side of organism	VES(L) on JRC2018Unisex
+VES(R)	VES(R)	vest	male organism|adult brain|right side of organism	VES(R) on JRC2018Unisex
+WED(L)	WED(L)	wedge	male organism|adult brain|left side of organism	WED(L) on JRC2018Unisex
+WED(R)	WED(R)	wedge	male organism|adult brain|right side of organism	WED(R) on JRC2018Unisex
+a'L(L)	a'L(L)	adult mushroom body alpha'-lobe	male organism|adult brain|left side of organism	a'L(L) on JRC2018Unisex
+a'L(R)	a'L(R)	adult mushroom body alpha'-lobe	male organism|adult brain|right side of organism	a'L(R) on JRC2018Unisex
+aL(L)	aL(L)	adult mushroom body alpha-lobe	male organism|adult brain|left side of organism	aL(L) on JRC2018Unisex
+aL(R)	aL(R)	adult mushroom body alpha-lobe	male organism|adult brain|right side of organism	aL(R) on JRC2018Unisex
+b'L(L)	b'L(L)	adult mushroom body beta'-lobe	male organism|adult brain|left side of organism	b'L(L) on JRC2018Unisex
+b'L(R)	b'L(R)	adult mushroom body beta'-lobe	male organism|adult brain|right side of organism	b'L(R) on JRC2018Unisex
+bL(L)	bL(L)	adult mushroom body beta-lobe	male organism|adult brain|left side of organism	bL(L) on JRC2018Unisex
+bL(R)	bL(R)	adult mushroom body beta-lobe	male organism|adult brain|right side of organism	bL(R) on JRC2018Unisex
+gL(L)	gL(L)	adult mushroom body gamma-lobe	male organism|adult brain|left side of organism	gL(L) on JRC2018Unisex
+gL(R)	gL(R)	adult mushroom body gamma-lobe	male organism|adult brain|right side of organism	gL(R) on JRC2018Unisex
+vnc-shell	vnc-shell	adult ventral nerve cord	male organism|adult brain	vnc-shell on JRC2018Unisex

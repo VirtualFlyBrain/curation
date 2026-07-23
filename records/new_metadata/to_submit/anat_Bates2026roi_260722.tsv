@@ -1,0 +1,306 @@
+filename	synonyms	is_a	part_of	label	template
+CX	CX	adult central complex	female organism|adult brain	CX on JRC2018Unisex	JRC2018Unisex_c
+MB	MB	adult mushroom body	female organism|adult brain	MB on JRC2018Unisex	JRC2018Unisex_c
+brain_neuropil	brain_neuropil	adult brain	female organism|adult brain	brain_neuropil on JRC2018Unisex	JRC2018Unisex_c
+optic	optic	adult optic lobe	female organism|adult brain	optic on JRC2018Unisex	JRC2018Unisex_c
+vnc_neuropil	vnc_neuropil	adult ventral nerve cord	female organism|adult ventral nerve cord	vnc_neuropil on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+ABDNM	ABDNM	adult abdominal neuromere	female organism|adult ventral nerve cord	ABDNM on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+AMNP	AMNP	adult accessory mesothoracic neuropil	female organism|adult ventral nerve cord	AMNP on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+DLT_L	DLT_L	dorsal lateral tract of dorsal cervical fasciculus	female organism|adult ventral nerve cord|left side of organism	DLT_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+DLT_R	DLT_R	dorsal lateral tract of dorsal cervical fasciculus	female organism|adult ventral nerve cord|right side of organism	DLT_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+DLV_L	DLV_L	dorsal lateral tract of ventral cervical fasciculus	female organism|adult ventral nerve cord|left side of organism	DLV_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+DLV_R	DLV_R	dorsal lateral tract of ventral cervical fasciculus	female organism|adult ventral nerve cord|right side of organism	DLV_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+DMT	DMT	adult dorsal median tract	female organism|adult ventral nerve cord	DMT on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+HTct	HTct	haltere neuropil	female organism|adult ventral nerve cord	HTct on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+ITD-CFF_L	ITD-CFF_L	commissure of fine fibers of the ITD	female organism|adult ventral nerve cord|left side of organism	ITD-CFF_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+ITD-CFF_R	ITD-CFF_R	commissure of fine fibers of the ITD	female organism|adult ventral nerve cord|right side of organism	ITD-CFF_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+ITD-HC_L	ITD-HC_L	intermediate tract of dorsal cervical fasciculus - haltere commissure	female organism|adult ventral nerve cord|left side of organism	ITD-HC_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+ITD-HC_R	ITD-HC_R	intermediate tract of dorsal cervical fasciculus - haltere commissure	female organism|adult ventral nerve cord|right side of organism	ITD-HC_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+ITD-HT_L	ITD-HT_L	haltere tract	female organism|adult ventral nerve cord|left side of organism	ITD-HT_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+ITD-HT_R	ITD-HT_R	haltere tract	female organism|adult ventral nerve cord|right side of organism	ITD-HT_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+ITD_L	ITD_L	intermediate tract of dorsal cervical fasciculus	female organism|adult ventral nerve cord|left side of organism	ITD_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+ITD_R	ITD_R	intermediate tract of dorsal cervical fasciculus	female organism|adult ventral nerve cord|right side of organism	ITD_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+IntTct	IntTct	intermediate tectulum	female organism|adult ventral nerve cord	IntTct on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+LTct	LTct	lower tectulum	female organism|adult ventral nerve cord	LTct on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+MDT	MDT	median dorsal abdominal tract	female organism|adult ventral nerve cord	MDT on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+MesoNM-T2	MesoNM-T2	adult mesothoracic neuromere	female organism|adult ventral nerve cord	MesoNM-T2 on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+MetaNM-T3	MetaNM-T3	adult metathoracic neuromere	female organism|adult ventral nerve cord	MetaNM-T3 on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+NTct	NTct	neck neuropil	female organism|adult ventral nerve cord	NTct on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+ProNM-T1	ProNM-T1	adult prothoracic neuromere	female organism|adult ventral nerve cord	ProNM-T1 on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+VLT_L	VLT_L	ventral lateral tract of ventral cervical fasciculus	female organism|adult ventral nerve cord|left side of organism	VLT_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+VLT_R	VLT_R	ventral lateral tract of ventral cervical fasciculus	female organism|adult ventral nerve cord|right side of organism	VLT_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+VTV	VTV	ventral median tract of ventral cervical fasciculus	female organism|adult ventral nerve cord	VTV on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+WTct	WTct	wing neuropil	female organism|adult ventral nerve cord	WTct on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+mVAC	mVAC	medial ventral association center	female organism|adult ventral nerve cord	mVAC on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+AL_L	AL_L	adult antennal lobe	female organism|adult brain|left side of organism	AL_L on JRC2018Unisex	JRC2018Unisex_c
+AL_R	AL_R	adult antennal lobe	female organism|adult brain|right side of organism	AL_R on JRC2018Unisex	JRC2018Unisex_c
+AMMC_L	AMMC_L	antennal mechanosensory and motor center	female organism|adult brain|left side of organism	AMMC_L on JRC2018Unisex	JRC2018Unisex_c
+AMMC_R	AMMC_R	antennal mechanosensory and motor center	female organism|adult brain|right side of organism	AMMC_R on JRC2018Unisex	JRC2018Unisex_c
+AOTU_L	AOTU_L	anterior optic tubercle	female organism|adult brain|left side of organism	AOTU_L on JRC2018Unisex	JRC2018Unisex_c
+AOTU_R	AOTU_R	anterior optic tubercle	female organism|adult brain|right side of organism	AOTU_R on JRC2018Unisex	JRC2018Unisex_c
+ATL_L	ATL_L	antler	female organism|adult brain|left side of organism	ATL_L on JRC2018Unisex	JRC2018Unisex_c
+ATL_R	ATL_R	antler	female organism|adult brain|right side of organism	ATL_R on JRC2018Unisex	JRC2018Unisex_c
+AVLP_L	AVLP_L	anterior ventrolateral protocerebrum	female organism|adult brain|left side of organism	AVLP_L on JRC2018Unisex	JRC2018Unisex_c
+AVLP_R	AVLP_R	anterior ventrolateral protocerebrum	female organism|adult brain|right side of organism	AVLP_R on JRC2018Unisex	JRC2018Unisex_c
+BU_L	BU_L	bulb	female organism|adult brain|left side of organism	BU_L on JRC2018Unisex	JRC2018Unisex_c
+BU_R	BU_R	bulb	female organism|adult brain|right side of organism	BU_R on JRC2018Unisex	JRC2018Unisex_c
+CAN_L	CAN_L	cantle	female organism|adult brain|left side of organism	CAN_L on JRC2018Unisex	JRC2018Unisex_c
+CAN_R	CAN_R	cantle	female organism|adult brain|right side of organism	CAN_R on JRC2018Unisex	JRC2018Unisex_c
+CRE_L	CRE_L	adult crepine	female organism|adult brain|left side of organism	CRE_L on JRC2018Unisex	JRC2018Unisex_c
+CRE_R	CRE_R	adult crepine	female organism|adult brain|right side of organism	CRE_R on JRC2018Unisex	JRC2018Unisex_c
+EB	EB	ellipsoid body	female organism|adult brain	EB on JRC2018Unisex	JRC2018Unisex_c
+EPA_L	EPA_L	epaulette	female organism|adult brain|left side of organism	EPA_L on JRC2018Unisex	JRC2018Unisex_c
+EPA_R	EPA_R	epaulette	female organism|adult brain|right side of organism	EPA_R on JRC2018Unisex	JRC2018Unisex_c
+FB	FB	fan-shaped body	female organism|adult brain	FB on JRC2018Unisex	JRC2018Unisex_c
+FLA_L	FLA_L	flange	female organism|adult brain|left side of organism	FLA_L on JRC2018Unisex	JRC2018Unisex_c
+FLA_R	FLA_R	flange	female organism|adult brain|right side of organism	FLA_R on JRC2018Unisex	JRC2018Unisex_c
+GA_L	GA_L	gall	female organism|adult brain|left side of organism	GA_L on JRC2018Unisex	JRC2018Unisex_c
+GA_R	GA_R	gall	female organism|adult brain|right side of organism	GA_R on JRC2018Unisex	JRC2018Unisex_c
+GNG	GNG	gnathal ganglion	female organism|adult brain	GNG on JRC2018Unisex	JRC2018Unisex_c
+GOR_L	GOR_L	gorget	female organism|adult brain|left side of organism	GOR_L on JRC2018Unisex	JRC2018Unisex_c
+GOR_R	GOR_R	gorget	female organism|adult brain|right side of organism	GOR_R on JRC2018Unisex	JRC2018Unisex_c
+IB_L	IB_L	inferior bridge	female organism|adult brain|left side of organism	IB_L on JRC2018Unisex	JRC2018Unisex_c
+IB_R	IB_R	inferior bridge	female organism|adult brain|right side of organism	IB_R on JRC2018Unisex	JRC2018Unisex_c
+ICL_L	ICL_L	inferior clamp	female organism|adult brain|left side of organism	ICL_L on JRC2018Unisex	JRC2018Unisex_c
+ICL_R	ICL_R	inferior clamp	female organism|adult brain|right side of organism	ICL_R on JRC2018Unisex	JRC2018Unisex_c
+IPS_L	IPS_L	inferior posterior slope	female organism|adult brain|left side of organism	IPS_L on JRC2018Unisex	JRC2018Unisex_c
+IPS_R	IPS_R	inferior posterior slope	female organism|adult brain|right side of organism	IPS_R on JRC2018Unisex	JRC2018Unisex_c
+LAL_L	LAL_L	adult lateral accessory lobe	female organism|adult brain|left side of organism	LAL_L on JRC2018Unisex	JRC2018Unisex_c
+LAL_R	LAL_R	adult lateral accessory lobe	female organism|adult brain|right side of organism	LAL_R on JRC2018Unisex	JRC2018Unisex_c
+LH_L	LH_L	adult lateral horn	female organism|adult brain|left side of organism	LH_L on JRC2018Unisex	JRC2018Unisex_c
+LH_R	LH_R	adult lateral horn	female organism|adult brain|right side of organism	LH_R on JRC2018Unisex	JRC2018Unisex_c
+MB_CA_L	MB_CA_L	calyx of adult mushroom body	female organism|adult brain|left side of organism	MB_CA_L on JRC2018Unisex	JRC2018Unisex_c
+MB_CA_R	MB_CA_R	calyx of adult mushroom body	female organism|adult brain|right side of organism	MB_CA_R on JRC2018Unisex	JRC2018Unisex_c
+MB_ML_L	MB_ML_L	medial lobe of adult mushroom body	female organism|adult brain|left side of organism	MB_ML_L on JRC2018Unisex	JRC2018Unisex_c
+MB_ML_R	MB_ML_R	medial lobe of adult mushroom body	female organism|adult brain|right side of organism	MB_ML_R on JRC2018Unisex	JRC2018Unisex_c
+MB_PED_L	MB_PED_L	pedunculus of adult mushroom body	female organism|adult brain|left side of organism	MB_PED_L on JRC2018Unisex	JRC2018Unisex_c
+MB_PED_R	MB_PED_R	pedunculus of adult mushroom body	female organism|adult brain|right side of organism	MB_PED_R on JRC2018Unisex	JRC2018Unisex_c
+MB_VL_L	MB_VL_L	vertical lobe of adult mushroom body	female organism|adult brain|left side of organism	MB_VL_L on JRC2018Unisex	JRC2018Unisex_c
+MB_VL_R	MB_VL_R	vertical lobe of adult mushroom body	female organism|adult brain|right side of organism	MB_VL_R on JRC2018Unisex	JRC2018Unisex_c
+NO	NO	nodulus	female organism|adult brain	NO on JRC2018Unisex	JRC2018Unisex_c
+PB	PB	protocerebral bridge	female organism|adult brain	PB on JRC2018Unisex	JRC2018Unisex_c
+PLP_L	PLP_L	posterior lateral protocerebrum	female organism|adult brain|left side of organism	PLP_L on JRC2018Unisex	JRC2018Unisex_c
+PLP_R	PLP_R	posterior lateral protocerebrum	female organism|adult brain|right side of organism	PLP_R on JRC2018Unisex	JRC2018Unisex_c
+PRW	PRW	prow	female organism|adult brain	PRW on JRC2018Unisex	JRC2018Unisex_c
+PVLP_L	PVLP_L	posterior ventrolateral protocerebrum	female organism|adult brain|left side of organism	PVLP_L on JRC2018Unisex	JRC2018Unisex_c
+PVLP_R	PVLP_R	posterior ventrolateral protocerebrum	female organism|adult brain|right side of organism	PVLP_R on JRC2018Unisex	JRC2018Unisex_c
+SAD	SAD	saddle	female organism|adult brain	SAD on JRC2018Unisex	JRC2018Unisex_c
+SCL_L	SCL_L	superior clamp	female organism|adult brain|left side of organism	SCL_L on JRC2018Unisex	JRC2018Unisex_c
+SCL_R	SCL_R	superior clamp	female organism|adult brain|right side of organism	SCL_R on JRC2018Unisex	JRC2018Unisex_c
+SIP_L	SIP_L	superior intermediate protocerebrum	female organism|adult brain|left side of organism	SIP_L on JRC2018Unisex	JRC2018Unisex_c
+SIP_R	SIP_R	superior intermediate protocerebrum	female organism|adult brain|right side of organism	SIP_R on JRC2018Unisex	JRC2018Unisex_c
+SLP_L	SLP_L	superior lateral protocerebrum	female organism|adult brain|left side of organism	SLP_L on JRC2018Unisex	JRC2018Unisex_c
+SLP_R	SLP_R	superior lateral protocerebrum	female organism|adult brain|right side of organism	SLP_R on JRC2018Unisex	JRC2018Unisex_c
+SMP_L	SMP_L	superior medial protocerebrum	female organism|adult brain|left side of organism	SMP_L on JRC2018Unisex	JRC2018Unisex_c
+SMP_R	SMP_R	superior medial protocerebrum	female organism|adult brain|right side of organism	SMP_R on JRC2018Unisex	JRC2018Unisex_c
+SPS_L	SPS_L	superior posterior slope	female organism|adult brain|left side of organism	SPS_L on JRC2018Unisex	JRC2018Unisex_c
+SPS_R	SPS_R	superior posterior slope	female organism|adult brain|right side of organism	SPS_R on JRC2018Unisex	JRC2018Unisex_c
+VES_L	VES_L	vest	female organism|adult brain|left side of organism	VES_L on JRC2018Unisex	JRC2018Unisex_c
+VES_R	VES_R	vest	female organism|adult brain|right side of organism	VES_R on JRC2018Unisex	JRC2018Unisex_c
+WED_L	WED_L	wedge	female organism|adult brain|left side of organism	WED_L on JRC2018Unisex	JRC2018Unisex_c
+WED_R	WED_R	wedge	female organism|adult brain|right side of organism	WED_R on JRC2018Unisex	JRC2018Unisex_c
+AME_L	AME_L	accessory medulla	female organism|adult brain|left side of organism	AME_L on JRC2018Unisex	JRC2018Unisex_c
+AME_R	AME_R	accessory medulla	female organism|adult brain|right side of organism	AME_R on JRC2018Unisex	JRC2018Unisex_c
+LOP_L	LOP_L	lobula plate	female organism|adult brain|left side of organism	LOP_L on JRC2018Unisex	JRC2018Unisex_c
+LOP_R	LOP_R	lobula plate	female organism|adult brain|right side of organism	LOP_R on JRC2018Unisex	JRC2018Unisex_c
+LO_L	LO_L	lobula	female organism|adult brain|left side of organism	LO_L on JRC2018Unisex	JRC2018Unisex_c
+LO_R	LO_R	lobula	female organism|adult brain|right side of organism	LO_R on JRC2018Unisex	JRC2018Unisex_c
+ME_L	ME_L	medulla	female organism|adult brain|left side of organism	ME_L on JRC2018Unisex	JRC2018Unisex_c
+ME_R	ME_R	medulla	female organism|adult brain|right side of organism	ME_R on JRC2018Unisex	JRC2018Unisex_c
+ADMN(L)	ADMN(L)	adult anterior dorsal mesothoracic nerve	female organism|adult ventral nerve cord|left side of organism	ADMN(L) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+ADMN(R)	ADMN(R)	adult anterior dorsal mesothoracic nerve	female organism|adult ventral nerve cord|right side of organism	ADMN(R) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+AbN1(L)	AbN1(L)	adult first abdominal nerve	female organism|adult ventral nerve cord|left side of organism	AbN1(L) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+AbN1(R)	AbN1(R)	adult first abdominal nerve	female organism|adult ventral nerve cord|right side of organism	AbN1(R) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+AbN2(L)	AbN2(L)	adult second abdominal nerve	female organism|adult ventral nerve cord|left side of organism	AbN2(L) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+AbN2(R)	AbN2(R)	adult second abdominal nerve	female organism|adult ventral nerve cord|right side of organism	AbN2(R) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+AbN3(L)	AbN3(L)	adult third abdominal nerve	female organism|adult ventral nerve cord|left side of organism	AbN3(L) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+AbN3(R)	AbN3(R)	adult third abdominal nerve	female organism|adult ventral nerve cord|right side of organism	AbN3(R) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+AbN4(L)	AbN4(L)	adult fourth abdominal nerve	female organism|adult ventral nerve cord|left side of organism	AbN4(L) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+AbN4(R)	AbN4(R)	adult fourth abdominal nerve	female organism|adult ventral nerve cord|right side of organism	AbN4(R) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+AbNT	AbNT	adult abdominal nerve trunk	female organism|adult ventral nerve cord	AbNT on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+CvN(L)	CvN(L)	adult cervical nerve	female organism|adult ventral nerve cord|left side of organism	CvN(L) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+CvN(R)	CvN(R)	adult cervical nerve	female organism|adult ventral nerve cord|right side of organism	CvN(R) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+DMetaN(L)	DMetaN(L)	adult dorsal metathoracic nerve	female organism|adult ventral nerve cord|left side of organism	DMetaN(L) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+DMetaN(R)	DMetaN(R)	adult dorsal metathoracic nerve	female organism|adult ventral nerve cord|right side of organism	DMetaN(R) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+DProN(L)	DProN(L)	adult dorsal prothoracic nerve	female organism|adult ventral nerve cord|left side of organism	DProN(L) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+DProN(R)	DProN(R)	adult dorsal prothoracic nerve	female organism|adult ventral nerve cord|right side of organism	DProN(R) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+MesoAN(L)	MesoAN(L)	adult mesothoracic accessory nerve	female organism|adult ventral nerve cord|left side of organism	MesoAN(L) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+MesoAN(R)	MesoAN(R)	adult mesothoracic accessory nerve	female organism|adult ventral nerve cord|right side of organism	MesoAN(R) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+MesoLN(L)	MesoLN(L)	adult mesothoracic leg nerve	female organism|adult ventral nerve cord|left side of organism	MesoLN(L) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+MesoLN(R)	MesoLN(R)	adult mesothoracic leg nerve	female organism|adult ventral nerve cord|right side of organism	MesoLN(R) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+MetaLN(L)	MetaLN(L)	adult metathoracic leg nerve	female organism|adult ventral nerve cord|left side of organism	MetaLN(L) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+MetaLN(R)	MetaLN(R)	adult metathoracic leg nerve	female organism|adult ventral nerve cord|right side of organism	MetaLN(R) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+PDMN(L)	PDMN(L)	adult posterior dorsal mesothoracic nerve	female organism|adult ventral nerve cord|left side of organism	PDMN(L) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+PDMN(R)	PDMN(R)	adult posterior dorsal mesothoracic nerve	female organism|adult ventral nerve cord|right side of organism	PDMN(R) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+PrN(L)	PrN(L)	adult prosternal nerve	female organism|adult ventral nerve cord|left side of organism	PrN(L) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+PrN(R)	PrN(R)	adult prosternal nerve	female organism|adult ventral nerve cord|right side of organism	PrN(R) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+ProAN(L)	ProAN(L)	adult prothoracic accessory nerve	female organism|adult ventral nerve cord|left side of organism	ProAN(L) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+ProAN(R)	ProAN(R)	adult prothoracic accessory nerve	female organism|adult ventral nerve cord|right side of organism	ProAN(R) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+ProCN(L)	ProCN(L)	adult prothoracic chordotonal nerve	female organism|adult ventral nerve cord|left side of organism	ProCN(L) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+ProCN(R)	ProCN(R)	adult prothoracic chordotonal nerve	female organism|adult ventral nerve cord|right side of organism	ProCN(R) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+ProLN(L)	ProLN(L)	adult prothoracic leg nerve	female organism|adult ventral nerve cord|left side of organism	ProLN(L) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+ProLN(R)	ProLN(R)	adult prothoracic leg nerve	female organism|adult ventral nerve cord|right side of organism	ProLN(R) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+VProN(L)	VProN(L)	adult ventral prothoracic nerve	female organism|adult ventral nerve cord|left side of organism	VProN(L) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+VProN(R)	VProN(R)	adult ventral prothoracic nerve	female organism|adult ventral nerve cord|right side of organism	VProN(R) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+CVL_L	CVL_L	adult curved ventrolateral tract	female organism|adult ventral nerve cord|left side of organism	CVL_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+CVL_R	CVL_R	adult curved ventrolateral tract	female organism|adult ventral nerve cord|right side of organism	CVL_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+DLT_L	DLT_L	dorsal lateral tract of dorsal cervical fasciculus	female organism|adult ventral nerve cord|left side of organism	DLT_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+DLT_R	DLT_R	dorsal lateral tract of dorsal cervical fasciculus	female organism|adult ventral nerve cord|right side of organism	DLT_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+DLV_L	DLV_L	dorsal lateral tract of ventral cervical fasciculus	female organism|adult ventral nerve cord|left side of organism	DLV_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+DLV_R	DLV_R	dorsal lateral tract of ventral cervical fasciculus	female organism|adult ventral nerve cord|right side of organism	DLV_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+DMT_L	DMT_L	adult dorsal median tract	female organism|adult ventral nerve cord|left side of organism	DMT_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+DMT_R	DMT_R	adult dorsal median tract	female organism|adult ventral nerve cord|right side of organism	DMT_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+ITD_L	ITD_L	intermediate tract of dorsal cervical fasciculus	female organism|adult ventral nerve cord|left side of organism	ITD_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+ITD_R	ITD_R	intermediate tract of dorsal cervical fasciculus	female organism|adult ventral nerve cord|right side of organism	ITD_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+MDA_L	MDA_L	median dorsal abdominal tract	female organism|adult ventral nerve cord|left side of organism	MDA_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+MDA_R	MDA_R	median dorsal abdominal tract	female organism|adult ventral nerve cord|right side of organism	MDA_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+VLT_L	VLT_L	ventral lateral tract of ventral cervical fasciculus	female organism|adult ventral nerve cord|left side of organism	VLT_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+VLT_R	VLT_R	ventral lateral tract of ventral cervical fasciculus	female organism|adult ventral nerve cord|right side of organism	VLT_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+VTV_L	VTV_L	ventral median tract of ventral cervical fasciculus	female organism|adult ventral nerve cord|left side of organism	VTV_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+VTV_R	VTV_R	ventral median tract of ventral cervical fasciculus	female organism|adult ventral nerve cord|right side of organism	VTV_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+type-III_MTD_L	type-III_MTD_L	adult median tract of dorsal cervical fasciculus III	female organism|adult ventral nerve cord|left side of organism	type-III_MTD_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+type-III_MTD_R	type-III_MTD_R	adult median tract of dorsal cervical fasciculus III	female organism|adult ventral nerve cord|right side of organism	type-III_MTD_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+type-II_MTD_L	type-II_MTD_L	adult median tract of dorsal cervical fasciculus II	female organism|adult ventral nerve cord|left side of organism	type-II_MTD_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+type-II_MTD_R	type-II_MTD_R	adult median tract of dorsal cervical fasciculus II	female organism|adult ventral nerve cord|right side of organism	type-II_MTD_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+type-I_MTD_L	type-I_MTD_L	adult median tract of dorsal cervical fasciculus I	female organism|adult ventral nerve cord|left side of organism	type-I_MTD_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+type-I_MTD_R	type-I_MTD_R	adult median tract of dorsal cervical fasciculus I	female organism|adult ventral nerve cord|right side of organism	type-I_MTD_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+AMNp_L	AMNp_L	adult accessory mesothoracic neuropil	female organism|adult ventral nerve cord|left side of organism	AMNp_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+AMNp_R	AMNp_R	adult accessory mesothoracic neuropil	female organism|adult ventral nerve cord|right side of organism	AMNp_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+ANm	ANm	adult abdominal neuromere	female organism|adult ventral nerve cord	ANm on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+HTct_UTct_T3_L	HTct_UTct_T3_L	haltere neuropil	female organism|adult ventral nerve cord|left side of organism	HTct_UTct_T3_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+HTct_UTct_T3_R	HTct_UTct_T3_R	haltere neuropil	female organism|adult ventral nerve cord|right side of organism	HTct_UTct_T3_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+IntTct	IntTct	intermediate tectulum	female organism|adult ventral nerve cord	IntTct on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+LNp_T1_L	LNp_T1_L	adult T1 leg neuropil	female organism|adult ventral nerve cord|left side of organism	LNp_T1_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+LNp_T1_R	LNp_T1_R	adult T1 leg neuropil	female organism|adult ventral nerve cord|right side of organism	LNp_T1_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+LNp_T2_L	LNp_T2_L	adult T2 leg neuropil	female organism|adult ventral nerve cord|left side of organism	LNp_T2_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+LNp_T2_R	LNp_T2_R	adult T2 leg neuropil	female organism|adult ventral nerve cord|right side of organism	LNp_T2_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+LNp_T3_L	LNp_T3_L	adult T3 leg neuropil	female organism|adult ventral nerve cord|left side of organism	LNp_T3_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+LNp_T3_R	LNp_T3_R	adult T3 leg neuropil	female organism|adult ventral nerve cord|right side of organism	LNp_T3_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+LTct	LTct	lower tectulum	female organism|adult ventral nerve cord	LTct on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+NTct_UTct_T1_L	NTct_UTct_T1_L	neck neuropil	female organism|adult ventral nerve cord|left side of organism	NTct_UTct_T1_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+NTct_UTct_T1_R	NTct_UTct_T1_R	neck neuropil	female organism|adult ventral nerve cord|right side of organism	NTct_UTct_T1_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+WTct_UTct_T2_L	WTct_UTct_T2_L	wing neuropil	female organism|adult ventral nerve cord|left side of organism	WTct_UTct_T2_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+WTct_UTct_T2_R	WTct_UTct_T2_R	wing neuropil	female organism|adult ventral nerve cord|right side of organism	WTct_UTct_T2_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+cervical_connective	cervical_connective	adult cervical connective	female organism|adult ventral nerve cord	cervical_connective on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+mVAC_T1_L	mVAC_T1_L	medial ventral association center	female organism|adult ventral nerve cord|left side of organism	mVAC_T1_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+mVAC_T1_R	mVAC_T1_R	medial ventral association center	female organism|adult ventral nerve cord|right side of organism	mVAC_T1_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+mVAC_T2_L	mVAC_T2_L	medial ventral association center	female organism|adult ventral nerve cord|left side of organism	mVAC_T2_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+mVAC_T2_R	mVAC_T2_R	medial ventral association center	female organism|adult ventral nerve cord|right side of organism	mVAC_T2_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+mVAC_T3_L	mVAC_T3_L	medial ventral association center	female organism|adult ventral nerve cord|left side of organism	mVAC_T3_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+mVAC_T3_R	mVAC_T3_R	medial ventral association center	female organism|adult ventral nerve cord|right side of organism	mVAC_T3_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+DA1_L	DA1_L	antennal lobe glomerulus DA1	female organism|adult brain|left side of organism	DA1_L on JRC2018Unisex	JRC2018Unisex_c
+DA1_R	DA1_R	antennal lobe glomerulus DA1	female organism|adult brain|right side of organism	DA1_R on JRC2018Unisex	JRC2018Unisex_c
+DA2_L	DA2_L	antennal lobe glomerulus DA2	female organism|adult brain|left side of organism	DA2_L on JRC2018Unisex	JRC2018Unisex_c
+DA2_R	DA2_R	antennal lobe glomerulus DA2	female organism|adult brain|right side of organism	DA2_R on JRC2018Unisex	JRC2018Unisex_c
+DA3_L	DA3_L	antennal lobe glomerulus DA3	female organism|adult brain|left side of organism	DA3_L on JRC2018Unisex	JRC2018Unisex_c
+DA3_R	DA3_R	antennal lobe glomerulus DA3	female organism|adult brain|right side of organism	DA3_R on JRC2018Unisex	JRC2018Unisex_c
+DA4l_L	DA4l_L	antennal lobe glomerulus DA4l	female organism|adult brain|left side of organism	DA4l_L on JRC2018Unisex	JRC2018Unisex_c
+DA4l_R	DA4l_R	antennal lobe glomerulus DA4l	female organism|adult brain|right side of organism	DA4l_R on JRC2018Unisex	JRC2018Unisex_c
+DA4m_L	DA4m_L	antennal lobe glomerulus DA4m	female organism|adult brain|left side of organism	DA4m_L on JRC2018Unisex	JRC2018Unisex_c
+DA4m_R	DA4m_R	antennal lobe glomerulus DA4m	female organism|adult brain|right side of organism	DA4m_R on JRC2018Unisex	JRC2018Unisex_c
+DC1_L	DC1_L	antennal lobe glomerulus DC1	female organism|adult brain|left side of organism	DC1_L on JRC2018Unisex	JRC2018Unisex_c
+DC1_R	DC1_R	antennal lobe glomerulus DC1	female organism|adult brain|right side of organism	DC1_R on JRC2018Unisex	JRC2018Unisex_c
+DC2_L	DC2_L	antennal lobe glomerulus DC2	female organism|adult brain|left side of organism	DC2_L on JRC2018Unisex	JRC2018Unisex_c
+DC2_R	DC2_R	antennal lobe glomerulus DC2	female organism|adult brain|right side of organism	DC2_R on JRC2018Unisex	JRC2018Unisex_c
+DC3_L	DC3_L	antennal lobe glomerulus DC3	female organism|adult brain|left side of organism	DC3_L on JRC2018Unisex	JRC2018Unisex_c
+DC3_R	DC3_R	antennal lobe glomerulus DC3	female organism|adult brain|right side of organism	DC3_R on JRC2018Unisex	JRC2018Unisex_c
+DC4_L	DC4_L	antennal lobe glomerulus DC4	female organism|adult brain|left side of organism	DC4_L on JRC2018Unisex	JRC2018Unisex_c
+DC4_R	DC4_R	antennal lobe glomerulus DC4	female organism|adult brain|right side of organism	DC4_R on JRC2018Unisex	JRC2018Unisex_c
+DL1_L	DL1_L	antennal lobe glomerulus DL1	female organism|adult brain|left side of organism	DL1_L on JRC2018Unisex	JRC2018Unisex_c
+DL1_R	DL1_R	antennal lobe glomerulus DL1	female organism|adult brain|right side of organism	DL1_R on JRC2018Unisex	JRC2018Unisex_c
+DL2d_L	DL2d_L	antennal lobe glomerulus DL2d	female organism|adult brain|left side of organism	DL2d_L on JRC2018Unisex	JRC2018Unisex_c
+DL2d_R	DL2d_R	antennal lobe glomerulus DL2d	female organism|adult brain|right side of organism	DL2d_R on JRC2018Unisex	JRC2018Unisex_c
+DL2v_L	DL2v_L	antennal lobe glomerulus DL2v	female organism|adult brain|left side of organism	DL2v_L on JRC2018Unisex	JRC2018Unisex_c
+DL2v_R	DL2v_R	antennal lobe glomerulus DL2v	female organism|adult brain|right side of organism	DL2v_R on JRC2018Unisex	JRC2018Unisex_c
+DL3_L	DL3_L	antennal lobe glomerulus DL3	female organism|adult brain|left side of organism	DL3_L on JRC2018Unisex	JRC2018Unisex_c
+DL3_R	DL3_R	antennal lobe glomerulus DL3	female organism|adult brain|right side of organism	DL3_R on JRC2018Unisex	JRC2018Unisex_c
+DL4_L	DL4_L	antennal lobe glomerulus DL4	female organism|adult brain|left side of organism	DL4_L on JRC2018Unisex	JRC2018Unisex_c
+DL4_R	DL4_R	antennal lobe glomerulus DL4	female organism|adult brain|right side of organism	DL4_R on JRC2018Unisex	JRC2018Unisex_c
+DL5_L	DL5_L	antennal lobe glomerulus DL5	female organism|adult brain|left side of organism	DL5_L on JRC2018Unisex	JRC2018Unisex_c
+DL5_R	DL5_R	antennal lobe glomerulus DL5	female organism|adult brain|right side of organism	DL5_R on JRC2018Unisex	JRC2018Unisex_c
+DM1_L	DM1_L	antennal lobe glomerulus DM1	female organism|adult brain|left side of organism	DM1_L on JRC2018Unisex	JRC2018Unisex_c
+DM1_R	DM1_R	antennal lobe glomerulus DM1	female organism|adult brain|right side of organism	DM1_R on JRC2018Unisex	JRC2018Unisex_c
+DM2_L	DM2_L	antennal lobe glomerulus DM2	female organism|adult brain|left side of organism	DM2_L on JRC2018Unisex	JRC2018Unisex_c
+DM2_R	DM2_R	antennal lobe glomerulus DM2	female organism|adult brain|right side of organism	DM2_R on JRC2018Unisex	JRC2018Unisex_c
+DM3_L	DM3_L	antennal lobe glomerulus DM3	female organism|adult brain|left side of organism	DM3_L on JRC2018Unisex	JRC2018Unisex_c
+DM3_R	DM3_R	antennal lobe glomerulus DM3	female organism|adult brain|right side of organism	DM3_R on JRC2018Unisex	JRC2018Unisex_c
+DM4_L	DM4_L	antennal lobe glomerulus DM4	female organism|adult brain|left side of organism	DM4_L on JRC2018Unisex	JRC2018Unisex_c
+DM4_R	DM4_R	antennal lobe glomerulus DM4	female organism|adult brain|right side of organism	DM4_R on JRC2018Unisex	JRC2018Unisex_c
+DM5_L	DM5_L	antennal lobe glomerulus DM5	female organism|adult brain|left side of organism	DM5_L on JRC2018Unisex	JRC2018Unisex_c
+DM5_R	DM5_R	antennal lobe glomerulus DM5	female organism|adult brain|right side of organism	DM5_R on JRC2018Unisex	JRC2018Unisex_c
+DM6_L	DM6_L	antennal lobe glomerulus DM6	female organism|adult brain|left side of organism	DM6_L on JRC2018Unisex	JRC2018Unisex_c
+DM6_R	DM6_R	antennal lobe glomerulus DM6	female organism|adult brain|right side of organism	DM6_R on JRC2018Unisex	JRC2018Unisex_c
+DP1l_L	DP1l_L	antennal lobe glomerulus DP1l	female organism|adult brain|left side of organism	DP1l_L on JRC2018Unisex	JRC2018Unisex_c
+DP1l_R	DP1l_R	antennal lobe glomerulus DP1l	female organism|adult brain|right side of organism	DP1l_R on JRC2018Unisex	JRC2018Unisex_c
+DP1m_L	DP1m_L	antennal lobe glomerulus DP1m	female organism|adult brain|left side of organism	DP1m_L on JRC2018Unisex	JRC2018Unisex_c
+DP1m_R	DP1m_R	antennal lobe glomerulus DP1m	female organism|adult brain|right side of organism	DP1m_R on JRC2018Unisex	JRC2018Unisex_c
+D_L	D_L	antennal lobe glomerulus D	female organism|adult brain|left side of organism	D_L on JRC2018Unisex	JRC2018Unisex_c
+D_R	D_R	antennal lobe glomerulus D	female organism|adult brain|right side of organism	D_R on JRC2018Unisex	JRC2018Unisex_c
+VA1d_L	VA1d_L	antennal lobe glomerulus VA1d	female organism|adult brain|left side of organism	VA1d_L on JRC2018Unisex	JRC2018Unisex_c
+VA1d_R	VA1d_R	antennal lobe glomerulus VA1d	female organism|adult brain|right side of organism	VA1d_R on JRC2018Unisex	JRC2018Unisex_c
+VA1v_L	VA1v_L	antennal lobe glomerulus VA1v	female organism|adult brain|left side of organism	VA1v_L on JRC2018Unisex	JRC2018Unisex_c
+VA1v_R	VA1v_R	antennal lobe glomerulus VA1v	female organism|adult brain|right side of organism	VA1v_R on JRC2018Unisex	JRC2018Unisex_c
+VA2_L	VA2_L	antennal lobe glomerulus VA2	female organism|adult brain|left side of organism	VA2_L on JRC2018Unisex	JRC2018Unisex_c
+VA2_R	VA2_R	antennal lobe glomerulus VA2	female organism|adult brain|right side of organism	VA2_R on JRC2018Unisex	JRC2018Unisex_c
+VA3_L	VA3_L	antennal lobe glomerulus VA3	female organism|adult brain|left side of organism	VA3_L on JRC2018Unisex	JRC2018Unisex_c
+VA3_R	VA3_R	antennal lobe glomerulus VA3	female organism|adult brain|right side of organism	VA3_R on JRC2018Unisex	JRC2018Unisex_c
+VA4_L	VA4_L	antennal lobe glomerulus VA4	female organism|adult brain|left side of organism	VA4_L on JRC2018Unisex	JRC2018Unisex_c
+VA4_R	VA4_R	antennal lobe glomerulus VA4	female organism|adult brain|right side of organism	VA4_R on JRC2018Unisex	JRC2018Unisex_c
+VA5_L	VA5_L	antennal lobe glomerulus VA5	female organism|adult brain|left side of organism	VA5_L on JRC2018Unisex	JRC2018Unisex_c
+VA5_R	VA5_R	antennal lobe glomerulus VA5	female organism|adult brain|right side of organism	VA5_R on JRC2018Unisex	JRC2018Unisex_c
+VA6_L	VA6_L	antennal lobe glomerulus VA6	female organism|adult brain|left side of organism	VA6_L on JRC2018Unisex	JRC2018Unisex_c
+VA6_R	VA6_R	antennal lobe glomerulus VA6	female organism|adult brain|right side of organism	VA6_R on JRC2018Unisex	JRC2018Unisex_c
+VA7l_L	VA7l_L	antennal lobe glomerulus VA7l	female organism|adult brain|left side of organism	VA7l_L on JRC2018Unisex	JRC2018Unisex_c
+VA7l_R	VA7l_R	antennal lobe glomerulus VA7l	female organism|adult brain|right side of organism	VA7l_R on JRC2018Unisex	JRC2018Unisex_c
+VA7m_L	VA7m_L	antennal lobe glomerulus VA7m	female organism|adult brain|left side of organism	VA7m_L on JRC2018Unisex	JRC2018Unisex_c
+VA7m_R	VA7m_R	antennal lobe glomerulus VA7m	female organism|adult brain|right side of organism	VA7m_R on JRC2018Unisex	JRC2018Unisex_c
+VC1_L	VC1_L	antennal lobe glomerulus VC1	female organism|adult brain|left side of organism	VC1_L on JRC2018Unisex	JRC2018Unisex_c
+VC1_R	VC1_R	antennal lobe glomerulus VC1	female organism|adult brain|right side of organism	VC1_R on JRC2018Unisex	JRC2018Unisex_c
+VC2_L	VC2_L	antennal lobe glomerulus VC2	female organism|adult brain|left side of organism	VC2_L on JRC2018Unisex	JRC2018Unisex_c
+VC2_R	VC2_R	antennal lobe glomerulus VC2	female organism|adult brain|right side of organism	VC2_R on JRC2018Unisex	JRC2018Unisex_c
+VC3_L	VC3_L	antennal lobe glomerulus VC3	female organism|adult brain|left side of organism	VC3_L on JRC2018Unisex	JRC2018Unisex_c
+VC3_R	VC3_R	antennal lobe glomerulus VC3	female organism|adult brain|right side of organism	VC3_R on JRC2018Unisex	JRC2018Unisex_c
+VC4_L	VC4_L	antennal lobe glomerulus VC4	female organism|adult brain|left side of organism	VC4_L on JRC2018Unisex	JRC2018Unisex_c
+VC4_R	VC4_R	antennal lobe glomerulus VC4	female organism|adult brain|right side of organism	VC4_R on JRC2018Unisex	JRC2018Unisex_c
+VC5_L	VC5_L	antennal lobe glomerulus VC5	female organism|adult brain|left side of organism	VC5_L on JRC2018Unisex	JRC2018Unisex_c
+VC5_R	VC5_R	antennal lobe glomerulus VC5	female organism|adult brain|right side of organism	VC5_R on JRC2018Unisex	JRC2018Unisex_c
+VL1_L	VL1_L	antennal lobe glomerulus VL1	female organism|adult brain|left side of organism	VL1_L on JRC2018Unisex	JRC2018Unisex_c
+VL1_R	VL1_R	antennal lobe glomerulus VL1	female organism|adult brain|right side of organism	VL1_R on JRC2018Unisex	JRC2018Unisex_c
+VL2a_L	VL2a_L	antennal lobe glomerulus VL2a	female organism|adult brain|left side of organism	VL2a_L on JRC2018Unisex	JRC2018Unisex_c
+VL2a_R	VL2a_R	antennal lobe glomerulus VL2a	female organism|adult brain|right side of organism	VL2a_R on JRC2018Unisex	JRC2018Unisex_c
+VL2p_L	VL2p_L	antennal lobe glomerulus VL2p	female organism|adult brain|left side of organism	VL2p_L on JRC2018Unisex	JRC2018Unisex_c
+VL2p_R	VL2p_R	antennal lobe glomerulus VL2p	female organism|adult brain|right side of organism	VL2p_R on JRC2018Unisex	JRC2018Unisex_c
+VM1_L	VM1_L	antennal lobe glomerulus VM1	female organism|adult brain|left side of organism	VM1_L on JRC2018Unisex	JRC2018Unisex_c
+VM1_R	VM1_R	antennal lobe glomerulus VM1	female organism|adult brain|right side of organism	VM1_R on JRC2018Unisex	JRC2018Unisex_c
+VM2_L	VM2_L	antennal lobe glomerulus VM2	female organism|adult brain|left side of organism	VM2_L on JRC2018Unisex	JRC2018Unisex_c
+VM2_R	VM2_R	antennal lobe glomerulus VM2	female organism|adult brain|right side of organism	VM2_R on JRC2018Unisex	JRC2018Unisex_c
+VM3_L	VM3_L	antennal lobe glomerulus VM3	female organism|adult brain|left side of organism	VM3_L on JRC2018Unisex	JRC2018Unisex_c
+VM3_R	VM3_R	antennal lobe glomerulus VM3	female organism|adult brain|right side of organism	VM3_R on JRC2018Unisex	JRC2018Unisex_c
+VM4_L	VM4_L	antennal lobe glomerulus VM4	female organism|adult brain|left side of organism	VM4_L on JRC2018Unisex	JRC2018Unisex_c
+VM4_R	VM4_R	antennal lobe glomerulus VM4	female organism|adult brain|right side of organism	VM4_R on JRC2018Unisex	JRC2018Unisex_c
+VM5d_L	VM5d_L	antennal lobe glomerulus VM5d	female organism|adult brain|left side of organism	VM5d_L on JRC2018Unisex	JRC2018Unisex_c
+VM5d_R	VM5d_R	antennal lobe glomerulus VM5d	female organism|adult brain|right side of organism	VM5d_R on JRC2018Unisex	JRC2018Unisex_c
+VM5v_L	VM5v_L	antennal lobe glomerulus VM5v	female organism|adult brain|left side of organism	VM5v_L on JRC2018Unisex	JRC2018Unisex_c
+VM5v_R	VM5v_R	antennal lobe glomerulus VM5v	female organism|adult brain|right side of organism	VM5v_R on JRC2018Unisex	JRC2018Unisex_c
+VM6_L	VM6_L	antennal lobe glomerulus VM6	female organism|adult brain|left side of organism	VM6_L on JRC2018Unisex	JRC2018Unisex_c
+VM6_R	VM6_R	antennal lobe glomerulus VM6	female organism|adult brain|right side of organism	VM6_R on JRC2018Unisex	JRC2018Unisex_c
+VM7d_L	VM7d_L	antennal lobe glomerulus VM7d	female organism|adult brain|left side of organism	VM7d_L on JRC2018Unisex	JRC2018Unisex_c
+VM7d_R	VM7d_R	antennal lobe glomerulus VM7d	female organism|adult brain|right side of organism	VM7d_R on JRC2018Unisex	JRC2018Unisex_c
+VM7v_L	VM7v_L	antennal lobe glomerulus VM7v	female organism|adult brain|left side of organism	VM7v_L on JRC2018Unisex	JRC2018Unisex_c
+VM7v_R	VM7v_R	antennal lobe glomerulus VM7v	female organism|adult brain|right side of organism	VM7v_R on JRC2018Unisex	JRC2018Unisex_c
+VP1d_L	VP1d_L	antennal lobe glomerulus VP1d	female organism|adult brain|left side of organism	VP1d_L on JRC2018Unisex	JRC2018Unisex_c
+VP1d_R	VP1d_R	antennal lobe glomerulus VP1d	female organism|adult brain|right side of organism	VP1d_R on JRC2018Unisex	JRC2018Unisex_c
+VP1l_L	VP1l_L	antennal lobe glomerulus VP1l	female organism|adult brain|left side of organism	VP1l_L on JRC2018Unisex	JRC2018Unisex_c
+VP1l_R	VP1l_R	antennal lobe glomerulus VP1l	female organism|adult brain|right side of organism	VP1l_R on JRC2018Unisex	JRC2018Unisex_c
+VP1m_L	VP1m_L	antennal lobe glomerulus VP1m	female organism|adult brain|left side of organism	VP1m_L on JRC2018Unisex	JRC2018Unisex_c
+VP1m_R	VP1m_R	antennal lobe glomerulus VP1m	female organism|adult brain|right side of organism	VP1m_R on JRC2018Unisex	JRC2018Unisex_c
+VP2_L	VP2_L	antennal lobe glomerulus VP2	female organism|adult brain|left side of organism	VP2_L on JRC2018Unisex	JRC2018Unisex_c
+VP2_R	VP2_R	antennal lobe glomerulus VP2	female organism|adult brain|right side of organism	VP2_R on JRC2018Unisex	JRC2018Unisex_c
+VP3_L	VP3_L	antennal lobe glomerulus VP3	female organism|adult brain|left side of organism	VP3_L on JRC2018Unisex	JRC2018Unisex_c
+VP3_R	VP3_R	antennal lobe glomerulus VP3	female organism|adult brain|right side of organism	VP3_R on JRC2018Unisex	JRC2018Unisex_c
+VP4_L	VP4_L	antennal lobe glomerulus VP4	female organism|adult brain|left side of organism	VP4_L on JRC2018Unisex	JRC2018Unisex_c
+VP4_R	VP4_R	antennal lobe glomerulus VP4	female organism|adult brain|right side of organism	VP4_R on JRC2018Unisex	JRC2018Unisex_c
+VP5_L	VP5_L	antennal lobe glomerulus VP5	female organism|adult brain|left side of organism	VP5_L on JRC2018Unisex	JRC2018Unisex_c
+VP5_R	VP5_R	antennal lobe glomerulus VP5	female organism|adult brain|right side of organism	VP5_R on JRC2018Unisex	JRC2018Unisex_c
+V_L	V_L	antennal lobe glomerulus V	female organism|adult brain|left side of organism	V_L on JRC2018Unisex	JRC2018Unisex_c
+V_R	V_R	antennal lobe glomerulus V	female organism|adult brain|right side of organism	V_R on JRC2018Unisex	JRC2018Unisex_c

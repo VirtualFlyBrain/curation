@@ -1,0 +1,6 @@
+# This dataset spans two templates - split by the `template` column before loading:
+#   Template: JRC2018Unisex_c      # brain regions (CentralBrain, Optic, CV)
+#   Template: JRC2018UnisexVNC_c   # VNC regions
+Imaging_type: computer graphic
+Curator: cp390
+DataSet: Berg2025aroi

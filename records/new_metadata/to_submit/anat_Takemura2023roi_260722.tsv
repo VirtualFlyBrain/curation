@@ -1,0 +1,60 @@
+filename	synonyms	is_a	part_of	label
+ADMN(L)	ADMN(L)	adult anterior dorsal mesothoracic nerve	male organism|adult ventral nerve cord|left side of organism	ADMN(L) on JRC2018UnisexVNC
+ADMN(R)	ADMN(R)	adult anterior dorsal mesothoracic nerve	male organism|adult ventral nerve cord|right side of organism	ADMN(R) on JRC2018UnisexVNC
+ANm	ANm	adult abdominal neuromere	male organism|adult ventral nerve cord	ANm on JRC2018UnisexVNC
+AbN1(L)	AbN1(L)	adult first abdominal nerve	male organism|adult ventral nerve cord|left side of organism	AbN1(L) on JRC2018UnisexVNC
+AbN1(R)	AbN1(R)	adult first abdominal nerve	male organism|adult ventral nerve cord|right side of organism	AbN1(R) on JRC2018UnisexVNC
+AbN2(L)	AbN2(L)	adult second abdominal nerve	male organism|adult ventral nerve cord|left side of organism	AbN2(L) on JRC2018UnisexVNC
+AbN2(R)	AbN2(R)	adult second abdominal nerve	male organism|adult ventral nerve cord|right side of organism	AbN2(R) on JRC2018UnisexVNC
+AbN3(L)	AbN3(L)	adult third abdominal nerve	male organism|adult ventral nerve cord|left side of organism	AbN3(L) on JRC2018UnisexVNC
+AbN3(R)	AbN3(R)	adult third abdominal nerve	male organism|adult ventral nerve cord|right side of organism	AbN3(R) on JRC2018UnisexVNC
+AbN4(L)	AbN4(L)	adult fourth abdominal nerve	male organism|adult ventral nerve cord|left side of organism	AbN4(L) on JRC2018UnisexVNC
+AbN4(R)	AbN4(R)	adult fourth abdominal nerve	male organism|adult ventral nerve cord|right side of organism	AbN4(R) on JRC2018UnisexVNC
+AbNT	AbNT	adult abdominal nerve trunk	male organism|adult ventral nerve cord	AbNT on JRC2018UnisexVNC
+CV	CV	adult cervical connective	male organism|adult ventral nerve cord	CV on JRC2018UnisexVNC
+CvN(L)	CvN(L)	adult cervical nerve	male organism|adult ventral nerve cord|left side of organism	CvN(L) on JRC2018UnisexVNC
+CvN(R)	CvN(R)	adult cervical nerve	male organism|adult ventral nerve cord|right side of organism	CvN(R) on JRC2018UnisexVNC
+DMetaN(L)	DMetaN(L)	adult dorsal metathoracic nerve	male organism|adult ventral nerve cord|left side of organism	DMetaN(L) on JRC2018UnisexVNC
+DMetaN(R)	DMetaN(R)	adult dorsal metathoracic nerve	male organism|adult ventral nerve cord|right side of organism	DMetaN(R) on JRC2018UnisexVNC
+DProN(L)	DProN(L)	adult dorsal prothoracic nerve	male organism|adult ventral nerve cord|left side of organism	DProN(L) on JRC2018UnisexVNC
+DProN(R)	DProN(R)	adult dorsal prothoracic nerve	male organism|adult ventral nerve cord|right side of organism	DProN(R) on JRC2018UnisexVNC
+HTct(UTct-T3)(L)	HTct(UTct-T3)(L)	haltere neuropil	male organism|adult ventral nerve cord|left side of organism	HTct(UTct-T3)(L) on JRC2018UnisexVNC
+HTct(UTct-T3)(R)	HTct(UTct-T3)(R)	haltere neuropil	male organism|adult ventral nerve cord|right side of organism	HTct(UTct-T3)(R) on JRC2018UnisexVNC
+IntTct	IntTct	intermediate tectulum	male organism|adult ventral nerve cord	IntTct on JRC2018UnisexVNC
+LTct	LTct	lower tectulum	male organism|adult ventral nerve cord	LTct on JRC2018UnisexVNC
+LegNp(T1)(L)	LegNp(T1)(L)	adult T1 leg neuropil	male organism|adult ventral nerve cord|left side of organism	LegNp(T1)(L) on JRC2018UnisexVNC
+LegNp(T1)(R)	LegNp(T1)(R)	adult T1 leg neuropil	male organism|adult ventral nerve cord|right side of organism	LegNp(T1)(R) on JRC2018UnisexVNC
+LegNp(T2)(L)	LegNp(T2)(L)	adult T2 leg neuropil	male organism|adult ventral nerve cord|left side of organism	LegNp(T2)(L) on JRC2018UnisexVNC
+LegNp(T2)(R)	LegNp(T2)(R)	adult T2 leg neuropil	male organism|adult ventral nerve cord|right side of organism	LegNp(T2)(R) on JRC2018UnisexVNC
+LegNp(T3)(L)	LegNp(T3)(L)	adult T3 leg neuropil	male organism|adult ventral nerve cord|left side of organism	LegNp(T3)(L) on JRC2018UnisexVNC
+LegNp(T3)(R)	LegNp(T3)(R)	adult T3 leg neuropil	male organism|adult ventral nerve cord|right side of organism	LegNp(T3)(R) on JRC2018UnisexVNC
+MesoAN(L)	MesoAN(L)	adult mesothoracic accessory nerve	male organism|adult ventral nerve cord|left side of organism	MesoAN(L) on JRC2018UnisexVNC
+MesoAN(R)	MesoAN(R)	adult mesothoracic accessory nerve	male organism|adult ventral nerve cord|right side of organism	MesoAN(R) on JRC2018UnisexVNC
+MesoLN(L)	MesoLN(L)	adult mesothoracic leg nerve	male organism|adult ventral nerve cord|left side of organism	MesoLN(L) on JRC2018UnisexVNC
+MesoLN(R)	MesoLN(R)	adult mesothoracic leg nerve	male organism|adult ventral nerve cord|right side of organism	MesoLN(R) on JRC2018UnisexVNC
+MetaLN(L)	MetaLN(L)	adult metathoracic leg nerve	male organism|adult ventral nerve cord|left side of organism	MetaLN(L) on JRC2018UnisexVNC
+MetaLN(R)	MetaLN(R)	adult metathoracic leg nerve	male organism|adult ventral nerve cord|right side of organism	MetaLN(R) on JRC2018UnisexVNC
+NTct(UTct-T1)(L)	NTct(UTct-T1)(L)	neck neuropil	male organism|adult ventral nerve cord|left side of organism	NTct(UTct-T1)(L) on JRC2018UnisexVNC
+NTct(UTct-T1)(R)	NTct(UTct-T1)(R)	neck neuropil	male organism|adult ventral nerve cord|right side of organism	NTct(UTct-T1)(R) on JRC2018UnisexVNC
+Ov(L)	Ov(L)	adult accessory mesothoracic neuropil	male organism|adult ventral nerve cord|left side of organism	Ov(L) on JRC2018UnisexVNC
+Ov(R)	Ov(R)	adult accessory mesothoracic neuropil	male organism|adult ventral nerve cord|right side of organism	Ov(R) on JRC2018UnisexVNC
+PDMN(L)	PDMN(L)	adult posterior dorsal mesothoracic nerve	male organism|adult ventral nerve cord|left side of organism	PDMN(L) on JRC2018UnisexVNC
+PDMN(R)	PDMN(R)	adult posterior dorsal mesothoracic nerve	male organism|adult ventral nerve cord|right side of organism	PDMN(R) on JRC2018UnisexVNC
+PrN(L)	PrN(L)	adult prosternal nerve	male organism|adult ventral nerve cord|left side of organism	PrN(L) on JRC2018UnisexVNC
+PrN(R)	PrN(R)	adult prosternal nerve	male organism|adult ventral nerve cord|right side of organism	PrN(R) on JRC2018UnisexVNC
+ProAN(L)	ProAN(L)	adult prothoracic accessory nerve	male organism|adult ventral nerve cord|left side of organism	ProAN(L) on JRC2018UnisexVNC
+ProAN(R)	ProAN(R)	adult prothoracic accessory nerve	male organism|adult ventral nerve cord|right side of organism	ProAN(R) on JRC2018UnisexVNC
+ProCN(L)	ProCN(L)	adult prothoracic chordotonal nerve	male organism|adult ventral nerve cord|left side of organism	ProCN(L) on JRC2018UnisexVNC
+ProCN(R)	ProCN(R)	adult prothoracic chordotonal nerve	male organism|adult ventral nerve cord|right side of organism	ProCN(R) on JRC2018UnisexVNC
+ProLN(L)	ProLN(L)	adult prothoracic leg nerve	male organism|adult ventral nerve cord|left side of organism	ProLN(L) on JRC2018UnisexVNC
+ProLN(R)	ProLN(R)	adult prothoracic leg nerve	male organism|adult ventral nerve cord|right side of organism	ProLN(R) on JRC2018UnisexVNC
+VProN(L)	VProN(L)	adult ventral prothoracic nerve	male organism|adult ventral nerve cord|left side of organism	VProN(L) on JRC2018UnisexVNC
+VProN(R)	VProN(R)	adult ventral prothoracic nerve	male organism|adult ventral nerve cord|right side of organism	VProN(R) on JRC2018UnisexVNC
+WTct(UTct-T2)(L)	WTct(UTct-T2)(L)	wing neuropil	male organism|adult ventral nerve cord|left side of organism	WTct(UTct-T2)(L) on JRC2018UnisexVNC
+WTct(UTct-T2)(R)	WTct(UTct-T2)(R)	wing neuropil	male organism|adult ventral nerve cord|right side of organism	WTct(UTct-T2)(R) on JRC2018UnisexVNC
+mVAC(T1)(L)	mVAC(T1)(L)	medial ventral association center	male organism|adult ventral nerve cord|left side of organism	mVAC(T1)(L) on JRC2018UnisexVNC
+mVAC(T1)(R)	mVAC(T1)(R)	medial ventral association center	male organism|adult ventral nerve cord|right side of organism	mVAC(T1)(R) on JRC2018UnisexVNC
+mVAC(T2)(L)	mVAC(T2)(L)	medial ventral association center	male organism|adult ventral nerve cord|left side of organism	mVAC(T2)(L) on JRC2018UnisexVNC
+mVAC(T2)(R)	mVAC(T2)(R)	medial ventral association center	male organism|adult ventral nerve cord|right side of organism	mVAC(T2)(R) on JRC2018UnisexVNC
+mVAC(T3)(L)	mVAC(T3)(L)	medial ventral association center	male organism|adult ventral nerve cord|left side of organism	mVAC(T3)(L) on JRC2018UnisexVNC
+mVAC(T3)(R)	mVAC(T3)(R)	medial ventral association center	male organism|adult ventral nerve cord|right side of organism	mVAC(T3)(R) on JRC2018UnisexVNC

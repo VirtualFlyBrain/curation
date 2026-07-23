@@ -1,0 +1,79 @@
+filename	synonyms	is_a	part_of	label
+AL_L	AL_L	adult antennal lobe	female organism|adult brain|left side of organism	AL_L on JRC2018Unisex
+AL_R	AL_R	adult antennal lobe	female organism|adult brain|right side of organism	AL_R on JRC2018Unisex
+AME_L	AME_L	accessory medulla	female organism|adult brain|left side of organism	AME_L on JRC2018Unisex
+AME_R	AME_R	accessory medulla	female organism|adult brain|right side of organism	AME_R on JRC2018Unisex
+AMMC_L	AMMC_L	antennal mechanosensory and motor center	female organism|adult brain|left side of organism	AMMC_L on JRC2018Unisex
+AMMC_R	AMMC_R	antennal mechanosensory and motor center	female organism|adult brain|right side of organism	AMMC_R on JRC2018Unisex
+AOTU_L	AOTU_L	anterior optic tubercle	female organism|adult brain|left side of organism	AOTU_L on JRC2018Unisex
+AOTU_R	AOTU_R	anterior optic tubercle	female organism|adult brain|right side of organism	AOTU_R on JRC2018Unisex
+ATL_L	ATL_L	antler	female organism|adult brain|left side of organism	ATL_L on JRC2018Unisex
+ATL_R	ATL_R	antler	female organism|adult brain|right side of organism	ATL_R on JRC2018Unisex
+AVLP_L	AVLP_L	anterior ventrolateral protocerebrum	female organism|adult brain|left side of organism	AVLP_L on JRC2018Unisex
+AVLP_R	AVLP_R	anterior ventrolateral protocerebrum	female organism|adult brain|right side of organism	AVLP_R on JRC2018Unisex
+BU_L	BU_L	bulb	female organism|adult brain|left side of organism	BU_L on JRC2018Unisex
+BU_R	BU_R	bulb	female organism|adult brain|right side of organism	BU_R on JRC2018Unisex
+CAN_L	CAN_L	cantle	female organism|adult brain|left side of organism	CAN_L on JRC2018Unisex
+CAN_R	CAN_R	cantle	female organism|adult brain|right side of organism	CAN_R on JRC2018Unisex
+CRE_L	CRE_L	adult crepine	female organism|adult brain|left side of organism	CRE_L on JRC2018Unisex
+CRE_R	CRE_R	adult crepine	female organism|adult brain|right side of organism	CRE_R on JRC2018Unisex
+EB	EB	ellipsoid body	female organism|adult brain	EB on JRC2018Unisex
+EPA_L	EPA_L	epaulette	female organism|adult brain|left side of organism	EPA_L on JRC2018Unisex
+EPA_R	EPA_R	epaulette	female organism|adult brain|right side of organism	EPA_R on JRC2018Unisex
+FB	FB	fan-shaped body	female organism|adult brain	FB on JRC2018Unisex
+FLA_L	FLA_L	flange	female organism|adult brain|left side of organism	FLA_L on JRC2018Unisex
+FLA_R	FLA_R	flange	female organism|adult brain|right side of organism	FLA_R on JRC2018Unisex
+GA_L	GA_L	gall	female organism|adult brain|left side of organism	GA_L on JRC2018Unisex
+GA_R	GA_R	gall	female organism|adult brain|right side of organism	GA_R on JRC2018Unisex
+GNG	GNG	gnathal ganglion	female organism|adult brain	GNG on JRC2018Unisex
+GOR_L	GOR_L	gorget	female organism|adult brain|left side of organism	GOR_L on JRC2018Unisex
+GOR_R	GOR_R	gorget	female organism|adult brain|right side of organism	GOR_R on JRC2018Unisex
+IB_L	IB_L	inferior bridge	female organism|adult brain|left side of organism	IB_L on JRC2018Unisex
+IB_R	IB_R	inferior bridge	female organism|adult brain|right side of organism	IB_R on JRC2018Unisex
+ICL_L	ICL_L	inferior clamp	female organism|adult brain|left side of organism	ICL_L on JRC2018Unisex
+ICL_R	ICL_R	inferior clamp	female organism|adult brain|right side of organism	ICL_R on JRC2018Unisex
+IPS_L	IPS_L	inferior posterior slope	female organism|adult brain|left side of organism	IPS_L on JRC2018Unisex
+IPS_R	IPS_R	inferior posterior slope	female organism|adult brain|right side of organism	IPS_R on JRC2018Unisex
+LA_L	LA_L	lamina	female organism|adult brain|left side of organism	LA_L on JRC2018Unisex
+LA_R	LA_R	lamina	female organism|adult brain|right side of organism	LA_R on JRC2018Unisex
+LAL_L	LAL_L	adult lateral accessory lobe	female organism|adult brain|left side of organism	LAL_L on JRC2018Unisex
+LAL_R	LAL_R	adult lateral accessory lobe	female organism|adult brain|right side of organism	LAL_R on JRC2018Unisex
+LH_L	LH_L	adult lateral horn	female organism|adult brain|left side of organism	LH_L on JRC2018Unisex
+LH_R	LH_R	adult lateral horn	female organism|adult brain|right side of organism	LH_R on JRC2018Unisex
+LO_L	LO_L	lobula	female organism|adult brain|left side of organism	LO_L on JRC2018Unisex
+LO_R	LO_R	lobula	female organism|adult brain|right side of organism	LO_R on JRC2018Unisex
+LOP_L	LOP_L	lobula plate	female organism|adult brain|left side of organism	LOP_L on JRC2018Unisex
+LOP_R	LOP_R	lobula plate	female organism|adult brain|right side of organism	LOP_R on JRC2018Unisex
+MB_CA_L	MB_CA_L	calyx of adult mushroom body	female organism|adult brain|left side of organism	MB_CA_L on JRC2018Unisex
+MB_CA_R	MB_CA_R	calyx of adult mushroom body	female organism|adult brain|right side of organism	MB_CA_R on JRC2018Unisex
+MB_ML_L	MB_ML_L	medial lobe of adult mushroom body	female organism|adult brain|left side of organism	MB_ML_L on JRC2018Unisex
+MB_ML_R	MB_ML_R	medial lobe of adult mushroom body	female organism|adult brain|right side of organism	MB_ML_R on JRC2018Unisex
+MB_PED_L	MB_PED_L	pedunculus of adult mushroom body	female organism|adult brain|left side of organism	MB_PED_L on JRC2018Unisex
+MB_PED_R	MB_PED_R	pedunculus of adult mushroom body	female organism|adult brain|right side of organism	MB_PED_R on JRC2018Unisex
+MB_VL_L	MB_VL_L	vertical lobe of adult mushroom body	female organism|adult brain|left side of organism	MB_VL_L on JRC2018Unisex
+MB_VL_R	MB_VL_R	vertical lobe of adult mushroom body	female organism|adult brain|right side of organism	MB_VL_R on JRC2018Unisex
+ME_L	ME_L	medulla	female organism|adult brain|left side of organism	ME_L on JRC2018Unisex
+ME_R	ME_R	medulla	female organism|adult brain|right side of organism	ME_R on JRC2018Unisex
+NO	NO	nodulus	female organism|adult brain	NO on JRC2018Unisex
+OCG	OCG	ocellar ganglion	female organism|adult brain	OCG on JRC2018Unisex
+PB	PB	protocerebral bridge	female organism|adult brain	PB on JRC2018Unisex
+PLP_L	PLP_L	posterior lateral protocerebrum	female organism|adult brain|left side of organism	PLP_L on JRC2018Unisex
+PLP_R	PLP_R	posterior lateral protocerebrum	female organism|adult brain|right side of organism	PLP_R on JRC2018Unisex
+PRW	PRW	prow	female organism|adult brain	PRW on JRC2018Unisex
+PVLP_L	PVLP_L	posterior ventrolateral protocerebrum	female organism|adult brain|left side of organism	PVLP_L on JRC2018Unisex
+PVLP_R	PVLP_R	posterior ventrolateral protocerebrum	female organism|adult brain|right side of organism	PVLP_R on JRC2018Unisex
+SAD	SAD	saddle	female organism|adult brain	SAD on JRC2018Unisex
+SCL_L	SCL_L	superior clamp	female organism|adult brain|left side of organism	SCL_L on JRC2018Unisex
+SCL_R	SCL_R	superior clamp	female organism|adult brain|right side of organism	SCL_R on JRC2018Unisex
+SIP_L	SIP_L	superior intermediate protocerebrum	female organism|adult brain|left side of organism	SIP_L on JRC2018Unisex
+SIP_R	SIP_R	superior intermediate protocerebrum	female organism|adult brain|right side of organism	SIP_R on JRC2018Unisex
+SLP_L	SLP_L	superior lateral protocerebrum	female organism|adult brain|left side of organism	SLP_L on JRC2018Unisex
+SLP_R	SLP_R	superior lateral protocerebrum	female organism|adult brain|right side of organism	SLP_R on JRC2018Unisex
+SMP_L	SMP_L	superior medial protocerebrum	female organism|adult brain|left side of organism	SMP_L on JRC2018Unisex
+SMP_R	SMP_R	superior medial protocerebrum	female organism|adult brain|right side of organism	SMP_R on JRC2018Unisex
+SPS_L	SPS_L	superior posterior slope	female organism|adult brain|left side of organism	SPS_L on JRC2018Unisex
+SPS_R	SPS_R	superior posterior slope	female organism|adult brain|right side of organism	SPS_R on JRC2018Unisex
+VES_L	VES_L	vest	female organism|adult brain|left side of organism	VES_L on JRC2018Unisex
+VES_R	VES_R	vest	female organism|adult brain|right side of organism	VES_R on JRC2018Unisex
+WED_L	WED_L	wedge	female organism|adult brain|left side of organism	WED_L on JRC2018Unisex
+WED_R	WED_R	wedge	female organism|adult brain|right side of organism	WED_R on JRC2018Unisex

@@ -1,0 +1,6 @@
+# This dataset spans two templates - split by the `template` column before loading:
+#   Template: JRC2018Unisex_c      # brain regions (midbrain, optic, glomerulus)
+#   Template: JRC2018UnisexVNC_c   # VNC regions (vnc, nerve, tract)
+Imaging_type: computer graphic
+Curator: cp390
+DataSet: Bates2026roi

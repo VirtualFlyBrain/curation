@@ -1,0 +1,427 @@
+subject_id	subject_name	object	relation	pub	comment
+VFB_00102288	AB(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00102288	AB(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101399	AB(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101399	AB(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101484	AL(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101484	AL(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101449	AL(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101449	AL(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011aw	AL-D(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011aw	AL-D(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011ax	AL-D(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011ax	AL-D(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011ay	AL-DA1(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011ay	AL-DA1(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011az	AL-DA2(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011az	AL-DA2(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011b0	AL-DA2(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011b0	AL-DA2(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011b1	AL-DA3(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011b1	AL-DA3(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011b2	AL-DA3(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011b2	AL-DA3(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011b3	AL-DA4l(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011b3	AL-DA4l(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011b4	AL-DA4m(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011b4	AL-DA4m(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011b5	AL-DA4m(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011b5	AL-DA4m(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011b6	AL-DC1(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011b6	AL-DC1(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011b7	AL-DC1(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011b7	AL-DC1(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011b8	AL-DC2(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011b8	AL-DC2(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011b9	AL-DC2(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011b9	AL-DC2(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011ba	AL-DC3(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011ba	AL-DC3(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bb	AL-DC4(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bb	AL-DC4(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bc	AL-DC4(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bc	AL-DC4(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bd	AL-DL1(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bd	AL-DL1(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011be	AL-DL2d(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011be	AL-DL2d(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bf	AL-DL2v(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bf	AL-DL2v(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bg	AL-DL3(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bg	AL-DL3(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bh	AL-DL4(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bh	AL-DL4(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bi	AL-DL4(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bi	AL-DL4(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bj	AL-DL5(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bj	AL-DL5(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bk	AL-DL5(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bk	AL-DL5(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bl	AL-DM1(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bl	AL-DM1(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bm	AL-DM1(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bm	AL-DM1(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bn	AL-DM2(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bn	AL-DM2(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bo	AL-DM2(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bo	AL-DM2(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bp	AL-DM3(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bp	AL-DM3(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bq	AL-DM3(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bq	AL-DM3(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011br	AL-DM4(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011br	AL-DM4(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bs	AL-DM4(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bs	AL-DM4(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bt	AL-DM5(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bt	AL-DM5(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bu	AL-DM5(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bu	AL-DM5(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bv	AL-DM6(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bv	AL-DM6(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bw	AL-DM6(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bw	AL-DM6(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bx	AL-DP1l(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bx	AL-DP1l(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011by	AL-DP1m(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011by	AL-DP1m(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bz	AL-DP1m(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011bz	AL-DP1m(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011c0	AL-V(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011c0	AL-V(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011c1	AL-VA1d(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011c1	AL-VA1d(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011c2	AL-VA1v(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011c2	AL-VA1v(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011c3	AL-VA2(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011c3	AL-VA2(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011c4	AL-VA3(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011c4	AL-VA3(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011c5	AL-VA4(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011c5	AL-VA4(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011c6	AL-VA5(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011c6	AL-VA5(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011c7	AL-VA6(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011c7	AL-VA6(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011c8	AL-VA6(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011c8	AL-VA6(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011c9	AL-VA7l(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011c9	AL-VA7l(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011ca	AL-VA7m(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011ca	AL-VA7m(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cb	AL-VC1(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cb	AL-VC1(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cc	AL-VC2(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cc	AL-VC2(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cd	AL-VC3l(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cd	AL-VC3l(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011ce	AL-VC3m(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011ce	AL-VC3m(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cf	AL-VC4(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cf	AL-VC4(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cg	AL-VC5(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cg	AL-VC5(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011ch	AL-VL1(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011ch	AL-VL1(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011ci	AL-VL2a(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011ci	AL-VL2a(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cj	AL-VL2p(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cj	AL-VL2p(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011ck	AL-VM1(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011ck	AL-VM1(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cl	AL-VM2(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cl	AL-VM2(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cm	AL-VM3(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cm	AL-VM3(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cn	AL-VM4(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cn	AL-VM4(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011co	AL-VM5d(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011co	AL-VM5d(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cp	AL-VM5v(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cp	AL-VM5v(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cq	AL-VM7d(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cq	AL-VM7d(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cr	AL-VM7d(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cr	AL-VM7d(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cs	AL-VM7v(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cs	AL-VM7v(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011ct	AL-VM7v(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011ct	AL-VM7v(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cu	AL-VP1d(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cu	AL-VP1d(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cv	AL-VP1l(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cv	AL-VP1l(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cw	AL-VP1m(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cw	AL-VP1m(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cx	AL-VP2(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cx	AL-VP2(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cy	AL-VP3(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cy	AL-VP3(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cz	AL-VP4(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011cz	AL-VP4(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011d0	AL-VP5(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011d0	AL-VP5(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101386	AME(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101386	AME(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101457	AMMC on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101483	AOT(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101483	AOT(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101407	AOTU(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101407	AOTU(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101487	ATL(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101487	ATL(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101445	ATL(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101445	ATL(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101408	AVLP(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101408	AVLP(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101524	BU(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101524	BU(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101402	BU(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101402	BU(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101533	CA(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101533	CA(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101389	CA(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101389	CA(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101459	CAN(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101459	CAN(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001012c5	CRE(-ROB,-RUB)(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001012c5	CRE(-ROB,-RUB)(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001012c6	CRE(-RUB)(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001012c6	CRE(-RUB)(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101512	CRE(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101512	CRE(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101438	CRE(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101438	CRE(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011d3	CX on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101400	EB on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011d5	EBr1 on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011d7	EBr2r4 on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011d8	EBr3am on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011d9	EBr3d on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011d6	EBr3pw on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011da	EBr5 on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011db	EBr6 on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00102287	EPA(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00102287	EPA(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101451	EPA(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101451	EPA(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101398	FB on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001012c7	FB-column3 on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011dc	FBl1 on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011dd	FBl2 on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011de	FBl3 on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011df	FBl4 on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011dg	FBl5 on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011dh	FBl6 on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011di	FBl7 on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011dj	FBl8 on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011dk	FBl9 on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101458	FLA(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101458	FLA(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101486	GA(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101486	GA(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101478	GC on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101488	GF(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101488	GF(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101468	GNG on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101528	GOR(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101528	GOR(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101453	GOR(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101453	GOR(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101443	IB on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101530	ICL(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101530	ICL(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101442	ICL(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101442	ICL(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011dq	INP on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101455	IPS(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101455	IPS(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101384	JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001012c3	LAL(-GA)(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001012c3	LAL(-GA)(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101526	LAL(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101526	LAL(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101403	LAL(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101403	LAL(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101434	LH(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101434	LH(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101387	LO(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101387	LO(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101388	LOP(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101388	LOP(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011ds	LX(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011ds	LX(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011dt	LX(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011dt	LX(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011du	MB(+ACA)(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011du	MB(+ACA)(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011dv	MB(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011dv	MB(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011dw	MB(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011dw	MB(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101385	ME(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101385	ME(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011aq	NO on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011ar	NO(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011ar	NO(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011as	NO(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011as	NO(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101550	NO1(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101550	NO1(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101543	NO1(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101543	NO1(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101553	NO2(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101553	NO2(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101546	NO2(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101546	NO2(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101554	NO3(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101554	NO3(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101548	NO3(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101548	NO3(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011dx	OL(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011dx	OL(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101401	PB on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101498	PB(L1) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101498	PB(L1) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101499	PB(L2) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101499	PB(L2) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101500	PB(L3) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101500	PB(L3) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101501	PB(L4) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101501	PB(L4) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101502	PB(L5) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101502	PB(L5) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101503	PB(L6) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101503	PB(L6) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101504	PB(L7) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101504	PB(L7) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101505	PB(L8) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101505	PB(L8) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101506	PB(L9) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101506	PB(L9) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101489	PB(R1) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101489	PB(R1) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101490	PB(R2) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101490	PB(R2) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101491	PB(R3) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101491	PB(R3) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101492	PB(R4) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101492	PB(R4) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101493	PB(R5) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101493	PB(R5) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101494	PB(R6) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101494	PB(R6) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101495	PB(R7) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101495	PB(R7) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101496	PB(R8) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101496	PB(R8) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101497	PB(R9) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101497	PB(R9) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101390	PED(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101390	PED(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011dy	PENP on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101417	PLP(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101417	PLP(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101485	POC on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101460	PRW on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101416	PVLP(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101416	PVLP(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101439	ROB(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101439	ROB(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101515	RUB(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101515	RUB(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101440	RUB(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101440	RUB(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101456	SAD on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001012c4	SAD(-AMMC) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101529	SCL(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101529	SCL(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101441	SCL(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101441	SCL(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101508	SIP(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101508	SIP(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101436	SIP(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101436	SIP(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101435	SLP(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101435	SLP(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101507	SMP(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101507	SMP(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101437	SMP(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101437	SMP(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011dz	SNP(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011dz	SNP(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011e0	SNP(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011e0	SNP(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101532	SPS(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101532	SPS(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101454	SPS(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101454	SPS(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101535	VES(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101535	VES(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101450	VES(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101450	VES(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011e2	VLNP(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011e2	VLNP(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011e3	VMNP on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101419	WED(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101419	WED(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011al	a'1(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011al	a'1(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011am	a'2(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011am	a'2(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011ap	a'3(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011ap	a'3(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011at	a1(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011at	a1(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011au	a2(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011au	a2(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011av	a3(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011av	a3(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101513	aL(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101513	aL(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101391	aL(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101391	aL(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101514	a\'L(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101514	a\'L(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101393	a\'L(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101393	a\'L(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011an	b'1(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011an	b'1(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011ao	b'2(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011ao	b'2(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011d1	b1(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011d1	b1(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011d2	b2(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011d2	b2(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101510	bL(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101510	bL(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101395	bL(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101395	bL(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101511	b\'L(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101511	b\'L(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101396	b\'L(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101396	b\'L(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011d4	dACA(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011d4	dACA(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011dl	g1(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011dl	g1(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011dm	g2(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011dm	g2(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011dn	g3(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011dn	g3(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011do	g4(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011do	g4(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011dp	g5(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011dp	g5(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101509	gL(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101509	gL(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101397	gL(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101397	gL(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011dr	lACA(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011dr	lACA(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101538	mALT(L) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101538	mALT(L) on JRC_FlyEM_Hemibrain	left side of organism	part_of	FlyBase:FBrf0246888	
+VFB_00101477	mALT(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_00101477	mALT(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
+VFB_001011e1	vACA(R) on JRC_FlyEM_Hemibrain	female organism	part_of	FlyBase:FBrf0246888	
+VFB_001011e1	vACA(R) on JRC_FlyEM_Hemibrain	right side of organism	part_of	FlyBase:FBrf0246888	
