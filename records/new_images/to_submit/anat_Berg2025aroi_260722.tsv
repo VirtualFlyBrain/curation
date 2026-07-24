@@ -1,4 +1,4 @@
-filename	synonyms	is_a	part_of	label	template
+filename	synonyms	is_a	part_of	label	Template
 AB(L)	AB(L)	asymmetrical body	male organism|adult brain|left side of organism	AB(L) on JRC2018Unisex	JRC2018Unisex_c
 AB(R)	AB(R)	asymmetrical body	male organism|adult brain|right side of organism	AB(R) on JRC2018Unisex	JRC2018Unisex_c
 ADMN(L)	ADMN(L)	adult anterior dorsal mesothoracic nerve	male organism|adult ventral nerve cord|left side of organism	ADMN(L) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
