@@ -6,10 +6,10 @@ optic	optic	adult optic lobe	female organism|adult brain	optic on JRC2018Unisex	
 vnc_neuropil	vnc_neuropil	adult ventral nerve cord	female organism|adult ventral nerve cord	vnc_neuropil on JRC2018UnisexVNC	JRC2018UnisexVNC_c
 ABDNM	ABDNM	adult abdominal neuromere	female organism|adult ventral nerve cord	ABDNM on JRC2018UnisexVNC	JRC2018UnisexVNC_c
 AMNP	AMNP	adult accessory mesothoracic neuropil	female organism|adult ventral nerve cord	AMNP on JRC2018UnisexVNC	JRC2018UnisexVNC_c
-DLT_L	DLT_L	dorsal lateral tract of dorsal cervical fasciculus	female organism|adult ventral nerve cord|left side of organism	DLT_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
-DLT_R	DLT_R	dorsal lateral tract of dorsal cervical fasciculus	female organism|adult ventral nerve cord|right side of organism	DLT_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
-DLV_L	DLV_L	dorsal lateral tract of ventral cervical fasciculus	female organism|adult ventral nerve cord|left side of organism	DLV_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
-DLV_R	DLV_R	dorsal lateral tract of ventral cervical fasciculus	female organism|adult ventral nerve cord|right side of organism	DLV_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+DLT_L (COURT)	DLT_L	dorsal lateral tract of dorsal cervical fasciculus	female organism|adult ventral nerve cord|left side of organism	DLT_L (COURT) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+DLT_R (COURT)	DLT_R	dorsal lateral tract of dorsal cervical fasciculus	female organism|adult ventral nerve cord|right side of organism	DLT_R (COURT) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+DLV_L (COURT)	DLV_L	dorsal lateral tract of ventral cervical fasciculus	female organism|adult ventral nerve cord|left side of organism	DLV_L (COURT) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+DLV_R (COURT)	DLV_R	dorsal lateral tract of ventral cervical fasciculus	female organism|adult ventral nerve cord|right side of organism	DLV_R (COURT) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
 DMT	DMT	adult dorsal median tract	female organism|adult ventral nerve cord	DMT on JRC2018UnisexVNC	JRC2018UnisexVNC_c
 HTct	HTct	haltere neuropil	female organism|adult ventral nerve cord	HTct on JRC2018UnisexVNC	JRC2018UnisexVNC_c
 ITD-CFF_L	ITD-CFF_L	commissure of fine fibers of the ITD	female organism|adult ventral nerve cord|left side of organism	ITD-CFF_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
@@ -18,17 +18,17 @@ ITD-HC_L	ITD-HC_L	intermediate tract of dorsal cervical fasciculus - haltere com
 ITD-HC_R	ITD-HC_R	intermediate tract of dorsal cervical fasciculus - haltere commissure	female organism|adult ventral nerve cord|right side of organism	ITD-HC_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
 ITD-HT_L	ITD-HT_L	haltere tract	female organism|adult ventral nerve cord|left side of organism	ITD-HT_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
 ITD-HT_R	ITD-HT_R	haltere tract	female organism|adult ventral nerve cord|right side of organism	ITD-HT_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
-ITD_L	ITD_L	intermediate tract of dorsal cervical fasciculus	female organism|adult ventral nerve cord|left side of organism	ITD_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
-ITD_R	ITD_R	intermediate tract of dorsal cervical fasciculus	female organism|adult ventral nerve cord|right side of organism	ITD_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
-IntTct	IntTct	intermediate tectulum	female organism|adult ventral nerve cord	IntTct on JRC2018UnisexVNC	JRC2018UnisexVNC_c
-LTct	LTct	lower tectulum	female organism|adult ventral nerve cord	LTct on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+ITD_L (COURT)	ITD_L	intermediate tract of dorsal cervical fasciculus	female organism|adult ventral nerve cord|left side of organism	ITD_L (COURT) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+ITD_R (COURT)	ITD_R	intermediate tract of dorsal cervical fasciculus	female organism|adult ventral nerve cord|right side of organism	ITD_R (COURT) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+IntTct (COURT)	IntTct	intermediate tectulum	female organism|adult ventral nerve cord	IntTct (COURT) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+LTct (COURT)	LTct	lower tectulum	female organism|adult ventral nerve cord	LTct (COURT) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
 MDT	MDT	median dorsal abdominal tract	female organism|adult ventral nerve cord	MDT on JRC2018UnisexVNC	JRC2018UnisexVNC_c
 MesoNM-T2	MesoNM-T2	adult mesothoracic neuromere	female organism|adult ventral nerve cord	MesoNM-T2 on JRC2018UnisexVNC	JRC2018UnisexVNC_c
 MetaNM-T3	MetaNM-T3	adult metathoracic neuromere	female organism|adult ventral nerve cord	MetaNM-T3 on JRC2018UnisexVNC	JRC2018UnisexVNC_c
 NTct	NTct	neck neuropil	female organism|adult ventral nerve cord	NTct on JRC2018UnisexVNC	JRC2018UnisexVNC_c
 ProNM-T1	ProNM-T1	adult prothoracic neuromere	female organism|adult ventral nerve cord	ProNM-T1 on JRC2018UnisexVNC	JRC2018UnisexVNC_c
-VLT_L	VLT_L	ventral lateral tract of ventral cervical fasciculus	female organism|adult ventral nerve cord|left side of organism	VLT_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
-VLT_R	VLT_R	ventral lateral tract of ventral cervical fasciculus	female organism|adult ventral nerve cord|right side of organism	VLT_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+VLT_L (COURT)	VLT_L	ventral lateral tract of ventral cervical fasciculus	female organism|adult ventral nerve cord|left side of organism	VLT_L (COURT) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+VLT_R (COURT)	VLT_R	ventral lateral tract of ventral cervical fasciculus	female organism|adult ventral nerve cord|right side of organism	VLT_R (COURT) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
 VTV	VTV	ventral median tract of ventral cervical fasciculus	female organism|adult ventral nerve cord	VTV on JRC2018UnisexVNC	JRC2018UnisexVNC_c
 WTct	WTct	wing neuropil	female organism|adult ventral nerve cord	WTct on JRC2018UnisexVNC	JRC2018UnisexVNC_c
 mVAC	mVAC	medial ventral association center	female organism|adult ventral nerve cord	mVAC on JRC2018UnisexVNC	JRC2018UnisexVNC_c
@@ -144,18 +144,18 @@ VProN(L)	VProN(L)	adult ventral prothoracic nerve	female organism|adult ventral 
 VProN(R)	VProN(R)	adult ventral prothoracic nerve	female organism|adult ventral nerve cord|right side of organism	VProN(R) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
 CVL_L	CVL_L	adult curved ventrolateral tract	female organism|adult ventral nerve cord|left side of organism	CVL_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
 CVL_R	CVL_R	adult curved ventrolateral tract	female organism|adult ventral nerve cord|right side of organism	CVL_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
-DLT_L	DLT_L	dorsal lateral tract of dorsal cervical fasciculus	female organism|adult ventral nerve cord|left side of organism	DLT_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
-DLT_R	DLT_R	dorsal lateral tract of dorsal cervical fasciculus	female organism|adult ventral nerve cord|right side of organism	DLT_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
-DLV_L	DLV_L	dorsal lateral tract of ventral cervical fasciculus	female organism|adult ventral nerve cord|left side of organism	DLV_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
-DLV_R	DLV_R	dorsal lateral tract of ventral cervical fasciculus	female organism|adult ventral nerve cord|right side of organism	DLV_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+DLT_L (MANC)	DLT_L	dorsal lateral tract of dorsal cervical fasciculus	female organism|adult ventral nerve cord|left side of organism	DLT_L (MANC) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+DLT_R (MANC)	DLT_R	dorsal lateral tract of dorsal cervical fasciculus	female organism|adult ventral nerve cord|right side of organism	DLT_R (MANC) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+DLV_L (MANC)	DLV_L	dorsal lateral tract of ventral cervical fasciculus	female organism|adult ventral nerve cord|left side of organism	DLV_L (MANC) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+DLV_R (MANC)	DLV_R	dorsal lateral tract of ventral cervical fasciculus	female organism|adult ventral nerve cord|right side of organism	DLV_R (MANC) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
 DMT_L	DMT_L	adult dorsal median tract	female organism|adult ventral nerve cord|left side of organism	DMT_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
 DMT_R	DMT_R	adult dorsal median tract	female organism|adult ventral nerve cord|right side of organism	DMT_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
-ITD_L	ITD_L	intermediate tract of dorsal cervical fasciculus	female organism|adult ventral nerve cord|left side of organism	ITD_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
-ITD_R	ITD_R	intermediate tract of dorsal cervical fasciculus	female organism|adult ventral nerve cord|right side of organism	ITD_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+ITD_L (MANC)	ITD_L	intermediate tract of dorsal cervical fasciculus	female organism|adult ventral nerve cord|left side of organism	ITD_L (MANC) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+ITD_R (MANC)	ITD_R	intermediate tract of dorsal cervical fasciculus	female organism|adult ventral nerve cord|right side of organism	ITD_R (MANC) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
 MDA_L	MDA_L	median dorsal abdominal tract	female organism|adult ventral nerve cord|left side of organism	MDA_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
 MDA_R	MDA_R	median dorsal abdominal tract	female organism|adult ventral nerve cord|right side of organism	MDA_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
-VLT_L	VLT_L	ventral lateral tract of ventral cervical fasciculus	female organism|adult ventral nerve cord|left side of organism	VLT_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
-VLT_R	VLT_R	ventral lateral tract of ventral cervical fasciculus	female organism|adult ventral nerve cord|right side of organism	VLT_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+VLT_L (MANC)	VLT_L	ventral lateral tract of ventral cervical fasciculus	female organism|adult ventral nerve cord|left side of organism	VLT_L (MANC) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+VLT_R (MANC)	VLT_R	ventral lateral tract of ventral cervical fasciculus	female organism|adult ventral nerve cord|right side of organism	VLT_R (MANC) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
 VTV_L	VTV_L	ventral median tract of ventral cervical fasciculus	female organism|adult ventral nerve cord|left side of organism	VTV_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
 VTV_R	VTV_R	ventral median tract of ventral cervical fasciculus	female organism|adult ventral nerve cord|right side of organism	VTV_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
 type-III_MTD_L	type-III_MTD_L	adult median tract of dorsal cervical fasciculus III	female organism|adult ventral nerve cord|left side of organism	type-III_MTD_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
@@ -169,14 +169,14 @@ AMNp_R	AMNp_R	adult accessory mesothoracic neuropil	female organism|adult ventra
 ANm	ANm	adult abdominal neuromere	female organism|adult ventral nerve cord	ANm on JRC2018UnisexVNC	JRC2018UnisexVNC_c
 HTct_UTct_T3_L	HTct_UTct_T3_L	haltere neuropil	female organism|adult ventral nerve cord|left side of organism	HTct_UTct_T3_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
 HTct_UTct_T3_R	HTct_UTct_T3_R	haltere neuropil	female organism|adult ventral nerve cord|right side of organism	HTct_UTct_T3_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
-IntTct	IntTct	intermediate tectulum	female organism|adult ventral nerve cord	IntTct on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+IntTct (MANC)	IntTct	intermediate tectulum	female organism|adult ventral nerve cord	IntTct (MANC) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
 LNp_T1_L	LNp_T1_L	adult T1 leg neuropil	female organism|adult ventral nerve cord|left side of organism	LNp_T1_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
 LNp_T1_R	LNp_T1_R	adult T1 leg neuropil	female organism|adult ventral nerve cord|right side of organism	LNp_T1_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
 LNp_T2_L	LNp_T2_L	adult T2 leg neuropil	female organism|adult ventral nerve cord|left side of organism	LNp_T2_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
 LNp_T2_R	LNp_T2_R	adult T2 leg neuropil	female organism|adult ventral nerve cord|right side of organism	LNp_T2_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
 LNp_T3_L	LNp_T3_L	adult T3 leg neuropil	female organism|adult ventral nerve cord|left side of organism	LNp_T3_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
 LNp_T3_R	LNp_T3_R	adult T3 leg neuropil	female organism|adult ventral nerve cord|right side of organism	LNp_T3_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
-LTct	LTct	lower tectulum	female organism|adult ventral nerve cord	LTct on JRC2018UnisexVNC	JRC2018UnisexVNC_c
+LTct (MANC)	LTct	lower tectulum	female organism|adult ventral nerve cord	LTct (MANC) on JRC2018UnisexVNC	JRC2018UnisexVNC_c
 NTct_UTct_T1_L	NTct_UTct_T1_L	neck neuropil	female organism|adult ventral nerve cord|left side of organism	NTct_UTct_T1_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
 NTct_UTct_T1_R	NTct_UTct_T1_R	neck neuropil	female organism|adult ventral nerve cord|right side of organism	NTct_UTct_T1_R on JRC2018UnisexVNC	JRC2018UnisexVNC_c
 WTct_UTct_T2_L	WTct_UTct_T2_L	wing neuropil	female organism|adult ventral nerve cord|left side of organism	WTct_UTct_T2_L on JRC2018UnisexVNC	JRC2018UnisexVNC_c
