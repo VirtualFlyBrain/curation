@@ -2,6 +2,22 @@ from .peevish import get_recs
 from .curation_writer import NewImageWriter, NewMetaDataWriter
 import warnings
 
+
+def report_row_failures(record_path, failures, max_shown=25):
+    """Report rows that failed validation and were skipped.
+
+    Skipped rows do not abort loading of the rest of the file; this surfaces
+    them (and their reasons) so they can be fixed and resubmitted.
+    """
+    n = len(failures)
+    print("WARNING: %d row(s) in %s failed validation and were skipped; "
+          "remaining valid rows are still loaded." % (n, record_path))
+    for f in failures[:max_shown]:
+        print("  - [%s] %s :: %s" % (f['context_name'], f['message'], f['context']))
+    if n > max_shown:
+        print("  ... and %d more (see log for full detail)." % (n - max_shown))
+
+
 def load_recs(path_to_specs, path_to_recs, endpoint, usr, pwd, commit=False, verbose=False, import_filepath='', allow_duplicates=False):
     records = [r for r in get_recs(path_to_recs=path_to_recs, spec_path=path_to_specs)]
     if False in records:
@@ -55,9 +71,13 @@ def load_recs(path_to_specs, path_to_recs, endpoint, usr, pwd, commit=False, ver
             if verbose:
                 print(f"Writing metadata rows for {r.cr.path}")
             nmw.write_rows(verbose=verbose, allow_duplicates=allow_duplicates)
-            if not nmw.stat:
+            # Row-level validation failures must NOT abort the whole file.
+            # Invalid rows are skipped (never buffered) during write_rows; the
+            # remaining valid rows are still committed below. We report the
+            # skipped rows and mark the overall run as not clean.
+            if nmw.failures:
                 stat = False
-                continue
+                report_row_failures(r.cr.path, nmw.failures)
             if commit:
                 if verbose:
                     print(f"Committing changes for {r.cr.path}")
