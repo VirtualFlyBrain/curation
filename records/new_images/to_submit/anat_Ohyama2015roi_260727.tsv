@@ -1,0 +1,28 @@
+filename	synonyms	is_a	part_of	label
+cns	cns	larval central nervous system	female organism	Whole L1 CNS envelope on L1 larval CNS ssTEM - Cardona/Janelia
+Brain Hemisphere left	Brain Hemisphere left	larval brain	female organism|left side of organism	Larval brain (left) on L1 larval CNS ssTEM - Cardona/Janelia
+Brain Hemisphere right	Brain Hemisphere right	larval brain	female organism|right side of organism	Larval brain (right) on L1 larval CNS ssTEM - Cardona/Janelia
+SEZ_left	SEZ_left	larval gnathal ganglion	female organism|left side of organism	Larval subesophageal zone (left) on L1 larval CNS ssTEM - Cardona/Janelia
+SEZ_right	SEZ_right	larval gnathal ganglion	female organism|right side of organism	Larval subesophageal zone (right) on L1 larval CNS ssTEM - Cardona/Janelia
+T1_left	T1_left	larval prothoracic neuromere	female organism|left side of organism	Prothoracic neuromere T1 (left) on L1 larval CNS ssTEM - Cardona/Janelia
+T1_right	T1_right	larval prothoracic neuromere	female organism|right side of organism	Prothoracic neuromere T1 (right) on L1 larval CNS ssTEM - Cardona/Janelia
+T2_left	T2_left	larval mesothoracic neuromere	female organism|left side of organism	Mesothoracic neuromere T2 (left) on L1 larval CNS ssTEM - Cardona/Janelia
+T2_right	T2_right	larval mesothoracic neuromere	female organism|right side of organism	Mesothoracic neuromere T2 (right) on L1 larval CNS ssTEM - Cardona/Janelia
+T3_left	T3_left	larval metathoracic neuromere	female organism|left side of organism	Metathoracic neuromere T3 (left) on L1 larval CNS ssTEM - Cardona/Janelia
+T3_right	T3_right	larval metathoracic neuromere	female organism|right side of organism	Metathoracic neuromere T3 (right) on L1 larval CNS ssTEM - Cardona/Janelia
+A1_left	A1_left	larval abdominal 1 neuromere	female organism|left side of organism	Abdominal neuromere A1 (left) on L1 larval CNS ssTEM - Cardona/Janelia
+A1_right	A1_right	larval abdominal 1 neuromere	female organism|right side of organism	Abdominal neuromere A1 (right) on L1 larval CNS ssTEM - Cardona/Janelia
+A2_left	A2_left	larval abdominal 2 neuromere	female organism|left side of organism	Abdominal neuromere A2 (left) on L1 larval CNS ssTEM - Cardona/Janelia
+A2_right	A2_right	larval abdominal 2 neuromere	female organism|right side of organism	Abdominal neuromere A2 (right) on L1 larval CNS ssTEM - Cardona/Janelia
+A3_left	A3_left	larval abdominal 3 neuromere	female organism|left side of organism	Abdominal neuromere A3 (left) on L1 larval CNS ssTEM - Cardona/Janelia
+A3_right	A3_right	larval abdominal 3 neuromere	female organism|right side of organism	Abdominal neuromere A3 (right) on L1 larval CNS ssTEM - Cardona/Janelia
+A4_left	A4_left	larval abdominal 4 neuromere	female organism|left side of organism	Abdominal neuromere A4 (left) on L1 larval CNS ssTEM - Cardona/Janelia
+A4_right	A4_right	larval abdominal 4 neuromere	female organism|right side of organism	Abdominal neuromere A4 (right) on L1 larval CNS ssTEM - Cardona/Janelia
+A5_left	A5_left	larval abdominal 5 neuromere	female organism|left side of organism	Abdominal neuromere A5 (left) on L1 larval CNS ssTEM - Cardona/Janelia
+A5_right	A5_right	larval abdominal 5 neuromere	female organism|right side of organism	Abdominal neuromere A5 (right) on L1 larval CNS ssTEM - Cardona/Janelia
+A6_left	A6_left	larval abdominal 6 neuromere	female organism|left side of organism	Abdominal neuromere A6 (left) on L1 larval CNS ssTEM - Cardona/Janelia
+A6_right	A6_right	larval abdominal 6 neuromere	female organism|right side of organism	Abdominal neuromere A6 (right) on L1 larval CNS ssTEM - Cardona/Janelia
+A7_left	A7_left	larval abdominal 7 neuromere	female organism|left side of organism	Abdominal neuromere A7 (left) on L1 larval CNS ssTEM - Cardona/Janelia
+A7_right	A7_right	larval abdominal 7 neuromere	female organism|right side of organism	Abdominal neuromere A7 (right) on L1 larval CNS ssTEM - Cardona/Janelia
+A8_left	A8_left	larval abdominal 8 neuromere	female organism|left side of organism	Abdominal neuromere A8 (left) on L1 larval CNS ssTEM - Cardona/Janelia
+A8_right	A8_right	larval abdominal 8 neuromere	female organism|right side of organism	Abdominal neuromere A8 (right) on L1 larval CNS ssTEM - Cardona/Janelia
