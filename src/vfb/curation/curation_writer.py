@@ -88,6 +88,9 @@ class CurationWriter:
         self.pub_mover = pubMover(endpoint, usr, pwd)
         self.ew = self.feature_mover.ew
         self.record = record
+        # Collected validation failures (row- or record-level) so that skipped
+        # rows can be reported without aborting the rest of the file.
+        self.failures = []
         self.object_lookup = self.generate_object_lookups()
         self.relation_lookup = self.generate_relation_lookup()
         self.stat = True
@@ -97,6 +100,9 @@ class CurationWriter:
         logging.warning("Error in record %s, %s\n %s\n:"
                         "" % (self.record.cr.name, context_name,
                               str(context)) + message)
+        self.failures.append({'context_name': context_name,
+                              'context': context,
+                              'message': message})
         if not stat:
             self.stat = False
 
