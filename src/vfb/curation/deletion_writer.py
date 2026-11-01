@@ -11,7 +11,7 @@ class NewMetaDeletionWriter:
         self.nc = neo4j_connect(endpoint, usr, pwd)
         self.record = record
         self.rows = record.tsv.to_dict('records')
-        self.relations = record.rel_spec.keys()
+        self.relations = record.rel_spec
         self.stat = True
         self.failures = []
         self.to_delete = []  # row indexes whose edge exists

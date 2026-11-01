@@ -23,7 +23,7 @@ parser.add_argument("--relations", default=os.path.join(here, "../records/new_me
 args = parser.parse_args()
 
 with open(args.relations) as f:
-    relations = ruamel_yaml.safe_load(f).keys()
+    relations = ruamel_yaml.safe_load(f)
 
 failed = False
 for path in args.tsv:
