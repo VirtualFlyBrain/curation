@@ -1,0 +1,3 @@
+Individual_id	subject_name	relation	remove	remove_label	superseded_by
+VFB_jrmc2zmq	EN00B008_M (MaleCNS:816918)	is_a	FBbt_00052753	adult mesothoracic VUM neuron 2	adult VNC ventral unpaired median neuron
+VFB_jrmc2zmq	EN00B008_M (MaleCNS:816918)	has_soma_location	FBbt_00110175	adult mesothoracic neuromere	

@@ -107,6 +107,9 @@ stat = True
 
 if not check_records(path="new_metadata/"): stat = False
 if not load_records(path="new_metadata/"): stat = False
+# deletions after new_metadata, so replacement assertions are loaded first
+if not check_records(path="newmeta_deletions/"): stat = False
+if not load_records(path="newmeta_deletions/"): stat = False
 if not check_records(path="new_images/"): stat = False
 if not load_records(path="new_images/"): stat = False
 if not check_records(path="new_splits/"): stat = False
