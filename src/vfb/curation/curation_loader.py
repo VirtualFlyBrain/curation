@@ -1,5 +1,6 @@
 from .peevish import get_recs
 from .curation_writer import NewImageWriter, NewMetaDataWriter
+from .deletion_writer import NewMetaDeletionWriter
 import warnings
 
 
@@ -83,6 +84,21 @@ def load_recs(path_to_specs, path_to_recs, endpoint, usr, pwd, commit=False, ver
                     print(f"Committing changes for {r.cr.path}")
                 nmw.commit(verbose=verbose)
             if not nmw.stat:
+                stat = False
+
+        elif r.gross_type == 'newmeta_deletions':
+            ndw = NewMetaDeletionWriter(endpoint, usr, pwd, r)
+            ndw.check(allow_duplicates=allow_duplicates, verbose=verbose)
+            # As for newmeta, failing rows are skipped and reported; the rest
+            # are still deleted on commit.
+            if ndw.failures:
+                stat = False
+                report_row_failures(r.cr.path, ndw.failures)
+            if commit:
+                if verbose:
+                    print(f"Deleting edges for {r.cr.path}")
+                ndw.commit(verbose=verbose)
+            if not ndw.stat:
                 stat = False
 
         elif r.gross_type == 'new_dataset':
