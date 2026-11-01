@@ -1,0 +1,36 @@
+Individual_id	subject_name	relation	remove	remove_label	superseded_by
+VFB_jrcv08i6	TBD (MANC:11022)	is_a	FBbt_00049571	metathoracic leg muscle motor neuron	metathoracic sternal anterior rotator muscle motor neuron|primary neuron
+VFB_jrcv08ma	EN00B001_T3_M (MANC:11170)	is_a	FBbt_00052753	adult mesothoracic VUM neuron 2	Notch OFF hemilineage neuron|adult VNC ventral unpaired median neuron|primary neuron
+VFB_jrcv08sh	EN00B001_T2_M (MANC:11393)	is_a	FBbt_00052753	adult mesothoracic VUM neuron 2	Notch OFF hemilineage neuron|adult VNC ventral unpaired median neuron|primary neuron
+VFB_jrcv08so	TBD (MANC:11400)	is_a	FBbt_00049571	metathoracic leg muscle motor neuron	Notch OFF hemilineage neuron|metathoracic sternal posterior rotator muscle motor neuron|primary neuron
+VFB_jrcv08w9	TBD (MANC:11529)	is_a	FBbt_00049570	mesothoracic leg muscle motor neuron	Notch OFF hemilineage neuron|mesothoracic sternal posterior rotator muscle motor neuron|secondary neuron
+VFB_jrcv08x6	TBD (MANC:11562)	is_a	FBbt_00049571	metathoracic leg muscle motor neuron	metathoracic sternal anterior rotator muscle motor neuron|primary neuron
+VFB_jrcv090b	EN00B001_T1_M (MANC:11675)	is_a	FBbt_00052753	adult mesothoracic VUM neuron 2	Notch OFF hemilineage neuron|adult VNC ventral unpaired median neuron|primary neuron
+VFB_jrcv0ant	TBD (MANC:13817)	is_a	FBbt_00049570	mesothoracic leg muscle motor neuron	mesothoracic sternal adductor muscle motor neuron|secondary neuron
+VFB_jrcv0b5d	TBD (MANC:14449)	is_a	FBbt_00049571	metathoracic leg muscle motor neuron	Notch OFF hemilineage neuron|metathoracic sternal posterior rotator muscle motor neuron|primary neuron
+VFB_jrcv0bse	TBD (MANC:15278)	is_a	FBbt_00049571	metathoracic leg muscle motor neuron	Notch OFF hemilineage neuron|metathoracic sternal posterior rotator muscle motor neuron|primary neuron
+VFB_jrcv0c97	TBD (MANC:15883)	is_a	FBbt_00049570	mesothoracic leg muscle motor neuron	Notch OFF hemilineage neuron|mesothoracic sternal posterior rotator muscle motor neuron|primary neuron
+VFB_jrcv0cdf	TBD (MANC:16035)	is_a	FBbt_00049570	mesothoracic leg muscle motor neuron	Notch OFF hemilineage neuron|mesothoracic sternal posterior rotator muscle motor neuron|primary neuron
+VFB_jrcv0ckn	TBD (MANC:16295)	is_a	FBbt_00049570	mesothoracic leg muscle motor neuron	mesothoracic sternal anterior rotator muscle motor neuron|primary neuron
+VFB_jrcv0duj	TBD (MANC:17947)	is_a	FBbt_00049571	metathoracic leg muscle motor neuron	Notch OFF hemilineage neuron|metathoracic sternal posterior rotator muscle motor neuron|primary neuron
+VFB_jrcv0e93	TBD (MANC:18471)	is_a	FBbt_00049571	metathoracic leg muscle motor neuron	metathoracic sternal anterior rotator muscle motor neuron|primary neuron
+VFB_jrcv0efw	TBD (MANC:18716)	is_a	FBbt_00049570	mesothoracic leg muscle motor neuron	mesothoracic sternotrochanter extensor muscle motor neuron|secondary neuron
+VFB_jrcv0eqe	TBD (MANC:19094)	is_a	FBbt_00049570	mesothoracic leg muscle motor neuron	mesothoracic sternotrochanter extensor muscle motor neuron|primary neuron
+VFB_jrcv0fiv	TBD (MANC:20119)	is_a	FBbt_00049570	mesothoracic leg muscle motor neuron	mesothoracic sternal anterior rotator muscle motor neuron|primary neuron
+VFB_jrcv0fy3	TBD (MANC:20667)	is_a	FBbt_00049571	metathoracic leg muscle motor neuron	metathoracic sternal adductor muscle motor neuron|secondary neuron
+VFB_jrcv0j19	TBD (MANC:24669)	is_a	FBbt_00049570	mesothoracic leg muscle motor neuron	mesothoracic sternal anterior rotator muscle motor neuron|primary neuron
+VFB_jrcv0k5w	TBD (MANC:26132)	is_a	FBbt_00049570	mesothoracic leg muscle motor neuron	mesothoracic sternotrochanter extensor muscle motor neuron|primary neuron
+VFB_jrcv0l16	TBD (MANC:27258)	is_a	FBbt_00049571	metathoracic leg muscle motor neuron	Notch OFF hemilineage neuron|metathoracic sternal posterior rotator muscle motor neuron|secondary neuron
+VFB_jrcv0lrv	TBD (MANC:28219)	is_a	FBbt_00049571	metathoracic leg muscle motor neuron	Notch OFF hemilineage neuron|metathoracic sternal posterior rotator muscle motor neuron|secondary neuron
+VFB_jrcv0mqz	TBD (MANC:29483)	is_a	FBbt_00049571	metathoracic leg muscle motor neuron	metathoracic sternal adductor muscle motor neuron|secondary neuron
+VFB_jrcv12hq	TBD (MANC:49886)	is_a	FBbt_00049570	mesothoracic leg muscle motor neuron	Notch OFF hemilineage neuron|mesothoracic sternal posterior rotator muscle motor neuron|primary neuron
+VFB_jrcv27b6	TBD (MANC:102786)	is_a	FBbt_00049570	mesothoracic leg muscle motor neuron	Notch OFF hemilineage neuron|mesothoracic sternal posterior rotator muscle motor neuron|primary neuron
+VFB_jrcv28s9	TBD (MANC:104697)	is_a	FBbt_00049570	mesothoracic leg muscle motor neuron	Notch OFF hemilineage neuron|mesothoracic sternal posterior rotator muscle motor neuron|secondary neuron
+VFB_jrcv29rl	TBD (MANC:11162403133)	is_a	FBbt_00049571	metathoracic leg muscle motor neuron	Notch OFF hemilineage neuron|metathoracic sternal posterior rotator muscle motor neuron|secondary neuron
+VFB_jrcv3axh	TBD (MANC:154133)	is_a	FBbt_00049571	metathoracic leg muscle motor neuron	Notch OFF hemilineage neuron|metathoracic sternal posterior rotator muscle motor neuron|secondary neuron
+VFB_jrcv3bf5	TBD (MANC:154769)	is_a	FBbt_00049570	mesothoracic leg muscle motor neuron	Notch OFF hemilineage neuron|mesothoracic sternal posterior rotator muscle motor neuron|secondary neuron
+VFB_jrcv3j45	TBD (MANC:164741)	is_a	FBbt_00049571	metathoracic leg muscle motor neuron	metathoracic sternal anterior rotator muscle motor neuron|primary neuron
+VFB_jrcv3ke0	TBD (MANC:166392)	is_a	FBbt_00049570	mesothoracic leg muscle motor neuron	mesothoracic sternotrochanter extensor muscle motor neuron|secondary neuron
+VFB_jrcv3nzj	TBD (MANC:171055)	is_a	FBbt_00049570	mesothoracic leg muscle motor neuron	mesothoracic sternal adductor muscle motor neuron|secondary neuron
+VFB_jrcv3p14	TBD (MANC:172408)	is_a	FBbt_00049570	mesothoracic leg muscle motor neuron	Notch OFF hemilineage neuron|mesothoracic sternal posterior rotator muscle motor neuron|secondary neuron
+VFB_jrcv4plg	TBD (MANC:219796)	is_a	FBbt_00049570	mesothoracic leg muscle motor neuron	mesothoracic sternal anterior rotator muscle motor neuron|primary neuron

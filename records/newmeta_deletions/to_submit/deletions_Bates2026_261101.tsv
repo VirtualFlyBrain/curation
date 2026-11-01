@@ -1,0 +1,3 @@
+Individual_id	subject_name	relation	remove	remove_label	superseded_by
+VFB_00105zn6	BANC_888:720575941483052541	is_a	FBbt_00100136	prothoracic leg taste bristle chemosensory neuron	metathoracic leg taste bristle ascending tarsal chemosensory neuron
+VFB_00105zn6	BANC_888:720575941483052541	is_a	FBbt_00048301	adult ascending neuron	metathoracic leg taste bristle ascending tarsal chemosensory neuron

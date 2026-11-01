@@ -1,0 +1,729 @@
+Individual_id	subject_name	relation	remove	remove_label	superseded_by
+VFB_jrmc2zmq	EN00B008_M (MaleCNS:816918)	is_a	FBbt_00052753	adult mesothoracic VUM neuron 2	Notch OFF hemilineage neuron|adult VNC ventral unpaired median neuron
+VFB_jrmc2zms	EN00B008_M (MaleCNS:813264)	is_a	FBbt_00052753	adult mesothoracic VUM neuron 2	Notch OFF hemilineage neuron|adult VNC ventral unpaired median neuron
+VFB_jrmc2zmr	EN00B008_M (MaleCNS:813201)	is_a	FBbt_00052753	adult mesothoracic VUM neuron 2	Notch OFF hemilineage neuron|adult VNC ventral unpaired median neuron
+VFB_jrmc2znz	FMRFa_Tv_L (MaleCNS:809979)	is_a	FBbt_00004093	adult metathoracic ventral thoracic neurosecretory neuron	adult ventral thoracic neurosecretory neuron
+VFB_jrmc2znz	FMRFa_Tv_L (MaleCNS:809979)	is_a	FBbt_00004058	adult prothoracic ventral thoracic neurosecretory neuron	adult ventral thoracic neurosecretory neuron
+VFB_jrmc2znz	FMRFa_Tv_L (MaleCNS:809979)	is_a	FBbt_00004064	adult mesothoracic ventral thoracic neurosecretory neuron	adult ventral thoracic neurosecretory neuron
+VFB_jrmc2zo1	FMRFa_Tv_R (MaleCNS:812134)	is_a	FBbt_00004058	adult prothoracic ventral thoracic neurosecretory neuron	adult ventral thoracic neurosecretory neuron
+VFB_jrmc2zo1	FMRFa_Tv_R (MaleCNS:812134)	is_a	FBbt_00004064	adult mesothoracic ventral thoracic neurosecretory neuron	adult ventral thoracic neurosecretory neuron
+VFB_jrmc2zo1	FMRFa_Tv_R (MaleCNS:812134)	is_a	FBbt_00004093	adult metathoracic ventral thoracic neurosecretory neuron	adult ventral thoracic neurosecretory neuron
+VFB_jrmc2zo0	FMRFa_Tv_L (MaleCNS:815454)	is_a	FBbt_00004064	adult mesothoracic ventral thoracic neurosecretory neuron	adult ventral thoracic neurosecretory neuron
+VFB_jrmc2zo0	FMRFa_Tv_L (MaleCNS:815454)	is_a	FBbt_00004058	adult prothoracic ventral thoracic neurosecretory neuron	adult ventral thoracic neurosecretory neuron
+VFB_jrmc2zo0	FMRFa_Tv_L (MaleCNS:815454)	is_a	FBbt_00004093	adult metathoracic ventral thoracic neurosecretory neuron	adult ventral thoracic neurosecretory neuron
+VFB_jrmc2zo2	FMRFa_Tv_L (MaleCNS:810586)	is_a	FBbt_00004093	adult metathoracic ventral thoracic neurosecretory neuron	adult ventral thoracic neurosecretory neuron
+VFB_jrmc2zo2	FMRFa_Tv_L (MaleCNS:810586)	is_a	FBbt_00004064	adult mesothoracic ventral thoracic neurosecretory neuron	adult ventral thoracic neurosecretory neuron
+VFB_jrmc2zo2	FMRFa_Tv_L (MaleCNS:810586)	is_a	FBbt_00004058	adult prothoracic ventral thoracic neurosecretory neuron	adult ventral thoracic neurosecretory neuron
+VFB_jrmc0nmy	Ti flexor MN_R (MaleCNS:1050189039)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nmy	Ti flexor MN_R (MaleCNS:1050189039)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nmy	Ti flexor MN_R (MaleCNS:1050189039)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jf3	Acc. ti flexor MN_R (MaleCNS:909713)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jf3	Acc. ti flexor MN_R (MaleCNS:909713)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jf3	Acc. ti flexor MN_R (MaleCNS:909713)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nm8	Tergotr. MN_R (MaleCNS:804866)	is_a	FBbt_00053156	metathoracic tergotrochanter extensor muscle motor neuron	prothoracic tergotrochanter extensor muscle motor neuron
+VFB_jrmc0nm8	Tergotr. MN_R (MaleCNS:804866)	is_a	FBbt_00007406	mesothoracic tergotrochanter muscle motor neuron	prothoracic tergotrochanter extensor muscle motor neuron
+VFB_jrmc06x3	Tr flexor MN_R (MaleCNS:816648)	is_a	FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06x3	Tr flexor MN_R (MaleCNS:816648)	is_a	FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06x3	Tr flexor MN_R (MaleCNS:816648)	is_a	FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc3jf0	Acc. ti flexor MN_R (MaleCNS:817509)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jf0	Acc. ti flexor MN_R (MaleCNS:817509)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jf0	Acc. ti flexor MN_R (MaleCNS:817509)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc2t8t	Fe reductor MN_R (MaleCNS:817595)	is_a	FBbt_00053119	metathoracic femoral reductor muscle motor neuron	femoral reductor muscle motor neuron
+VFB_jrmc2t8t	Fe reductor MN_R (MaleCNS:817595)	is_a	FBbt_00053117	prothoracic femoral reductor muscle motor neuron	femoral reductor muscle motor neuron
+VFB_jrmc2t8t	Fe reductor MN_R (MaleCNS:817595)	is_a	FBbt_00053118	mesothoracic femoral reductor muscle motor neuron	femoral reductor muscle motor neuron
+VFB_jrmc06x4	Tr flexor MN_R (MaleCNS:820668)	is_a	FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06x4	Tr flexor MN_R (MaleCNS:820668)	is_a	FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06x4	Tr flexor MN_R (MaleCNS:820668)	is_a	FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc0nmw	Ti flexor MN_R (MaleCNS:821635)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nmw	Ti flexor MN_R (MaleCNS:821635)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nmw	Ti flexor MN_R (MaleCNS:821635)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jf1	Acc. ti flexor MN_R (MaleCNS:833140)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jf1	Acc. ti flexor MN_R (MaleCNS:833140)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jf1	Acc. ti flexor MN_R (MaleCNS:833140)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jf5	Acc. ti flexor MN_R (MaleCNS:1050091581)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jf5	Acc. ti flexor MN_R (MaleCNS:1050091581)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jf5	Acc. ti flexor MN_R (MaleCNS:1050091581)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jf6	Acc. ti flexor MN_R (MaleCNS:1050268065)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jf6	Acc. ti flexor MN_R (MaleCNS:1050268065)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jf6	Acc. ti flexor MN_R (MaleCNS:1050268065)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jf2	Acc. ti flexor MN_R (MaleCNS:837745)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jf2	Acc. ti flexor MN_R (MaleCNS:837745)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jf2	Acc. ti flexor MN_R (MaleCNS:837745)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jf4	Acc. ti flexor MN_R (MaleCNS:1050005026)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jf4	Acc. ti flexor MN_R (MaleCNS:1050005026)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jf4	Acc. ti flexor MN_R (MaleCNS:1050005026)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nmx	Ti flexor MN_R (MaleCNS:1050031705)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nmx	Ti flexor MN_R (MaleCNS:1050031705)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nmx	Ti flexor MN_R (MaleCNS:1050031705)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc06x5	Tr flexor MN_R (MaleCNS:903010)	is_a	FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06x5	Tr flexor MN_R (MaleCNS:903010)	is_a	FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06x5	Tr flexor MN_R (MaleCNS:903010)	is_a	FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc0nmk	Ti extensor MN_L (MaleCNS:800636)	is_a	FBbt_00053122	mesothoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
+VFB_jrmc0nmk	Ti extensor MN_L (MaleCNS:800636)	is_a	FBbt_00053123	metathoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
+VFB_jrmc0nmk	Ti extensor MN_L (MaleCNS:800636)	is_a	FBbt_00053121	prothoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
+VFB_jrmc0nmz	Ti flexor MN_L (MaleCNS:807165)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nmz	Ti flexor MN_L (MaleCNS:807165)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nmz	Ti flexor MN_L (MaleCNS:807165)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jf7	Acc. ti flexor MN_L (MaleCNS:815246)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jf7	Acc. ti flexor MN_L (MaleCNS:815246)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jf7	Acc. ti flexor MN_L (MaleCNS:815246)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jf8	Acc. ti flexor MN_L (MaleCNS:816215)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jf8	Acc. ti flexor MN_L (MaleCNS:816215)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jf8	Acc. ti flexor MN_L (MaleCNS:816215)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jf9	Acc. ti flexor MN_L (MaleCNS:816404)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jf9	Acc. ti flexor MN_L (MaleCNS:816404)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jf9	Acc. ti flexor MN_L (MaleCNS:816404)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfa	Acc. ti flexor MN_L (MaleCNS:817283)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfa	Acc. ti flexor MN_L (MaleCNS:817283)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfa	Acc. ti flexor MN_L (MaleCNS:817283)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfb	Acc. ti flexor MN_L (MaleCNS:819869)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfb	Acc. ti flexor MN_L (MaleCNS:819869)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfb	Acc. ti flexor MN_L (MaleCNS:819869)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfc	Acc. ti flexor MN_L (MaleCNS:825516)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfc	Acc. ti flexor MN_L (MaleCNS:825516)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfc	Acc. ti flexor MN_L (MaleCNS:825516)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfd	Acc. ti flexor MN_L (MaleCNS:867630)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfd	Acc. ti flexor MN_L (MaleCNS:867630)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfd	Acc. ti flexor MN_L (MaleCNS:867630)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfe	Acc. ti flexor MN_L (MaleCNS:903298)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfe	Acc. ti flexor MN_L (MaleCNS:903298)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfe	Acc. ti flexor MN_L (MaleCNS:903298)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nn0	Ti flexor MN_L (MaleCNS:909831)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nn0	Ti flexor MN_L (MaleCNS:909831)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nn0	Ti flexor MN_L (MaleCNS:909831)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jgb	Acc. tr flexor MN_L (MaleCNS:911134)	is_a	FBbt_00053114	prothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgb	Acc. tr flexor MN_L (MaleCNS:911134)	is_a	FBbt_00053116	metathoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgb	Acc. tr flexor MN_L (MaleCNS:911134)	is_a	FBbt_00053115	mesothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jff	Acc. ti flexor MN_L (MaleCNS:1050115387)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jff	Acc. ti flexor MN_L (MaleCNS:1050115387)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jff	Acc. ti flexor MN_L (MaleCNS:1050115387)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc06x6	Tr flexor MN_L (MaleCNS:1051367796)	is_a	FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06x6	Tr flexor MN_L (MaleCNS:1051367796)	is_a	FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06x6	Tr flexor MN_L (MaleCNS:1051367796)	is_a	FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc3jgc	Acc. tr flexor MN_L (MaleCNS:1051236875)	is_a	FBbt_00053116	metathoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgc	Acc. tr flexor MN_L (MaleCNS:1051236875)	is_a	FBbt_00053115	mesothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgc	Acc. tr flexor MN_L (MaleCNS:1051236875)	is_a	FBbt_00053114	prothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jge	Acc. tr flexor MN_L (MaleCNS:1050730563)	is_a	FBbt_00053116	metathoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jge	Acc. tr flexor MN_L (MaleCNS:1050730563)	is_a	FBbt_00053115	mesothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jge	Acc. tr flexor MN_L (MaleCNS:1050730563)	is_a	FBbt_00053114	prothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc0nn5	Ti flexor MN_L (MaleCNS:1050088257)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nn5	Ti flexor MN_L (MaleCNS:1050088257)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nn5	Ti flexor MN_L (MaleCNS:1050088257)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nn3	Ti flexor MN_L (MaleCNS:908762)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nn3	Ti flexor MN_L (MaleCNS:908762)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nn3	Ti flexor MN_L (MaleCNS:908762)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nn4	Ti flexor MN_L (MaleCNS:929376)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nn4	Ti flexor MN_L (MaleCNS:929376)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nn4	Ti flexor MN_L (MaleCNS:929376)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfi	Acc. ti flexor MN_L (MaleCNS:934519)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfi	Acc. ti flexor MN_L (MaleCNS:934519)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfi	Acc. ti flexor MN_L (MaleCNS:934519)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfj	Acc. ti flexor MN_L (MaleCNS:1050003192)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfj	Acc. ti flexor MN_L (MaleCNS:1050003192)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfj	Acc. ti flexor MN_L (MaleCNS:1050003192)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nn1	Ti flexor MN_L (MaleCNS:803147)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nn1	Ti flexor MN_L (MaleCNS:803147)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nn1	Ti flexor MN_L (MaleCNS:803147)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc1a7a	Sternal posterior rotator MN_L (MaleCNS:818399)	is_a	FBbt_00053103	prothoracic sternal posterior rotator muscle motor neuron	Notch OFF hemilineage neuron|metathoracic sternal posterior rotator muscle motor neuron
+VFB_jrmc0nn2	Ti flexor MN_L (MaleCNS:819112)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nn2	Ti flexor MN_L (MaleCNS:819112)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nn2	Ti flexor MN_L (MaleCNS:819112)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfg	Acc. ti flexor MN_L (MaleCNS:829873)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfg	Acc. ti flexor MN_L (MaleCNS:829873)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfg	Acc. ti flexor MN_L (MaleCNS:829873)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfh	Acc. ti flexor MN_L (MaleCNS:843389)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfh	Acc. ti flexor MN_L (MaleCNS:843389)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfh	Acc. ti flexor MN_L (MaleCNS:843389)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jgd	Acc. tr flexor MN_L (MaleCNS:1050038433)	is_a	FBbt_00053115	mesothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgd	Acc. tr flexor MN_L (MaleCNS:1050038433)	is_a	FBbt_00053114	prothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgd	Acc. tr flexor MN_L (MaleCNS:1050038433)	is_a	FBbt_00053116	metathoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jfk	Acc. ti flexor MN_L (MaleCNS:1050123559)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfk	Acc. ti flexor MN_L (MaleCNS:1050123559)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfk	Acc. ti flexor MN_L (MaleCNS:1050123559)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nn6	Ti flexor MN_L (MaleCNS:1050166426)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nn6	Ti flexor MN_L (MaleCNS:1050166426)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nn6	Ti flexor MN_L (MaleCNS:1050166426)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfl	Acc. ti flexor MN_L (MaleCNS:1050233038)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfl	Acc. ti flexor MN_L (MaleCNS:1050233038)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfl	Acc. ti flexor MN_L (MaleCNS:1050233038)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfm	Acc. ti flexor MN_R (MaleCNS:910296)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfm	Acc. ti flexor MN_R (MaleCNS:910296)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfm	Acc. ti flexor MN_R (MaleCNS:910296)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jgf	Acc. tr flexor MN_R (MaleCNS:815958)	is_a	FBbt_00053116	metathoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgf	Acc. tr flexor MN_R (MaleCNS:815958)	is_a	FBbt_00053114	prothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgf	Acc. tr flexor MN_R (MaleCNS:815958)	is_a	FBbt_00053115	mesothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc0nn7	Ti flexor MN_R (MaleCNS:1050013311)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nn7	Ti flexor MN_R (MaleCNS:1050013311)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nn7	Ti flexor MN_R (MaleCNS:1050013311)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfn	Acc. ti flexor MN_R (MaleCNS:1059707690)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfn	Acc. ti flexor MN_R (MaleCNS:1059707690)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfn	Acc. ti flexor MN_R (MaleCNS:1059707690)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfo	Acc. ti flexor MN_L (MaleCNS:825485)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfo	Acc. ti flexor MN_L (MaleCNS:825485)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfo	Acc. ti flexor MN_L (MaleCNS:825485)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfp	Acc. ti flexor MN_L (MaleCNS:908094)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfp	Acc. ti flexor MN_L (MaleCNS:908094)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfp	Acc. ti flexor MN_L (MaleCNS:908094)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jgg	Acc. tr flexor MN_L (MaleCNS:927828)	is_a	FBbt_00053115	mesothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgg	Acc. tr flexor MN_L (MaleCNS:927828)	is_a	FBbt_00053114	prothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgg	Acc. tr flexor MN_L (MaleCNS:927828)	is_a	FBbt_00053116	metathoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jfr	Acc. ti flexor MN_L (MaleCNS:809670)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfr	Acc. ti flexor MN_L (MaleCNS:809670)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfr	Acc. ti flexor MN_L (MaleCNS:809670)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnf	Ti flexor MN_L (MaleCNS:818295)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnf	Ti flexor MN_L (MaleCNS:818295)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnf	Ti flexor MN_L (MaleCNS:818295)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc2t8v	Fe reductor MN_L (MaleCNS:820764)	is_a	FBbt_00053119	metathoracic femoral reductor muscle motor neuron	femoral reductor muscle motor neuron
+VFB_jrmc2t8v	Fe reductor MN_L (MaleCNS:820764)	is_a	FBbt_00053117	prothoracic femoral reductor muscle motor neuron	femoral reductor muscle motor neuron
+VFB_jrmc2t8v	Fe reductor MN_L (MaleCNS:820764)	is_a	FBbt_00053118	mesothoracic femoral reductor muscle motor neuron	femoral reductor muscle motor neuron
+VFB_jrmc0nng	Ti flexor MN_L (MaleCNS:823739)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nng	Ti flexor MN_L (MaleCNS:823739)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nng	Ti flexor MN_L (MaleCNS:823739)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnh	Ti flexor MN_L (MaleCNS:824041)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnh	Ti flexor MN_L (MaleCNS:824041)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnh	Ti flexor MN_L (MaleCNS:824041)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nm9	Tergotr. MN_L (MaleCNS:802552)	is_a	FBbt_00007406	mesothoracic tergotrochanter muscle motor neuron	prothoracic tergotrochanter extensor muscle motor neuron
+VFB_jrmc0nm9	Tergotr. MN_L (MaleCNS:802552)	is_a	FBbt_00053156	metathoracic tergotrochanter extensor muscle motor neuron	prothoracic tergotrochanter extensor muscle motor neuron
+VFB_jrmc0nnc	Ti flexor MN_L (MaleCNS:809912)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnc	Ti flexor MN_L (MaleCNS:809912)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnc	Ti flexor MN_L (MaleCNS:809912)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc06x7	Tr flexor MN_L (MaleCNS:814489)	is_a	FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06x7	Tr flexor MN_L (MaleCNS:814489)	is_a	FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06x7	Tr flexor MN_L (MaleCNS:814489)	is_a	FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc0nnd	Ti flexor MN_L (MaleCNS:818057)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnd	Ti flexor MN_L (MaleCNS:818057)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnd	Ti flexor MN_L (MaleCNS:818057)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc06x8	Tr flexor MN_L (MaleCNS:818389)	is_a	FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06x8	Tr flexor MN_L (MaleCNS:818389)	is_a	FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06x8	Tr flexor MN_L (MaleCNS:818389)	is_a	FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc0nne	Ti flexor MN_L (MaleCNS:819384)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nne	Ti flexor MN_L (MaleCNS:819384)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nne	Ti flexor MN_L (MaleCNS:819384)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jgi	Acc. tr flexor MN_L (MaleCNS:821291)	is_a	FBbt_00053114	prothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgi	Acc. tr flexor MN_L (MaleCNS:821291)	is_a	FBbt_00053115	mesothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgi	Acc. tr flexor MN_L (MaleCNS:821291)	is_a	FBbt_00053116	metathoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc06x9	Tr flexor MN_L (MaleCNS:823281)	is_a	FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06x9	Tr flexor MN_L (MaleCNS:823281)	is_a	FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06x9	Tr flexor MN_L (MaleCNS:823281)	is_a	FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xa	Tr flexor MN_L (MaleCNS:828939)	is_a	FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xa	Tr flexor MN_L (MaleCNS:828939)	is_a	FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xa	Tr flexor MN_L (MaleCNS:828939)	is_a	FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc3jgj	Acc. tr flexor MN_L (MaleCNS:909618)	is_a	FBbt_00053115	mesothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgj	Acc. tr flexor MN_L (MaleCNS:909618)	is_a	FBbt_00053116	metathoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgj	Acc. tr flexor MN_L (MaleCNS:909618)	is_a	FBbt_00053114	prothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc06xb	Tr flexor MN_L (MaleCNS:1051670893)	is_a	FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xb	Tr flexor MN_L (MaleCNS:1051670893)	is_a	FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xb	Tr flexor MN_L (MaleCNS:1051670893)	is_a	FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc0nni	Ti flexor MN_L (MaleCNS:927808)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nni	Ti flexor MN_L (MaleCNS:927808)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nni	Ti flexor MN_L (MaleCNS:927808)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nmm	Ti extensor MN_R (MaleCNS:804257)	is_a	FBbt_00053122	mesothoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
+VFB_jrmc0nmm	Ti extensor MN_R (MaleCNS:804257)	is_a	FBbt_00053121	prothoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
+VFB_jrmc0nmm	Ti extensor MN_R (MaleCNS:804257)	is_a	FBbt_00053123	metathoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
+VFB_jrmc0nn9	Ti flexor MN_R (MaleCNS:810098)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nn9	Ti flexor MN_R (MaleCNS:810098)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nn9	Ti flexor MN_R (MaleCNS:810098)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nna	Ti flexor MN_R (MaleCNS:827188)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nna	Ti flexor MN_R (MaleCNS:827188)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nna	Ti flexor MN_R (MaleCNS:827188)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc2t8u	Fe reductor MN_R (MaleCNS:835074)	is_a	FBbt_00053119	metathoracic femoral reductor muscle motor neuron	femoral reductor muscle motor neuron
+VFB_jrmc2t8u	Fe reductor MN_R (MaleCNS:835074)	is_a	FBbt_00053117	prothoracic femoral reductor muscle motor neuron	femoral reductor muscle motor neuron
+VFB_jrmc2t8u	Fe reductor MN_R (MaleCNS:835074)	is_a	FBbt_00053118	mesothoracic femoral reductor muscle motor neuron	femoral reductor muscle motor neuron
+VFB_jrmc0nnb	Ti flexor MN_L (MaleCNS:804919)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnb	Ti flexor MN_L (MaleCNS:804919)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnb	Ti flexor MN_L (MaleCNS:804919)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc02u4	ltm2-femur MN_L (MaleCNS:857751)	is_a	FBbt_00052600	prothoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc02u4	ltm2-femur MN_L (MaleCNS:857751)	is_a	FBbt_00053147	mesothoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc02u4	ltm2-femur MN_L (MaleCNS:857751)	is_a	FBbt_00053148	metathoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc3jfs	Acc. ti flexor MN_R (MaleCNS:1050156705)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfs	Acc. ti flexor MN_R (MaleCNS:1050156705)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfs	Acc. ti flexor MN_R (MaleCNS:1050156705)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jgh	Acc. tr flexor MN_L (MaleCNS:809604)	is_a	FBbt_00053116	metathoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgh	Acc. tr flexor MN_L (MaleCNS:809604)	is_a	FBbt_00053114	prothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgh	Acc. tr flexor MN_L (MaleCNS:809604)	is_a	FBbt_00053115	mesothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc0nml	Ti extensor MN_L (MaleCNS:812953)	is_a	FBbt_00053122	mesothoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
+VFB_jrmc0nml	Ti extensor MN_L (MaleCNS:812953)	is_a	FBbt_00053121	prothoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
+VFB_jrmc0nml	Ti extensor MN_L (MaleCNS:812953)	is_a	FBbt_00053123	metathoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
+VFB_jrmc3jfq	Acc. ti flexor MN_L (MaleCNS:817374)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfq	Acc. ti flexor MN_L (MaleCNS:817374)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfq	Acc. ti flexor MN_L (MaleCNS:817374)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc2t8w	Fe reductor MN_L (MaleCNS:820350)	is_a	FBbt_00053119	metathoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc2t8w	Fe reductor MN_L (MaleCNS:820350)	is_a	FBbt_00053117	prothoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc2t8w	Fe reductor MN_L (MaleCNS:820350)	is_a	FBbt_00053118	mesothoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc3jgk	Acc. tr flexor MN_L (MaleCNS:821154)	is_a	FBbt_00053116	metathoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgk	Acc. tr flexor MN_L (MaleCNS:821154)	is_a	FBbt_00053115	mesothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgk	Acc. tr flexor MN_L (MaleCNS:821154)	is_a	FBbt_00053114	prothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc0nnj	Ti flexor MN_L (MaleCNS:822945)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnj	Ti flexor MN_L (MaleCNS:822945)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnj	Ti flexor MN_L (MaleCNS:822945)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jgl	Acc. tr flexor MN_L (MaleCNS:896719)	is_a	FBbt_00053114	prothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgl	Acc. tr flexor MN_L (MaleCNS:896719)	is_a	FBbt_00053116	metathoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgl	Acc. tr flexor MN_L (MaleCNS:896719)	is_a	FBbt_00053115	mesothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc0nnk	Ti flexor MN_L (MaleCNS:1050100010)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnk	Ti flexor MN_L (MaleCNS:1050100010)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnk	Ti flexor MN_L (MaleCNS:1050100010)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jft	Acc. ti flexor MN_L (MaleCNS:1050263576)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jft	Acc. ti flexor MN_L (MaleCNS:1050263576)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jft	Acc. ti flexor MN_L (MaleCNS:1050263576)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nn8	Ti flexor MN_R (MaleCNS:903363)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nn8	Ti flexor MN_R (MaleCNS:903363)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nn8	Ti flexor MN_R (MaleCNS:903363)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfu	Acc. ti flexor MN_R (MaleCNS:801637)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfu	Acc. ti flexor MN_R (MaleCNS:801637)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfu	Acc. ti flexor MN_R (MaleCNS:801637)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnl	Ti flexor MN_R (MaleCNS:808685)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnl	Ti flexor MN_R (MaleCNS:808685)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnl	Ti flexor MN_R (MaleCNS:808685)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnm	Ti flexor MN_R (MaleCNS:823665)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnm	Ti flexor MN_R (MaleCNS:823665)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnm	Ti flexor MN_R (MaleCNS:823665)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnn	Ti flexor MN_R (MaleCNS:840740)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnn	Ti flexor MN_R (MaleCNS:840740)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnn	Ti flexor MN_R (MaleCNS:840740)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nno	Ti flexor MN_R (MaleCNS:910178)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nno	Ti flexor MN_R (MaleCNS:910178)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nno	Ti flexor MN_R (MaleCNS:910178)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfv	Acc. ti flexor MN_R (MaleCNS:1050032839)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfv	Acc. ti flexor MN_R (MaleCNS:1050032839)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfv	Acc. ti flexor MN_R (MaleCNS:1050032839)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnp	Ti flexor MN_R (MaleCNS:1050303231)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnp	Ti flexor MN_R (MaleCNS:1050303231)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnp	Ti flexor MN_R (MaleCNS:1050303231)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfw	Acc. ti flexor MN_R (MaleCNS:1050460102)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfw	Acc. ti flexor MN_R (MaleCNS:1050460102)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfw	Acc. ti flexor MN_R (MaleCNS:1050460102)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfx	Acc. ti flexor MN_L (MaleCNS:830480)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfx	Acc. ti flexor MN_L (MaleCNS:830480)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfx	Acc. ti flexor MN_L (MaleCNS:830480)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfy	Acc. ti flexor MN_L (MaleCNS:806599)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfy	Acc. ti flexor MN_L (MaleCNS:806599)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfy	Acc. ti flexor MN_L (MaleCNS:806599)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnq	Ti flexor MN_R (MaleCNS:816222)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnq	Ti flexor MN_R (MaleCNS:816222)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnq	Ti flexor MN_R (MaleCNS:816222)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnr	Ti flexor MN_R (MaleCNS:822013)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnr	Ti flexor MN_R (MaleCNS:822013)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnr	Ti flexor MN_R (MaleCNS:822013)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc06xc	Tr flexor MN_R (MaleCNS:924142)	is_a	FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xc	Tr flexor MN_R (MaleCNS:924142)	is_a	FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xc	Tr flexor MN_R (MaleCNS:924142)	is_a	FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc02u5	ltm2-femur MN_L (MaleCNS:805309)	is_a	FBbt_00053148	metathoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc02u5	ltm2-femur MN_L (MaleCNS:805309)	is_a	FBbt_00053147	mesothoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc02u5	ltm2-femur MN_L (MaleCNS:805309)	is_a	FBbt_00052600	prothoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc02tv	ltm1-tibia MN_L (MaleCNS:822047)	is_a	FBbt_00053146	metathoracic tibial pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|tibial pretarsal depressor muscle motor neuron
+VFB_jrmc02tv	ltm1-tibia MN_L (MaleCNS:822047)	is_a	FBbt_00052599	prothoracic tibial pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|tibial pretarsal depressor muscle motor neuron
+VFB_jrmc02tv	ltm1-tibia MN_L (MaleCNS:822047)	is_a	FBbt_00053145	mesothoracic tibial pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|tibial pretarsal depressor muscle motor neuron
+VFB_jrmc06xd	Tr flexor MN_R (MaleCNS:807640)	is_a	FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xd	Tr flexor MN_R (MaleCNS:807640)	is_a	FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xd	Tr flexor MN_R (MaleCNS:807640)	is_a	FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc3jfz	Acc. ti flexor MN_R (MaleCNS:813629)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfz	Acc. ti flexor MN_R (MaleCNS:813629)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jfz	Acc. ti flexor MN_R (MaleCNS:813629)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc1a7c	Sternal posterior rotator MN_R (MaleCNS:903642)	is_a	FBbt_00053103	prothoracic sternal posterior rotator muscle motor neuron	Notch OFF hemilineage neuron|metathoracic sternal posterior rotator muscle motor neuron
+VFB_jrmc3jgm	Acc. tr flexor MN_R (MaleCNS:905586)	is_a	FBbt_00053116	metathoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgm	Acc. tr flexor MN_R (MaleCNS:905586)	is_a	FBbt_00053115	mesothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgm	Acc. tr flexor MN_R (MaleCNS:905586)	is_a	FBbt_00053114	prothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgn	Acc. tr flexor MN_R (MaleCNS:1050102118)	is_a	FBbt_00053116	metathoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgn	Acc. tr flexor MN_R (MaleCNS:1050102118)	is_a	FBbt_00053115	mesothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgn	Acc. tr flexor MN_R (MaleCNS:1050102118)	is_a	FBbt_00053114	prothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jg0	Acc. ti flexor MN_R (MaleCNS:1050160514)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jg0	Acc. ti flexor MN_R (MaleCNS:1050160514)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jg0	Acc. ti flexor MN_R (MaleCNS:1050160514)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jg1	Acc. ti flexor MN_R (MaleCNS:1050202461)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jg1	Acc. ti flexor MN_R (MaleCNS:1050202461)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jg1	Acc. ti flexor MN_R (MaleCNS:1050202461)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc02u6	ltm2-femur MN_L (MaleCNS:807972)	is_a	FBbt_00052600	prothoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc02u6	ltm2-femur MN_L (MaleCNS:807972)	is_a	FBbt_00053148	metathoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc02u6	ltm2-femur MN_L (MaleCNS:807972)	is_a	FBbt_00053147	mesothoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc0nma	Tergotr. MN_L (MaleCNS:804514)	is_a	FBbt_00053107	prothoracic tergotrochanter extensor muscle motor neuron	metathoracic tergotrochanter extensor muscle motor neuron
+VFB_jrmc0nma	Tergotr. MN_L (MaleCNS:804514)	is_a	FBbt_00007406	mesothoracic tergotrochanter muscle motor neuron	metathoracic tergotrochanter extensor muscle motor neuron
+VFB_jrmc06xe	Tr flexor MN_L (MaleCNS:1050194310)	is_a	FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xe	Tr flexor MN_L (MaleCNS:1050194310)	is_a	FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xe	Tr flexor MN_L (MaleCNS:1050194310)	is_a	FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc3jgo	Acc. tr flexor MN_L (MaleCNS:1050239701)	is_a	FBbt_00053114	prothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgo	Acc. tr flexor MN_L (MaleCNS:1050239701)	is_a	FBbt_00053115	mesothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgo	Acc. tr flexor MN_L (MaleCNS:1050239701)	is_a	FBbt_00053116	metathoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc06xf	Tr flexor MN_R (MaleCNS:817681)	is_a	FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xf	Tr flexor MN_R (MaleCNS:817681)	is_a	FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xf	Tr flexor MN_R (MaleCNS:817681)	is_a	FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc1a7d	Sternal posterior rotator MN_R (MaleCNS:818996)	is_a	FBbt_00053103	prothoracic sternal posterior rotator muscle motor neuron	Notch OFF hemilineage neuron|mesothoracic sternal posterior rotator muscle motor neuron
+VFB_jrmc06xg	Tr flexor MN_R (MaleCNS:819203)	is_a	FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xg	Tr flexor MN_R (MaleCNS:819203)	is_a	FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xg	Tr flexor MN_R (MaleCNS:819203)	is_a	FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc2t8x	Fe reductor MN_R (MaleCNS:821769)	is_a	FBbt_00053117	prothoracic femoral reductor muscle motor neuron	femoral reductor muscle motor neuron
+VFB_jrmc2t8x	Fe reductor MN_R (MaleCNS:821769)	is_a	FBbt_00053118	mesothoracic femoral reductor muscle motor neuron	femoral reductor muscle motor neuron
+VFB_jrmc2t8x	Fe reductor MN_R (MaleCNS:821769)	is_a	FBbt_00053119	metathoracic femoral reductor muscle motor neuron	femoral reductor muscle motor neuron
+VFB_jrmc06xh	Tr flexor MN_R (MaleCNS:824315)	is_a	FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xh	Tr flexor MN_R (MaleCNS:824315)	is_a	FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xh	Tr flexor MN_R (MaleCNS:824315)	is_a	FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc3jg2	Acc. ti flexor MN_R (MaleCNS:909255)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jg2	Acc. ti flexor MN_R (MaleCNS:909255)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jg2	Acc. ti flexor MN_R (MaleCNS:909255)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc1a6y	Sternal anterior rotator MN (MaleCNS:800316)	is_a	FBbt_00053101	prothoracic sternal anterior rotator muscle motor neuron	metathoracic sternal anterior rotator muscle motor neuron
+VFB_jrmc2t8y	Fe reductor MN_R (MaleCNS:801693)	is_a	FBbt_00053119	metathoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc2t8y	Fe reductor MN_R (MaleCNS:801693)	is_a	FBbt_00053118	mesothoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc2t8y	Fe reductor MN_R (MaleCNS:801693)	is_a	FBbt_00053117	prothoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc06xi	Tr flexor MN_R (MaleCNS:801721)	is_a	FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xi	Tr flexor MN_R (MaleCNS:801721)	is_a	FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xi	Tr flexor MN_R (MaleCNS:801721)	is_a	FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc0nns	Ti flexor MN_R (MaleCNS:803072)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nns	Ti flexor MN_R (MaleCNS:803072)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nns	Ti flexor MN_R (MaleCNS:803072)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc1a6s	Sternal adductor MN_R (MaleCNS:807854)	is_a	FBbt_00053102	prothoracic sternal adductor muscle motor neuron	metathoracic sternal adductor muscle motor neuron
+VFB_jrmc02u7	ltm2-femur MN_R (MaleCNS:821449)	is_a	FBbt_00052600	prothoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc02u7	ltm2-femur MN_R (MaleCNS:821449)	is_a	FBbt_00053148	metathoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc02u7	ltm2-femur MN_R (MaleCNS:821449)	is_a	FBbt_00053147	mesothoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc0nnt	Ti flexor MN_R (MaleCNS:827968)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnt	Ti flexor MN_R (MaleCNS:827968)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnt	Ti flexor MN_R (MaleCNS:827968)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc06xj	Tr flexor MN_R (MaleCNS:905928)	is_a	FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xj	Tr flexor MN_R (MaleCNS:905928)	is_a	FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xj	Tr flexor MN_R (MaleCNS:905928)	is_a	FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc3jgp	Acc. tr flexor MN_R (MaleCNS:914852)	is_a	FBbt_00053116	metathoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgp	Acc. tr flexor MN_R (MaleCNS:914852)	is_a	FBbt_00053114	prothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgp	Acc. tr flexor MN_R (MaleCNS:914852)	is_a	FBbt_00053115	mesothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc06xk	Tr flexor MN_R (MaleCNS:1050098047)	is_a	FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xk	Tr flexor MN_R (MaleCNS:1050098047)	is_a	FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xk	Tr flexor MN_R (MaleCNS:1050098047)	is_a	FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc1a7e	Sternal posterior rotator MN_R (MaleCNS:1050493413)	is_a	FBbt_00053103	prothoracic sternal posterior rotator muscle motor neuron	Notch OFF hemilineage neuron|metathoracic sternal posterior rotator muscle motor neuron
+VFB_jrmc06xl	Tr flexor MN_R (MaleCNS:1050938258)	is_a	FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xl	Tr flexor MN_R (MaleCNS:1050938258)	is_a	FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xl	Tr flexor MN_R (MaleCNS:1050938258)	is_a	FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc3jgq	Acc. tr flexor MN_R (MaleCNS:867926)	is_a	FBbt_00053116	metathoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgq	Acc. tr flexor MN_R (MaleCNS:867926)	is_a	FBbt_00053115	mesothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgq	Acc. tr flexor MN_R (MaleCNS:867926)	is_a	FBbt_00053114	prothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc1kns	Pleural remotor/abductor MN_L (MaleCNS:902310)	is_a	FBbt_00053151	metathoracic pleural remotor muscle motor neuron	pleural remotor motor neuron
+VFB_jrmc1kns	Pleural remotor/abductor MN_L (MaleCNS:902310)	is_a	FBbt_00053150	mesothoracic pleural remotor muscle motor neuron	pleural remotor motor neuron
+VFB_jrmc1a6t	Sternal adductor MN_L (MaleCNS:904184)	is_a	FBbt_00053102	prothoracic sternal adductor muscle motor neuron	metathoracic sternal adductor muscle motor neuron
+VFB_jrmc3jgr	Acc. tr flexor MN_L (MaleCNS:1050139141)	is_a	FBbt_00053116	metathoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgr	Acc. tr flexor MN_L (MaleCNS:1050139141)	is_a	FBbt_00053114	prothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgr	Acc. tr flexor MN_L (MaleCNS:1050139141)	is_a	FBbt_00053115	mesothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc02u8	ltm2-femur MN_L (MaleCNS:815498)	is_a	FBbt_00052600	prothoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc02u8	ltm2-femur MN_L (MaleCNS:815498)	is_a	FBbt_00053148	metathoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc02u8	ltm2-femur MN_L (MaleCNS:815498)	is_a	FBbt_00053147	mesothoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc06xm	Tr flexor MN_L (MaleCNS:903158)	is_a	FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xm	Tr flexor MN_L (MaleCNS:903158)	is_a	FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xm	Tr flexor MN_L (MaleCNS:903158)	is_a	FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xn	Tr flexor MN_L (MaleCNS:903579)	is_a	FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xn	Tr flexor MN_L (MaleCNS:903579)	is_a	FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xn	Tr flexor MN_L (MaleCNS:903579)	is_a	FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc0nnu	Ti flexor MN_L (MaleCNS:802295)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnu	Ti flexor MN_L (MaleCNS:802295)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnu	Ti flexor MN_L (MaleCNS:802295)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc02u9	ltm2-femur MN_L (MaleCNS:826996)	is_a	FBbt_00053148	metathoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc02u9	ltm2-femur MN_L (MaleCNS:826996)	is_a	FBbt_00052600	prothoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc02u9	ltm2-femur MN_L (MaleCNS:826996)	is_a	FBbt_00053147	mesothoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc02tw	ltm1-tibia MN_L (MaleCNS:907443)	is_a	FBbt_00053145	mesothoracic tibial pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|tibial pretarsal depressor muscle motor neuron
+VFB_jrmc02tw	ltm1-tibia MN_L (MaleCNS:907443)	is_a	FBbt_00053146	metathoracic tibial pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|tibial pretarsal depressor muscle motor neuron
+VFB_jrmc02tw	ltm1-tibia MN_L (MaleCNS:907443)	is_a	FBbt_00052599	prothoracic tibial pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|tibial pretarsal depressor muscle motor neuron
+VFB_jrmc3jgt	Acc. tr flexor MN_R (MaleCNS:1050306082)	is_a	FBbt_00053115	mesothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgt	Acc. tr flexor MN_R (MaleCNS:1050306082)	is_a	FBbt_00053114	prothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgt	Acc. tr flexor MN_R (MaleCNS:1050306082)	is_a	FBbt_00053116	metathoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc1knt	Pleural remotor/abductor MN_L (MaleCNS:800541)	is_a	FBbt_00053150	mesothoracic pleural remotor muscle motor neuron	pleural remotor motor neuron
+VFB_jrmc1knt	Pleural remotor/abductor MN_L (MaleCNS:800541)	is_a	FBbt_00053151	metathoracic pleural remotor muscle motor neuron	pleural remotor motor neuron
+VFB_jrmc06xo	Tr flexor MN_L (MaleCNS:800589)	is_a	FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xo	Tr flexor MN_L (MaleCNS:800589)	is_a	FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xo	Tr flexor MN_L (MaleCNS:800589)	is_a	FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xp	Tr flexor MN_L (MaleCNS:802232)	is_a	FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xp	Tr flexor MN_L (MaleCNS:802232)	is_a	FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xp	Tr flexor MN_L (MaleCNS:802232)	is_a	FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc1a7f	Sternal posterior rotator MN_L (MaleCNS:803704)	is_a	FBbt_00053103	prothoracic sternal posterior rotator muscle motor neuron	Notch OFF hemilineage neuron|mesothoracic sternal posterior rotator muscle motor neuron
+VFB_jrmc06xq	Tr flexor MN_L (MaleCNS:803829)	is_a	FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xq	Tr flexor MN_L (MaleCNS:803829)	is_a	FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xq	Tr flexor MN_L (MaleCNS:803829)	is_a	FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc1a6u	Sternal adductor MN_L (MaleCNS:816018)	is_a	FBbt_00053102	prothoracic sternal adductor muscle motor neuron	mesothoracic sternal adductor muscle motor neuron
+VFB_jrmc3jgs	Acc. tr flexor MN_L (MaleCNS:821375)	is_a	FBbt_00053115	mesothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgs	Acc. tr flexor MN_L (MaleCNS:821375)	is_a	FBbt_00053116	metathoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgs	Acc. tr flexor MN_L (MaleCNS:821375)	is_a	FBbt_00053114	prothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc06xr	Tr flexor MN_L (MaleCNS:903159)	is_a	FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xr	Tr flexor MN_L (MaleCNS:903159)	is_a	FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xr	Tr flexor MN_L (MaleCNS:903159)	is_a	FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xs	Tr flexor MN_L (MaleCNS:1050669248)	is_a	FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xs	Tr flexor MN_L (MaleCNS:1050669248)	is_a	FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xs	Tr flexor MN_L (MaleCNS:1050669248)	is_a	FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc1a7g	Sternal posterior rotator MN_L (MaleCNS:1051054875)	is_a	FBbt_00053103	prothoracic sternal posterior rotator muscle motor neuron	Notch OFF hemilineage neuron|mesothoracic sternal posterior rotator muscle motor neuron
+VFB_jrmc3jg3	Acc. ti flexor MN_L (MaleCNS:819674)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jg3	Acc. ti flexor MN_L (MaleCNS:819674)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jg3	Acc. ti flexor MN_L (MaleCNS:819674)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jg4	Acc. ti flexor MN_L (MaleCNS:1051356801)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jg4	Acc. ti flexor MN_L (MaleCNS:1051356801)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jg4	Acc. ti flexor MN_L (MaleCNS:1051356801)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc02tx	ltm1-tibia MN_L (MaleCNS:818553)	is_a	FBbt_00052599	prothoracic tibial pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|tibial pretarsal depressor muscle motor neuron
+VFB_jrmc02tx	ltm1-tibia MN_L (MaleCNS:818553)	is_a	FBbt_00053146	metathoracic tibial pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|tibial pretarsal depressor muscle motor neuron
+VFB_jrmc02tx	ltm1-tibia MN_L (MaleCNS:818553)	is_a	FBbt_00053145	mesothoracic tibial pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|tibial pretarsal depressor muscle motor neuron
+VFB_jrmc02ua	ltm2-femur MN_L (MaleCNS:1050615112)	is_a	FBbt_00053147	mesothoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc02ua	ltm2-femur MN_L (MaleCNS:1050615112)	is_a	FBbt_00053148	metathoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc02ua	ltm2-femur MN_L (MaleCNS:1050615112)	is_a	FBbt_00052600	prothoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc02ty	ltm1-tibia MN_R (MaleCNS:804741)	is_a	FBbt_00052599	prothoracic tibial pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|tibial pretarsal depressor muscle motor neuron
+VFB_jrmc02ty	ltm1-tibia MN_R (MaleCNS:804741)	is_a	FBbt_00053145	mesothoracic tibial pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|tibial pretarsal depressor muscle motor neuron
+VFB_jrmc02ty	ltm1-tibia MN_R (MaleCNS:804741)	is_a	FBbt_00053146	metathoracic tibial pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|tibial pretarsal depressor muscle motor neuron
+VFB_jrmc02tz	ltm1-tibia MN_L (MaleCNS:858248)	is_a	FBbt_00053145	mesothoracic tibial pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|tibial pretarsal depressor muscle motor neuron
+VFB_jrmc02tz	ltm1-tibia MN_L (MaleCNS:858248)	is_a	FBbt_00053146	metathoracic tibial pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|tibial pretarsal depressor muscle motor neuron
+VFB_jrmc02tz	ltm1-tibia MN_L (MaleCNS:858248)	is_a	FBbt_00052599	prothoracic tibial pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|tibial pretarsal depressor muscle motor neuron
+VFB_jrmc02u0	ltm1-tibia MN_L (MaleCNS:912694)	is_a	FBbt_00052599	prothoracic tibial pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|tibial pretarsal depressor muscle motor neuron
+VFB_jrmc02u0	ltm1-tibia MN_L (MaleCNS:912694)	is_a	FBbt_00053146	metathoracic tibial pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|tibial pretarsal depressor muscle motor neuron
+VFB_jrmc02u0	ltm1-tibia MN_L (MaleCNS:912694)	is_a	FBbt_00053145	mesothoracic tibial pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|tibial pretarsal depressor muscle motor neuron
+VFB_jrmc3jg5	Acc. ti flexor MN_R (MaleCNS:1050126678)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jg5	Acc. ti flexor MN_R (MaleCNS:1050126678)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jg5	Acc. ti flexor MN_R (MaleCNS:1050126678)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc02ub	ltm2-femur MN_R (MaleCNS:830039)	is_a	FBbt_00053147	mesothoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc02ub	ltm2-femur MN_R (MaleCNS:830039)	is_a	FBbt_00052600	prothoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc02ub	ltm2-femur MN_R (MaleCNS:830039)	is_a	FBbt_00053148	metathoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc02uc	ltm2-femur MN_R (MaleCNS:1050251718)	is_a	FBbt_00052600	prothoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc02uc	ltm2-femur MN_R (MaleCNS:1050251718)	is_a	FBbt_00053147	mesothoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc02uc	ltm2-femur MN_R (MaleCNS:1050251718)	is_a	FBbt_00053148	metathoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc02u1	ltm1-tibia MN_R (MaleCNS:1057471940)	is_a	FBbt_00052599	prothoracic tibial pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|tibial pretarsal depressor muscle motor neuron
+VFB_jrmc02u1	ltm1-tibia MN_R (MaleCNS:1057471940)	is_a	FBbt_00053146	metathoracic tibial pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|tibial pretarsal depressor muscle motor neuron
+VFB_jrmc02u1	ltm1-tibia MN_R (MaleCNS:1057471940)	is_a	FBbt_00053145	mesothoracic tibial pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|tibial pretarsal depressor muscle motor neuron
+VFB_jrmc0nmn	Ti extensor MN_L (MaleCNS:801234)	is_a	FBbt_00053123	metathoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
+VFB_jrmc0nmn	Ti extensor MN_L (MaleCNS:801234)	is_a	FBbt_00053121	prothoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
+VFB_jrmc0nmn	Ti extensor MN_L (MaleCNS:801234)	is_a	FBbt_00053122	mesothoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
+VFB_jrmc1knu	Pleural remotor/abductor MN_L (MaleCNS:905421)	is_a	FBbt_00053151	metathoracic pleural remotor muscle motor neuron	pleural remotor motor neuron
+VFB_jrmc1knu	Pleural remotor/abductor MN_L (MaleCNS:905421)	is_a	FBbt_00053150	mesothoracic pleural remotor muscle motor neuron	pleural remotor motor neuron
+VFB_jrmc2t8z	Fe reductor MN_L (MaleCNS:1050607195)	is_a	FBbt_00053118	mesothoracic femoral reductor muscle motor neuron	femoral reductor muscle motor neuron
+VFB_jrmc2t8z	Fe reductor MN_L (MaleCNS:1050607195)	is_a	FBbt_00053117	prothoracic femoral reductor muscle motor neuron	femoral reductor muscle motor neuron
+VFB_jrmc2t8z	Fe reductor MN_L (MaleCNS:1050607195)	is_a	FBbt_00053119	metathoracic femoral reductor muscle motor neuron	femoral reductor muscle motor neuron
+VFB_jrmc0nmo	Ti extensor MN_R (MaleCNS:809935)	is_a	FBbt_00053123	metathoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
+VFB_jrmc0nmo	Ti extensor MN_R (MaleCNS:809935)	is_a	FBbt_00053122	mesothoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
+VFB_jrmc0nmo	Ti extensor MN_R (MaleCNS:809935)	is_a	FBbt_00053121	prothoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
+VFB_jrmc06ws	Tr extensor MN_R (MaleCNS:818842)	is_a	FBbt_00053159	metathoracic intracoxal trochanter depressor muscle motor neuron	Notch ON hemilineage neuron|intracoxal trochanter depressor muscle motor neuron
+VFB_jrmc06ws	Tr extensor MN_R (MaleCNS:818842)	is_a	FBbt_00053158	mesothoracic intracoxal trochanter depressor muscle motor neuron	Notch ON hemilineage neuron|intracoxal trochanter depressor muscle motor neuron
+VFB_jrmc06ws	Tr extensor MN_R (MaleCNS:818842)	is_a	FBbt_00053157	prothoracic intracoxal trochanter depressor muscle motor neuron	Notch ON hemilineage neuron|intracoxal trochanter depressor muscle motor neuron
+VFB_jrmc0nmp	Ti extensor MN_L (MaleCNS:800621)	is_a	FBbt_00053122	mesothoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
+VFB_jrmc0nmp	Ti extensor MN_L (MaleCNS:800621)	is_a	FBbt_00053121	prothoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
+VFB_jrmc0nmp	Ti extensor MN_L (MaleCNS:800621)	is_a	FBbt_00053123	metathoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
+VFB_jrmc1knv	Pleural remotor/abductor MN_R (MaleCNS:803314)	is_a	FBbt_00053151	metathoracic pleural remotor muscle motor neuron	pleural remotor motor neuron
+VFB_jrmc1knv	Pleural remotor/abductor MN_R (MaleCNS:803314)	is_a	FBbt_00053150	mesothoracic pleural remotor muscle motor neuron	pleural remotor motor neuron
+VFB_jrmc1knw	Pleural remotor/abductor MN_R (MaleCNS:805313)	is_a	FBbt_00053151	metathoracic pleural remotor muscle motor neuron	pleural remotor motor neuron
+VFB_jrmc1knw	Pleural remotor/abductor MN_R (MaleCNS:805313)	is_a	FBbt_00053150	mesothoracic pleural remotor muscle motor neuron	pleural remotor motor neuron
+VFB_jrmc06wt	Tr extensor MN_R (MaleCNS:905661)	is_a	FBbt_00053157	prothoracic intracoxal trochanter depressor muscle motor neuron	Notch ON hemilineage neuron|intracoxal trochanter depressor muscle motor neuron
+VFB_jrmc06wt	Tr extensor MN_R (MaleCNS:905661)	is_a	FBbt_00053158	mesothoracic intracoxal trochanter depressor muscle motor neuron	Notch ON hemilineage neuron|intracoxal trochanter depressor muscle motor neuron
+VFB_jrmc06wt	Tr extensor MN_R (MaleCNS:905661)	is_a	FBbt_00053159	metathoracic intracoxal trochanter depressor muscle motor neuron	Notch ON hemilineage neuron|intracoxal trochanter depressor muscle motor neuron
+VFB_jrmc02u2	ltm1-tibia MN_R (MaleCNS:914837)	is_a	FBbt_00053145	mesothoracic tibial pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|tibial pretarsal depressor muscle motor neuron
+VFB_jrmc02u2	ltm1-tibia MN_R (MaleCNS:914837)	is_a	FBbt_00053146	metathoracic tibial pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|tibial pretarsal depressor muscle motor neuron
+VFB_jrmc02u2	ltm1-tibia MN_R (MaleCNS:914837)	is_a	FBbt_00052599	prothoracic tibial pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|tibial pretarsal depressor muscle motor neuron
+VFB_jrmc06xt	Tr flexor MN_L (MaleCNS:810639)	is_a	FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xt	Tr flexor MN_L (MaleCNS:810639)	is_a	FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xt	Tr flexor MN_L (MaleCNS:810639)	is_a	FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc02u3	ltm1-tibia MN_R (MaleCNS:803523)	is_a	FBbt_00053145	mesothoracic tibial pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|tibial pretarsal depressor muscle motor neuron
+VFB_jrmc02u3	ltm1-tibia MN_R (MaleCNS:803523)	is_a	FBbt_00052599	prothoracic tibial pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|tibial pretarsal depressor muscle motor neuron
+VFB_jrmc02u3	ltm1-tibia MN_R (MaleCNS:803523)	is_a	FBbt_00053146	metathoracic tibial pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|tibial pretarsal depressor muscle motor neuron
+VFB_jrmc0nnv	Ti flexor MN_R (MaleCNS:804405)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnv	Ti flexor MN_R (MaleCNS:804405)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnv	Ti flexor MN_R (MaleCNS:804405)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnw	Ti flexor MN_R (MaleCNS:805010)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnw	Ti flexor MN_R (MaleCNS:805010)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc0nnw	Ti flexor MN_R (MaleCNS:805010)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc2t90	Fe reductor MN_R (MaleCNS:823132)	is_a	FBbt_00053119	metathoracic femoral reductor muscle motor neuron	femoral reductor muscle motor neuron
+VFB_jrmc2t90	Fe reductor MN_R (MaleCNS:823132)	is_a	FBbt_00053118	mesothoracic femoral reductor muscle motor neuron	femoral reductor muscle motor neuron
+VFB_jrmc2t90	Fe reductor MN_R (MaleCNS:823132)	is_a	FBbt_00053117	prothoracic femoral reductor muscle motor neuron	femoral reductor muscle motor neuron
+VFB_jrmc02ud	ltm2-femur MN_R (MaleCNS:852673)	is_a	FBbt_00053148	metathoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc02ud	ltm2-femur MN_R (MaleCNS:852673)	is_a	FBbt_00052600	prothoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc02ud	ltm2-femur MN_R (MaleCNS:852673)	is_a	FBbt_00053147	mesothoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc0nmq	Ti extensor MN_R (MaleCNS:928579)	is_a	FBbt_00053121	prothoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
+VFB_jrmc0nmq	Ti extensor MN_R (MaleCNS:928579)	is_a	FBbt_00053122	mesothoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
+VFB_jrmc0nmq	Ti extensor MN_R (MaleCNS:928579)	is_a	FBbt_00053123	metathoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
+VFB_jrmc1a7w	Sternotrochanter MN_R (MaleCNS:803698)	is_a	FBbt_00053155	metathoracic sternotrochanter extensor muscle motor neuron	prothoracic sternotrochanter extensor muscle motor neuron
+VFB_jrmc2t91	Fe reductor MN_R (MaleCNS:806898)	is_a	FBbt_00053118	mesothoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc2t91	Fe reductor MN_R (MaleCNS:806898)	is_a	FBbt_00053119	metathoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc2t91	Fe reductor MN_R (MaleCNS:806898)	is_a	FBbt_00053117	prothoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc2t92	Fe reductor MN_R (MaleCNS:811652)	is_a	FBbt_00053118	mesothoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc2t92	Fe reductor MN_R (MaleCNS:811652)	is_a	FBbt_00053117	prothoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc2t92	Fe reductor MN_R (MaleCNS:811652)	is_a	FBbt_00053119	metathoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc2t93	Fe reductor MN_R (MaleCNS:813566)	is_a	FBbt_00053118	mesothoracic femoral reductor muscle motor neuron	femoral reductor muscle motor neuron
+VFB_jrmc2t93	Fe reductor MN_R (MaleCNS:813566)	is_a	FBbt_00053119	metathoracic femoral reductor muscle motor neuron	femoral reductor muscle motor neuron
+VFB_jrmc2t93	Fe reductor MN_R (MaleCNS:813566)	is_a	FBbt_00053117	prothoracic femoral reductor muscle motor neuron	femoral reductor muscle motor neuron
+VFB_jrmc0nmb	Tergotr. MN_R (MaleCNS:817347)	is_a	FBbt_00053156	metathoracic tergotrochanter extensor muscle motor neuron	prothoracic tergotrochanter extensor muscle motor neuron
+VFB_jrmc0nmb	Tergotr. MN_R (MaleCNS:817347)	is_a	FBbt_00007406	mesothoracic tergotrochanter muscle motor neuron	prothoracic tergotrochanter extensor muscle motor neuron
+VFB_jrmc06xu	Tr flexor MN_R (MaleCNS:817640)	is_a	FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xu	Tr flexor MN_R (MaleCNS:817640)	is_a	FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xu	Tr flexor MN_R (MaleCNS:817640)	is_a	FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xv	Tr flexor MN_R (MaleCNS:818719)	is_a	FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xv	Tr flexor MN_R (MaleCNS:818719)	is_a	FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xv	Tr flexor MN_R (MaleCNS:818719)	is_a	FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xw	Tr flexor MN_R (MaleCNS:820130)	is_a	FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xw	Tr flexor MN_R (MaleCNS:820130)	is_a	FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xw	Tr flexor MN_R (MaleCNS:820130)	is_a	FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06wu	Tr extensor MN_R (MaleCNS:838321)	is_a	FBbt_00053159	metathoracic intracoxal trochanter depressor muscle motor neuron	intracoxal trochanter depressor muscle motor neuron
+VFB_jrmc06wu	Tr extensor MN_R (MaleCNS:838321)	is_a	FBbt_00053157	prothoracic intracoxal trochanter depressor muscle motor neuron	intracoxal trochanter depressor muscle motor neuron
+VFB_jrmc06wu	Tr extensor MN_R (MaleCNS:838321)	is_a	FBbt_00053158	mesothoracic intracoxal trochanter depressor muscle motor neuron	intracoxal trochanter depressor muscle motor neuron
+VFB_jrmc06xx	Tr flexor MN_R (MaleCNS:914655)	is_a	FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xx	Tr flexor MN_R (MaleCNS:914655)	is_a	FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xx	Tr flexor MN_R (MaleCNS:914655)	is_a	FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06wv	Tr extensor MN_L (MaleCNS:803412)	is_a	FBbt_00053157	prothoracic intracoxal trochanter depressor muscle motor neuron	intracoxal trochanter depressor muscle motor neuron
+VFB_jrmc06wv	Tr extensor MN_L (MaleCNS:803412)	is_a	FBbt_00053159	metathoracic intracoxal trochanter depressor muscle motor neuron	intracoxal trochanter depressor muscle motor neuron
+VFB_jrmc06wv	Tr extensor MN_L (MaleCNS:803412)	is_a	FBbt_00053158	mesothoracic intracoxal trochanter depressor muscle motor neuron	intracoxal trochanter depressor muscle motor neuron
+VFB_jrmc0nmr	Ti extensor MN_R (MaleCNS:815678)	is_a	FBbt_00053123	metathoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
+VFB_jrmc0nmr	Ti extensor MN_R (MaleCNS:815678)	is_a	FBbt_00053121	prothoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
+VFB_jrmc0nmr	Ti extensor MN_R (MaleCNS:815678)	is_a	FBbt_00053122	mesothoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
+VFB_jrmc3jgu	Acc. tr flexor MN_R (MaleCNS:1050349786)	is_a	FBbt_00053116	metathoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgu	Acc. tr flexor MN_R (MaleCNS:1050349786)	is_a	FBbt_00053115	mesothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgu	Acc. tr flexor MN_R (MaleCNS:1050349786)	is_a	FBbt_00053114	prothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jg6	Acc. ti flexor MN_R (MaleCNS:907848)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jg6	Acc. ti flexor MN_R (MaleCNS:907848)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jg6	Acc. ti flexor MN_R (MaleCNS:907848)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc02ue	ltm2-femur MN_R (MaleCNS:908673)	is_a	FBbt_00053148	metathoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc02ue	ltm2-femur MN_R (MaleCNS:908673)	is_a	FBbt_00052600	prothoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc02ue	ltm2-femur MN_R (MaleCNS:908673)	is_a	FBbt_00053147	mesothoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc2t94	Fe reductor MN_R (MaleCNS:905145)	is_a	FBbt_00053119	metathoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc2t94	Fe reductor MN_R (MaleCNS:905145)	is_a	FBbt_00053117	prothoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc2t94	Fe reductor MN_R (MaleCNS:905145)	is_a	FBbt_00053118	mesothoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc0nmc	Tergotr. MN_R (MaleCNS:924716)	is_a	FBbt_00053156	metathoracic tergotrochanter extensor muscle motor neuron	prothoracic tergotrochanter extensor muscle motor neuron
+VFB_jrmc0nmc	Tergotr. MN_R (MaleCNS:924716)	is_a	FBbt_00007406	mesothoracic tergotrochanter muscle motor neuron	prothoracic tergotrochanter extensor muscle motor neuron
+VFB_jrmc02uf	ltm2-femur MN_R (MaleCNS:1050174251)	is_a	FBbt_00053148	metathoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc02uf	ltm2-femur MN_R (MaleCNS:1050174251)	is_a	FBbt_00052600	prothoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc02uf	ltm2-femur MN_R (MaleCNS:1050174251)	is_a	FBbt_00053147	mesothoracic femoral pretarsal depressor muscle motor neuron	Notch OFF hemilineage neuron|femoral pretarsal depressor muscle motor neuron
+VFB_jrmc2t95	Fe reductor MN_L (MaleCNS:814163)	is_a	FBbt_00053119	metathoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc2t95	Fe reductor MN_L (MaleCNS:814163)	is_a	FBbt_00053117	prothoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc2t95	Fe reductor MN_L (MaleCNS:814163)	is_a	FBbt_00053118	mesothoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc2t96	Fe reductor MN_L (MaleCNS:804941)	is_a	FBbt_00053118	mesothoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc2t96	Fe reductor MN_L (MaleCNS:804941)	is_a	FBbt_00053117	prothoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc2t96	Fe reductor MN_L (MaleCNS:804941)	is_a	FBbt_00053119	metathoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc06xy	Tr flexor MN_L (MaleCNS:823168)	is_a	FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xy	Tr flexor MN_L (MaleCNS:823168)	is_a	FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xy	Tr flexor MN_L (MaleCNS:823168)	is_a	FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc1knx	Pleural remotor/abductor MN_R (MaleCNS:800553)	is_a	FBbt_00053151	metathoracic pleural remotor muscle motor neuron	pleural remotor motor neuron
+VFB_jrmc1knx	Pleural remotor/abductor MN_R (MaleCNS:800553)	is_a	FBbt_00053150	mesothoracic pleural remotor muscle motor neuron	pleural remotor motor neuron
+VFB_jrmc1a7x	Sternotrochanter MN_R (MaleCNS:801090)	is_a	FBbt_00053108	prothoracic sternotrochanter extensor muscle motor neuron	metathoracic sternotrochanter extensor muscle motor neuron
+VFB_jrmc0nms	Ti extensor MN_L (MaleCNS:800911)	is_a	FBbt_00053121	prothoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
+VFB_jrmc0nms	Ti extensor MN_L (MaleCNS:800911)	is_a	FBbt_00053123	metathoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
+VFB_jrmc0nms	Ti extensor MN_L (MaleCNS:800911)	is_a	FBbt_00053122	mesothoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
+VFB_jrmc1kny	Pleural remotor/abductor MN_L (MaleCNS:800175)	is_a	FBbt_00053150	mesothoracic pleural remotor muscle motor neuron	pleural remotor motor neuron
+VFB_jrmc1kny	Pleural remotor/abductor MN_L (MaleCNS:800175)	is_a	FBbt_00053151	metathoracic pleural remotor muscle motor neuron	pleural remotor motor neuron
+VFB_jrmc1a7j	Sternal posterior rotator MN_L (MaleCNS:801492)	is_a	FBbt_00053103	prothoracic sternal posterior rotator muscle motor neuron	Notch OFF hemilineage neuron|metathoracic sternal posterior rotator muscle motor neuron
+VFB_jrmc1a7k	Sternal posterior rotator MN_L (MaleCNS:801715)	is_a	FBbt_00053103	prothoracic sternal posterior rotator muscle motor neuron	Notch OFF hemilineage neuron|metathoracic sternal posterior rotator muscle motor neuron
+VFB_jrmc1a6z	Sternal anterior rotator MN (MaleCNS:802215)	is_a	FBbt_00053101	prothoracic sternal anterior rotator muscle motor neuron	metathoracic sternal anterior rotator muscle motor neuron
+VFB_jrmc1a7l	Sternal posterior rotator MN_L (MaleCNS:802964)	is_a	FBbt_00053103	prothoracic sternal posterior rotator muscle motor neuron	Notch OFF hemilineage neuron|metathoracic sternal posterior rotator muscle motor neuron
+VFB_jrmc1a7y	Sternotrochanter MN_L (MaleCNS:828978)	is_a	FBbt_00053108	prothoracic sternotrochanter extensor muscle motor neuron	metathoracic sternotrochanter extensor muscle motor neuron
+VFB_jrmc06ww	Tr extensor MN_L (MaleCNS:840981)	is_a	FBbt_00053159	metathoracic intracoxal trochanter depressor muscle motor neuron	intracoxal trochanter depressor muscle motor neuron
+VFB_jrmc06ww	Tr extensor MN_L (MaleCNS:840981)	is_a	FBbt_00053157	prothoracic intracoxal trochanter depressor muscle motor neuron	intracoxal trochanter depressor muscle motor neuron
+VFB_jrmc06ww	Tr extensor MN_L (MaleCNS:840981)	is_a	FBbt_00053158	mesothoracic intracoxal trochanter depressor muscle motor neuron	intracoxal trochanter depressor muscle motor neuron
+VFB_jrmc3jg7	Acc. ti flexor MN_R (MaleCNS:1052521030)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jg7	Acc. ti flexor MN_R (MaleCNS:1052521030)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jg7	Acc. ti flexor MN_R (MaleCNS:1052521030)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jg8	Acc. ti flexor MN_R (MaleCNS:812531)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jg8	Acc. ti flexor MN_R (MaleCNS:812531)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jg8	Acc. ti flexor MN_R (MaleCNS:812531)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc1knz	Pleural remotor/abductor MN_R (MaleCNS:800290)	is_a	FBbt_00053151	metathoracic pleural remotor muscle motor neuron	pleural remotor motor neuron
+VFB_jrmc1knz	Pleural remotor/abductor MN_R (MaleCNS:800290)	is_a	FBbt_00053150	mesothoracic pleural remotor muscle motor neuron	pleural remotor motor neuron
+VFB_jrmc1a7z	Sternotrochanter MN_R (MaleCNS:801148)	is_a	FBbt_00053108	prothoracic sternotrochanter extensor muscle motor neuron	metathoracic sternotrochanter extensor muscle motor neuron
+VFB_jrmc1a80	Sternotrochanter MN_R (MaleCNS:801375)	is_a	FBbt_00053108	prothoracic sternotrochanter extensor muscle motor neuron	metathoracic sternotrochanter extensor muscle motor neuron
+VFB_jrmc06wx	Tr extensor MN_R (MaleCNS:808453)	is_a	FBbt_00053159	metathoracic intracoxal trochanter depressor muscle motor neuron	intracoxal trochanter depressor muscle motor neuron
+VFB_jrmc06wx	Tr extensor MN_R (MaleCNS:808453)	is_a	FBbt_00053158	mesothoracic intracoxal trochanter depressor muscle motor neuron	intracoxal trochanter depressor muscle motor neuron
+VFB_jrmc06wx	Tr extensor MN_R (MaleCNS:808453)	is_a	FBbt_00053157	prothoracic intracoxal trochanter depressor muscle motor neuron	intracoxal trochanter depressor muscle motor neuron
+VFB_jrmc1a7m	Sternal posterior rotator MN_R (MaleCNS:903643)	is_a	FBbt_00053103	prothoracic sternal posterior rotator muscle motor neuron	Notch OFF hemilineage neuron|metathoracic sternal posterior rotator muscle motor neuron
+VFB_jrmc06y0	Tr flexor MN_R (MaleCNS:801057)	is_a	FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06y0	Tr flexor MN_R (MaleCNS:801057)	is_a	FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06y0	Tr flexor MN_R (MaleCNS:801057)	is_a	FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc0nmd	Tergotr. MN_R (MaleCNS:806204)	is_a	FBbt_00053107	prothoracic tergotrochanter extensor muscle motor neuron	mesothoracic tergotrochanter muscle motor neuron
+VFB_jrmc0nmd	Tergotr. MN_R (MaleCNS:806204)	is_a	FBbt_00053156	metathoracic tergotrochanter extensor muscle motor neuron	mesothoracic tergotrochanter muscle motor neuron
+VFB_jrmc06wy	Tr extensor MN_R (MaleCNS:840530)	is_a	FBbt_00053159	metathoracic intracoxal trochanter depressor muscle motor neuron	intracoxal trochanter depressor muscle motor neuron
+VFB_jrmc06wy	Tr extensor MN_R (MaleCNS:840530)	is_a	FBbt_00053157	prothoracic intracoxal trochanter depressor muscle motor neuron	intracoxal trochanter depressor muscle motor neuron
+VFB_jrmc06wy	Tr extensor MN_R (MaleCNS:840530)	is_a	FBbt_00053158	mesothoracic intracoxal trochanter depressor muscle motor neuron	intracoxal trochanter depressor muscle motor neuron
+VFB_jrmc06xz	Tr flexor MN_R (MaleCNS:801058)	is_a	FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xz	Tr flexor MN_R (MaleCNS:801058)	is_a	FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06xz	Tr flexor MN_R (MaleCNS:801058)	is_a	FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc1a81	Sternotrochanter MN_L (MaleCNS:800504)	is_a	FBbt_00053108	prothoracic sternotrochanter extensor muscle motor neuron	metathoracic sternotrochanter extensor muscle motor neuron
+VFB_jrmc1a82	Sternotrochanter MN_L (MaleCNS:800851)	is_a	FBbt_00053108	prothoracic sternotrochanter extensor muscle motor neuron	metathoracic sternotrochanter extensor muscle motor neuron
+VFB_jrmc1a70	Sternal anterior rotator MN_L (MaleCNS:801548)	is_a	FBbt_00053101	prothoracic sternal anterior rotator muscle motor neuron	metathoracic sternal anterior rotator muscle motor neuron
+VFB_jrmc1a7n	Sternal posterior rotator MN_R (MaleCNS:801761)	is_a	FBbt_00053103	prothoracic sternal posterior rotator muscle motor neuron	Notch OFF hemilineage neuron|mesothoracic sternal posterior rotator muscle motor neuron
+VFB_jrmc1a7o	Sternal posterior rotator MN_R (MaleCNS:802521)	is_a	FBbt_00053103	prothoracic sternal posterior rotator muscle motor neuron	Notch OFF hemilineage neuron|mesothoracic sternal posterior rotator muscle motor neuron
+VFB_jrmc0nmt	Ti extensor MN_R (MaleCNS:830514)	is_a	FBbt_00053122	mesothoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
+VFB_jrmc0nmt	Ti extensor MN_R (MaleCNS:830514)	is_a	FBbt_00053123	metathoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
+VFB_jrmc0nmt	Ti extensor MN_R (MaleCNS:830514)	is_a	FBbt_00053121	prothoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
+VFB_jrmc0nme	Tergotr. MN_L (MaleCNS:813755)	is_a	FBbt_00053107	prothoracic tergotrochanter extensor muscle motor neuron	mesothoracic tergotrochanter muscle motor neuron
+VFB_jrmc0nme	Tergotr. MN_L (MaleCNS:813755)	is_a	FBbt_00053156	metathoracic tergotrochanter extensor muscle motor neuron	mesothoracic tergotrochanter muscle motor neuron
+VFB_jrmc3jg9	Acc. ti flexor MN_R (MaleCNS:805568)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jg9	Acc. ti flexor MN_R (MaleCNS:805568)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jg9	Acc. ti flexor MN_R (MaleCNS:805568)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc06wz	Tr extensor MN_R (MaleCNS:814942)	is_a	FBbt_00053159	metathoracic intracoxal trochanter depressor muscle motor neuron	Notch ON hemilineage neuron|intracoxal trochanter depressor muscle motor neuron
+VFB_jrmc06wz	Tr extensor MN_R (MaleCNS:814942)	is_a	FBbt_00053157	prothoracic intracoxal trochanter depressor muscle motor neuron	Notch ON hemilineage neuron|intracoxal trochanter depressor muscle motor neuron
+VFB_jrmc06wz	Tr extensor MN_R (MaleCNS:814942)	is_a	FBbt_00053158	mesothoracic intracoxal trochanter depressor muscle motor neuron	Notch ON hemilineage neuron|intracoxal trochanter depressor muscle motor neuron
+VFB_jrmc06y1	Tr flexor MN_R (MaleCNS:910095)	is_a	FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06y1	Tr flexor MN_R (MaleCNS:910095)	is_a	FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc06y1	Tr flexor MN_R (MaleCNS:910095)	is_a	FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	Notch OFF hemilineage neuron|intracoxal trochanter levator muscle motor neuron
+VFB_jrmc1a83	Sternotrochanter MN_L (MaleCNS:801685)	is_a	FBbt_00053155	metathoracic sternotrochanter extensor muscle motor neuron	prothoracic sternotrochanter extensor muscle motor neuron
+VFB_jrmc0nmf	Tergotr. MN_L (MaleCNS:803237)	is_a	FBbt_00007406	mesothoracic tergotrochanter muscle motor neuron	prothoracic tergotrochanter extensor muscle motor neuron
+VFB_jrmc0nmf	Tergotr. MN_L (MaleCNS:803237)	is_a	FBbt_00053156	metathoracic tergotrochanter extensor muscle motor neuron	prothoracic tergotrochanter extensor muscle motor neuron
+VFB_jrmc1a84	Sternotrochanter MN_R (MaleCNS:802864)	is_a	FBbt_00053108	prothoracic sternotrochanter extensor muscle motor neuron	mesothoracic sternotrochanter extensor muscle motor neuron
+VFB_jrmc1a84	Sternotrochanter MN_R (MaleCNS:802864)	is_a	FBbt_00053155	metathoracic sternotrochanter extensor muscle motor neuron	mesothoracic sternotrochanter extensor muscle motor neuron
+VFB_jrmc1a7q	Sternal posterior rotator MN_R (MaleCNS:800962)	is_a	FBbt_00053103	prothoracic sternal posterior rotator muscle motor neuron	Notch OFF hemilineage neuron|mesothoracic sternal posterior rotator muscle motor neuron
+VFB_jrmc1a72	Sternal anterior rotator MN_R (MaleCNS:801813)	is_a	FBbt_00053101	prothoracic sternal anterior rotator muscle motor neuron	mesothoracic sternal anterior rotator muscle motor neuron
+VFB_jrmc1a6w	Sternal adductor MN_R (MaleCNS:909371)	is_a	FBbt_00053102	prothoracic sternal adductor muscle motor neuron	mesothoracic sternal adductor muscle motor neuron
+VFB_jrmc3jgv	Acc. tr flexor MN_R (MaleCNS:810720)	is_a	FBbt_00053116	metathoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgv	Acc. tr flexor MN_R (MaleCNS:810720)	is_a	FBbt_00053114	prothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgv	Acc. tr flexor MN_R (MaleCNS:810720)	is_a	FBbt_00053115	mesothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc1ko0	Pleural remotor/abductor MN_R (MaleCNS:803499)	is_a	FBbt_00053150	mesothoracic pleural remotor muscle motor neuron	pleural remotor motor neuron
+VFB_jrmc1ko0	Pleural remotor/abductor MN_R (MaleCNS:803499)	is_a	FBbt_00053151	metathoracic pleural remotor muscle motor neuron	pleural remotor motor neuron
+VFB_jrmc1ko1	Pleural remotor/abductor MN_R (MaleCNS:902719)	is_a	FBbt_00053151	metathoracic pleural remotor muscle motor neuron	pleural remotor motor neuron
+VFB_jrmc1ko1	Pleural remotor/abductor MN_R (MaleCNS:902719)	is_a	FBbt_00053150	mesothoracic pleural remotor muscle motor neuron	pleural remotor motor neuron
+VFB_jrmc3jga	Acc. ti flexor MN_R (MaleCNS:905235)	is_a	FBbt_00053132	metathoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jga	Acc. ti flexor MN_R (MaleCNS:905235)	is_a	FBbt_00053131	mesothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc3jga	Acc. ti flexor MN_R (MaleCNS:905235)	is_a	FBbt_00053130	prothoracic tibial depressor motor neuron	Notch OFF hemilineage neuron|tibial depressor motor neuron
+VFB_jrmc2t97	Fe reductor MN_L (MaleCNS:800578)	is_a	FBbt_00053118	mesothoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc2t97	Fe reductor MN_L (MaleCNS:800578)	is_a	FBbt_00053119	metathoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc2t97	Fe reductor MN_L (MaleCNS:800578)	is_a	FBbt_00053117	prothoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc06x0	Tr extensor MN_L (MaleCNS:805477)	is_a	FBbt_00053157	prothoracic intracoxal trochanter depressor muscle motor neuron	intracoxal trochanter depressor muscle motor neuron
+VFB_jrmc06x0	Tr extensor MN_L (MaleCNS:805477)	is_a	FBbt_00053158	mesothoracic intracoxal trochanter depressor muscle motor neuron	intracoxal trochanter depressor muscle motor neuron
+VFB_jrmc06x0	Tr extensor MN_L (MaleCNS:805477)	is_a	FBbt_00053159	metathoracic intracoxal trochanter depressor muscle motor neuron	intracoxal trochanter depressor muscle motor neuron
+VFB_jrmc2t98	Fe reductor MN_R (MaleCNS:902962)	is_a	FBbt_00053117	prothoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc2t98	Fe reductor MN_R (MaleCNS:902962)	is_a	FBbt_00053118	mesothoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc2t98	Fe reductor MN_R (MaleCNS:902962)	is_a	FBbt_00053119	metathoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc1ko2	Pleural remotor/abductor MN_L (MaleCNS:802509)	is_a	FBbt_00053150	mesothoracic pleural remotor muscle motor neuron	pleural remotor motor neuron
+VFB_jrmc1ko2	Pleural remotor/abductor MN_L (MaleCNS:802509)	is_a	FBbt_00053151	metathoracic pleural remotor muscle motor neuron	pleural remotor motor neuron
+VFB_jrmc1ko3	Pleural remotor/abductor MN_L (MaleCNS:803803)	is_a	FBbt_00053150	mesothoracic pleural remotor muscle motor neuron	pleural remotor motor neuron
+VFB_jrmc1ko3	Pleural remotor/abductor MN_L (MaleCNS:803803)	is_a	FBbt_00053151	metathoracic pleural remotor muscle motor neuron	pleural remotor motor neuron
+VFB_jrmc1a76	Sternal anterior rotator MN_R (MaleCNS:801946)	is_a	FBbt_00053101	prothoracic sternal anterior rotator muscle motor neuron	mesothoracic sternal anterior rotator muscle motor neuron
+VFB_jrmc1a7r	Sternal posterior rotator MN_L (MaleCNS:801768)	is_a	FBbt_00053103	prothoracic sternal posterior rotator muscle motor neuron	Notch OFF hemilineage neuron|mesothoracic sternal posterior rotator muscle motor neuron
+VFB_jrmc1a7s	Sternal posterior rotator MN_L (MaleCNS:803226)	is_a	FBbt_00053103	prothoracic sternal posterior rotator muscle motor neuron	Notch OFF hemilineage neuron|mesothoracic sternal posterior rotator muscle motor neuron
+VFB_jrmc1a75	Sternal anterior rotator MN_L (MaleCNS:832490)	is_a	FBbt_00053101	prothoracic sternal anterior rotator muscle motor neuron	mesothoracic sternal anterior rotator muscle motor neuron
+VFB_jrmc1a85	Sternotrochanter MN_R (MaleCNS:856359)	is_a	FBbt_00053108	prothoracic sternotrochanter extensor muscle motor neuron	mesothoracic sternotrochanter extensor muscle motor neuron
+VFB_jrmc1a85	Sternotrochanter MN_R (MaleCNS:856359)	is_a	FBbt_00053155	metathoracic sternotrochanter extensor muscle motor neuron	mesothoracic sternotrochanter extensor muscle motor neuron
+VFB_jrmc2t99	Fe reductor MN_R (MaleCNS:803830)	is_a	FBbt_00053117	prothoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc2t99	Fe reductor MN_R (MaleCNS:803830)	is_a	FBbt_00053118	mesothoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc2t99	Fe reductor MN_R (MaleCNS:803830)	is_a	FBbt_00053119	metathoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc0nmg	Tergotr. MN_L (MaleCNS:805741)	is_a	FBbt_00007406	mesothoracic tergotrochanter muscle motor neuron	prothoracic tergotrochanter extensor muscle motor neuron
+VFB_jrmc0nmg	Tergotr. MN_L (MaleCNS:805741)	is_a	FBbt_00053156	metathoracic tergotrochanter extensor muscle motor neuron	prothoracic tergotrochanter extensor muscle motor neuron
+VFB_jrmc3jgw	Acc. tr flexor MN_R (MaleCNS:807873)	is_a	FBbt_00053115	mesothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgw	Acc. tr flexor MN_R (MaleCNS:807873)	is_a	FBbt_00053114	prothoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc3jgw	Acc. tr flexor MN_R (MaleCNS:807873)	is_a	FBbt_00053116	metathoracic accessory trochanter levator muscle motor neuron	accessory trochanter levator muscle motor neuron
+VFB_jrmc1a7u	Sternal posterior rotator MN_R (MaleCNS:907256)	is_a	FBbt_00053103	prothoracic sternal posterior rotator muscle motor neuron	Notch OFF hemilineage neuron|metathoracic sternal posterior rotator muscle motor neuron
+VFB_jrmc06x1	Tr extensor MN_L (MaleCNS:807906)	is_a	FBbt_00053158	mesothoracic intracoxal trochanter depressor muscle motor neuron	Notch ON hemilineage neuron|intracoxal trochanter depressor muscle motor neuron
+VFB_jrmc06x1	Tr extensor MN_L (MaleCNS:807906)	is_a	FBbt_00053157	prothoracic intracoxal trochanter depressor muscle motor neuron	Notch ON hemilineage neuron|intracoxal trochanter depressor muscle motor neuron
+VFB_jrmc06x1	Tr extensor MN_L (MaleCNS:807906)	is_a	FBbt_00053159	metathoracic intracoxal trochanter depressor muscle motor neuron	Notch ON hemilineage neuron|intracoxal trochanter depressor muscle motor neuron
+VFB_jrmc1ko4	Pleural remotor/abductor MN_R (MaleCNS:800776)	is_a	FBbt_00053150	mesothoracic pleural remotor muscle motor neuron	pleural remotor motor neuron
+VFB_jrmc1ko4	Pleural remotor/abductor MN_R (MaleCNS:800776)	is_a	FBbt_00053151	metathoracic pleural remotor muscle motor neuron	pleural remotor motor neuron
+VFB_jrmc0nmh	Tergotr. MN_R (MaleCNS:905849)	is_a	FBbt_00053107	prothoracic tergotrochanter extensor muscle motor neuron	metathoracic tergotrochanter extensor muscle motor neuron
+VFB_jrmc0nmh	Tergotr. MN_R (MaleCNS:905849)	is_a	FBbt_00007406	mesothoracic tergotrochanter muscle motor neuron	metathoracic tergotrochanter extensor muscle motor neuron
+VFB_jrmc1a87	Sternotrochanter MN_L (MaleCNS:802407)	is_a	FBbt_00053108	prothoracic sternotrochanter extensor muscle motor neuron	mesothoracic sternotrochanter extensor muscle motor neuron
+VFB_jrmc1a87	Sternotrochanter MN_L (MaleCNS:802407)	is_a	FBbt_00053155	metathoracic sternotrochanter extensor muscle motor neuron	mesothoracic sternotrochanter extensor muscle motor neuron
+VFB_jrmc1a86	Sternotrochanter MN_L (MaleCNS:904657)	is_a	FBbt_00053108	prothoracic sternotrochanter extensor muscle motor neuron	mesothoracic sternotrochanter extensor muscle motor neuron
+VFB_jrmc1a86	Sternotrochanter MN_L (MaleCNS:904657)	is_a	FBbt_00053155	metathoracic sternotrochanter extensor muscle motor neuron	mesothoracic sternotrochanter extensor muscle motor neuron
+VFB_jrmc1a78	Sternal anterior rotator MN_R (MaleCNS:906235)	is_a	FBbt_00053101	prothoracic sternal anterior rotator muscle motor neuron	metathoracic sternal anterior rotator muscle motor neuron
+VFB_jrmc2t9a	Fe reductor MN_L (MaleCNS:805598)	is_a	FBbt_00053119	metathoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc2t9a	Fe reductor MN_L (MaleCNS:805598)	is_a	FBbt_00053117	prothoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc2t9a	Fe reductor MN_L (MaleCNS:805598)	is_a	FBbt_00053118	mesothoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc1a88	Sternotrochanter MN_L (MaleCNS:802361)	is_a	FBbt_00053155	metathoracic sternotrochanter extensor muscle motor neuron	prothoracic sternotrochanter extensor muscle motor neuron
+VFB_jrmc06x2	Tr extensor MN_L (MaleCNS:909078)	is_a	FBbt_00053159	metathoracic intracoxal trochanter depressor muscle motor neuron	Notch ON hemilineage neuron|intracoxal trochanter depressor muscle motor neuron
+VFB_jrmc06x2	Tr extensor MN_L (MaleCNS:909078)	is_a	FBbt_00053158	mesothoracic intracoxal trochanter depressor muscle motor neuron	Notch ON hemilineage neuron|intracoxal trochanter depressor muscle motor neuron
+VFB_jrmc06x2	Tr extensor MN_L (MaleCNS:909078)	is_a	FBbt_00053157	prothoracic intracoxal trochanter depressor muscle motor neuron	Notch ON hemilineage neuron|intracoxal trochanter depressor muscle motor neuron
+VFB_jrmc0nmi	Tergotr. MN_L (MaleCNS:804465)	is_a	FBbt_00053156	metathoracic tergotrochanter extensor muscle motor neuron	prothoracic tergotrochanter extensor muscle motor neuron
+VFB_jrmc0nmi	Tergotr. MN_L (MaleCNS:804465)	is_a	FBbt_00007406	mesothoracic tergotrochanter muscle motor neuron	prothoracic tergotrochanter extensor muscle motor neuron
+VFB_jrmc1a79	Sternal anterior rotator MN_L (MaleCNS:903689)	is_a	FBbt_00053101	prothoracic sternal anterior rotator muscle motor neuron	mesothoracic sternal anterior rotator muscle motor neuron
+VFB_jrmc2t9b	Fe reductor MN_L (MaleCNS:804025)	is_a	FBbt_00053119	metathoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc2t9b	Fe reductor MN_L (MaleCNS:804025)	is_a	FBbt_00053118	mesothoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc2t9b	Fe reductor MN_L (MaleCNS:804025)	is_a	FBbt_00053117	prothoracic femoral reductor muscle motor neuron	Notch OFF hemilineage neuron|femoral reductor muscle motor neuron
+VFB_jrmc0nmj	Tergotr. MN_R (MaleCNS:909521)	is_a	FBbt_00053156	metathoracic tergotrochanter extensor muscle motor neuron	prothoracic tergotrochanter extensor muscle motor neuron
+VFB_jrmc0nmj	Tergotr. MN_R (MaleCNS:909521)	is_a	FBbt_00007406	mesothoracic tergotrochanter muscle motor neuron	prothoracic tergotrochanter extensor muscle motor neuron
+VFB_jrmc1a89	Sternotrochanter MN_R (MaleCNS:801079)	is_a	FBbt_00053155	metathoracic sternotrochanter extensor muscle motor neuron	prothoracic sternotrochanter extensor muscle motor neuron
+VFB_jrmc0nmv	Ti extensor MN_L (MaleCNS:815344)	is_a	FBbt_00053123	metathoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
+VFB_jrmc0nmv	Ti extensor MN_L (MaleCNS:815344)	is_a	FBbt_00053122	mesothoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
+VFB_jrmc0nmv	Ti extensor MN_L (MaleCNS:815344)	is_a	FBbt_00053121	prothoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
+VFB_jrmc2t9c	Fe reductor MN_L (MaleCNS:812111)	is_a	FBbt_00053117	prothoracic femoral reductor muscle motor neuron	femoral reductor muscle motor neuron
+VFB_jrmc2t9c	Fe reductor MN_L (MaleCNS:812111)	is_a	FBbt_00053119	metathoracic femoral reductor muscle motor neuron	femoral reductor muscle motor neuron
+VFB_jrmc2t9c	Fe reductor MN_L (MaleCNS:812111)	is_a	FBbt_00053118	mesothoracic femoral reductor muscle motor neuron	femoral reductor muscle motor neuron
+VFB_jrmc1ko5	Pleural remotor/abductor MN_L (MaleCNS:902492)	is_a	FBbt_00053151	metathoracic pleural remotor muscle motor neuron	pleural remotor motor neuron
+VFB_jrmc1ko5	Pleural remotor/abductor MN_L (MaleCNS:902492)	is_a	FBbt_00053150	mesothoracic pleural remotor muscle motor neuron	pleural remotor motor neuron
+VFB_jrmc0nmu	Ti extensor MN_R (MaleCNS:800158)	is_a	FBbt_00053122	mesothoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
+VFB_jrmc0nmu	Ti extensor MN_R (MaleCNS:800158)	is_a	FBbt_00053121	prothoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
+VFB_jrmc0nmu	Ti extensor MN_R (MaleCNS:800158)	is_a	FBbt_00053123	metathoracic tibial levator muscle motor neuron	tibial levator muscle motor neuron
