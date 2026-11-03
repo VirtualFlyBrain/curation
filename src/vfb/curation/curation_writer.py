@@ -59,6 +59,40 @@ class VfbInd:
 
             self._stat = False
 
+def record_label_candidates(record):
+    """Every KB label (non-breaking spaces as spaces) that an object lookup for
+    this record could be asked for.
+
+    Lookups are keyed on escape_string_for_neo(label) and are queried with values
+    from the record: tsv cells (split on '|' for 'multiple' columns) and yaml
+    values, sometimes escaped first and sometimes not. So for each value v the
+    KB label may be v itself or v with the escaping undone.
+    """
+    values = set()
+
+    def add(v):
+        if isinstance(v, (list, tuple, set)):
+            for x in v:
+                add(x)
+        elif isinstance(v, str) and v:
+            for p in v.split('|'):
+                for q in (p, p.strip()):
+                    if q:
+                        values.add(q)
+                        values.add(q.replace('\\"', '"').replace('\\\\', '\\'))
+
+    tsv = getattr(record, 'tsv', None)
+    if tsv is not None:
+        for col in tsv.columns:
+            for v in tsv[col].dropna().unique():
+                add(v)
+    y = getattr(record, 'y', None)
+    if y:
+        for v in y.values():
+            add(v)
+    return values
+
+
 @dataclass  # post init step addition of attribute prevents adding frozen=True
 class LConf:
     """field = node attribute  to which regex restriction applies"""
@@ -145,17 +179,25 @@ class CurationWriter:
         if not lookup_config:
             return lookup
         
-        # Build all queries first, then execute in one batch
+        # Build all queries first, then execute in one batch.
+        # Only labels that occur in this record can ever be looked up, so each
+        # query is restricted to them (fetching every matching :Class, ~75k,
+        # for each of ~10 lookups took >4 GB per record).
+        labels = sorted(record_label_candidates(self.record))
         all_queries = []
-        
+
         for name, lcs in lookup_config.items():
             lookup[name] = {}
+            if not labels:
+                continue
             for c in lcs:
                 # Modified query to include lookup name in results
                 q = ("MATCH (c%s) WHERE c.%s =~ '%s' "
-                     "RETURN '%s' as lookup_name, c.label as label, c.short_form as short_form" 
+                     "AND replace(c.label, $nbsp, ' ') IN $labels "
+                     "RETURN '%s' as lookup_name, c.label as label, c.short_form as short_form"
                      % (c.neo_label_string, c.field, c.regex, name))
-                all_queries.append(q)
+                all_queries.append({'statement': q,
+                                    'parameters': {'labels': labels, 'nbsp': '\xa0'}})
         
         if not all_queries:
             return lookup
