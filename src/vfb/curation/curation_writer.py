@@ -669,7 +669,9 @@ class NewImageWriter(CurationWriter):
         elif self.record.type == 'ep':
             if row['driver'] in self.object_lookup['driver'].keys():
                 driver_id = self.object_lookup['driver'][row['driver']]
-                self.feature_mover.generate_expression_patterns(driver_id)
+                # buffered on feature_mover.ni/ew and written only by commit(), so a check without
+                # --commit writes nothing (VFB_neo4j#314)
+                self.feature_mover.generate_expression_patterns(driver_id, commit=False)
                 out['anatomical_type'] = 'VFBexp_' + driver_id
             else:
                 self.warn(context_name="row", context=dict(row),
@@ -740,6 +742,10 @@ class NewImageWriter(CurationWriter):
         if verbose:
             logging.info(f"Committing changes with ew_chunk_length={ew_chunk_length}, "
                         f"ni_chunk_length={ni_chunk_length}")
+        # Expression-pattern and feature nodes first (buffered by gen_pw_args), then the images that use them
+        for out in (self.feature_mover.ni.commit(), self.feature_mover.ew.commit()):
+            if out is False or (isinstance(out, list) and False in out):  # a failed chunk is a False in the list
+                self.stat = False
         if not self.pattern_writer.commit(ew_chunk_length=ew_chunk_length, ni_chunk_length=ni_chunk_length, verbose=verbose):
             self.stat = False
 
