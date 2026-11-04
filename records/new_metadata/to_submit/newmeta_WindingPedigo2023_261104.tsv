@@ -1,29 +1,29 @@
-subject_external_id	object	subject_external_db	relation
-3586984	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a
-3652587	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a
-3822523	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a
-3966683	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a
-4017089	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a
-4030526	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a
-4044654	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a
-4059758	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a
-4096703	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a
-4097554	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a
-5057916	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a
-5088293	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a
-5095269	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a
-5116147	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a
-5116861	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a
-5120097	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a
-5120990	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a
-5186461	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a
-9853425	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a
-16115501	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a
-3727004	larval corazonin neuron of pars lateralis	catmaid_l1em	is_a
-3727026	larval corazonin neuron of pars lateralis	catmaid_l1em	is_a
-3762787	larval corazonin neuron of pars lateralis	catmaid_l1em	is_a
-3926438	larval corazonin neuron of pars lateralis	catmaid_l1em	is_a
-3926669	larval corazonin neuron of pars lateralis	catmaid_l1em	is_a
-7476468	larval corazonin neuron of pars lateralis	catmaid_l1em	is_a
-4874953	larval subesophageal Capability neuron	catmaid_l1em	is_a
-5469039	larval subesophageal Capability neuron	catmaid_l1em	is_a
+subject_external_id	object	subject_external_db	relation	pub
+3586984	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a	FBrf0255988
+3652587	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a	FBrf0255988
+3822523	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a	FBrf0255988
+3966683	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a	FBrf0255988
+4017089	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a	FBrf0255988
+4030526	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a	FBrf0255988
+4044654	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a	FBrf0255988
+4059758	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a	FBrf0255988
+4096703	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a	FBrf0255988
+4097554	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a	FBrf0255988
+5057916	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a	FBrf0255988
+5088293	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a	FBrf0255988
+5095269	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a	FBrf0255988
+5116147	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a	FBrf0255988
+5116861	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a	FBrf0255988
+5120097	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a	FBrf0255988
+5120990	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a	FBrf0255988
+5186461	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a	FBrf0255988
+9853425	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a	FBrf0255988
+16115501	gustatory receptor neuron of the dorsal organ	catmaid_l1em	is_a	FBrf0255988
+3727004	larval corazonin neuron of pars lateralis	catmaid_l1em	is_a	FBrf0255988
+3727026	larval corazonin neuron of pars lateralis	catmaid_l1em	is_a	FBrf0255988
+3762787	larval corazonin neuron of pars lateralis	catmaid_l1em	is_a	FBrf0255988
+3926438	larval corazonin neuron of pars lateralis	catmaid_l1em	is_a	FBrf0255988
+3926669	larval corazonin neuron of pars lateralis	catmaid_l1em	is_a	FBrf0255988
+7476468	larval corazonin neuron of pars lateralis	catmaid_l1em	is_a	FBrf0255988
+4874953	larval subesophageal Capability neuron	catmaid_l1em	is_a	FBrf0255988
+5469039	larval subesophageal Capability neuron	catmaid_l1em	is_a	FBrf0255988
