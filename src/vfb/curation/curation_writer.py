@@ -614,6 +614,53 @@ class NewImageWriter(CurationWriter):
         self.set_flybase_lookups()
         logging.info(f"NewImageWriter initialized for record: {self.record.cr.path}")
 
+    def record_anat_ids(self):
+        """The anat_ids given in this record (assigned up front by src/assign_ids.py)."""
+        if 'anat_id' not in self.record.tsv.columns:
+            return []
+        return [str(v).strip() for v in self.record.tsv['anat_id'] if str(v).strip()]
+
+    def find_already_loaded(self):
+        """anat_ids in this record that already exist in the KB as images of this record's DataSet: loaded by an
+        earlier (partial) run of the same record, so a rerun skips them instead of failing on them. An anat_id that
+        exists with any other DataSet is an error: the id belongs to something else."""
+        self.already_loaded = set()
+        ids = self.record_anat_ids()
+        if not ids:
+            return
+        dataset = str(self.record.y.get('DataSet', '')) if self.record.y else ''
+        q = ("MATCH (i:Individual) WHERE i.short_form IN $ids "
+             "OPTIONAL MATCH (i)-[:has_source]->(d:DataSet) "
+             "RETURN i.short_form AS id, collect(d.short_form) + collect(d.label) AS ds")
+        r = self.pattern_writer.ni.nc.commit_list([{'statement': q, 'parameters': {'ids': ids}}])
+        if r is False:
+            self.warn(context_name="record", context=self.record.cr.path,
+                      message="Could not check which anat_ids are already in the KB.")
+            return
+        for row in r[0]['data']:
+            sf, ds = row['row']
+            if dataset and dataset in ds:
+                self.already_loaded.add(sf)
+            else:
+                self.warn(context_name="anat_id", context=sf,
+                          message="anat_id %s is already in the KB but not as an image of %s (%s); "
+                                  "it cannot be reused." % (sf, dataset, ', '.join(ds) or 'no DataSet'))
+
+    def write_rows(self, verbose=False, start='100000', allow_duplicates=False):
+        self.find_already_loaded()
+        if self.already_loaded:
+            print("%d row(s) of %s already loaded with their anat_id; skipping them."
+                  % (len(self.already_loaded), self.record.cr.path))
+        return super(NewImageWriter, self).write_rows(verbose=verbose, start=start,
+                                                      allow_duplicates=allow_duplicates)
+
+    def release_reservations(self):
+        """After a successful commit: drop the KB id reservations for this record's anat_ids."""
+        ids = self.record_anat_ids()
+        if ids and hasattr(self.pattern_writer, 'release_ids'):
+            if not self.pattern_writer.release_ids(ids):
+                logging.warning("Could not release the id reservations for %s" % self.record.cr.path)
+
     def set_flybase_lookups(self):
         fb_feat_columns = [k for k, v in self.record.spec.items()
                                    if 'flybase_feature' in v.keys()
@@ -725,6 +772,10 @@ class NewImageWriter(CurationWriter):
             return False
 
     def write_row(self, row, start='100000', allow_duplicates=False):
+        aid = str(row.get('anat_id', '')).strip() if 'anat_id' in row else ''
+        if aid and aid in getattr(self, 'already_loaded', ()):
+            logging.info("Skipping %s: already loaded" % aid)
+            return
         kwargs = self.gen_pw_args(row, start=start)
         if kwargs:
             logging.debug(f"Writing row with arguments: {kwargs}")
