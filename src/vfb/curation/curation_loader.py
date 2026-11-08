@@ -58,6 +58,8 @@ def load_recs(path_to_specs, path_to_recs, endpoint, usr, pwd, commit=False, ver
                 if verbose:
                     print(f"Committing changes for {r.cr.path}")
                 niw.commit(verbose=verbose)
+                if niw.stat:
+                    niw.release_reservations()
             if not niw.stat:
                 stat = False
 
