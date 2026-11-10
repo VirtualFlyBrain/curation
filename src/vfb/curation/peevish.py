@@ -146,7 +146,8 @@ class Record:
                     general_spec = ruamel_yaml.safe_load(general_spec_file.read())
                     self.spec.update(general_spec)
         with open(spec_path + '/' + 'relations_spec.yaml', 'r') as rel_spec_file:
-            self.rel_spec = ruamel_yaml.safe_load(rel_spec_file.read())
+            # A relations spec with no relations (new_splits) loads as None.
+            self.rel_spec = ruamel_yaml.safe_load(rel_spec_file.read()) or {}
         for cr in cur_recs:
             if cr.ext == 'tsv':
                 self.tsv = pd.read_csv(cr.path, sep="\t")

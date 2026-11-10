@@ -1,5 +1,5 @@
 from .peevish import get_recs
-from .curation_writer import NewImageWriter, NewMetaDataWriter
+from .curation_writer import NewImageWriter, NewMetaDataWriter, NewSplitWriter
 from .deletion_writer import NewMetaDeletionWriter
 from .xref_writer import NewXrefWriter
 import warnings
@@ -103,6 +103,27 @@ def load_recs(path_to_specs, path_to_recs, endpoint, usr, pwd, commit=False, ver
                 ndw.commit(verbose=verbose)
             if not ndw.stat:
                 stat = False
+
+        elif r.gross_type == 'new_splits':
+            nsw = NewSplitWriter(endpoint, usr, pwd, r)
+            if not nsw.stat:
+                stat = False
+                warnings.warn("%s is not a valid record, not attempting to write" % str(r.cr))
+                continue
+            nsw.write_rows(verbose=verbose)
+            # Unlike new_metadata, one bad row stops the whole record: split classes are loaded from
+            # generated lists, so a failing row means the list (or FlyBase) needs fixing first.
+            if nsw.failures:
+                report_row_failures(r.cr.path, nsw.failures)
+            if not nsw.stat:
+                stat = False
+                continue
+            if commit:
+                if verbose:
+                    print(f"Committing split classes for {r.cr.path}")
+                if not nsw.commit(verbose=verbose):
+                    report_row_failures(r.cr.path, nsw.failures)
+                    stat = False
 
         elif r.gross_type == 'new_xrefs':
             nxw = NewXrefWriter(endpoint, usr, pwd, r)
