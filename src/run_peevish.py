@@ -110,10 +110,14 @@ if not load_records(path="new_metadata/"): stat = False
 # deletions after new_metadata, so replacement assertions are loaded first
 if not check_records(path="newmeta_deletions/"): stat = False
 if not load_records(path="newmeta_deletions/"): stat = False
-if not check_records(path="new_images/"): stat = False
-if not load_records(path="new_images/"): stat = False
+# split classes before images: split images refer to their split class
 if not check_records(path="new_splits/"): stat = False
 if not load_records(path="new_splits/"): stat = False
+if not check_records(path="new_images/"): stat = False
+if not load_records(path="new_images/"): stat = False
+# xrefs last, so they can point at entities added above
+if not check_records(path="new_xrefs/"): stat = False
+if not load_records(path="new_xrefs/"): stat = False
 
 if not stat:
     raise Exception("Failing records. See preceding warnings for details.")
