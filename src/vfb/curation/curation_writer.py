@@ -234,6 +234,16 @@ class CurationWriter:
         dc = self.feature_mover.query_fb(query)
         self.object_lookup[key] = {escape_string_for_neo(d['label']): d['short_form'] for d in dc}
 
+    def set_flybase_lookups(self):
+        fb_feat_columns = [k for k, v in self.record.spec.items()
+                                   if 'flybase_feature' in v.keys()
+                                   and v['flybase_feature']
+                                   and k in self.record.tsv.columns]
+
+        for c in fb_feat_columns:
+            features = set(self.record.tsv[c].dropna())
+            self.extend_lookup_from_flybase(features, key=c)
+
     def write_rows(self, verbose=False, start='100000', allow_duplicates=False):
         """
         Process all rows in the curation record.
@@ -366,37 +376,164 @@ class CurationWriter:
     def write_row(self, row, start=None, allow_duplicates=False):
         return False
 
+SPLIT_EP_CLASS = 'VFBext_0000010'  # expression pattern
+
+
 class NewSplitWriter(CurationWriter):
+    """Split expression pattern classes from a new_splits record: one row per split line.
 
-    def write_row(self, row, start=None):
-        logging.debug(f"Processing row: {row}")
-        
-        try:
-            s = [split(dbd=self.object_lookup['driver'][row['DBD']],
-                       ad=self.object_lookup['driver'][row['AD']],
-                       synonyms=row.get('synonyms', ''),
-                       xrefs=row.get('dbxrefs', ''))]
-            logging.debug(f"Split object created: {s}")
-            
-            self.feature_mover.gen_split_ep_feat(s, commit=False)
-            logging.debug("Feature mover generated split expression pattern feature without committing.")
-        
-        except Exception as e:
-            logging.error(f"Exception occurred while processing row: {row}, error: {e}")
-            raise
+    The class is the intersection of the line's two hemidrivers, short_form VFBexp_<DBD><AD>. Each half is given
+    as a FlyBase transposon id (AD_id / DBD_id, FBtp...) or by name (AD / DBD, looked up in FlyBase); if both are
+    given they must agree.
 
-    def commit(self):
-        logging.debug("Committing features...")
-        
-        ni = self.feature_mover.ni.commit()
-        ew = self.feature_mover.ew.commit()
-        
-        if not ew or not ni:
-            logging.error("Commit failed: ew or ni returned False.")
-            return False
-        else:
-            logging.debug("Commit successful.")
-            return True
+    Lines that share an AD + DBD pair are one class, so their rows are merged: every line's synonyms and xrefs.
+    A class already in the KB keeps its synonyms (the record's are added) and gains the record's xrefs (one edge
+    per accession, VFB_neo4j#323), so resubmitting a record changes nothing.
+
+    Any row that cannot be loaded (unknown hemidriver, a class label already used by another class) fails the
+    whole record: nothing is written. commit() writes in small requests and reads every class back.
+    """
+
+    batch_size = 500        # classes per gen_split_ep_feat call (one FlyBase lookup each)
+    statements_per_request = 200  # large requests to kbw have been reset mid-commit
+
+    def __init__(self, *args, **kwargs):
+        super(NewSplitWriter, self).__init__(*args, **kwargs)
+        self.set_flybase_lookups()
+        self.classes = {}
+        logging.info(f"NewSplitWriter initialized for record: {self.record.cr.path}")
+
+    def hemidriver(self, row, half):
+        """FBtp id for one half (AD or DBD) of a row, or None (reported)."""
+        fbid = str(row.get(half + '_id', '')).strip()
+        name = str(row.get(half, '')).strip()
+        by_name = self.object_lookup.get(half, {}).get(escape_string_for_neo(name)) if name else None
+        if fbid and not re.fullmatch(r'FBtp\d{7}', fbid):
+            self.warn(context_name="row", context=dict(row),
+                      message="%s_id '%s' is not a FlyBase transposon id (FBtp...)." % (half, fbid))
+            return None
+        if name and not by_name:
+            self.warn(context_name="row", context=dict(row),
+                      message="%s '%s' is not a current FlyBase feature name." % (half, name))
+            return None
+        if fbid and by_name and fbid != by_name:
+            self.warn(context_name="row", context=dict(row),
+                      message="%s '%s' is %s in FlyBase, not %s." % (half, name, by_name, fbid))
+            return None
+        if not (fbid or by_name):
+            self.warn(context_name="row", context=dict(row), message="No %s or %s_id." % (half, half))
+            return None
+        return fbid or by_name
+
+    @staticmethod
+    def cells(row, column):
+        return [v.strip() for v in str(row.get(column, '')).split('|') if v.strip()]
+
+    def write_rows(self, verbose=False, start=None, allow_duplicates=False):
+        """Check the rows and buffer the classes; nothing is written until commit()."""
+        self.record.tsv.fillna('', inplace=True)
+        for _, row in self.record.tsv.iterrows():
+            ad, dbd = self.hemidriver(row, 'AD'), self.hemidriver(row, 'DBD')
+            if not (ad and dbd):
+                continue
+            c = self.classes.setdefault('VFBexp_' + dbd + ad, {'ad': ad, 'dbd': dbd, 'synonyms': [], 'xrefs': []})
+            c['synonyms'] = list(dict.fromkeys(c['synonyms'] + self.cells(row, 'synonyms')))
+            c['xrefs'] = list(dict.fromkeys(c['xrefs'] + self.cells(row, 'dbxrefs')))
+        if self.stat and self.classes:
+            self.check_kb()
+        if verbose:
+            print("*** %d split class(es) from %d row(s) in %s"
+                  % (len(self.classes), len(self.record.tsv), self.record.cr.path))
+        return self.stat
+
+    def query(self, statement, **params):
+        r = self.feature_mover.ni.nc.commit_list([{'statement': statement, 'parameters': params}])
+        if not r:
+            raise RuntimeError("KB query failed: %s" % statement[:80])
+        return results_2_dict_list(r)
+
+    def check_kb(self):
+        """FlyBase names for the labels; the KB for existing classes and label clashes."""
+        fbids = sorted({c[h] for c in self.classes.values() for h in ('ad', 'dbd')})
+        feats = {}
+        for i in range(0, len(fbids), 1000):
+            feats.update(self.feature_mover.name_synonym_lookup(fbids[i:i + 1000]) or {})
+        for sf, c in self.classes.items():
+            missing = [f for f in (c['ad'], c['dbd']) if f not in feats]
+            if missing:
+                self.warn(context_name="class", context=sf, message="Not in FlyBase: %s" % ', '.join(missing))
+                continue
+            c['label'] = '%s ∩ %s expression pattern' % (feats[c['dbd']].label, feats[c['ad']].label)
+        if not self.stat:
+            return
+        sfs = list(self.classes)
+        for i in range(0, len(sfs), 5000):
+            chunk = sfs[i:i + 5000]
+            for d in self.query("MATCH (c:Class) WHERE c.short_form IN $sfs "
+                                "RETURN c.short_form AS sf, coalesce(c.synonyms, []) AS synonyms", sfs=chunk):
+                c = self.classes[d['sf']]
+                c['existing'] = True
+                c['synonyms'] = list(dict.fromkeys(list(d['synonyms']) + c['synonyms']))
+            labels = [self.classes[sf]['label'] for sf in chunk]
+            for d in self.query("MATCH (c:Class) WHERE c.label IN $labels "
+                                "RETURN c.label AS label, c.short_form AS sf", labels=labels):
+                if d['sf'] not in self.classes or self.classes[d['sf']]['label'] != d['label']:
+                    self.warn(context_name="class", context=d['label'],
+                              message="This label is already used by %s." % d['sf'])
+
+    def commit(self, verbose=False):
+        """Write the buffered classes in batches, then read each batch back. Rerunnable: writes are MERGEs."""
+        sfs = list(self.classes)
+        for i in range(0, len(sfs), self.batch_size):
+            batch = sfs[i:i + self.batch_size]
+            self.feature_mover.gen_split_ep_feat(
+                [split(synonyms=self.classes[sf]['synonyms'], dbd=self.classes[sf]['dbd'],
+                       ad=self.classes[sf]['ad'], xrefs=self.classes[sf]['xrefs']) for sf in batch],
+                commit=False)
+            self.feature_mover.ni.commit(chunk_length=self.statements_per_request)
+            self.feature_mover.ew.commit(chunk_length=self.statements_per_request)
+            problems = self.verify(batch)
+            for sf, p in problems:
+                self.warn(context_name="class", context=sf, message="After commit: " + p)
+            if problems:
+                return False
+            if verbose:
+                print("Split classes %d-%d of %d written and checked" % (i + 1, i + len(batch), len(sfs)))
+        return True
+
+    def verify(self, sfs):
+        """Read classes back; returns [(short_form, problem)]."""
+        res = self.query('''
+            UNWIND $rows AS row
+            OPTIONAL MATCH (c:Class:Split:Expression_pattern {short_form: row.sf})
+            OPTIONAL MATCH (c)-[:SUBCLASSOF]->(ep:Class {short_form: $ep})
+            OPTIONAL MATCH (c)-[:has_hemidriver]->(h:Feature) WHERE h.short_form IN [row.ad, row.dbd]
+            WITH row, c, count(DISTINCT ep) AS n_ep, count(DISTINCT h) AS n_h
+            OPTIONAL MATCH (c)-[x:database_cross_reference|hasDbXref]->(s:Site)
+            RETURN row.sf AS sf, c IS NOT NULL AS exists, c.label AS label, coalesce(c.synonyms, []) AS synonyms,
+                   n_ep, n_h, collect(DISTINCT s.short_form + ':' + coalesce(x.accession[0], '')) AS xrefs''',
+            ep=SPLIT_EP_CLASS,
+            rows=[{'sf': sf, 'ad': self.classes[sf]['ad'], 'dbd': self.classes[sf]['dbd']} for sf in sfs])
+        found = {d['sf']: d for d in res}
+        problems = []
+        for sf in sfs:
+            c, d = self.classes[sf], found.get(sf)
+            if not d or not d['exists']:
+                problems.append((sf, 'class not found'))
+                continue
+            if d['label'] != c['label']:
+                problems.append((sf, "label is %r, expected %r" % (d['label'], c['label'])))
+            if d['n_ep'] != 1:
+                problems.append((sf, 'not a subclass of expression pattern'))
+            if d['n_h'] != 2:
+                problems.append((sf, '%d of 2 hemidrivers' % d['n_h']))
+            missing = [s for s in c['synonyms'] if s not in d['synonyms']]
+            if missing:
+                problems.append((sf, 'missing synonyms %s' % missing))
+            missing = [x for x in c['xrefs'] if x not in d['xrefs']]
+            if missing:
+                problems.append((sf, 'missing xrefs %s' % missing))
+        return problems
 
 
 class NewMetaDataWriter(CurationWriter):
@@ -660,16 +797,6 @@ class NewImageWriter(CurationWriter):
         if ids and hasattr(self.pattern_writer, 'release_ids'):
             if not self.pattern_writer.release_ids(ids):
                 logging.warning("Could not release the id reservations for %s" % self.record.cr.path)
-
-    def set_flybase_lookups(self):
-        fb_feat_columns = [k for k, v in self.record.spec.items()
-                                   if 'flybase_feature' in v.keys()
-                                   and v['flybase_feature']
-                                   and k in self.record.tsv.columns]
-
-        for c in fb_feat_columns:
-            features = set(self.record.tsv[c].dropna())
-            self.extend_lookup_from_flybase(features, key=c)
 
     def gen_pw_args(self, row, start):
         """
