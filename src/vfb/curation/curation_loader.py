@@ -1,6 +1,7 @@
 from .peevish import get_recs
 from .curation_writer import NewImageWriter, NewMetaDataWriter, NewSplitWriter
 from .deletion_writer import NewMetaDeletionWriter
+from .xref_writer import NewXrefWriter
 import warnings
 
 
@@ -123,6 +124,20 @@ def load_recs(path_to_specs, path_to_recs, endpoint, usr, pwd, commit=False, ver
                 if not nsw.commit(verbose=verbose):
                     report_row_failures(r.cr.path, nsw.failures)
                     stat = False
+
+        elif r.gross_type == 'new_xrefs':
+            nxw = NewXrefWriter(endpoint, usr, pwd, r)
+            nxw.check(allow_duplicates=allow_duplicates, verbose=verbose)
+            # As for newmeta, failing rows are skipped and reported; the rest are still added on commit.
+            if nxw.failures:
+                stat = False
+                report_row_failures(r.cr.path, nxw.failures)
+            if commit:
+                if verbose:
+                    print(f"Adding xrefs for {r.cr.path}")
+                nxw.commit(verbose=verbose)
+            if not nxw.stat:
+                stat = False
 
         elif r.gross_type == 'new_dataset':
             if verbose:
