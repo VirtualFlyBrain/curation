@@ -1,10 +1,13 @@
+import os
+import tempfile
 import unittest
 from collections import namedtuple
 from unittest import mock
 
 import pandas as pd
 
-from ..curation_writer import NewSplitWriter
+from ..curation_writer import CurationWriter, NewSplitWriter
+from ..peevish import Record, process_file_path
 
 Feat = namedtuple('Feat', ['label'])
 FEATS = {'FBtp0000001': Feat('P{R1-p65.AD}'), 'FBtp0000002': Feat('P{R2-GAL4.DBD}'),
@@ -97,6 +100,24 @@ class TestNewSplitWriter(unittest.TestCase):
         self.assertFalse(w.commit())
         self.assertEqual(w.feature_mover.gen_split_ep_feat.call_count, 1)
         self.assertFalse(w.stat)
+
+
+class TestNewSplitsRecord(unittest.TestCase):
+    """A new_splits record built from the repo's spec files (run from the repo root, like test_peevish)."""
+
+    def test_record_from_repo_spec(self):
+        with tempfile.TemporaryDirectory() as d:
+            os.makedirs(d + '/new_splits/to_submit')
+            path = d + '/new_splits/to_submit/split_test_261110.tsv'
+            pd.DataFrame([{'AD_id': 'FBtp0000001', 'DBD': 'P{R2-GAL4.DBD}', 'synonyms': 'SS1|JRC_SS1',
+                           'dbxrefs': 'FlyLightSplit:SS1'}]).to_csv(path, sep='\t', index=False)
+            rec = Record(spec_path='records/new_splits', cur_recs=(process_file_path(path),))
+        self.assertTrue(rec.stat)
+        self.assertEqual(rec.rel_spec, {})  # relations_spec.yaml is comment-only
+        w = object.__new__(CurationWriter)
+        w.record = rec
+        self.assertEqual(w._gen_lookup_config_by_rel(), {})
+        self.assertEqual(w.generate_relation_lookup(), {})
 
 
 if __name__ == '__main__':
