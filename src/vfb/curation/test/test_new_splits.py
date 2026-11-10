@@ -11,7 +11,7 @@ from ..peevish import Record, process_file_path
 
 Feat = namedtuple('Feat', ['label'])
 FEATS = {'FBtp0000001': Feat('P{R1-p65.AD}'), 'FBtp0000002': Feat('P{R2-GAL4.DBD}'),
-         'FBtp0000003': Feat('P{R3-p65.AD}')}
+         'FBtp0000003': Feat('P{R3-p65.AD}'), 'FBti0000004': Feat('TI{GAL4(DBD)::Zip-}x[DBD]')}
 
 
 def writer(rows, existing=(), labels=(), name_lookup=None):
@@ -52,6 +52,17 @@ class TestNewSplitWriter(unittest.TestCase):
         self.assertEqual(c['synonyms'], ['SS1', 'JRC_SS1', 'IS9'])
         self.assertEqual(c['xrefs'], ['FlyLightSplit:SS1', 'FlyLightRaw:IS9'])
         self.assertEqual(c['label'], 'P{R2-GAL4.DBD} ∩ P{R1-p65.AD} expression pattern')
+
+    def test_insertion_ids_accepted(self):
+        # MiMIC/Trojan and knock-in hemidrivers have an FBti and no FBtp in FlyBase.
+        w = writer([{'AD_id': 'FBtp0000001', 'DBD_id': 'FBti0000004', 'synonyms': 'SS2'}])
+        self.assertTrue(w.write_rows())
+        self.assertEqual(list(w.classes), ['VFBexp_FBti0000004FBtp0000001'])
+        self.assertEqual(w.classes['VFBexp_FBti0000004FBtp0000001']['label'],
+                         'TI{GAL4(DBD)::Zip-}x[DBD] ∩ P{R1-p65.AD} expression pattern')
+        w = writer([{'AD_id': 'FBtp0000001', 'DBD_id': 'FBal0000004'}])
+        self.assertFalse(w.write_rows())
+        self.assertIn('FBtp/FBti', w.failures[0]['message'])
 
     def test_names_resolved_and_must_agree_with_ids(self):
         names = {'AD': {'P{R1-p65.AD}': 'FBtp0000001'}, 'DBD': {'P{R2-GAL4.DBD}': 'FBtp0000002'}}
