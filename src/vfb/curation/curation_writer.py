@@ -59,6 +59,40 @@ class VfbInd:
 
             self._stat = False
 
+def record_label_candidates(record):
+    """Every KB label (non-breaking spaces as spaces) that an object lookup for
+    this record could be asked for.
+
+    Lookups are keyed on escape_string_for_neo(label) and are queried with values
+    from the record: tsv cells (split on '|' for 'multiple' columns) and yaml
+    values, sometimes escaped first and sometimes not. So for each value v the
+    KB label may be v itself or v with the escaping undone.
+    """
+    values = set()
+
+    def add(v):
+        if isinstance(v, (list, tuple, set)):
+            for x in v:
+                add(x)
+        elif isinstance(v, str) and v:
+            for p in v.split('|'):
+                for q in (p, p.strip()):
+                    if q:
+                        values.add(q)
+                        values.add(q.replace('\\"', '"').replace('\\\\', '\\'))
+
+    tsv = getattr(record, 'tsv', None)
+    if tsv is not None:
+        for col in tsv.columns:
+            for v in tsv[col].dropna().unique():
+                add(v)
+    y = getattr(record, 'y', None)
+    if y:
+        for v in y.values():
+            add(v)
+    return values
+
+
 @dataclass  # post init step addition of attribute prevents adding frozen=True
 class LConf:
     """field = node attribute  to which regex restriction applies"""
@@ -88,6 +122,9 @@ class CurationWriter:
         self.pub_mover = pubMover(endpoint, usr, pwd)
         self.ew = self.feature_mover.ew
         self.record = record
+        # Collected validation failures (row- or record-level) so that skipped
+        # rows can be reported without aborting the rest of the file.
+        self.failures = []
         self.object_lookup = self.generate_object_lookups()
         self.relation_lookup = self.generate_relation_lookup()
         self.stat = True
@@ -97,6 +134,9 @@ class CurationWriter:
         logging.warning("Error in record %s, %s\n %s\n:"
                         "" % (self.record.cr.name, context_name,
                               str(context)) + message)
+        self.failures.append({'context_name': context_name,
+                              'context': context,
+                              'message': message})
         if not stat:
             self.stat = False
 
@@ -130,24 +170,60 @@ class CurationWriter:
         Lookups are defined by standard config that specifies a config:
         name:field:regex, e.g. {'part_of': {'short_form': 'FBbt_.+'}}
         name should match the kwarg for which it is to be used.
+        
+        OPTIMIZED: Executes all queries in a single batch instead of sequentially.
         """
         lookup_config = conf
         lookup = {}
-        if lookup_config:
-            for name, lcs in lookup_config.items():
-                lookup[name] = {}
-                queries = []
-                for c in lcs:
-                    q = "MATCH (c%s) where c.%s =~ '%s' RETURN c.label as label, c.short_form as short_form" % (c.neo_label_string, c.field, c.regex)
-                    queries.append(q)
-                # Execute queries in batches
-                results = self.ew.nc.commit_list(queries)
-                if isinstance(results, str):
-                    logging.error(f"Unexpected result type: {results}")
-                    raise TypeError(f"Expected list of dicts but got string: {results}")
-                # Process results
-                r_dict = results_2_dict_list(results)
-                lookup[name].update({escape_string_for_neo(x['label']): x['short_form'] for x in r_dict})
+        
+        if not lookup_config:
+            return lookup
+        
+        # Build all queries first, then execute in one batch.
+        # Only labels that occur in this record can ever be looked up, so each
+        # query is restricted to them (fetching every matching :Class, ~75k,
+        # for each of ~10 lookups took >4 GB per record).
+        labels = sorted(record_label_candidates(self.record))
+        all_queries = []
+
+        for name, lcs in lookup_config.items():
+            lookup[name] = {}
+            if not labels:
+                continue
+            for c in lcs:
+                # Modified query to include lookup name in results
+                q = ("MATCH (c%s) WHERE c.%s =~ '%s' "
+                     "AND replace(c.label, $nbsp, ' ') IN $labels "
+                     "RETURN '%s' as lookup_name, c.label as label, c.short_form as short_form"
+                     % (c.neo_label_string, c.field, c.regex, name))
+                all_queries.append({'statement': q,
+                                    'parameters': {'labels': labels, 'nbsp': '\xa0'}})
+        
+        if not all_queries:
+            return lookup
+        
+        # Execute all queries in a single batch (major performance improvement)
+        try:
+            results = self.ew.nc.commit_list(all_queries)
+            
+            if isinstance(results, str):
+                logging.error(f"Unexpected result type from database: {results}")
+                raise TypeError(f"Expected list of dicts but got string: {results}")
+            
+            # Process all results
+            r_dict = results_2_dict_list(results)
+            
+            # Group results by lookup_name
+            for item in r_dict:
+                lookup_name = item.get('lookup_name', 'unknown')
+                if lookup_name in lookup:
+                    escaped_label = escape_string_for_neo(item['label'])
+                    lookup[lookup_name][escaped_label] = item['short_form']
+        
+        except Exception as e:
+            logging.error(f"Error generating lookups: {e}")
+            raise
+        
         return lookup
 
     def extend_lookup_from_flybase(self, features, key='expresses'):
@@ -158,68 +234,307 @@ class CurationWriter:
         dc = self.feature_mover.query_fb(query)
         self.object_lookup[key] = {escape_string_for_neo(d['label']): d['short_form'] for d in dc}
 
+    def set_flybase_lookups(self):
+        fb_feat_columns = [k for k, v in self.record.spec.items()
+                                   if 'flybase_feature' in v.keys()
+                                   and v['flybase_feature']
+                                   and k in self.record.tsv.columns]
+
+        for c in fb_feat_columns:
+            features = set(self.record.tsv[c].dropna())
+            self.extend_lookup_from_flybase(features, key=c)
+
     def write_rows(self, verbose=False, start='100000', allow_duplicates=False):
+        """
+        Process all rows in the curation record.
+        
+        OPTIMIZED: Pre-fill NaN values once for entire DataFrame instead of per-row.
+        OPTIMIZED: Pre-validate shared entities to avoid redundant DB queries per row.
+        """
         start_time = time.time()
         tot = len(self.record.tsv)
-        batch_size = 1000  # Set batch size
-        # Split the DataFrame into chunks
-        chunks = numpy.array_split(self.record.tsv, numpy.ceil(tot / batch_size))
-        for i, chunk in enumerate(chunks):
-            self.process_batch(chunk, start=start, allow_duplicates=allow_duplicates, verbose=verbose, start_time=start_time, tot=tot, i=(i+1)*batch_size)
-        if verbose:
-            self._time(start_time, tot, i=0, final=True)
-
-    def process_batch(self, batch, start, allow_duplicates, verbose, start_time, tot, i, final=False):
-        for _, row in batch.iterrows():
+        
+        # OPTIMIZATION: Pre-fill NaN values once for entire DataFrame
+        self.record.tsv.fillna('', inplace=True)
+        
+        # OPTIMIZATION: Pre-validate entities that are constant across all rows
+        # This populates the EntityChecker cache and avoids ~6-10 DB queries per row
+        # Only validate entities that are actually present in the YAML metadata
+        # IMPORTANT: Only cache entities that actually EXIST in the database, otherwise
+        # the cache will incorrectly skip validation for missing entities
+        # CRITICAL: Must validate using SHORT_FORMS (not labels) because that's what
+        # add_anatomy_image_set() validates, otherwise the cache won't hit!
+        if hasattr(self, 'record') and hasattr(self.record, 'y') and self.record.y:
+            entities_to_validate = []
+            
+            # Check what entities are available and queue them for validation
+            # (entity_name, labels, yaml_value)
+            if 'DataSet' in self.record.y and self.record.y['DataSet']:
+                entities_to_validate.append(('DataSet', ['DataSet'], self.record.y['DataSet']))
+            
+            if 'Template' in self.record.y and self.record.y['Template']:
+                entities_to_validate.append(('Template', ['Individual'], self.record.y['Template']))
+            
+            if 'Imaging_type' in self.record.y and self.record.y['Imaging_type']:
+                entities_to_validate.append(('Imaging_type', ['Class'], self.record.y['Imaging_type']))
+            
+            if 'Curator' in self.record.y and self.record.y['Curator']:
+                entities_to_validate.append(('Curator', ['Person'], self.record.y['Curator']))
+            
+            # Validate each entity individually and only cache those that exist
+            if entities_to_validate:
+                if verbose:
+                    entity_names = [e[0] for e in entities_to_validate]
+                    print(f"Pre-validating shared entities ({', '.join(entity_names)})...")
+                
+                cached_count = 0
+                for entity_name, labels, yaml_value in entities_to_validate:
+                    # Check if this field has a 'restriction' (means it goes through object_lookup)
+                    has_restriction = entity_name in self.record.spec and 'restriction' in self.record.spec[entity_name]
+                    
+                    if has_restriction:
+                        # Fields with restriction: convert label to short_form using object_lookup
+                        # This ensures we cache the same value that add_anatomy_image_set() will validate
+                        if entity_name in self.object_lookup and yaml_value in self.object_lookup[entity_name]:
+                            short_form = self.object_lookup[entity_name][yaml_value]
+                            
+                            # Queue this entity for validation using short_form
+                            self.pattern_writer.ec.roll_entity_check(
+                                labels=labels,
+                                query=short_form,
+                                match_on='short_form'
+                            )
+                            
+                            # Check if it exists - only cache if validation succeeds
+                            if self.pattern_writer.ec.check(hard_fail=False):
+                                cached_count += 1
+                                if verbose:
+                                    print(f"  ✓ {entity_name}: {yaml_value} ({short_form}) found and cached")
+                            else:
+                                # Entity doesn't exist - don't cache it, let per-row validation handle the error
+                                if short_form in self.pattern_writer.ec.cache:
+                                    self.pattern_writer.ec.cache.remove(short_form)
+                                if verbose:
+                                    print(f"  ✗ {entity_name}: {yaml_value} ({short_form}) not found (will validate per-row)")
+                        else:
+                            # Label not in lookup - will fail during row processing with proper error
+                            if verbose:
+                                print(f"  ✗ {entity_name}: {yaml_value} not in lookup (will validate per-row)")
+                    elif entity_name == 'Imaging_type':
+                        # Special case: Imaging_type is resolved via class_lookup, not validated as entity
+                        # add_anatomy_image_set() uses: self.class_lookup[imaging_type]
+                        # So we look it up in class_lookup and cache the IRI for validation
+                        if yaml_value in self.pattern_writer.class_lookup:
+                            class_iri = self.pattern_writer.class_lookup[yaml_value]
+                            # Cache the label (what gets passed to add_anatomy_image_set)
+                            # EntityChecker will see this cached and skip validation
+                            self.pattern_writer.ec.cache.append(yaml_value)
+                            cached_count += 1
+                            if verbose:
+                                print(f"  ✓ {entity_name}: {yaml_value} ({class_iri}) found in class_lookup and cached")
+                        else:
+                            if verbose:
+                                print(f"  ✗ {entity_name}: {yaml_value} not in class_lookup (will fail per-row)")
+                    else:
+                        # Fields without restriction: validate by short_form (e.g., DataSet)
+                        # These are passed as short_forms to add_anatomy_image_set()
+                        # add_anatomy_image_set() defaults to match_on='short_form'
+                        self.pattern_writer.ec.roll_entity_check(
+                            labels=labels,
+                            query=yaml_value,
+                            match_on='short_form'
+                        )
+                        
+                        # Check if it exists - only cache if validation succeeds
+                        if self.pattern_writer.ec.check(hard_fail=False):
+                            cached_count += 1
+                            if verbose:
+                                print(f"  ✓ {entity_name}: {yaml_value} found and cached")
+                        else:
+                            # Entity doesn't exist - don't cache it, let per-row validation handle the error
+                            if yaml_value in self.pattern_writer.ec.cache:
+                                self.pattern_writer.ec.cache.remove(yaml_value)
+                            if verbose:
+                                print(f"  ✗ {entity_name}: {yaml_value} not found (will validate per-row)")
+                
+                if verbose and cached_count > 0:
+                    print(f"Pre-validation complete. Cached {cached_count} entities will be reused for all rows.")
+        
+        # Iterate through rows using simple iteration to minimize overhead
+        for i, (index, row) in enumerate(self.record.tsv.iterrows(), 1):
             self.write_row(row, start=start, allow_duplicates=allow_duplicates)
+            
+            # Report progress every 1000 rows only to reduce overhead
+            if verbose and i % 1000 == 0:
+                elapsed = time.time() - start_time
+                print(f"On row {i} of {tot} at {timedelta(seconds=int(elapsed))}")
+        
         if verbose:
-            self._time(start_time, tot, i)
-        # Clear the batch to free memory
-        del batch
-        import gc
-        gc.collect()
-
-    def _time(self, start_time, tot, i, final=False):
-        t = round(time.time() - start_time, 3)
-        if not final:
-            print(f"On row {i} of {tot} at {timedelta(seconds=t)}")
-        else:
-            print(f"*** Completed checks and buffer loading on {tot} rows after {str(timedelta(seconds=t))}")
+            total_time = time.time() - start_time
+            print(f"*** Completed checks and buffer loading on {tot} rows after {timedelta(seconds=int(total_time))}")
 
     def write_row(self, row, start=None, allow_duplicates=False):
         return False
 
+SPLIT_EP_CLASS = 'VFBext_0000010'  # expression pattern
+
+
 class NewSplitWriter(CurationWriter):
+    """Split expression pattern classes from a new_splits record: one row per split line.
 
-    def write_row(self, row, start=None):
-        logging.debug(f"Processing row: {row}")
-        
-        try:
-            s = [split(dbd=self.object_lookup['driver'][row['DBD']],
-                       ad=self.object_lookup['driver'][row['AD']],
-                       synonyms=row.get('synonyms', ''),
-                       xrefs=row.get('dbxrefs', ''))]
-            logging.debug(f"Split object created: {s}")
-            
-            self.feature_mover.gen_split_ep_feat(s, commit=False)
-            logging.debug("Feature mover generated split expression pattern feature without committing.")
-        
-        except Exception as e:
-            logging.error(f"Exception occurred while processing row: {row}, error: {e}")
-            raise
+    The class is the intersection of the line's two hemidrivers, short_form VFBexp_<DBD><AD>. Each half is given
+    as a FlyBase transposon id (AD_id / DBD_id, FBtp...) or by name (AD / DBD, looked up in FlyBase); if both are
+    given they must agree.
 
-    def commit(self):
-        logging.debug("Committing features...")
-        
-        ni = self.feature_mover.ni.commit()
-        ew = self.feature_mover.ew.commit()
-        
-        if not ew or not ni:
-            logging.error("Commit failed: ew or ni returned False.")
-            return False
-        else:
-            logging.debug("Commit successful.")
-            return True
+    Lines that share an AD + DBD pair are one class, so their rows are merged: every line's synonyms and xrefs.
+    A class already in the KB keeps its synonyms (the record's are added) and gains the record's xrefs (one edge
+    per accession, VFB_neo4j#323), so resubmitting a record changes nothing.
+
+    Any row that cannot be loaded (unknown hemidriver, a class label already used by another class) fails the
+    whole record before anything is written. commit() writes in batches and reads each batch back, stopping at the
+    first bad one; batches already written stay in the KB, and as the writes are MERGEs the record can be rerun.
+    """
+
+    batch_size = 500        # classes per gen_split_ep_feat call (one FlyBase lookup each)
+    statements_per_request = 200  # large requests to kbw have been reset mid-commit
+
+    def __init__(self, *args, **kwargs):
+        super(NewSplitWriter, self).__init__(*args, **kwargs)
+        self.set_flybase_lookups()
+        self.classes = {}
+        logging.info(f"NewSplitWriter initialized for record: {self.record.cr.path}")
+
+    def hemidriver(self, row, half):
+        """FBtp id for one half (AD or DBD) of a row, or None (reported)."""
+        fbid = str(row.get(half + '_id', '')).strip()
+        name = str(row.get(half, '')).strip()
+        by_name = self.object_lookup.get(half, {}).get(escape_string_for_neo(name)) if name else None
+        if fbid and not re.fullmatch(r'FBtp\d{7}', fbid):
+            self.warn(context_name="row", context=dict(row),
+                      message="%s_id '%s' is not a FlyBase transposon id (FBtp...)." % (half, fbid))
+            return None
+        if name and not by_name:
+            self.warn(context_name="row", context=dict(row),
+                      message="%s '%s' is not a current FlyBase feature name." % (half, name))
+            return None
+        if fbid and by_name and fbid != by_name:
+            self.warn(context_name="row", context=dict(row),
+                      message="%s '%s' is %s in FlyBase, not %s." % (half, name, by_name, fbid))
+            return None
+        if not (fbid or by_name):
+            self.warn(context_name="row", context=dict(row), message="No %s or %s_id." % (half, half))
+            return None
+        return fbid or by_name
+
+    @staticmethod
+    def cells(row, column):
+        return [v.strip() for v in str(row.get(column, '')).split('|') if v.strip()]
+
+    def write_rows(self, verbose=False, start=None, allow_duplicates=False):
+        """Check the rows and buffer the classes; nothing is written until commit()."""
+        self.record.tsv.fillna('', inplace=True)
+        for _, row in self.record.tsv.iterrows():
+            ad, dbd = self.hemidriver(row, 'AD'), self.hemidriver(row, 'DBD')
+            if not (ad and dbd):
+                continue
+            c = self.classes.setdefault('VFBexp_' + dbd + ad, {'ad': ad, 'dbd': dbd, 'synonyms': [], 'xrefs': []})
+            c['synonyms'] = list(dict.fromkeys(c['synonyms'] + self.cells(row, 'synonyms')))
+            c['xrefs'] = list(dict.fromkeys(c['xrefs'] + self.cells(row, 'dbxrefs')))
+        if self.stat and self.classes:
+            self.check_kb()
+        if verbose:
+            print("*** %d split class(es) from %d row(s) in %s"
+                  % (len(self.classes), len(self.record.tsv), self.record.cr.path))
+        return self.stat
+
+    def query(self, statement, **params):
+        r = self.feature_mover.ni.nc.commit_list([{'statement': statement, 'parameters': params}])
+        if not r:
+            raise RuntimeError("KB query failed: %s" % statement[:80])
+        return results_2_dict_list(r)
+
+    def check_kb(self):
+        """FlyBase names for the labels; the KB for existing classes and label clashes."""
+        fbids = sorted({c[h] for c in self.classes.values() for h in ('ad', 'dbd')})
+        feats = {}
+        for i in range(0, len(fbids), 1000):
+            feats.update(self.feature_mover.name_synonym_lookup(fbids[i:i + 1000]) or {})
+        for sf, c in self.classes.items():
+            missing = [f for f in (c['ad'], c['dbd']) if f not in feats]
+            if missing:
+                self.warn(context_name="class", context=sf, message="Not in FlyBase: %s" % ', '.join(missing))
+                continue
+            c['label'] = '%s ∩ %s expression pattern' % (feats[c['dbd']].label, feats[c['ad']].label)
+        if not self.stat:
+            return
+        sfs = list(self.classes)
+        for i in range(0, len(sfs), 5000):
+            chunk = sfs[i:i + 5000]
+            for d in self.query("MATCH (c:Class) WHERE c.short_form IN $sfs "
+                                "RETURN c.short_form AS sf, coalesce(c.synonyms, []) AS synonyms", sfs=chunk):
+                c = self.classes[d['sf']]
+                c['existing'] = True
+                c['synonyms'] = list(dict.fromkeys(list(d['synonyms']) + c['synonyms']))
+            labels = [self.classes[sf]['label'] for sf in chunk]
+            for d in self.query("MATCH (c:Class) WHERE c.label IN $labels "
+                                "RETURN c.label AS label, c.short_form AS sf", labels=labels):
+                if d['sf'] not in self.classes or self.classes[d['sf']]['label'] != d['label']:
+                    self.warn(context_name="class", context=d['label'],
+                              message="This label is already used by %s." % d['sf'])
+
+    def commit(self, verbose=False):
+        """Write the buffered classes in batches, then read each batch back. Rerunnable: writes are MERGEs."""
+        sfs = list(self.classes)
+        for i in range(0, len(sfs), self.batch_size):
+            batch = sfs[i:i + self.batch_size]
+            self.feature_mover.gen_split_ep_feat(
+                [split(synonyms=self.classes[sf]['synonyms'], dbd=self.classes[sf]['dbd'],
+                       ad=self.classes[sf]['ad'], xrefs=self.classes[sf]['xrefs']) for sf in batch],
+                commit=False)
+            self.feature_mover.ni.commit(chunk_length=self.statements_per_request)
+            self.feature_mover.ew.commit(chunk_length=self.statements_per_request)
+            problems = self.verify(batch)
+            for sf, p in problems:
+                self.warn(context_name="class", context=sf, message="After commit: " + p)
+            if problems:
+                return False
+            if verbose:
+                print("Split classes %d-%d of %d written and checked" % (i + 1, i + len(batch), len(sfs)))
+        return True
+
+    def verify(self, sfs):
+        """Read classes back; returns [(short_form, problem)]."""
+        res = self.query('''
+            UNWIND $rows AS row
+            OPTIONAL MATCH (c:Class:Split:Expression_pattern {short_form: row.sf})
+            OPTIONAL MATCH (c)-[:SUBCLASSOF]->(ep:Class {short_form: $ep})
+            OPTIONAL MATCH (c)-[:has_hemidriver]->(h:Feature) WHERE h.short_form IN [row.ad, row.dbd]
+            WITH row, c, count(DISTINCT ep) AS n_ep, count(DISTINCT h) AS n_h
+            OPTIONAL MATCH (c)-[x:database_cross_reference|hasDbXref]->(s:Site)
+            RETURN row.sf AS sf, c IS NOT NULL AS exists, c.label AS label, coalesce(c.synonyms, []) AS synonyms,
+                   n_ep, n_h, collect(DISTINCT s.short_form + ':' + coalesce(x.accession[0], '')) AS xrefs''',
+            ep=SPLIT_EP_CLASS,
+            rows=[{'sf': sf, 'ad': self.classes[sf]['ad'], 'dbd': self.classes[sf]['dbd']} for sf in sfs])
+        found = {d['sf']: d for d in res}
+        problems = []
+        for sf in sfs:
+            c, d = self.classes[sf], found.get(sf)
+            if not d or not d['exists']:
+                problems.append((sf, 'class not found'))
+                continue
+            if d['label'] != c['label']:
+                problems.append((sf, "label is %r, expected %r" % (d['label'], c['label'])))
+            if d['n_ep'] != 1:
+                problems.append((sf, 'not a subclass of expression pattern'))
+            if d['n_h'] != 2:
+                problems.append((sf, '%d of 2 hemidrivers' % d['n_h']))
+            missing = [s for s in c['synonyms'] if s not in d['synonyms']]
+            if missing:
+                problems.append((sf, 'missing synonyms %s' % missing))
+            missing = [x for x in c['xrefs'] if x not in d['xrefs']]
+            if missing:
+                problems.append((sf, 'missing xrefs %s' % missing))
+        return problems
 
 
 class NewMetaDataWriter(CurationWriter):
@@ -231,7 +546,12 @@ class NewMetaDataWriter(CurationWriter):
         self.rels = self.get_rels()
         logging.info(f"NewMetaDataWriter initialized for record: {self.record.cr.path}")
 
-    def commit(self, chunk_length=1000, verbose=False):
+    def commit(self, chunk_length=5000, verbose=False):
+        """
+        Commit metadata changes to the database.
+        
+        OPTIMIZED: Increased default chunk_length from 1000 to 5000 for better performance.
+        """
         r = self.ew.commit(chunk_length=chunk_length, verbose=verbose)
         if False in r:
             self.stat = False
@@ -432,27 +752,71 @@ class NewImageWriter(CurationWriter):
         self.set_flybase_lookups()
         logging.info(f"NewImageWriter initialized for record: {self.record.cr.path}")
 
-    def set_flybase_lookups(self):
-        fb_feat_columns = [k for k, v in self.record.spec.items()
-                                   if 'flybase_feature' in v.keys()
-                                   and v['flybase_feature']
-                                   and k in self.record.tsv.columns]
+    def record_anat_ids(self):
+        """The anat_ids given in this record (assigned up front by src/assign_ids.py)."""
+        if 'anat_id' not in self.record.tsv.columns:
+            return []
+        return [str(v).strip() for v in self.record.tsv['anat_id'] if str(v).strip()]
 
-        for c in fb_feat_columns:
-            features = set(self.record.tsv[c].dropna())
-            self.extend_lookup_from_flybase(features, key=c)
+    def find_already_loaded(self):
+        """anat_ids in this record that already exist in the KB as images of this record's DataSet: loaded by an
+        earlier (partial) run of the same record, so a rerun skips them instead of failing on them. An anat_id that
+        exists with any other DataSet is an error: the id belongs to something else."""
+        self.already_loaded = set()
+        ids = self.record_anat_ids()
+        if not ids:
+            return
+        dataset = str(self.record.y.get('DataSet', '')) if self.record.y else ''
+        q = ("MATCH (i:Individual) WHERE i.short_form IN $ids "
+             "OPTIONAL MATCH (i)-[:has_source]->(d:DataSet) "
+             "RETURN i.short_form AS id, collect(d.short_form) + collect(d.label) AS ds")
+        r = self.pattern_writer.ni.nc.commit_list([{'statement': q, 'parameters': {'ids': ids}}])
+        if r is False:
+            self.warn(context_name="record", context=self.record.cr.path,
+                      message="Could not check which anat_ids are already in the KB.")
+            return
+        for row in r[0]['data']:
+            sf, ds = row['row']
+            if dataset and dataset in ds:
+                self.already_loaded.add(sf)
+            else:
+                self.warn(context_name="anat_id", context=sf,
+                          message="anat_id %s is already in the KB but not as an image of %s (%s); "
+                                  "it cannot be reused." % (sf, dataset, ', '.join(ds) or 'no DataSet'))
+
+    def write_rows(self, verbose=False, start='100000', allow_duplicates=False):
+        self.find_already_loaded()
+        if self.already_loaded:
+            print("%d row(s) of %s already loaded with their anat_id; skipping them."
+                  % (len(self.already_loaded), self.record.cr.path))
+        return super(NewImageWriter, self).write_rows(verbose=verbose, start=start,
+                                                      allow_duplicates=allow_duplicates)
+
+    def release_reservations(self):
+        """After a successful commit: drop the KB id reservations for this record's anat_ids."""
+        ids = self.record_anat_ids()
+        if ids and hasattr(self.pattern_writer, 'release_ids'):
+            if not self.pattern_writer.release_ids(ids):
+                logging.warning("Could not release the id reservations for %s" % self.record.cr.path)
 
     def gen_pw_args(self, row, start):
+        """
+        Generate pattern writer arguments from a row.
+        
+        OPTIMIZED: Removed redundant fillna() call since it's now done
+        at the DataFrame level in write_rows().
+        """
         stat = True
 
-        row.fillna('', inplace=True)
-        out = {}
-        out['start'] = start
+        # REMOVED: row.fillna('', inplace=True)  # Now done at DataFrame level
+        
+        out = {'start': start, 'anon_anatomical_types': []}
+        
+        # Pre-initialize pattern_arg dicts
         for k, v in self.record.spec.items():
             if ('pattern_arg' in v.keys()) and ('pattern_dict_key' in v.keys()):
-                out[v['pattern_arg']] = {}
-
-        out['anon_anatomical_types'] = []
+                if v['pattern_arg'] not in out:
+                    out[v['pattern_arg']] = {}
 
         if 'anat_id' in row and row['anat_id'] in self.object_lookup.get('anat_id', {}):
             out['anat_id'] = self.object_lookup['anat_id'][row['anat_id']]
@@ -480,7 +844,9 @@ class NewImageWriter(CurationWriter):
         elif self.record.type == 'ep':
             if row['driver'] in self.object_lookup['driver'].keys():
                 driver_id = self.object_lookup['driver'][row['driver']]
-                self.feature_mover.generate_expression_patterns(driver_id)
+                # buffered on feature_mover.ni/ew and written only by commit(), so a check without
+                # --commit writes nothing (VFB_neo4j#314)
+                self.feature_mover.generate_expression_patterns(driver_id, commit=False)
                 out['anatomical_type'] = 'VFBexp_' + driver_id
             else:
                 self.warn(context_name="row", context=dict(row),
@@ -534,14 +900,31 @@ class NewImageWriter(CurationWriter):
             return False
 
     def write_row(self, row, start='100000', allow_duplicates=False):
+        aid = str(row.get('anat_id', '')).strip() if 'anat_id' in row else ''
+        if aid and aid in getattr(self, 'already_loaded', ()):
+            logging.info("Skipping %s: already loaded" % aid)
+            return
         kwargs = self.gen_pw_args(row, start=start)
         if kwargs:
             logging.debug(f"Writing row with arguments: {kwargs}")
             self.pattern_writer.add_anatomy_image_set(**kwargs, hard_fail=not allow_duplicates, allow_duplicates=allow_duplicates)
 
-    def commit(self, ew_chunk_length=1500, ni_chunk_length=1500, verbose=False):
+    def commit(self, ew_chunk_length=5000, ni_chunk_length=5000, verbose=False):
+        """
+        Commit changes to the database.
+        
+        OPTIMIZED: Uses larger chunk sizes (5000 instead of 1500) for better 
+        performance with massive loads. Adjust these parameters based on system memory:
+        - More memory: increase to 10000 or higher
+        - Less memory: decrease to 2000-3000
+        """
         if verbose:
-            logging.info(f"Committing changes with ew_chunk_length={ew_chunk_length} and ni_chunk_length={ni_chunk_length}")
+            logging.info(f"Committing changes with ew_chunk_length={ew_chunk_length}, "
+                        f"ni_chunk_length={ni_chunk_length}")
+        # Expression-pattern and feature nodes first (buffered by gen_pw_args), then the images that use them
+        for out in (self.feature_mover.ni.commit(), self.feature_mover.ew.commit()):
+            if out is False or (isinstance(out, list) and False in out):  # a failed chunk is a False in the list
+                self.stat = False
         if not self.pattern_writer.commit(ew_chunk_length=ew_chunk_length, ni_chunk_length=ni_chunk_length, verbose=verbose):
             self.stat = False
 

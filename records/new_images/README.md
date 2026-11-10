@@ -17,11 +17,10 @@ Directory structure:
 Curation file naming: type_DataSetName_YYMMDD
 
 Types:
-   -  *DataSet:* Add new dataset.  [YAML spec](YAML spec)
-   -  *Common:* YAML file specifying common fields for a curation record (e.g. template) - use in combination with Anat, EP, Split.  [YAML spec](YAML spec)
+   -  *Common:* YAML file specifying common fields for a curation record (e.g. template) - use in combination with Anat, EP, Split.  [YAML spec](https://github.com/VirtualFlyBrain/curation/blob/master/records/new_images/common_fields_spec.yaml)
    -  *Anat:* Add new anatomical image. [YAML spec](https://github.com/VirtualFlyBrain/curation/blob/master/records/new_images/anat_spec.yaml)
-   -  *EP:* Add new expression pattern image. [YAML spec](YAML spec)
-   -  *Split:* Add new split image. [YAML spec](YAML spec)
+   -  *EP:* Add new expression pattern image. [YAML spec](https://github.com/VirtualFlyBrain/curation/blob/master/records/new_images/ep_spec.yaml)
+   -  *Split:* Add new split image. [YAML spec](https://github.com/VirtualFlyBrain/curation/blob/master/records/new_images/split_spec.yaml)
    -  *Free:* Extend annotation on an existing image. [YAML spec](YAML spec)
 
-For more details please see [Curation Guide (wiki)](https://github.com/VirtualFlyBrain/curation/wiki/Curation-wiki--Home)
+For more details please see [Curation Guide (wiki)](https://github.com/VirtualFlyBrain/curation/wiki/Curation--Manual-Wiki)
