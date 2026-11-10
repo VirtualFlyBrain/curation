@@ -391,7 +391,8 @@ class NewSplitWriter(CurationWriter):
     per accession, VFB_neo4j#323), so resubmitting a record changes nothing.
 
     Any row that cannot be loaded (unknown hemidriver, a class label already used by another class) fails the
-    whole record: nothing is written. commit() writes in small requests and reads every class back.
+    whole record before anything is written. commit() writes in batches and reads each batch back, stopping at the
+    first bad one; batches already written stay in the KB, and as the writes are MERGEs the record can be rerun.
     """
 
     batch_size = 500        # classes per gen_split_ep_feat call (one FlyBase lookup each)
