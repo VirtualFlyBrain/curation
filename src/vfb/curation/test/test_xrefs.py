@@ -11,6 +11,8 @@ class TestXrefCypher(unittest.TestCase):
         self.assertEqual(failures, [])
         self.assertEqual(checked[0][1:4], ('VFB_jrmc2zmq', 'neuronbridge', 'male-cns:166793'))
         self.assertIn("WHERE r.accession = ['male-cns:166793']", checked[0][4])
+        # a just-loaded xref is a hasDbXref edge until the nightly kbw-backup renames it
+        self.assertIn("[r:database_cross_reference|hasDbXref]", checked[0][4])
         self.assertNotIn('MERGE', checked[0][4])
         self.assertNotIn('DELETE', checked[0][4])
 
