@@ -383,8 +383,9 @@ class NewSplitWriter(CurationWriter):
     """Split expression pattern classes from a new_splits record: one row per split line.
 
     The class is the intersection of the line's two hemidrivers, short_form VFBexp_<DBD><AD>. Each half is given
-    as a FlyBase transposon id (AD_id / DBD_id, FBtp...) or by name (AD / DBD, looked up in FlyBase); if both are
-    given they must agree.
+    as a FlyBase id (AD_id / DBD_id) or by name (AD / DBD, looked up in FlyBase); if both are given they must agree.
+    The id is the transposon (FBtp), or the insertion (FBti) for hemidrivers FlyBase has no transposon for
+    (MiMIC/Trojan and knock-in lines, e.g. TI{GAL4(DBD)::Zip-}dsx), as in Gillian's combinations file.
 
     Lines that share an AD + DBD pair are one class, so their rows are merged: every line's synonyms and xrefs.
     A class already in the KB keeps its synonyms (the record's are added) and gains the record's xrefs (one edge
@@ -405,13 +406,13 @@ class NewSplitWriter(CurationWriter):
         logging.info(f"NewSplitWriter initialized for record: {self.record.cr.path}")
 
     def hemidriver(self, row, half):
-        """FBtp id for one half (AD or DBD) of a row, or None (reported)."""
+        """FBtp (or FBti) id for one half (AD or DBD) of a row, or None (reported)."""
         fbid = str(row.get(half + '_id', '')).strip()
         name = str(row.get(half, '')).strip()
         by_name = self.object_lookup.get(half, {}).get(escape_string_for_neo(name)) if name else None
-        if fbid and not re.fullmatch(r'FBtp\d{7}', fbid):
+        if fbid and not re.fullmatch(r'FBt[pi]\d{7}', fbid):
             self.warn(context_name="row", context=dict(row),
-                      message="%s_id '%s' is not a FlyBase transposon id (FBtp...)." % (half, fbid))
+                      message="%s_id '%s' is not a FlyBase transposon or insertion id (FBtp/FBti...)." % (half, fbid))
             return None
         if name and not by_name:
             self.warn(context_name="row", context=dict(row),

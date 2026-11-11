@@ -6,7 +6,8 @@
 AD_id:
   compulsory: False
   description: >
-     The FBtp id of the transposon for the activation domain half of the split in FlyBase.
+     The FlyBase id of the activation domain half of the split: the transposon (FBtp), or the insertion
+     (FBti) for hemidrivers with no transposon in FlyBase (MiMIC/Trojan, knock-ins).
      Give AD_id or AD (or both).
   uniq: False
   type: Feature
@@ -26,7 +27,8 @@ AD:
 DBD_id:
   compulsory: False
   description: >
-     The FBtp id of the transposon for the DNA binding domain half of the split in FlyBase.
+     The FlyBase id of the DNA binding domain half of the split: the transposon (FBtp), or the insertion
+     (FBti) for hemidrivers with no transposon in FlyBase (MiMIC/Trojan, knock-ins).
      Give DBD_id or DBD (or both).
   uniq: False
   type: Feature
