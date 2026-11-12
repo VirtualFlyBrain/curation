@@ -846,8 +846,9 @@ class NewImageWriter(CurationWriter):
             if row['driver'] in self.object_lookup['driver'].keys():
                 driver_id = self.object_lookup['driver'][row['driver']]
                 # buffered on feature_mover.ni/ew and written only by commit(), so a check without
-                # --commit writes nothing (VFB_neo4j#314)
-                self.feature_mover.generate_expression_patterns(driver_id, commit=False)
+                # --commit writes nothing (VFB_neo4j#314). Takes a list: a bare id string was read as
+                # one id per character, so no class was made.
+                self.feature_mover.generate_expression_patterns([driver_id], commit=False)
                 out['anatomical_type'] = 'VFBexp_' + driver_id
             else:
                 self.warn(context_name="row", context=dict(row),
