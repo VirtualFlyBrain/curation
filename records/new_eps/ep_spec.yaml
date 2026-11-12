@@ -1,0 +1,32 @@
+# One row per driver. The class loaded is the driver's expression pattern (VFBexp_<FBid>,
+# "<driver> expression pattern"), as FlyBase's expression import makes for drivers with expression
+# curation. Use it for drivers VFB needs a class for (e.g. RNA-seq of cells sorted by the driver) that
+# have no FlyBase expression curation and no image. Give the driver by FlyBase id or by name (or both,
+# which must agree). Split lines go in new_splits.
+
+driver_id:
+  compulsory: False
+  description: >
+     The FlyBase id of the driver: the transposon (FBtp), or the insertion (FBti) for drivers with no
+     transposon in FlyBase (enhancer traps, MiMIC/Trojan, knock-ins). Give driver_id or driver (or both).
+  uniq: True
+  type: Feature
+  multiple: False
+
+driver:
+  compulsory: False
+  description: >
+     The FlyBase name of the driver. Please use transposon rather than insertion where FlyBase has one.
+     Give driver_id or driver (or both).
+  uniq: True
+  type: Feature
+  multiple: False
+  flybase_feature: true
+
+comment:
+  compulsory: False
+  description: >
+     Why the class is needed (e.g. the dataset that uses it). For review only; not loaded.
+  uniq: False
+  type: String
+  multiple: False

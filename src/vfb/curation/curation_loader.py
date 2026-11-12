@@ -1,5 +1,5 @@
 from .peevish import get_recs
-from .curation_writer import NewImageWriter, NewMetaDataWriter, NewSplitWriter
+from .curation_writer import NewImageWriter, NewMetaDataWriter, NewSplitWriter, NewEpWriter
 from .deletion_writer import NewMetaDeletionWriter
 from .xref_writer import NewXrefWriter
 import warnings
@@ -123,6 +123,26 @@ def load_recs(path_to_specs, path_to_recs, endpoint, usr, pwd, commit=False, ver
                     print(f"Committing split classes for {r.cr.path}")
                 if not nsw.commit(verbose=verbose):
                     report_row_failures(r.cr.path, nsw.failures)
+                    stat = False
+
+        elif r.gross_type == 'new_eps':
+            new = NewEpWriter(endpoint, usr, pwd, r)
+            if not new.stat:
+                stat = False
+                warnings.warn("%s is not a valid record, not attempting to write" % str(r.cr))
+                continue
+            new.write_rows(verbose=verbose)
+            # As for new_splits, one bad row stops the whole record.
+            if new.failures:
+                report_row_failures(r.cr.path, new.failures)
+            if not new.stat:
+                stat = False
+                continue
+            if commit:
+                if verbose:
+                    print(f"Committing expression pattern classes for {r.cr.path}")
+                if not new.commit(verbose=verbose):
+                    report_row_failures(r.cr.path, new.failures)
                     stat = False
 
         elif r.gross_type == 'new_xrefs':
