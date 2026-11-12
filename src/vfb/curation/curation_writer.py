@@ -538,6 +538,149 @@ class NewSplitWriter(CurationWriter):
         return problems
 
 
+EP_CLASS = 'CARO_0030002'  # expression pattern
+
+
+class NewEpWriter(CurationWriter):
+    """Expression pattern classes of single drivers from a new_eps record: one row per driver, no image.
+
+    The class is the one FlyBase's expression import (VFB_neo4j expression_runner) makes for a driver with expression
+    curation, made by the same code (FeatureMover.generate_expression_patterns): VFBexp_<FBid>, :Class:Expression_pattern,
+    "<driver> expression pattern", SUBCLASSOF expression pattern, expresses the driver (a :Feature with its SO type).
+    The driver is an FBtp, or an FBti where FlyBase has no transposon (enhancer traps, MiMIC/Trojan, knock-ins).
+
+    Any row that cannot be loaded (unknown driver, a class label already used by another class) fails the whole record
+    before anything is written. commit() writes in batches and reads each batch back, stopping at the first bad one;
+    as the writes are MERGEs the record can be rerun.
+    """
+
+    batch_size = 500
+    statements_per_request = 200
+
+    def __init__(self, *args, **kwargs):
+        super(NewEpWriter, self).__init__(*args, **kwargs)
+        self.set_flybase_lookups()
+        self.classes = {}
+        logging.info(f"NewEpWriter initialized for record: {self.record.cr.path}")
+
+    def driver(self, row):
+        """FBtp (or FBti) id of a row's driver, or None (reported)."""
+        fbid = str(row.get('driver_id', '')).strip()
+        name = str(row.get('driver', '')).strip()
+        by_name = self.object_lookup.get('driver', {}).get(escape_string_for_neo(name)) if name else None
+        if fbid and not re.fullmatch(r'FBt[pi]\d{7}', fbid):
+            self.warn(context_name="row", context=dict(row),
+                      message="driver_id '%s' is not a FlyBase transposon or insertion id (FBtp/FBti...)." % fbid)
+            return None
+        if name and not by_name:
+            self.warn(context_name="row", context=dict(row),
+                      message="driver '%s' is not a current FlyBase feature name." % name)
+            return None
+        if fbid and by_name and fbid != by_name:
+            self.warn(context_name="row", context=dict(row),
+                      message="driver '%s' is %s in FlyBase, not %s." % (name, by_name, fbid))
+            return None
+        if by_name and not re.fullmatch(r'FBt[pi]\d{7}', by_name):
+            self.warn(context_name="row", context=dict(row),
+                      message="driver '%s' is %s, not a FlyBase transposon or insertion (FBtp/FBti...)." % (name, by_name))
+            return None
+        if not (fbid or by_name):
+            self.warn(context_name="row", context=dict(row), message="No driver or driver_id.")
+            return None
+        return fbid or by_name
+
+    def write_rows(self, verbose=False, start=None, allow_duplicates=False):
+        """Check the rows and collect the classes; nothing is written until commit()."""
+        self.record.tsv.fillna('', inplace=True)
+        for _, row in self.record.tsv.iterrows():
+            d = self.driver(row)
+            if d:
+                self.classes.setdefault('VFBexp_' + d, {'driver': d})
+        if self.stat and self.classes:
+            self.check_flybase()
+        if self.stat and self.classes:
+            self.check_kb()
+        if verbose:
+            print("*** %d expression pattern class(es) from %d row(s) in %s"
+                  % (len(self.classes), len(self.record.tsv), self.record.cr.path))
+        return self.stat
+
+    def query(self, statement, **params):
+        r = self.feature_mover.ni.nc.commit_list([{'statement': statement, 'parameters': params}])
+        if not r:
+            raise RuntimeError("KB query failed: %s" % statement[:80])
+        return results_2_dict_list(r)
+
+    def check_flybase(self):
+        """FlyBase labels for the classes."""
+        drivers = sorted({c['driver'] for c in self.classes.values()})
+        feats = {}
+        for i in range(0, len(drivers), 1000):
+            feats.update(self.feature_mover.name_synonym_lookup(drivers[i:i + 1000]) or {})
+        for sf, c in self.classes.items():
+            if c['driver'] not in feats:
+                self.warn(context_name="class", context=sf, message="Not in FlyBase: %s" % c['driver'])
+                continue
+            c['label'] = feats[c['driver']].label + ' expression pattern'
+
+    def check_kb(self):
+        """Existing classes, and labels already used by another class."""
+        sfs = list(self.classes)
+        for i in range(0, len(sfs), 5000):
+            chunk = sfs[i:i + 5000]
+            for d in self.query("MATCH (c:Class) WHERE c.short_form IN $sfs RETURN c.short_form AS sf", sfs=chunk):
+                self.classes[d['sf']]['existing'] = True
+            labels = [self.classes[sf]['label'] for sf in chunk]
+            for d in self.query("MATCH (c:Class) WHERE c.label IN $labels "
+                                "RETURN c.label AS label, c.short_form AS sf", labels=labels):
+                if d['sf'] not in self.classes or self.classes[d['sf']]['label'] != d['label']:
+                    self.warn(context_name="class", context=d['label'],
+                              message="This label is already used by %s." % d['sf'])
+
+    def commit(self, verbose=False):
+        """Write the classes in batches, then read each batch back. Rerunnable: writes are MERGEs."""
+        sfs = list(self.classes)
+        fm = self.feature_mover
+        for i in range(0, len(sfs), self.batch_size):
+            batch = sfs[i:i + self.batch_size]
+            fm.generate_expression_patterns([self.classes[sf]['driver'] for sf in batch], commit=False)
+            fm.ni.commit(chunk_length=self.statements_per_request)
+            self.ew.commit(chunk_length=self.statements_per_request)
+            problems = self.verify(batch)
+            for sf, p in problems:
+                self.warn(context_name="class", context=sf, message="After commit: " + p)
+            if problems:
+                return False
+            if verbose:
+                print("Expression pattern classes %d-%d of %d written and checked" % (i + 1, i + len(batch), len(sfs)))
+        return True
+
+    def verify(self, sfs):
+        """Read classes back; returns [(short_form, problem)]."""
+        res = self.query('''
+            UNWIND $rows AS row
+            OPTIONAL MATCH (c:Class:Expression_pattern {short_form: row.sf})
+            OPTIONAL MATCH (c)-[:SUBCLASSOF]->(ep:Class {short_form: $ep})
+            OPTIONAL MATCH (c)-[:expresses]->(f:Feature {short_form: row.driver})
+            RETURN row.sf AS sf, c IS NOT NULL AS exists, c.label AS label,
+                   count(DISTINCT ep) AS n_ep, count(DISTINCT f) AS n_f''',
+            ep=EP_CLASS, rows=[{'sf': sf, 'driver': self.classes[sf]['driver']} for sf in sfs])
+        found = {d['sf']: d for d in res}
+        problems = []
+        for sf in sfs:
+            c, d = self.classes[sf], found.get(sf)
+            if not d or not d['exists']:
+                problems.append((sf, 'class not found'))
+                continue
+            if d['label'] != c['label']:
+                problems.append((sf, "label is %r, expected %r" % (d['label'], c['label'])))
+            if d['n_ep'] != 1:
+                problems.append((sf, 'not a subclass of expression pattern'))
+            if d['n_f'] != 1:
+                problems.append((sf, 'does not express %s' % c['driver']))
+        return problems
+
+
 class NewMetaDataWriter(CurationWriter):
 
     """Wrapper object for adding new metatadata to existing entities."""
