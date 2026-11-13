@@ -7,7 +7,9 @@ from uk.ac.ebi.vfb.neo4j.flybase2neo.feature_tools import FeatureMover
 from uk.ac.ebi.vfb.neo4j.flybase2neo.feature_tools import split
 from uk.ac.ebi.vfb.neo4j.flybase2neo.pub_tools import pubMover
 from .peevish import Record
+import json
 import numpy
+import requests
 import logging
 import warnings
 import re
@@ -93,6 +95,20 @@ def record_label_candidates(record):
     return values
 
 
+def label_chunks(labels, max_bytes):
+    """Split labels into lists of at most ~max_bytes (as JSON), each at least one label."""
+    chunk, size = [], 0
+    for label in labels:
+        n = len(json.dumps(label)) + 2
+        if chunk and size + n > max_bytes:
+            yield chunk
+            chunk, size = [], 0
+        chunk.append(label)
+        size += n
+    if chunk:
+        yield chunk
+
+
 @dataclass  # post init step addition of attribute prevents adding frozen=True
 class LConf:
     """field = node attribute  to which regex restriction applies"""
@@ -171,7 +187,7 @@ class CurationWriter:
         name:field:regex, e.g. {'part_of': {'short_form': 'FBbt_.+'}}
         name should match the kwarg for which it is to be used.
         
-        OPTIMIZED: Executes all queries in a single batch instead of sequentially.
+        Each lookup statement runs on its own, once per chunk of candidate labels.
         """
         lookup_config = conf
         lookup = {}
@@ -179,52 +195,65 @@ class CurationWriter:
         if not lookup_config:
             return lookup
         
-        # Build all queries first, then execute in one batch.
         # Only labels that occur in this record can ever be looked up, so each
         # query is restricted to them (fetching every matching :Class, ~75k,
         # for each of ~10 lookups took >4 GB per record).
+        # One statement per request, labels in chunks. Neo4j's HTTP endpoint runs
+        # the statements of a request while still reading its body, so a request
+        # with several statements, each carrying a big label list, has Neo4j writing
+        # results of the first while the client is still sending the rest; the
+        # connection is then dropped mid-response ('Response ended prematurely',
+        # kbw: 'Failed to write to the connection'). A single statement needs its
+        # whole parameter list before it runs, so it is safe at any size; chunking
+        # keeps each request and response modest (69k images: 384k labels).
         labels = sorted(record_label_candidates(self.record))
-        all_queries = []
+        queries = []
 
         for name, lcs in lookup_config.items():
             lookup[name] = {}
-            if not labels:
-                continue
             for c in lcs:
                 # Modified query to include lookup name in results
-                q = ("MATCH (c%s) WHERE c.%s =~ '%s' "
-                     "AND replace(c.label, $nbsp, ' ') IN $labels "
-                     "RETURN '%s' as lookup_name, c.label as label, c.short_form as short_form"
-                     % (c.neo_label_string, c.field, c.regex, name))
-                all_queries.append({'statement': q,
-                                    'parameters': {'labels': labels, 'nbsp': '\xa0'}})
-        
-        if not all_queries:
+                queries.append("MATCH (c%s) WHERE c.%s =~ '%s' "
+                               "AND replace(c.label, $nbsp, ' ') IN $labels "
+                               "RETURN '%s' as lookup_name, c.label as label, c.short_form as short_form"
+                               % (c.neo_label_string, c.field, c.regex, name))
+
+        if not (queries and labels):
             return lookup
-        
-        # Execute all queries in a single batch (major performance improvement)
+
         try:
-            results = self.ew.nc.commit_list(all_queries)
-            
-            if isinstance(results, str):
-                logging.error(f"Unexpected result type from database: {results}")
-                raise TypeError(f"Expected list of dicts but got string: {results}")
-            
-            # Process all results
-            r_dict = results_2_dict_list(results)
-            
-            # Group results by lookup_name
-            for item in r_dict:
-                lookup_name = item.get('lookup_name', 'unknown')
-                if lookup_name in lookup:
-                    escaped_label = escape_string_for_neo(item['label'])
-                    lookup[lookup_name][escaped_label] = item['short_form']
-        
+            for chunk in label_chunks(labels, self.lookup_chunk_bytes):
+                for q in queries:
+                    statement = {'statement': q, 'parameters': {'labels': chunk, 'nbsp': '\xa0'}}
+                    for item in results_2_dict_list(self._commit_lookup_batch([statement])):
+                        lookup_name = item.get('lookup_name', 'unknown')
+                        if lookup_name in lookup:
+                            escaped_label = escape_string_for_neo(item['label'])
+                            lookup[lookup_name][escaped_label] = item['short_form']
         except Exception as e:
             logging.error(f"Error generating lookups: {e}")
             raise
-        
+
         return lookup
+
+    lookup_chunk_bytes = 4_000_000   # candidate labels per lookup request, as JSON
+    lookup_retries = 3
+
+    def _commit_lookup_batch(self, batch):
+        """Run one lookup request, retrying if the connection drops
+        mid-response (requests' ChunkedEncodingError is not retried by commit_list)."""
+        for attempt in range(1, self.lookup_retries + 1):
+            try:
+                results = self.ew.nc.commit_list(batch)
+            except requests.exceptions.RequestException as e:
+                if attempt == self.lookup_retries:
+                    raise
+                logging.warning(f"Lookup query failed ({e}); retry {attempt} of {self.lookup_retries - 1}")
+                time.sleep(2 ** attempt)
+                continue
+            if isinstance(results, str) or results is False:
+                raise RuntimeError(f"Lookup query failed: {results!r}")
+            return results
 
     def extend_lookup_from_flybase(self, features, key='expresses'):
         fu = "('"+"', '".join(features) + "')"
