@@ -7,7 +7,9 @@ from uk.ac.ebi.vfb.neo4j.flybase2neo.feature_tools import FeatureMover
 from uk.ac.ebi.vfb.neo4j.flybase2neo.feature_tools import split
 from uk.ac.ebi.vfb.neo4j.flybase2neo.pub_tools import pubMover
 from .peevish import Record
+import json
 import numpy
+import requests
 import logging
 import warnings
 import re
@@ -93,6 +95,20 @@ def record_label_candidates(record):
     return values
 
 
+def label_chunks(labels, max_bytes):
+    """Split labels into lists of at most ~max_bytes (as JSON), each at least one label."""
+    chunk, size = [], 0
+    for label in labels:
+        n = len(json.dumps(label)) + 2
+        if chunk and size + n > max_bytes:
+            yield chunk
+            chunk, size = [], 0
+        chunk.append(label)
+        size += n
+    if chunk:
+        yield chunk
+
+
 @dataclass  # post init step addition of attribute prevents adding frozen=True
 class LConf:
     """field = node attribute  to which regex restriction applies"""
@@ -171,7 +187,7 @@ class CurationWriter:
         name:field:regex, e.g. {'part_of': {'short_form': 'FBbt_.+'}}
         name should match the kwarg for which it is to be used.
         
-        OPTIMIZED: Executes all queries in a single batch instead of sequentially.
+        Each lookup statement runs on its own, once per chunk of candidate labels.
         """
         lookup_config = conf
         lookup = {}
@@ -179,52 +195,65 @@ class CurationWriter:
         if not lookup_config:
             return lookup
         
-        # Build all queries first, then execute in one batch.
         # Only labels that occur in this record can ever be looked up, so each
         # query is restricted to them (fetching every matching :Class, ~75k,
         # for each of ~10 lookups took >4 GB per record).
+        # One statement per request, labels in chunks. Neo4j's HTTP endpoint runs
+        # the statements of a request while still reading its body, so a request
+        # with several statements, each carrying a big label list, has Neo4j writing
+        # results of the first while the client is still sending the rest; the
+        # connection is then dropped mid-response ('Response ended prematurely',
+        # kbw: 'Failed to write to the connection'). A single statement needs its
+        # whole parameter list before it runs, so it is safe at any size; chunking
+        # keeps each request and response modest (69k images: 384k labels).
         labels = sorted(record_label_candidates(self.record))
-        all_queries = []
+        queries = []
 
         for name, lcs in lookup_config.items():
             lookup[name] = {}
-            if not labels:
-                continue
             for c in lcs:
                 # Modified query to include lookup name in results
-                q = ("MATCH (c%s) WHERE c.%s =~ '%s' "
-                     "AND replace(c.label, $nbsp, ' ') IN $labels "
-                     "RETURN '%s' as lookup_name, c.label as label, c.short_form as short_form"
-                     % (c.neo_label_string, c.field, c.regex, name))
-                all_queries.append({'statement': q,
-                                    'parameters': {'labels': labels, 'nbsp': '\xa0'}})
-        
-        if not all_queries:
+                queries.append("MATCH (c%s) WHERE c.%s =~ '%s' "
+                               "AND replace(c.label, $nbsp, ' ') IN $labels "
+                               "RETURN '%s' as lookup_name, c.label as label, c.short_form as short_form"
+                               % (c.neo_label_string, c.field, c.regex, name))
+
+        if not (queries and labels):
             return lookup
-        
-        # Execute all queries in a single batch (major performance improvement)
+
         try:
-            results = self.ew.nc.commit_list(all_queries)
-            
-            if isinstance(results, str):
-                logging.error(f"Unexpected result type from database: {results}")
-                raise TypeError(f"Expected list of dicts but got string: {results}")
-            
-            # Process all results
-            r_dict = results_2_dict_list(results)
-            
-            # Group results by lookup_name
-            for item in r_dict:
-                lookup_name = item.get('lookup_name', 'unknown')
-                if lookup_name in lookup:
-                    escaped_label = escape_string_for_neo(item['label'])
-                    lookup[lookup_name][escaped_label] = item['short_form']
-        
+            for chunk in label_chunks(labels, self.lookup_chunk_bytes):
+                for q in queries:
+                    statement = {'statement': q, 'parameters': {'labels': chunk, 'nbsp': '\xa0'}}
+                    for item in results_2_dict_list(self._commit_lookup_batch([statement])):
+                        lookup_name = item.get('lookup_name', 'unknown')
+                        if lookup_name in lookup:
+                            escaped_label = escape_string_for_neo(item['label'])
+                            lookup[lookup_name][escaped_label] = item['short_form']
         except Exception as e:
             logging.error(f"Error generating lookups: {e}")
             raise
-        
+
         return lookup
+
+    lookup_chunk_bytes = 4_000_000   # candidate labels per lookup request, as JSON
+    lookup_retries = 3
+
+    def _commit_lookup_batch(self, batch):
+        """Run one lookup request, retrying if the connection drops
+        mid-response (requests' ChunkedEncodingError is not retried by commit_list)."""
+        for attempt in range(1, self.lookup_retries + 1):
+            try:
+                results = self.ew.nc.commit_list(batch)
+            except requests.exceptions.RequestException as e:
+                if attempt == self.lookup_retries:
+                    raise
+                logging.warning(f"Lookup query failed ({e}); retry {attempt} of {self.lookup_retries - 1}")
+                time.sleep(2 ** attempt)
+                continue
+            if isinstance(results, str) or results is False:
+                raise RuntimeError(f"Lookup query failed: {results!r}")
+            return results
 
     def extend_lookup_from_flybase(self, features, key='expresses'):
         fu = "('"+"', '".join(features) + "')"
@@ -538,6 +567,149 @@ class NewSplitWriter(CurationWriter):
         return problems
 
 
+EP_CLASS = 'CARO_0030002'  # expression pattern
+
+
+class NewEpWriter(CurationWriter):
+    """Expression pattern classes of single drivers from a new_eps record: one row per driver, no image.
+
+    The class is the one FlyBase's expression import (VFB_neo4j expression_runner) makes for a driver with expression
+    curation, made by the same code (FeatureMover.generate_expression_patterns): VFBexp_<FBid>, :Class:Expression_pattern,
+    "<driver> expression pattern", SUBCLASSOF expression pattern, expresses the driver (a :Feature with its SO type).
+    The driver is an FBtp, or an FBti where FlyBase has no transposon (enhancer traps, MiMIC/Trojan, knock-ins).
+
+    Any row that cannot be loaded (unknown driver, a class label already used by another class) fails the whole record
+    before anything is written. commit() writes in batches and reads each batch back, stopping at the first bad one;
+    as the writes are MERGEs the record can be rerun.
+    """
+
+    batch_size = 500
+    statements_per_request = 200
+
+    def __init__(self, *args, **kwargs):
+        super(NewEpWriter, self).__init__(*args, **kwargs)
+        self.set_flybase_lookups()
+        self.classes = {}
+        logging.info(f"NewEpWriter initialized for record: {self.record.cr.path}")
+
+    def driver(self, row):
+        """FBtp (or FBti) id of a row's driver, or None (reported)."""
+        fbid = str(row.get('driver_id', '')).strip()
+        name = str(row.get('driver', '')).strip()
+        by_name = self.object_lookup.get('driver', {}).get(escape_string_for_neo(name)) if name else None
+        if fbid and not re.fullmatch(r'FBt[pi]\d{7}', fbid):
+            self.warn(context_name="row", context=dict(row),
+                      message="driver_id '%s' is not a FlyBase transposon or insertion id (FBtp/FBti...)." % fbid)
+            return None
+        if name and not by_name:
+            self.warn(context_name="row", context=dict(row),
+                      message="driver '%s' is not a current FlyBase feature name." % name)
+            return None
+        if fbid and by_name and fbid != by_name:
+            self.warn(context_name="row", context=dict(row),
+                      message="driver '%s' is %s in FlyBase, not %s." % (name, by_name, fbid))
+            return None
+        if by_name and not re.fullmatch(r'FBt[pi]\d{7}', by_name):
+            self.warn(context_name="row", context=dict(row),
+                      message="driver '%s' is %s, not a FlyBase transposon or insertion (FBtp/FBti...)." % (name, by_name))
+            return None
+        if not (fbid or by_name):
+            self.warn(context_name="row", context=dict(row), message="No driver or driver_id.")
+            return None
+        return fbid or by_name
+
+    def write_rows(self, verbose=False, start=None, allow_duplicates=False):
+        """Check the rows and collect the classes; nothing is written until commit()."""
+        self.record.tsv.fillna('', inplace=True)
+        for _, row in self.record.tsv.iterrows():
+            d = self.driver(row)
+            if d:
+                self.classes.setdefault('VFBexp_' + d, {'driver': d})
+        if self.stat and self.classes:
+            self.check_flybase()
+        if self.stat and self.classes:
+            self.check_kb()
+        if verbose:
+            print("*** %d expression pattern class(es) from %d row(s) in %s"
+                  % (len(self.classes), len(self.record.tsv), self.record.cr.path))
+        return self.stat
+
+    def query(self, statement, **params):
+        r = self.feature_mover.ni.nc.commit_list([{'statement': statement, 'parameters': params}])
+        if not r:
+            raise RuntimeError("KB query failed: %s" % statement[:80])
+        return results_2_dict_list(r)
+
+    def check_flybase(self):
+        """FlyBase labels for the classes."""
+        drivers = sorted({c['driver'] for c in self.classes.values()})
+        feats = {}
+        for i in range(0, len(drivers), 1000):
+            feats.update(self.feature_mover.name_synonym_lookup(drivers[i:i + 1000]) or {})
+        for sf, c in self.classes.items():
+            if c['driver'] not in feats:
+                self.warn(context_name="class", context=sf, message="Not in FlyBase: %s" % c['driver'])
+                continue
+            c['label'] = feats[c['driver']].label + ' expression pattern'
+
+    def check_kb(self):
+        """Existing classes, and labels already used by another class."""
+        sfs = list(self.classes)
+        for i in range(0, len(sfs), 5000):
+            chunk = sfs[i:i + 5000]
+            for d in self.query("MATCH (c:Class) WHERE c.short_form IN $sfs RETURN c.short_form AS sf", sfs=chunk):
+                self.classes[d['sf']]['existing'] = True
+            labels = [self.classes[sf]['label'] for sf in chunk]
+            for d in self.query("MATCH (c:Class) WHERE c.label IN $labels "
+                                "RETURN c.label AS label, c.short_form AS sf", labels=labels):
+                if d['sf'] not in self.classes or self.classes[d['sf']]['label'] != d['label']:
+                    self.warn(context_name="class", context=d['label'],
+                              message="This label is already used by %s." % d['sf'])
+
+    def commit(self, verbose=False):
+        """Write the classes in batches, then read each batch back. Rerunnable: writes are MERGEs."""
+        sfs = list(self.classes)
+        fm = self.feature_mover
+        for i in range(0, len(sfs), self.batch_size):
+            batch = sfs[i:i + self.batch_size]
+            fm.generate_expression_patterns([self.classes[sf]['driver'] for sf in batch], commit=False)
+            fm.ni.commit(chunk_length=self.statements_per_request)
+            self.ew.commit(chunk_length=self.statements_per_request)
+            problems = self.verify(batch)
+            for sf, p in problems:
+                self.warn(context_name="class", context=sf, message="After commit: " + p)
+            if problems:
+                return False
+            if verbose:
+                print("Expression pattern classes %d-%d of %d written and checked" % (i + 1, i + len(batch), len(sfs)))
+        return True
+
+    def verify(self, sfs):
+        """Read classes back; returns [(short_form, problem)]."""
+        res = self.query('''
+            UNWIND $rows AS row
+            OPTIONAL MATCH (c:Class:Expression_pattern {short_form: row.sf})
+            OPTIONAL MATCH (c)-[:SUBCLASSOF]->(ep:Class {short_form: $ep})
+            OPTIONAL MATCH (c)-[:expresses]->(f:Feature {short_form: row.driver})
+            RETURN row.sf AS sf, c IS NOT NULL AS exists, c.label AS label,
+                   count(DISTINCT ep) AS n_ep, count(DISTINCT f) AS n_f''',
+            ep=EP_CLASS, rows=[{'sf': sf, 'driver': self.classes[sf]['driver']} for sf in sfs])
+        found = {d['sf']: d for d in res}
+        problems = []
+        for sf in sfs:
+            c, d = self.classes[sf], found.get(sf)
+            if not d or not d['exists']:
+                problems.append((sf, 'class not found'))
+                continue
+            if d['label'] != c['label']:
+                problems.append((sf, "label is %r, expected %r" % (d['label'], c['label'])))
+            if d['n_ep'] != 1:
+                problems.append((sf, 'not a subclass of expression pattern'))
+            if d['n_f'] != 1:
+                problems.append((sf, 'does not express %s' % c['driver']))
+        return problems
+
+
 class NewMetaDataWriter(CurationWriter):
 
     """Wrapper object for adding new metatadata to existing entities."""
@@ -846,8 +1018,9 @@ class NewImageWriter(CurationWriter):
             if row['driver'] in self.object_lookup['driver'].keys():
                 driver_id = self.object_lookup['driver'][row['driver']]
                 # buffered on feature_mover.ni/ew and written only by commit(), so a check without
-                # --commit writes nothing (VFB_neo4j#314)
-                self.feature_mover.generate_expression_patterns(driver_id, commit=False)
+                # --commit writes nothing (VFB_neo4j#314). Takes a list: a bare id string was read as
+                # one id per character, so no class was made.
+                self.feature_mover.generate_expression_patterns([driver_id], commit=False)
                 out['anatomical_type'] = 'VFBexp_' + driver_id
             else:
                 self.warn(context_name="row", context=dict(row),
