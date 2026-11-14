@@ -11,7 +11,7 @@ To  learn about curation, please see our [Curation manual](https://github.com/Vi
 
 **To work on checking/parsing code:** please check out a new branch. ***Do not*** merge back to master until all tests have passed and merge is safe.  Please use pull requests to document/review merges.
 
-**Running an update:** Updates are run on a private Jenkins server: the Test job checks records against the KB, the Run job loads them into the writable KB. Rows that fail are skipped and reported, and fail the run. Loading order is `new_metadata`, then `newmeta_deletions` (edges to remove; see [its README](records/newmeta_deletions/README.md)), then `new_images` and `new_splits`.
+**Running an update:** Updates are run on a private Jenkins server: the Test job checks records against the KB, the Run job loads them into the writable KB. Rows that fail are skipped and reported, and fail the run. Loading order is `new_metadata`, then `newmeta_deletions` (edges to remove; see [its README](records/newmeta_deletions/README.md)), then `new_splits`, `new_eps` (expression pattern classes of single drivers, with no image; see [its README](records/new_eps/README.md)), `new_images` and `new_xrefs`.
 
 **Archiving:** nothing moves files automatically. After a successful Run, move the loaded files to `records/archive` on your branch with `python src/archive_submitted.py` (`--dry-run` to preview), then commit and push.
 

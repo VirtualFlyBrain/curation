@@ -113,6 +113,9 @@ if not load_records(path="newmeta_deletions/"): stat = False
 # split classes before images: split images refer to their split class
 if not check_records(path="new_splits/"): stat = False
 if not load_records(path="new_splits/"): stat = False
+# single-driver expression pattern classes (no image), also before images
+if not check_records(path="new_eps/"): stat = False
+if not load_records(path="new_eps/"): stat = False
 if not check_records(path="new_images/"): stat = False
 if not load_records(path="new_images/"): stat = False
 # xrefs last, so they can point at entities added above

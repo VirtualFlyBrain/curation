@@ -11,10 +11,13 @@ ACCESSION = re.compile(r'^[A-Za-z0-9_.\-]+(:[A-Za-z0-9_.\-]+)*$')
 
 
 def check_statement(individual, site, accession):
-    """Counts of the Individual, the Site and existing xref edges with this accession (as i, s, n)."""
+    """Counts of the Individual, the Site and existing xref edges with this accession (as i, s, n).
+
+    Loaders write xrefs as hasDbXref edges and the nightly kbw-backup maintenance renames them to
+    database_cross_reference (vfb-k8s kbw-backup.yaml), so both types count."""
     return ("OPTIONAL MATCH (i:Individual {short_form: '%s'}) "
             "OPTIONAL MATCH (s:Site {short_form: '%s'}) "
-            "OPTIONAL MATCH (i)-[r:database_cross_reference]->(s) WHERE r.accession = ['%s'] "
+            "OPTIONAL MATCH (i)-[r:database_cross_reference|hasDbXref]->(s) WHERE r.accession = ['%s'] "
             "RETURN count(DISTINCT i) AS i, count(DISTINCT s) AS s, count(r) AS n" % (individual, site, accession))
 
 
