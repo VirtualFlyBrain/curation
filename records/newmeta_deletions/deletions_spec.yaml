@@ -1,0 +1,28 @@
+Individual_id:
+  compulsory: True
+  description: Short form of the Individual whose edge is removed, e.g. VFB_jrmc2zmq.
+  uniq: False
+
+relation:
+  compulsory: True
+  description: >
+     The relation of the edge to remove, as used in newmeta records (a key in relations_spec.yaml).
+     is_a removes the INSTANCEOF edge; other relations remove the edge with that property's short_form.
+  uniq: False
+
+remove:
+  compulsory: True
+  description: Short form of the node at the other end of the edge, e.g. FBbt_00052753.
+  uniq: False
+
+subject_name:
+  compulsory: False
+  description: Label of the Individual (for review only, not used when loading).
+
+remove_label:
+  compulsory: False
+  description: Label of the node at the other end (for review only, not used when loading).
+
+superseded_by:
+  compulsory: False
+  description: Assertion(s) replacing the removed edge (for review only, not used when loading).

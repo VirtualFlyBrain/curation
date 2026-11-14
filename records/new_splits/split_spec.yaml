@@ -1,0 +1,65 @@
+# One row per split line. The class loaded is the intersection of the AD and DBD hemidrivers
+# (VFBexp_<DBD><AD>, "<DBD> ∩ <AD> expression pattern"); lines with the same AD + DBD pair are the
+# same class and are merged (all synonyms and xrefs). Give each half by FlyBase id or by name
+# (or both, which must agree).
+
+AD_id:
+  compulsory: False
+  description: >
+     The FlyBase id of the activation domain half of the split: the transposon (FBtp), or the insertion
+     (FBti) for hemidrivers with no transposon in FlyBase (MiMIC/Trojan, knock-ins).
+     Give AD_id or AD (or both).
+  uniq: False
+  type: Feature
+  multiple: False
+
+AD:
+  compulsory: False
+  description: >
+     The name of the feature corresponding to the activiation domain half of the split in FlyBase.
+     Please use transposon rather than insertion. Give AD_id or AD (or both).
+  uniq: False
+  type: Feature
+  multiple: False
+  flybase_feature: true
+
+
+DBD_id:
+  compulsory: False
+  description: >
+     The FlyBase id of the DNA binding domain half of the split: the transposon (FBtp), or the insertion
+     (FBti) for hemidrivers with no transposon in FlyBase (MiMIC/Trojan, knock-ins).
+     Give DBD_id or DBD (or both).
+  uniq: False
+  type: Feature
+  multiple: False
+
+DBD:
+  compulsory: False
+  description: >
+     The name of the feature corresponding to the DNA binding domain half
+     of the split in FlyBase. Please use transposon rather than insertion. Give DBD_id or DBD (or both).
+  uniq: False
+  flybase_feature: true
+  multiple: False
+
+synonyms:
+  compulsory: False
+  description: >
+     Names of the split line (e.g. SS01234|JRC_SS01234). Added to the class's synonyms; a class
+     already in the KB keeps the synonyms it has.
+  uniq: False
+  type: String
+  multiple: True
+  pattern_arg: anatomy_attributes
+  pattern_dict_key: synonyms
+
+dbxrefs:
+  compulsory: False
+  description: >
+     Cross references for the split line in other databases, db:accession where db is the short_form
+     of a Site node in VFB (e.g. FlyLightSplit:SS01234|neuronbridge:SS01234).
+  uniq: True
+  type: String
+  multiple: True
+  pattern_arg: dbxref_strings
