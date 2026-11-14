@@ -109,14 +109,12 @@ fasciculates_with:
     
 has_characteristic:
   description: >
-    A relation between an independent continuant (the bearer) and a specifically dependent continuant (the dependent), in which the dependent specifically depends on the bearer for its existence.
+    A relation between an independent continuant (the bearer) and a specifically dependent continuant (the dependent), in which the dependent specifically depends on the bearer for its existence. Currently only used to link to PATO terms, e.g. 'unilateral'/'bilateral'.
   type: objectProperty
   short_form: RO_0000053
-  
-bearer_of:
-  description: >
-    A relation between an independent continuant (the bearer) and a specifically dependent continuant (the dependent), in which the dependent specifically depends on the bearer for its existence.
-  type: objectProperty
-  short_form: RO_0000053
+  restriction:
+    field: short_form
+    regex: "PATO_.+"
+    labels: ['Class']  
 
 
