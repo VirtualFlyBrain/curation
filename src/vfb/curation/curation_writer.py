@@ -931,11 +931,17 @@ class NewImageWriter(CurationWriter):
             return []
         return [str(v).strip() for v in self.record.tsv['anat_id'] if str(v).strip()]
 
-    def find_already_loaded(self):
+    def find_already_loaded(self, allow_duplicates=False):
         """anat_ids in this record that already exist in the KB as images of this record's DataSet: loaded by an
         earlier (partial) run of the same record, so a rerun skips them instead of failing on them. An anat_id that
-        exists with any other DataSet is an error: the id belongs to something else."""
+        exists with any other DataSet is an error: the id belongs to something else.
+
+        A run stopped part-way through its commit leaves images with only some of their edges (edges are written
+        one type at a time across the whole record), possibly without has_source. With allow_duplicates, anat_ids
+        with this record's DataSet or with no DataSet are not skipped but written again: every write is a MERGE,
+        so this adds the missing edges. An anat_id with another DataSet is still an error."""
         self.already_loaded = set()
+        self.rewritten = set()
         ids = self.record_anat_ids()
         if not ids:
             return
@@ -950,7 +956,9 @@ class NewImageWriter(CurationWriter):
             return
         for row in r[0]['data']:
             sf, ds = row['row']
-            if dataset and dataset in ds:
+            if allow_duplicates and (not ds or (dataset and dataset in ds)):
+                self.rewritten.add(sf)
+            elif dataset and dataset in ds:
                 self.already_loaded.add(sf)
             else:
                 self.warn(context_name="anat_id", context=sf,
@@ -958,10 +966,13 @@ class NewImageWriter(CurationWriter):
                                   "it cannot be reused." % (sf, dataset, ', '.join(ds) or 'no DataSet'))
 
     def write_rows(self, verbose=False, start='100000', allow_duplicates=False):
-        self.find_already_loaded()
+        self.find_already_loaded(allow_duplicates=allow_duplicates)
         if self.already_loaded:
             print("%d row(s) of %s already loaded with their anat_id; skipping them."
                   % (len(self.already_loaded), self.record.cr.path))
+        if self.rewritten:
+            print("%d row(s) of %s already in the KB with their anat_id; writing them again (allow_duplicates)."
+                  % (len(self.rewritten), self.record.cr.path))
         return super(NewImageWriter, self).write_rows(verbose=verbose, start=start,
                                                       allow_duplicates=allow_duplicates)
 
