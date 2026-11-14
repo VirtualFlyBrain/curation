@@ -1,0 +1,24 @@
+Individual_id:
+  compulsory: True
+  description: Short form of the Individual that gets the xref, e.g. VFB_jrmc2zmq.
+  uniq: False
+
+site:
+  compulsory: True
+  description: Short form of the Site (external database) in the KB, e.g. neuronbridge.
+  uniq: False
+
+accession:
+  compulsory: True
+  description: >
+     Identifier in that Site, as the link is built (Site link_base + accession), e.g. male-cns:166793.
+     May contain ':'.
+  uniq: False
+
+subject_name:
+  compulsory: False
+  description: Label of the Individual (for review only, not used when loading).
+
+comment:
+  compulsory: False
+  description: Why the xref is added (for review only, not used when loading).

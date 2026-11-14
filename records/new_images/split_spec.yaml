@@ -36,3 +36,9 @@ DBD:
   uniq: False
   flybase_feature: true
   multiple: False
+  
+is_a:
+  compulsory: False
+  uniq: False
+  multiple: True
+
